@@ -1,0 +1,223 @@
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+
+   (BUTTON) (BUTTON)
+
+     * [6]機能
+     * [7]料金プラン
+     * ニュース
+          + [8]音楽ニュース
+          + [9]ランキング
+          + [10]Music Awards
+     * サポート
+          + [11]お支払い
+          + [12]マイページ
+          + [13]FAQ
+          + [14]KKBOX サービス利用規約
+     * 会社情報
+          + [15]KKCompany について
+          + [16]会社概要
+          + [17]プレスリリース
+          + [18]採用情報
+          + [19]お問い合わせ
+     * 検索
+     * [20]ダウンロード
+
+     * [21]機能
+     * [22]料金プラン
+     * ニュース
+          + [23]音楽ニュース
+          + [24]ランキング
+          + [25]Music Awards
+     * サポート
+          + [26]お支払い
+          + [27]マイページ
+          + [28]FAQ
+          + [29]KKBOX サービス利用規約
+     * 会社情報
+          + [30]KKCompany について
+          + [31]会社概要
+          + [32]プレスリリース
+          + [33]採用情報
+          + [34]お問い合わせ
+
+   (BUTTON) ____________________
+
+   [35]希望について[type-A 通常盤]
+   楽曲
+
+希望について
+
+   [36]NO NAME NO NAME
+   [play-7fb5bbc884.1.svg] [pause-3b8362ca9d.1.svg] 試聴する フル再生
+   [share-7920216b46.black.svg]
+
+   作詞：秋元康　     作曲：川浦正大
+
+   その手 伸ばしても
+   今は(今は)届かないよ
+   僕たちの夢は
+   もっと(もっと)遠くにあるんだ
+   夜空の星だって
+   何億光年の彼方
+   暗闇の先に
+   輝くもの
+   希望について
+   僕は語ろう
+   名もなき詩人のように(ように)
+   熱く(熱く)
+   君が涙に
+   暮れているなら
+   慰めよりも
+   やがて(やがて)白む(白む)
+   空を語ろうか?
+   愛を探しても
+   すぐに(すぐに)見つからないよ
+   自分の方から
+   誰か(誰か)愛してみるんだ
+   こんな広い世界
+   運命に導かれて
+   たった一つだけの
+   光を見た
+   希望について
+   僕は語ろう
+   年老いた水夫のように(ように)
+   深く(深く)
+   君が何かに
+   傷ついたなら
+   手当するより
+   昇る(昇る)朝陽(朝陽)
+   僕は指差そう
+   人は誰もみんな
+   あきらめて楽になるよ
+   だけど夢はいつも
+   背を向けない
+   希望について
+   僕は語ろう
+   名もなき詩人のように(ように)
+   熱く(熱く)
+   君が答えに
+   迷ってるなら
+   立ち止まらずに
+   歩き(歩き)ながら(ながら)
+   希望について
+   僕は語ろう
+   名もなき戦士のように(ように)
+   いつか(いつか)
+   夢を糧(かて)にして…
+
+収録アルバム
+
+   [37]
+   希望について[type-A 通常盤]
+   希望について[type-A 通常盤]
+   2012/08/01
+
+楽曲一覧
+
+   [38]収録曲を見る
+
+収録プレイリスト
+
+   Explore KKBOX
+   [39]機能
+   [40]ダウンロード
+   ニュース
+   [41]音楽ニュース
+   [42]ランキング
+   [43]Music Awards
+   サポート
+   [44]お支払い
+   [45]マイページ
+   [46]FAQ
+   [47]KKBOX サービス利用規約
+   会社情報
+   [48]KKCompany について
+   [49]会社概要
+   [50]プレスリリース
+   [51]採用情報
+   [52]お問い合わせ
+
+   [日本語本語]日本語
+   (BUTTON) 日本語
+   [53]English
+   [日本____________....]日本
+   (BUTTON) 日本
+   [54]台湾[55]香港[56]シンガポール[57]マレーシア
+   © KKBOX All Rights Reserved.
+   [58]プライバシーポリシー
+   [59]知的財産権
+   [60]特定商取引法
+
+Références
+
+   Liens visibles :
+   1. https://www.kkbox.com/jp/en/song/5XpfsvA_ELRufbCUz-
+   2. android-app://com.skysoft.kkbox.android/https/www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-
+   3. ios-app://tw.com.skysoft.iphone/https/www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-
+   4. android-app://com.skysoft.kkbox.android/kkbox/song/11600917?e=0#play
+   5. ios-app://tw.com.skysoft.iphone/kkbox/song/11600917?e=0#play
+   6. https://www.kkbox.com/jp/ja/feature
+   7. https://ssl.kkbox.com/billing/index.php
+   8. https://www.kkbox.com/jp/ja/info/
+   9. https://kma.kkbox.com/charts/?terr=jp&lang=ja
+  10. https://kma.kkbox.com/awards/
+  11. https://ssl.kkbox.com/billing.php
+  12. https://mykkid.kkbox.com/
+  13. https://help.kkbox.com/jp/ja?p=kkbox
+  14. https://www.kkbox.com/about/jp/ja/terms
+  15. https://www.kkcompany.com/ja-jp/about/
+  16. https://www.kkbox.com/about/jp/ja/
+  17. https://www.kkbox.com/about/jp/ja/news
+  18. https://careers.kkcompany.com/#kkbox
+  19. https://www.kkbox.com/about/jp/ja/contact
+  20. https://www.kkbox.com/jp/ja/download
+  21. https://www.kkbox.com/jp/ja/feature
+  22. https://ssl.kkbox.com/billing/index.php
+  23. https://www.kkbox.com/jp/ja/info/
+  24. https://kma.kkbox.com/charts/?terr=jp&lang=ja
+  25. https://kma.kkbox.com/awards/
+  26. https://ssl.kkbox.com/billing.php
+  27. https://mykkid.kkbox.com/
+  28. https://help.kkbox.com/jp/ja?p=kkbox
+  29. https://www.kkbox.com/about/jp/ja/terms
+  30. https://www.kkcompany.com/ja-jp/about/
+  31. https://www.kkbox.com/about/jp/ja/
+  32. https://www.kkbox.com/about/jp/ja/news
+  33. https://careers.kkcompany.com/#kkbox
+  34. https://www.kkbox.com/about/jp/ja/contact
+  35. https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t
+  36. https://www.kkbox.com/jp/ja/artist/-tYGG-TrdRktDOh4g3
+  37. https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t
+  38. https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t
+  39. https://www.kkbox.com/jp/ja/feature
+  40. https://www.kkbox.com/jp/ja/download
+  41. https://www.kkbox.com/jp/ja/info/
+  42. https://kma.kkbox.com/charts/?terr=jp&lang=ja
+  43. https://kma.kkbox.com/awards/
+  44. https://ssl.kkbox.com/billing.php
+  45. https://mykkid.kkbox.com/
+  46. https://help.kkbox.com/jp/ja?p=kkbox
+  47. https://www.kkbox.com/about/jp/ja/terms
+  48. https://www.kkcompany.com/ja-jp/about/
+  49. https://www.kkbox.com/about/jp/ja/
+  50. https://www.kkbox.com/about/jp/ja/news
+  51. https://careers.kkcompany.com/#kkbox
+  52. https://www.kkbox.com/about/jp/ja/contact
+  53. javascript:window.location=window.location.href.replace(/\/jp\/(ja)\//,(m,p)=>m.replace(p,'en'))
+  54. https://www.kkbox.com/tw/tc/
+  55. https://www.kkbox.com/hk/tc/
+  56. https://www.kkbox.com/sg/en/
+  57. https://www.kkbox.com/my/en/
+  58. https://www.kkbox.com/about/jp/ja/privacy
+  59. https://www.kkbox.com/about/jp/ja/ipr
+  60. https://www.kkbox.com/about/jp/ja/specified_law
+
+   Liens cachés :
+  62. https://www.kkbox.com/jp/ja/
+  63. https://www.kkbox.com/jp/ja/
+  64. https://www.facebook.com/KKBOXJP
+  65. https://twitter.com/KKBOX_JP
+  66. https://www.youtube.com/user/KKBOXJP
+  67. https://www.facebook.com/KKBOXJP
+  68. https://twitter.com/KKBOX_JP
+  69. https://www.youtube.com/user/KKBOXJP

@@ -1,0 +1,2246 @@
+<!DOCTYPE html>
+<html  lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html">
+
+
+<link rel="stylesheet" type="text/css" href="/view_css.php?pageId=551097&amp;revision=0&amp;mode=0&amp;noTag=1&amp;blockId=0&amp;alias=biznews%2F2025%2F12%2F0d6899c0567152aa" /><link rel="stylesheet" type="text/css" href="/publis.css" /><meta name="keywords" content="" />
+<meta name="description" content="" />
+<title>WTO、タイの関税・外資規制を指摘、OECD加盟に期待示す(タイ) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ</title>
+<script >
+<!--
+	var pbGlobalAliasBase = '/';
+//-->
+</script>
+<script  src="/public.js"></script>
+<script >
+<!--12-->
+</script>
+<script >
+<!---->
+</script>
+<script >
+<!---->
+</script>
+<script >
+// default header start
+</script>
+<script  src="/library/new/common/js/jquery-3.6.1.min.js"></script>
+<script  src="/library/new/common/js/jquery-migrate-3.4.0.js"></script>
+<script >
+// default header end
+</script>
+<script>	jQuery(function () {
+		var d = new Date();
+		var dummy = "&dmy=" + d.getTime();
+		jQuery.ajax({
+			url: "/view_interface.php?className=JetroXiPageEnquete" + dummy,
+			type: 'POST',
+			data: {
+				block_id: 40023309,
+				pid: 551097,
+				type: 'html'
+			},
+			dataType: 'html'
+		}).done(function(r) {
+			jQuery('.questionnaire_area').html(r);
+		});
+	});
+	var pageEnquete = {};
+	jQuery(function() {
+		jQuery('[name="enquete_value"]').on("change", function() {
+			if (jQuery('[name="enquete_value"]:checked').val() != undefined) {
+				jQuery(".submit_text").show();	
+			}
+		});
+		pageEnquete.submit = function(el,e) {
+			var e = e || window.event, _this = el;
+			jQuery(_this).attr('disabled','disabled');
+			e.preventDefault();
+			var formStr = $('#enqueteid').serialize();
+			var d = new Date();
+			var dummy = "&dmy=" + d.getTime();
+			var ajax = jQuery.ajax({
+				url : "/view_interface.php?className=JetroXiPageEnquete" + dummy
+				, type: 'post'
+				, data: formStr
+				, async : false
+				, complete : function(re) {
+					var reStr = re.responseText;
+					alert(reStr);
+					jQuery(_this).removeAttr('disabled');
+					jQuery(".submit_text").hide();	
+				}
+			});
+			return false;
+		}
+	});</script>
+
+
+<script>
+
+jQuery(function($) {
+    $(".xilsm_btn_area .xilsm_tab22307386").each(function() {
+        var obj = $(this);
+        $(".xilsm_tab22307386").parents("[id^=pbBlock]").each(function(i) {
+            $(this).css("overflow","visible");
+        });
+
+        var afurl = "?f=" + $('#xilsm_formUrl22307386').val();
+        jQuery.ajax({
+            type: 'GET',
+            url: '/view_interface.php' + afurl,
+            dataType: 'html',
+            data: {
+               	blockId: 39664842,
+               	className: 'XiLocalSlideMenu',
+               	shareid: $(this).data('shareid'),
+               	pageid: 551097,
+				}
+			}).done(function(ret){
+                obj.next().find('.xilsm_body22307386').html(ret);
+                obj.next().on('click', function(e) {
+                    if ($(this).find("ul.worldArea > li > a + .worldArea_content").length > 0) {
+                        var wflg = true;
+                        $(this).find("ul.worldArea > li > a + .worldArea_content").each(function(i) {
+                            if ($.contains($(this)[0], e.target)) {
+                                wflg = false;
+                            }
+                        });
+                        if (wflg) {
+                             $(this).find("ul.worldArea > li > a + .worldArea_content").stop(true, true).fadeOut('fast');
+                        }
+                    }
+                    if ($(this).find("ul > li.balloon > a + .balloon_content").length > 0) {
+                        var bflg = true;
+                        $(this).find("ul > li.balloon > a + .balloon_content").each(function(i) {
+                            if ($.contains($(this)[0], e.target)) {
+                                bflg = false;
+                            }
+                        });
+                        if (bflg) {
+                             $(this).find("ul > li.balloon > a + .balloon_content").stop(true, true).fadeOut('fast');
+                        }
+                    }
+                });
+                obj.next().find("ul.worldArea > li > a").on('click', function(event) {
+                    if($(this).next(".worldArea_content").length) {
+                        if (!$(this).next(".worldArea_content").is(':visible')) {
+                            obj.next().find("ul.worldArea > li > a + .worldArea_content").stop(true, true).fadeOut('fast');
+                            $(this).next(".worldArea_content").stop(true, true).fadeIn('fast');
+                            var first = firstLastFocus($(this).next(".worldArea_content"),'first');
+                            if ($(first).length > 0) {
+                                $(first).on('focus');
+                            }
+                        } else {
+                            $(this).next(".worldArea_content").stop(true, true).fadeOut('fast');
+                        }
+                    }
+                 });
+                if (obj.next().find("ul.worldArea > li > a + .worldArea_content").length > 0) {
+                    obj.next().find("ul.worldArea > li > a + .worldArea_content").each(function(){
+                        var last = firstLastFocus($(this),'last');
+                        var pernt = $(this);
+                        if ($(last).length > 0) {
+                            $(last).on('keydown', function(event) {
+                                if (event.keyCode !== 9) {
+                                    return;
+                                }
+                                if (event.target === last && !event.shiftKey) {
+                                    pernt.stop(true, true).fadeOut('fast');
+                                    return ;
+                                }
+                            });
+                        }
+                    });
+                }
+
+                obj.next().find('.xilsm_clearbc form').on('submit', function() {
+                     $.ajax({
+                        type: 'GET',
+						url: '/view_interface.php?className=XiClearBreadcrumb&mode=clearbc' + "&ut=" + parseInt((new Date)/1000)
+					 }).done(function(data) {
+                            return true;
+                       
+                     });
+                });
+                obj.next().find("ul > li.balloon > a").on('click', function(event) {
+                    if($(this).next(".balloon_content").length) {
+                        if (!$(this).next(".balloon_content").is(':visible')) {
+                            obj.next().find("ul > li.balloon > a + .balloon_content").stop(true, true).fadeOut('fast');
+                            $(this).next(".balloon_content").stop(true, true).fadeIn('fast');
+                            var first = firstLastFocus($(this).next(".balloon_content"),'first');
+                            if ($(first).length > 0) {
+                                $(first).on('focus');
+                            }
+                        } else {
+                            $(this).next(".balloon_content").stop(true, true).fadeOut('fast');
+                        }
+                    }
+                 });
+                if (obj.next().find("ul > li.balloon > a + .balloon_content").length > 0) {
+                    obj.next().find("ul > li.balloon > a + .balloon_content").each(function(){
+                        var last = firstLastFocus($(this),'last');
+                        var pernt = $(this);
+                        if ($(last).length > 0) {
+                            $(last).on('keydown', function(event) {
+                                if (event.keyCode !== 9) {
+                                    return;
+                                }
+                                if (event.target === last && !event.shiftKey) {
+                                    pernt.stop(true, true).fadeOut('fast');
+                                    return ;
+                                }
+
+                            });
+                        }
+                    });
+                }
+
+                obj.next().find("a.pbOpenNewWindow").each(function(i) {
+                    var a = jQuery(this);
+                    if (! a.data('_pbnw')) {
+                        a.data('_pbnw', true);
+                        a.click(function() {
+                            if (this.href) {
+                                open(this.href);
+                                return false;
+                            }
+                        });
+                    }
+                });
+
+                // obj.next().find("a").on('click', function() {
+                //     breadcrumbses;
+                // });
+
+                // when click link, close worldArea_content area.
+                {
+                    var a = obj.next().find("ul.worldArea > li > a");
+                    a.on('click', function() {
+                        if($(this).not(".xilsm_active_link").length) {
+                            $(this).addClass("xi_exclusion_link");
+                            return false;
+                        }
+                    });
+                }
+
+                obj.next().find("ul > li.balloon > a").on('click', function(e) {
+					if($(this).not(".xilsm_active_link").length) {
+                        $(this).addClass("xi_exclusion_link");
+                        return false;
+                    }
+                });
+          });
+    });
+
+    $(".xilsm_btn_area .xilsm_tab22307386").on('click', function() {
+
+        if ($(this).next().is(':visible')) {
+            lsm_close($(this));
+        } else {
+            lsm_open($(this));
+        }
+    });
+
+    $(".xilsm_btn_area .xilsm_tab22307386").next().find(".xilsm_closeBtn").on('click', function() {
+        lsm_close($(this).parents('div.xilsm_slidemenu_body').prev());
+        $(".xilsm_btn_area .xilsm_tab22307386 a").on('focus');
+    });
+
+    if ($('#xilsm_fixedbox22307386').length >= 1) {
+        var box = $("#xilsm_fixedbox22307386");
+        var boxTop = box.offset().top;
+        var boxHeight = box.height();
+        var fixed_flg = false;
+        $(window).on('scroll', function() {
+            if ($(window).scrollTop() >= boxTop) {
+                if (fixed_flg == false ) {
+                    box.addClass("xilsm_fixed");
+                    box.find("#bg_category_title > .elem_pic_text_block .elem_paragraph").hide();
+                    box.find("#bg_category_title > .elem_pic_text_block .box_pic").hide();
+                    box.find(".xilsm_themeindustry_none").show();
+                    $('.xilsm_fixedbox_area').css('height',boxHeight);
+                    fixed_flg = true;
+                }
+            } else {
+                if (fixed_flg == true ) {
+                    if (box.find(".xilsm_themeindustry_none").length >= 1) {
+                        $(".xilsm_btn_area .xilsm_tab22307386").each(function() {
+                            lsm_close($(this));
+                        });
+                    }
+                    box.removeClass("xilsm_fixed");
+                    box.find("#bg_category_title > .elem_pic_text_block .elem_paragraph").show();
+                    box.find("#bg_category_title > .elem_pic_text_block .box_pic").show();
+                    box.find(".xilsm_themeindustry_none").hide();
+                    $('.xilsm_fixedbox_area').css('height',"auto");
+                    fixed_flg = false;
+                }
+            }
+        });
+    }
+
+    var hashTagTargetOffset = $("#xilsm_fixedbox22307386").height();
+   $('#mainArea a[href*="#"]').each(function(){
+        if ($(this).closest('.xilsm_fixedbox_area').length > 0) {
+            return;
+        }
+        $(this).on('click', function(e) {
+			var url = parent != undefined ? parent.location.href : location.href;
+			var a = $(this).attr('href');
+			var target = $(this).attr('target');
+			if (target !== undefined) {
+				return;
+			}
+			var hrefurl = a.substring(0, a.indexOf("#"));
+			if (hrefurl != '') {
+				if (url.indexOf(hrefurl) == -1) {
+					window.location.href = a;
+				}
+			}
+            var from_id = $(this.hash), from_name = $('[name=' + this.hash.slice(1) + ']');
+			var target = from_id.length ? from_id : from_name.length ? from_name : false;
+            if (target ) {
+				var offset = target.offset().top - hashTagTargetOffset;
+				if(offset > 0) {
+					setTimeout(function() {
+                    	window.scrollTo(0, offset);
+						return false;
+					}, 10);
+				}
+            }
+        });
+		$(this).on('load', function(e) {
+			var url = parent != undefined ? parent.location.href : location.href;
+			if (url.indexOf("#") != -1) {
+				var sharp = url.substring(url.indexOf("#"));
+				var target = $(sharp);
+				var offset = target.offset().top - hashTagTargetOffset;
+				if (offset > 0) {
+					window.scrollTo(0, offset);
+				}
+			}
+		});
+    });
+
+    $(document).on('click', function(e) {
+        $(".xilsm_btn_area .xilsm_tab22307386").each(function(i) {
+            if (!$.contains($(this).next()[0], e.target) &&
+                !$.contains($(this)[0], e.target)) {
+                    if ($(this).next().is(':visible')) {
+                        lsm_close($(this));
+                    }
+            }
+        });
+    });
+    function firstLastFocus(obj,option) {
+        var chains = [];
+        obj.find('a,input[type="text"]').each(function(){
+            chains.push(this);
+        });
+        var first = '';
+        var last = '';
+        var max = 0;
+        first = chains[0];
+        last = chains[chains.length-1];
+
+        for(el in chains){
+            if ($(chains[el]).attr('tabindex') != 0 || $(chains[el]).attr('tabindex') != -1) {
+                var tabIndex = parseInt($(chains[el]).attr('tabindex'));
+                if (tabIndex == 1) {
+                    first = chains[el];
+                }
+                if (tabIndex > max) {
+                    max = $(chains[el]).attr('tabindex');
+                    last = chains[el];
+                }
+            }
+        }
+        if (option == 'first') {
+            return first;
+        } else if (option == 'last') {
+            return last;
+        }
+    }
+    function lsm_open(obj) {
+        obj.find(".xilsm_close_ic").removeClass("xilsm_batsu");
+		obj.find(".xilsm_close_ic").attr("alt", "閉じる");
+        obj.addClass("xilsm_slidemenu_tab_active");
+        obj.next().stop(true, true).fadeIn('fast');
+
+		$('.xilsm_slidemenu_body').find('a,input[type="text"]').tabChain({onReadyFocus:true});
+
+        if ($(".xilsm_btn_area .xilsm_tab22307386").length > 1) {
+            $(".xilsm_btn_area .xilsm_tab22307386").removeClass("xilsm_slidemenu_tab_notactive");
+            $(".xilsm_btn_area .xilsm_tab22307386").each(function(i) {
+                if ($(this)[0] != obj[0]) {
+                    $(this).addClass("xilsm_slidemenu_tab_notactive");
+                }
+            });
+        }
+    }
+    function lsm_close(obj) {
+        obj.find(".xilsm_close_ic").addClass("xilsm_batsu");
+		obj.find(".xilsm_close_ic").attr("alt", "開く");
+        obj.removeClass("xilsm_slidemenu_tab_active");
+        obj.next().stop(true, true).fadeOut('fast');
+        if ($(".xilsm_btn_area .xilsm_tab22307386").length > 1) {
+            var cnt = 0;
+            $(".xilsm_btn_area .xilsm_tab22307386").each(function(i) {
+                if ($(this).next().is(':visible')) {
+                    cnt++;
+                }
+            });
+            if (cnt == 1) {
+                $(".xilsm_btn_area .xilsm_tab22307386").removeClass("xilsm_slidemenu_tab_notactive");
+            }
+        }
+    }
+});
+	$(function(){
+		$(window).on('resize', function(){
+
+			$("body").toggleClass("oversize", (document.body.clientWidth - window.innerWidth > 0))
+		});
+
+		$(window).trigger('resize');
+
+	});
+</script>
+
+<script>
+	jQuery(function() {
+		if (jQuery("#pbBlock40023310").prev().hasClass("PLUGIN_XiRelatedArticle")) {
+			//jQuery(".jetro_xi_related_articles_40023310").css("border-top", "0px")
+		}
+	});
+
+	function readMore40023310() {
+		//jQuery(".jetro_xi_related_article_readMore_40023310").toggle();
+		jQuery(".jetro_xi_related_article_readMore_40023310").show();
+		jQuery(".jetro_xi_related_article_readMore_40023310_btn").remove();
+		jQuery(".jetro_xi_related_article_readMore_40023310").removeClass("noborder");
+		jQuery(".jetro_xi_related_th_40023310").attr("rowSpan", 30);
+		var i = 0;
+		jQuery(".xi_recommend_list > ul > li").each(function() {
+			if (5 ==i) {
+				$(this).find('a').focus();
+				return false;
+			}
+			i++;
+		});
+	}
+</script>
+<script  src="https://cdn-apac.onetrust.com/consent/729b1220-b19b-43de-997b-d79e25ce8ae4/OtAutoBlock.js" ></script>
+<script src="https://cdn-apac.onetrust.com/scripttemplates/otSDKStub.js" data-document-language="true"  charset="UTF-8" data-domain-script="729b1220-b19b-43de-997b-d79e25ce8ae4" ></script>
+<script >
+	function OptanonWrapper() { }
+</script>
+<script >
+	window.dataLayer = window.dataLayer || [];
+	(function(){
+		var url = '/view_interface.php?className=XiMyPageAutoLogin&t=' + (+new Date());
+		var path = location.pathname;
+		$.ajax({
+			type: "POST",
+			url : url,
+			data: {
+				'url': path
+			},
+			dataType : 'json',
+			beforeSend: function(xhr) {
+				xhr.setRequestHeader('Pragma', 'no-cache');
+				xhr.setRequestHeader('Cache-Control', 'no-cache');
+				xhr.setRequestHeader('If-Modified-Since', 'Thu, 01 Jun 1970 00:00:00 GMT');
+			}
+		}).done(function(res) {
+			window.sessionStorage.setItem("autologin", true);
+			if (res.member_login !== undefined ) {
+				dataLayer.push({"member_login": res.member_login});
+			}
+			if (res.member_login !== undefined ) {
+				dataLayer.push({"mypage_login_id": res.mypage_login_id});
+			}
+			if (res.reflesh !== undefined) {
+				if (res.reflesh) {
+					location.reload();
+				}
+			}
+		}).fail(function(XMLHttpRequest, textStatus, errorThrown) {
+		}); 
+	})();
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-P8J5HF');</script>
+<!-- End Google Tag Manager -->					
+
+
+<script>
+	pdfIconFilter = function() {
+		var url = parent != undefined ? parent.location.href : location.href;
+		if (url.match(/\/(?:marketingtop|ipnewstop|ipinfotop|worldtop|themetop|industrytop|world\/marketing|world\/europe\/ip|world\/n_america\/us\/ip|world\/asia\/asean\/ip|world\/asia\/sg\/ip|world\/asia\/idn\/ip|world\/asia\/in\/ip|world\/asia\/in\/ip\/archive|world\/asia\/vn\/ip|world\/asia\/th\/ip|world\/asia\/ph\/ip|world\/asia\/my\/ip|world\/africa\/ip|world\/asia\/cn\/ip|world\/asia\/cn\/ip\/report|world\/asia\/kr\/ip|biz\/trendreports)(?:\/|\.html)/)) {
+			$('a').each(function() {
+				if ($(this).html().match(/＜PDF＞/)) {
+                    $(this).addClass("pdf-link-gtm");
+                }
+				$(this).html($(this).html().replace('＜PDF＞', '&nbsp<img src="/library/icons/icon_pdf.gif" alt="PDF file" width="14" height="16">&nbsp;'));
+			});
+		}
+	}
+	$(function() {
+		$('a').on('click', breadcrumbses);
+	});
+
+
+	var breadcrumbses =  function(e) {
+		var a = $(this).attr('href');
+		var tmpa = "";
+		var isJs = false;
+		if (a === undefined) return;
+		if(a.indexOf('javascript:void(0)') != -1 ) {
+			if (parFormAction = $(this).parents('form').attr('action')) {
+				tmpa = a;
+				a = parFormAction;
+				isJs = true;
+			}
+		}
+		var at = $(this).attr('target');
+		if (window.sessionStorage.getItem("autologin") == null) {	
+			$.ajax({
+				type: "POST",
+				url: '/view_interface.php?className=XiMyPageAutoLogin&t=' + (+new Date()),
+				data: {
+					'url': a
+				},
+				dataType: "json",
+				timeout:10000,
+				beforeSend: function(xhr) {
+					xhr.setRequestHeader('Pragma', 'no-cache');
+					xhr.setRequestHeader('Cache-Control', 'no-cache');
+					xhr.setRequestHeader('If-Modified-Since', 'Thu, 01 Jun 1970 00:00:00 GMT');
+				}
+			}).done(function(res) {
+				window.sessionStorage.setItem("autologin", true);
+			});
+		}
+		if (isJs) {
+			a = tmpa; 
+		}
+		if(a != undefined) {
+			if(a.indexOf('javascript:void(0)') != -1 ) return;
+			if(a.indexOf('#') != -1 ) return;
+			if(a.indexOf('jetro_open_win') != -1 ) return;
+			var url = parent != undefined ? parent.location.href : location.href;
+			var className = $(this).parent().attr('class') != undefined ? $(this).parent().attr('class') : '';
+			var blankc = $(this).attr('class') != undefined ? $(this).attr('class') : '';
+			if (blankc.indexOf('xi_exclusion_link') != -1 ) return;
+			if (!url.match(/\/$/i)) {
+				url += '/';
+			}
+			if(!a.match(/\/.*top\//i)) {
+				if ($("[data-xitagmain]").data("xitagmain") != undefined) {
+					url = '/' + $("[data-xitagmain]").data("xitagmain") + '/';
+					if ($(this).parents("[data-xitagsub]").data("xitagsub") != undefined) {
+						url += $(this).parents("[data-xitagsub]").data("xitagsub") + "/";
+					}
+				}
+			}
+			//window.location.href = a;
+			return;
+		}
+	}
+</script><meta name="jetro-keyword" content="biznews_field_14,biznews_field_C,biznews_field" data-name="keyword" data-value="biznews_field_14,biznews_field_C,biznews_field">
+<meta name="jetro-content_type" content="biznews" data-name="content_type" data-value="biznews">
+<meta name="jetro-search_tag" content="biznews" data-name="search_tag" data-value="biznews">
+<meta name="jetro-country" content="asia,th" data-name="country" data-value="asia,th">
+<meta name="jetro-article_id" content="0d6899c0567152aa" data-name="article_id" data-value="0d6899c0567152aa">
+<meta name="jetro-publicize_date" content="2025-12-26" data-name="publicize_date" data-value="2025-12-26">
+<meta name="jetro-dispatch_section" content="バンコク発" data-name="dispatch_section" data-value="バンコク発">
+<script>
+	$(function() {
+		var elemCategoryTitle = $('#elem_category_title');
+		var url = parent != undefined ? parent.location.href : location.href;
+		if (url.match(/\/world\/reports\//)) {
+			if ($('.pdf_size').length <= 0) {
+				var size;
+				var i = 0;
+				$.each($("a.link_pdf"), function() {
+					var url = $(this).attr('href');
+					url = url.replace(/^https?:/, '');
+					var pdfid = 'pdf_link_tmp' + i++;
+					$(this).attr('id', pdfid);
+					var request = $.ajax({
+						type: "HEAD",
+						url: url,
+						beforeSend: function(xhr) {
+                        	xhr.setRequestHeader('Pragma', 'no-cache');
+                        	xhr.setRequestHeader('Cache-Control', 'no-cache');
+							xhr.setRequestHeader('If-Modified-Since', 'Thu, 01 Jun 1970 00:00:00 GMT');
+                        }
+					}).done(function (data, status, xhr) {
+						var sizeInBytes = parseInt(xhr.getResponseHeader('Content-Length'), 10);
+						size = (sizeInBytes / (1024*1024)).toFixed(2);
+						if (size > 0) {
+							size = size + "MB";
+						}
+						else {
+							size = (sizeInBytes / 1024).toFixed(2) + "KB";
+						}
+						$('#' + pdfid).after(' <span class="pdf_size">(' + size + ')</span>');
+					});
+				});
+			}
+		}
+	});
+</script>
+<meta property = "og:title" content="WTO、タイの関税・外資規制を指摘、OECD加盟に期待示す(タイ) | ビジネス短信 ―ジェトロの海外ニュース" />
+<meta property = "og:type" content="Website" />
+<meta property = "og:image" content="https://www.jetro.go.jp/library/images/sns/logo1200_630.png" />
+<meta property = "og:site_name" content="ジェトロ" />
+<meta property = "og:url" content="https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html" />
+<meta name="twitter:card" content="summary_large_image">
+<script >
+// default header start
+</script>
+<link rel="stylesheet" type="text/css" href="/library/init/css/publis4-default.css" />
+<link rel="apple-touch-icon" type="image/png" href="/library/icons/touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/library/icons/touch-icon-192x192.png" sizes="192x192">
+<link rel="stylesheet" type="text/css" href="/library/new/common/asset_css/250902/layout.css" />
+<link rel="stylesheet" type="text/css" href="/library/new/common/asset_css/251031/style.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700,300" />
+<link rel="stylesheet" type="text/css" href="/library/new/common/asset_css/221127/print.css" />
+<script >
+<!---->
+</script>
+<script >
+<!---->
+</script>
+<script >
+// default header end
+</script>
+</head>
+<body class="layout-C layout-ja">
+<div id="page" class="pbPage">
+<div id="headerArea" class="pbHeaderArea">
+	<div id="area1" class="pbArea ">
+		<div class="pbNested " >
+			<div class="pbNested pbNestedWrapper "  id="pbBlock12403553">
+						<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P8J5HF" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<noscript><p>このページではjavascriptを使用しています。</p></noscript>
+
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock17442266">
+						
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock1102">
+								<div class="pbNested " >
+			<div class="  pbNested pbNestedWrapper "  id="pbBlock23505383">
+								<div class="pbNested " >
+			<div class="pbNested pbNestedWrapper "  id="pbBlock23504554">
+						<div id="Header" class="jp_header">
+    <div class="area clearfix">
+        <div class="nav_box">
+            <div class="hdBox">
+                <div id="Headlink">
+                    <ul>
+                        <li class="about">
+                            <a href="/jetro/">ジェトロについて</a>
+                        </li>
+                        <li class="contact">
+                            <a href="/contact/">お問合せ</a>
+                        </li>
+                        <li class="global">
+                            <a href="/en/" lang="en">Global Site</a>
+                        </li>
+                        <li class="ide end">
+                            <a href="http://www.ide.go.jp/" target="_blank" rel="noopener">アジア経済研究所<img style="margin-top: -2px;" src="/library/icons/icon_external_b.png" width="16" height="14" alt="外部サイトへ、新しいウィンドウで開きます" title=""></a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="myPageArea">
+                    <a href="/mypage/">
+                    <p>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 24 24" style="width: 20px;">
+                        <path style="fill: #006EC8;" d="M17.8,6.3c0,3.2-2.6,5.8-5.8,5.8S6.3,9.4,6.3,6.3S8.8,0.5,12,0.5S17.8,3.1,17.8,6.3z M0.5,21.6 c0-3.8,7.7-5.9,11.5-5.9s11.5,2.1,11.5,5.9v1.9h-23V21.6z"></path></svg><span>マイページ</span>
+                    </p></a>
+                </div>
+                <div id="Search">
+                    <form id="cse-search-box" action="/search_result.html" name="cse-search-box">
+                        <label for="sitesearch">サイト内検索</label> <input type="text" title="" value="" name="q" id="sitesearch" style="width: 120px;"> <input type="image" alt="検索実行" src="/library/new/common/img/bt_search.gif" style="margin-left: -5px;"> <input type="hidden" name="cx" value="10478482079135973694:2x0uodychjs"> <input type="hidden" name="ie" value="UTF-8"> <input type="hidden" name="oe" value="UTF-8">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="logo_box">
+            <p id="Logo">
+                <a href="/"><img title="" src="/library/new/common/img/bt_logo.jpg" alt="JETRO 日本貿易振興機構（ジェトロ）"></a>
+            </p>
+            <div class="jtrGrobalMenu">
+                <a id="keyboard_operation"  href="javascript:void(0);">キーボードでメニューを操作する場合はこちらを実行してください。スムーズに閲覧できるようにマウスの動きを抑制します。</a>
+                <ul>
+                    <li class="jtrGrobalMenuOpen">
+                        <div class="gnav_btn">
+                            <a href="#">海外ビジネス情報<img src="/library/icons/icon_dropmenu_open.png" alt="メニューを開く" title=""></a>
+                        </div>
+                        <div style="z-index: 10; position: absolute; margin-right: -480px;" class="gnav_content">
+                            <div class="gnav_content01">
+                                <div class="section_wrap2">
+                                    <div class="section">
+                                        <div class="in_section">
+                                            <div class="elem_heading_lv3 pt0">
+                                                <h3>
+                                                    海外ビジネス情報
+                                                </h3>
+                                            </div>
+                                            <div class="elem_paragraph pt0">
+                                                <p class="text">
+                                                    ジェトロの海外ネットワークを通じて収集した最新のビジネスニュース・レポートなどをお届けしています。
+                                                </p>
+                                            </div>
+                                            <p class="btnMore">
+                                                <a href="/biz/">新着情報を見る</a>
+                                            </p>
+                                            
+                                            <div class="elem_paragraph pt30">
+                                                <p class="text">
+                                                    各国・地域の基礎情報や制度をご覧になりたい場合は「国・地域別情報」をご覧ください。
+                                                </p>
+                                            </div>
+                                            <div class="elem_text_list">
+                                                <ul>
+                                                    <li>
+                                                        <a href="/world/">国・地域別一覧</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div id="insertarea01" class="insertarea"></div>
+                                        </div>
+                                    </div>
+                                    <div class="section">
+                                        <div class="in_section">
+                                            <div class="sec_column">
+                                                <dl class="border_btm">
+                                                    <dt>
+                                                        ビジネスニュース・レポート
+                                                    </dt>
+                                                    <dd>
+                                                        <a href="/biznews/">ビジネス短信</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/biz/areareports/">地域・分析レポート</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/world/reports/">調査レポート</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/tv/">国際ビジネス情報番組「世界は今」</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/biz/seminar/">ウェビナー/WEBセミナー</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/world/gtir/">世界貿易投資報告</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/world/gtirs.html">主要国・地域の貿易投資年報</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/biz/trendreports/">海外発トレンドレポート</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/world/marketing/">マーケティング情報</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/publications/">出版物</a>
+                                                    </dd>
+                                                </dl>
+                                                <dl>
+                                                    <dt>
+                                                        各国の制度・手続き
+                                                    </dt>
+                                                    <dd>
+                                                        <a href="/world/trade.html">輸出入に関する基本的な制度</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/world/invest.html">海外進出に関する基本的な制度</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/world/qa/">貿易・投資相談Q&amp;A</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/theme/export/tariff/">世界各国の関税率</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/world/search/cost.html">投資コスト比較</a>
+                                                    </dd>
+                                                </dl>
+                                            </div>
+                                            <div class="sec_column" style="width: 260px;">
+                                                <dl class="border_btm pb_5">
+                                                    <dt>
+                                                        各国の基本情報
+                                                    </dt>
+                                                    <dd>
+                                                        <a href="/world/statistics.html">統計ナビ</a>
+                                                    </dd>
+                                                   
+                                                </dl>
+                                                <dl class="border_btm pb5">
+                                                    <dt>
+                                                        イベント情報
+                                                    </dt>
+                                                    <dd>
+                                                        <a href="/events/">イベント一覧</a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/events/tradefair.html">ジェトロが支援する展示会・商談会</a>
+                                                    </dd>
+                                                </dl>
+                                                <dl class="pb10">
+                                                    <dt>
+                                                        見本市・展示会情報
+                                                    </dt>
+                                                    <dd>
+                                                        <a href="/j-messe/">世界の見本市・展示会情報(J-messe) <img title="" alt="" src="/library/new/common/img/j-messe.jpg"></a>
+                                                    </dd>
+                                                </dl>
+                                                 <dl class="pb10">                                                                        
+                                                   <dt>
+                                                        引き合い案件情報
+                                                    </dt>
+                                                    <dd>
+                                                        <a href="https://e-venue.jetro.go.jp/bizportal/s/?language=jp">e-Venue<span class="font12">（国際ビジネスマッチングサイト) </span><img title="" alt="" src="/library/new/common/img/e-venue_jp.gif" width="280"></a>
+                                                    </dd>
+                                                    <dd>
+                                                        <a href="/gov_procurement/">政府公共調達データベース</a>
+                                                    </dd>
+                                                </dl>
+                                                
+                                            </div>
+                                        </div>
+                                        <div id="insertarea02" class="insertarea"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="jtrGrobalMenuOpen">
+                        <div class="gnav_btn border_rigth">
+                            <a href="#">サービス<img src="/library/icons/icon_dropmenu_open.png" alt="メニューを開く" title=""></a>
+                        </div>
+                        <div class="gnav_content" style="position: absolute; margin-right: -480px;">
+                            <div class="gnav_content02">
+                                <div class="section_wrap2">
+                                    <div class="section">
+                                        <div class="in_section">
+                                            <div class="elem_heading_lv3 pt0">
+                                                <h3>
+                                                    ジェトロのサービス
+                                                </h3>
+                                            </div>
+                                            <div class="elem_paragraph">
+                                                <p class="text">
+                                                    各種サービスメニューを取り揃えて日本企業の皆様の海外ビジネス展開を支援します。
+                                                </p>
+                                                <p class="btnMore">
+                                                    <a href="/services/">詳細を見る</a>
+                                                </p>
+                                            </div>
+                                            <div id="insertarea03" class="insertarea"></div>
+                                        </div>
+                                    </div>
+                                    <div class="section">
+                                        <div class="in_section" style="column-count: 2;">
+                                            <ul>
+                                                <li>
+                                                    <a href="/services/list.html">支援サービス一覧</a>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/services/advice.html">貿易投資相談</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/services/quick_info.html">海外ミニ調査サービス</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/services/briefing/">海外事務所による現地事情ブリーフィング</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/db_corner/">ビジネスデータベースコーナー（東京）</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <a href="/events/">イベント情報（セミナー・展示会）</a>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/events/inform/">お客様情報の登録・確認・変更のご案内</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <a href="/elearning/">貿易実務オンライン講座</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/mail.html">メールマガジン</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/members/">ジェトロ・メンバーズ</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/publications/">出版物</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/case_study/">ジェトロ活用事例</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/jetro/topics/">ジェトロ・トピックス</a>
+                                                </li>
+                                            </ul>
+                                            <div class="elem_separate">
+                                                <hr>
+                                            </div>
+                                            <ul>
+                                                <li>
+                                                    <a href="/services/export_guide/">輸出支援</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/services/fdi_guide/">海外進出支援</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/invest.html">対日投資</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/services/contact.html">お問い合わせ窓口一覧</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div id="insertarea04" class="insertarea"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="jtrGrobalMenuOpen">
+                        <div class="gnav_btn">
+                            <a href="#">国・地域別に見る<img src="/library/icons/icon_dropmenu_open.png" alt="メニューを開く" title=""></a>
+                        </div>
+                        <div class="gnav_content" style="position: absolute; margin-right: -480px;">
+                            <div class="gnav_content03">
+                                <div class="section_wrap2">
+                                    <div class="section">
+                                        <div class="in_section">
+                                            <div class="elem_heading_lv3 pt0">
+                                                <h3>
+                                                    <a href="/world/">国・地域別に見る</a>
+                                                </h3>
+                                            </div>
+                                            <div class="elem_paragraph">
+                                                <ul id="gcselect">
+                                                    <li class="current">
+                                                        <a href="#gc_asia">アジア</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#gc_oceania">オセアニア</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#gc_n_america">北米</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#gc_cs_america">中南米</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#gc_europe">欧州</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#gc_russia_cis">ロシア・中央アジア等</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#gc_middle_east">中東</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#gc_africa">アフリカ</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/world/japan/">日本</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="insertarea" id="insertarea05"></div>
+                                        </div>
+                                    </div>
+                                    <div class="section">
+                                        <div id="gc_asia" class="sectionbox" style="display: block;">
+                                            <div class="in_section">
+                                                <div class="sec_column">
+                                                    <ul class="vcol2">
+                                                        <li>
+                                                            <a href="/world/asia/">アジア全体</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/asean/">ASEAN</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/in/">インド</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/idn/">インドネシア</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/kr/">韓国</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/kh/">カンボジア</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/sg/">シンガポール</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/lk/">スリランカ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/th/">タイ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/tw/">台湾</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/cn/">中国</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/bd/">バングラデシュ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/pk/">パキスタン</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/ph/">フィリピン</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/vn/">ベトナム</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/hk/">香港</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/my/">マレーシア</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/mm/">ミャンマー</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/mn/">モンゴル</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/asia/la/">ラオス</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="section_toplink">
+                                                <div class="elem_paragraph">
+                                                    <p class="text right font_bold">
+                                                        <a class="linkicon font18" href="/world/">国・地域別に見る</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="gc_oceania" class="sectionbox" style="display: none;">
+                                            <div class="in_section">
+                                                <div class="sec_column">
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/world/oceania/">オセアニア全体</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/oceania/au/">オーストラリア</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/oceania/nz/">ニュージーランド</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="sec_column"></div>
+                                            </div>
+                                            <div class="section_toplink">
+                                                <div class="elem_paragraph">
+                                                    <p class="text right font_bold">
+                                                        <a class="linkicon font18" href="/world/">国・地域別に見る</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="gc_n_america" class="sectionbox" style="display: none;">
+                                            <div class="in_section">
+                                                <div class="sec_column">
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/world/n_america/">北米全体</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/n_america/ca/">カナダ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/n_america/us/">米国</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="sec_column"></div>
+                                            </div>
+                                            <div class="section_toplink">
+                                                <div class="elem_paragraph">
+                                                    <p class="text right font_bold">
+                                                        <a class="linkicon font18" href="/world/">国・地域別に見る</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="gc_cs_america" class="sectionbox" style="display: none;">
+                                            <div class="in_section">
+                                                <div class="sec_column">
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/world/cs_america/">中南米全体</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/cs_america/ar/">アルゼンチン</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/cs_america/uy/">ウルグアイ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/cs_america/cu/">キューバ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/cs_america/co/">コロンビア</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/cs_america/cl/">チリ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/cs_america/py/">パラグアイ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/cs_america/br/">ブラジル</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/cs_america/ve/">ベネズエラ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/cs_america/pe/">ペルー</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/cs_america/mx/">メキシコ</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="sec_column"></div>
+                                            </div>
+                                            <div class="section_toplink">
+                                                <div class="elem_paragraph">
+                                                    <p class="text right font_bold">
+                                                        <a class="linkicon font18" href="/world/">国・地域別に見る</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="gc_europe" class="sectionbox" style="display: none;">
+                                            <div class="in_section">
+                                                <div class="sec_column">
+                                                    <ul class="vcol2">
+                                                        <li>
+                                                            <a href="/world/europe/">欧州全体</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/eu/">EU</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/ie/">アイルランド</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/it/">イタリア</a>
+                                                        </li>
+<li>
+                                                            <a href="/world/europe/ua/">ウクライナ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/uk/">英国</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/nl/">オランダ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/at/">オーストリア</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/ch/">スイス</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/se/">スウェーデン</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/es/">スペイン</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/sk/">スロバキア</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/cz/">チェコ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/dk/">デンマーク</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/de/">ドイツ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/hu/">ハンガリー</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/fi/">フィンランド</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/fr/">フランス</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/be/">ベルギー</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/pt/">ポルトガル</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/pl/">ポーランド</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/europe/ro/">ルーマニア</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="section_toplink">
+                                                <div class="elem_paragraph">
+                                                    <p class="text right font_bold">
+                                                        <a class="linkicon font18" href="/world/">国・地域別に見る</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="gc_russia_cis" class="sectionbox" style="display: none;">
+                                            <div class="in_section">
+                                                <div class="sec_column">
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/world/russia_cis/">ロシア・中央アジア・コーカサス全体</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/russia_cis/uz/">ウズベキスタン</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/russia_cis/ru/">ロシア</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="sec_column"></div>
+                                            </div>
+                                            <div class="section_toplink">
+                                                <div class="elem_paragraph">
+                                                    <p class="text right font_bold">
+                                                        <a class="linkicon font18" href="/world/">国・地域別に見る</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="gc_middle_east" class="sectionbox" style="display: none;">
+                                            <div class="in_section">
+                                                <div class="sec_column">
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/world/middle_east/">中東全体</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/middle_east/ae/">アラブ首長国連邦</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/middle_east/il/">イスラエル</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/middle_east/ir/">イラン</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/middle_east/sa/">サウジアラビア</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/middle_east/tr/">トルコ</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="sec_column"></div>
+                                            </div>
+                                            <div class="section_toplink">
+                                                <div class="elem_paragraph">
+                                                    <p class="text right font_bold">
+                                                        <a class="linkicon font18" href="/world/">国・地域別に見る</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="gc_africa" class="sectionbox" style="display: none;">
+                                            <div class="in_section">
+                                                <div class="sec_column">
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/world/africa/">アフリカ全体</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/africa/eg/">エジプト</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/africa/et/">エチオピア</a>
+                                                        </li>
+<li>
+                                                            <a href="/world/africa/gh/">ガーナ</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/africa/ke/">ケニア</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/africa/ci/">コートジボワール</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/africa/ng/">ナイジェリア</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/africa/za/">南アフリカ共和国</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/africa/mz/">モザンビーク</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/world/africa/ma/">モロッコ</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="sec_column"></div>
+                                            </div>
+                                            <div class="section_toplink">
+                                                <div class="elem_paragraph">
+                                                    <p class="text right font_bold">
+                                                        <a class="linkicon font18" href="/world/">国・地域別に見る</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="jtrGrobalMenuOpen">
+                        <div class="gnav_btn">
+                            <a href="#">目的別に見る<img src="/library/icons/icon_dropmenu_open.png" alt="メニューを開く" title=""></a>
+                        </div>
+                        <div style="position: absolute; margin-right: -480px;" class="gnav_content">
+                            <div class="gnav_content04">
+                                <div class="section_wrap2">
+                                    <div class="section" style="width: 200px;">
+                                        <div class="in_section">
+                                            <div class="elem_heading_lv3 pt0">
+                                                <h3>
+                                                    目的別に見る
+                                                </h3>
+                                            </div>
+                                            <div class="elem_paragraph">
+                                                <p class="text">
+                                                    海外ビジネスの目的にあわせてご利用いただける、ジェトロのビジネス情報とサービスをご案内します。
+                                                </p>
+                                            </div>
+                                            <p class="btnMore">
+                                                <a href="/theme/">詳細を見る</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="section">
+                                        <div class="in_section">
+                                            <div class="sec_column" style="width: 170px;">
+                                                <dl class="xi-gnav-contents">
+                                                    <dt class="xi-gnav-contents export font22">
+                                                        <a href="/themetop/export/">輸出</a>
+                                                    </dt>
+                                                    <dd class="xi-gnav-contents">
+                                                        <a href="/themetop/export/e-proc/">制度・手続きを知る</a>
+                                                    </dd>
+                                                    <dd class="xi-gnav-contents">
+                                                        <a href="/themetop/export/e-tariff/">関税・関税制度を調べる</a>
+                                                    </dd>
+                                                    <dd class="xi-gnav-contents">
+                                                        <a href="/themetop/export/e-ptr/">取引先を探す</a>
+                                                    </dd>
+                                                    <dd class="xi-gnav-contents">
+                                                        <a href="/themetop/export/e-trend/">市場を知りたい</a>
+                                                    </dd>
+                                                    <dd class="xi-gnav-contents">
+                                                        <a href="/themetop/export/e-basic/">初めて輸出に取り組みたい</a>
+                                                    </dd>
+                                                </dl>
+                                            </div>
+                                            <div class="sec_column" style="width: 180px;">
+                                                <dl class="xi-gnav-contents">
+                                                    <dt class="xi-gnav-contents fdi font22">
+                                                        <a href="/themetop/fdi/">海外進出</a>
+                                                    </dt>
+                                                    <dd class="xi-gnav-contents">
+                                                        <a href="/themetop/fdi/f-dest/">進出先を検討する</a>
+                                                    </dd>
+                                                    <dd class="xi-gnav-contents">
+                                                        <a href="/themetop/fdi/f-proc/">進出時の制度・手続きを知る</a>
+                                                    </dd>
+                                                    <dd class="xi-gnav-contents">
+                                                        <a href="/themetop/fdi/f-legal/">税制・法制を調べる</a>
+                                                    </dd>
+                                                    <dd class="xi-gnav-contents">
+                                                        <a href="/themetop/fdi/f-trend/">市場を知りたい</a>
+                                                    </dd>
+                                                    <dd class="xi-gnav-contents">
+                                                        <a href="/themetop/fdi/f-basic/">初めて海外進出に取り組みたい</a>
+                                                    </dd>
+                                                </dl>
+                                            </div>
+                                            <div class="sec_column" style="width: 180px;">
+                                                <p class="icon60 invest font22 font_bold">
+                                                    <a href="/invest.html">対日投資</a>
+                                                </p>
+                                                <div class="elem_separate">
+                                                    <hr>
+                                                </div>
+                                                <ul class="font16">
+                                                    <li class="xi-gnav-contents">
+                                                        <a href="/themetop/wto-fta/">EPA/FTA、WTO</a>
+                                                    </li>
+                                                    <li class="xi-gnav-contents">
+                                                        <a href="/themetop/ip/">知的財産保護</a>
+                                                    </li>
+                                                    <li class="xi-gnav-contents">
+                                                        <a href="/themetop/innovation/">イノベーション・スタートアップ</a>
+                                                    </li>
+                                                    <li class="xi-gnav-contents">
+                                                        <a href="/hrportal/">高度外国人材活躍支援</a>
+                                                    </li>
+                                                    <li class="xi-gnav-contents">
+                                                        <a href="/themetop/crossborder_ec/">越境EC</a>
+                                                    </li>
+                                                    <li class="xi-gnav-contents">
+                                                        <a href="/themetop/standards/">基準・認証、<br>
+                                                        規制、ルール</a>
+                                                    </li>
+                                                    <li class="xi-gnav-contents">
+                                                        <a href="/themetop/import/">輸入</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="jtrGrobalMenuOpen">
+                        <div class="gnav_btn">
+                            <a href="#">産業別に見る<img src="/library/icons/icon_dropmenu_open.png" alt="メニューを開く" title=""></a>
+                        </div>
+                        <div style="position: absolute; margin-right: -480px;" class="gnav_content">
+                            <div class="gnav_content05">
+                                <div class="section_wrap">
+                                    <div class="sec_column">
+                                        <ul class="vcol2">
+                                            <li class="xi-gnav-contents">
+                                                <a href="/industrytop/foods/">農林水産物・食品</a>
+                                            </li>
+                                            <li class="xi-gnav-contents">
+                                                <a href="/industrytop/fashion/">ファッション・繊維</a>
+                                            </li>
+                                            <li class="xi-gnav-contents">
+                                                <a href="/industrytop/design/">デザイン（日用品）</a>
+                                            </li>
+                                            <li class="xi-gnav-contents">
+                                                <a href="/industrytop/contents/">コンテンツ</a>
+                                            </li>
+                                            <li class="xi-gnav-contents">
+                                                <a href="/industrytop/service/">サービス産業</a>
+                                            </li>
+                                            <li class="xi-gnav-contents">
+                                                <a href="/industrytop/life_science/">ライフサイエンス</a>
+                                            </li>
+                                            <li class="xi-gnav-contents">
+                                                <a href="/industrytop/machinery/">機械・機器</a>
+                                            </li>
+                                            <li class="xi-gnav-contents">
+                                                <a href="/industrytop/energy/">環境・エネルギー</a>
+                                            </li>
+                                            <li class="xi-gnav-contents">
+                                                <a href="/industrytop/infrastructure/">インフラ・プラント</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+			</div>
+		</div>
+
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock842726">
+						<div id="elem_topic_path"> 
+<div id="elem_topic_path_pad" class="pageelem_topic_path"> 
+<ol> 
+    <li class="home"><a href="/"><img src="/library/new/common/content_images/icon/icon_home.gif" alt="サイトトップ" title=""></a></li> 
+ 
+ 
+    <li><a href="/biznews/">ビジネス短信 ―ジェトロの海外ニュース</a></li> 
+ 
+ 
+ 
+    <li>WTO、タイの関税・外資規制を指摘、OECD加盟に期待示す</li> 
+ 
+ 
+</ol> 
+</div> 
+</div> 
+
+			</div>
+		</div>
+
+			</div>
+		</div>
+	</div>
+
+</div><div id="areaWrapper1" class="pbAreaWrapper1"><div id="areaWrapper2" class="pbAreaWrapper2"><div id="mainArea" class="pbMainArea" role="main" >
+	<div id="area0" class="pbArea ">
+		<div class="pbNested " >
+			<div class="  pbNested pbNestedWrapper "  id="pbBlock40584962">
+								<div class="pbNested " >
+			<div class="pbNested pbNestedWrapper "  id="pbBlock22307386">
+						<div class="xilsm_fixedbox_area">
+    <div id="xilsm_fixedbox22307386">
+                                    <div id="bg_category_title">
+                    <div id="elem_category_title" class="title_p">
+                            <div class="title">
+                    <p>
+                        <a href="/biznews" class="xilsm_title">                                                    ビジネス短信
+                                                </a>                    </p>
+                </div>
+                            </div>
+                        </div>
+                                    <div class="xilsm_btn_area">
+                                                    <div class="xilsm_slidemenu_area">
+                        <div class="xilsm_slidemenu_tab xilsm_slidemenu_tab_right xilsm_tab22307386" data-shareid="2306">
+                            <p>
+                                <a href="javascript:void(0)">ビジネス短信のコンテンツ一覧 <img class="xilsm_close_ic xilsm_batsu" src="/library/new/local/xilsm/image/ic_close.gif" alt="開く" title=""></a>
+                            </p>
+                        </div>
+                        <div class="xilsm_slidemenu_body">
+                            <div class="xilsm_slidemenu_body2 pbNested ui-droppable xilsm_body22307386"></div>
+                            <div class="xilsm_closeBtn_area">
+                                <div class="xilsm_closeBtn">
+                                    <a href="javascript:void(0)"><img class="xilsm_close_ic02" src="/library/new/local/xilsm/image/ic_close02.png" alt="" title="">閉じる</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                </div>
+            
+    </div>
+</div>
+<div class='elem_local_navi_margin'></div>
+<input id="xilsm_formUrl22307386" type="hidden" value="biznews">
+
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock22307387">
+						
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock22307388">
+						<link rel="stylesheet" href="/library/new/local/xilsm/css/240718/jtrLocalSlideMenu.css">
+
+<script >
+if (document.getElementById('elem_local_navi') != null) {
+  var elements = document.getElementsByClassName('elem_local_navi_margin');
+  for(var i=0; i<elements.length;i++){
+    elements[i].parentNode.removeChild(elements[i]);
+  }
+}
+</script>
+			</div>
+		</div>
+
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock40584931">
+								<div class="pbNested " id="elem_heading_lv1">
+			<div class="pbNested pbNestedWrapper "  id="pbBlock40584932">
+						<div style="width:100%;">						<div style="width:100%;margin:0px">
+							<div class="pbBlock pbTitleBlock "><h1>WTO、タイの関税・外資規制を指摘、OECD加盟に期待示す</h1></div>
+							
+							
+							
+							
+						</div></div>
+			</div>
+			<div class="font22 pbNested pbNestedWrapper "  id="pbBlock40584933">
+								<div class="pbNested " >
+			<div class="pbNested pbNestedWrapper "  id="pbBlock40584934">
+						<div class="elem_paragraph pb0"><p>
+（タイ）</p>
+</div>
+
+			</div>
+		</div>
+
+			</div>
+		</div>
+
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock40584935">
+								<div class="pbNested " >
+			<div class="pt10 pbNested pbNestedWrapper "  id="pbBlock40584936">
+								<div class="pbNested " >
+			<div class="  pbNested pbNestedWrapper "  id="pbBlock40584937">
+								<div class="pbNested " >
+			<div class="pbNested pbNestedWrapper "  id="pbBlock30948712">
+						<div class="mypage_button_data"></div>
+			</div>
+		</div>
+
+			</div>
+		</div>
+
+			</div>
+		</div>
+
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock40584938">
+								<div class="pbNested pbNestedHorizontalWrapper "  >
+					<div class="pbHorizontalNested "  id="pbBlock40584940" style="overflow:hidden;clear:right;">
+						<div class="elem_paragraph">
+    <p class="text left">
+        バンコク発
+    </p>
+</div>
+					</div>
+					<div class="pbHorizontalNested "  id="pbBlock40584939" style="overflow:hidden;clear:right;">
+						<div class="elem_paragraph">
+    <p class="text right gov_proc">
+        2025年12月26日
+    </p>
+</div>
+
+					</div>
+		</div>
+
+			</div>
+			<div class="narrow font16 pbNested pbNestedWrapper "  id="pbBlock40584941">
+								<div class="pbNested " >
+			<div class="pbNested pbNestedWrapper "  id="pbBlock40584942">
+								<div class="pbNested " >
+			<div class="pbNested pbNestedWrapper "  id="pbBlock40584945">
+						<div class="elem_paragraph wzg">
+        <p>WTOは12月1～3日、加盟国間で定期的に行われる「貿易政策検討（TPR）」（注1）の一環として、タイの貿易政策・慣行に関する<a href="https://www.wto.org/english/tratop_e/tpr_e/tpr_tha_01dec25_e.htm" target="_blank">第9回評価を実施<img src="/library/icons/icon_blank.gif" alt="外部サイトへ、新しいウィンドウで開きます" title="" class="icon_external" width="17" height="12"></a>した。2037年までの高所得国入りを目指すタイに対して、WTOは行政サービスの現代化やデジタル化の進展を評価する一方、高関税や外資制限、国有企業といった構造的な貿易・投資上の課題が成長を妨げていると指摘した。</p>
+
+<p>関税面では、2025年時点のタイの最恵国待遇（MFN）関税率が平均14.3％である一方、農産品は30.9％と平均の2倍を超える水準であるほか、自動車分野も手厚く保護されていると分析。また、政府の税収全体に占める関税の寄与率は4％（2024年時点）にとどまるとし、関税が財政的な検討よりも、通商戦略的な目的で活用されていると述べた。</p>
+
+<p>サービス分野はGDPの59.2％、雇用の48.8％を占め、観光部門がサービス輸出を牽引する一方、サービス貿易には参入障壁があるとした。例えば、WTOによれば、タイの「サービス貿易制限指数」は、金融や通信などの全調査項目で、世界とASEANの平均値を上回っている（注2）。投資規制についても、外国人事業法（FBA）（<a href="/biznews/2024/09/82617f3456a54d9a.html">2024年9月3日記事参照</a>）のほか、産業分野ごとの法令に基づき、外国資本比率の上限や許認可要件が残っているとした。</p>
+
+<p>国有企業に関しては、市場競争を阻害する最大の要因の1つに挙げ、政府が資本の過半数を所有する国有企業の資産は、GDPの88％に相当し、歳入の24%を生み出していると分析（2024年時点）。金融、エネルギー、運輸などの分野で国有企業の影響力が強く、また安全保障や公共の利益を理由とする場合、競争法の適用が免除される。</p>
+
+<h2>OECD加盟を通じた構造改革に期待</h2>
+<p>タイはこれまで、2024年のWTO貿易円滑化協定（TFA）の完全履行、2022年のWIPO著作権条約加盟による知的財産保護の強化、地理的表示（GI）申請を促すオンラインシステム導入などを実施している。また、WTOによれば、タイはさまざまな投資優遇措置を有しているが、特に、電気自動車（EV）（<a href="/biznews/2025/12/f3b3254be0f105d0.html">2025年12月4日記事参照</a>）やスマートエレクトロニクス分野での恩典付与に重点を置いている。</p>
+
+<p>WTOからは、2024年のタイによるOECD加盟に向けた意向表明（<a href="/biznews/2024/01/f840c333ada4d1dc.html">2024年1月18日記事参照</a>）に期待が示された。同年7月、タイの加盟に向けたロードマップがOECDに採択され、2030年までの加盟が目標として設定されている。特に、汚職防止に関わるOECD贈賄防止条約による構造改革を通じて、タイが「中所得国のわな」を回避し、持続可能な競争力を強化することが望ましいとした。</p>
+
+<p class="noindent">（注1）貿易政策検討（TPR）は、WTO協定上の義務として、加盟国の貿易政策・関連政策を定期的に調査・評価する取り組み。全てのWTO加盟国が評価対象で、評価の頻度は国の規模によって異なる。</p>
+<p class="noindent">（注2）「サービス貿易制限指数」の調査対象項目はプロフェッショナル・コンピュータ・通信・建設・配送・金融・健康・観光・物流の9項目。また、調査対象国は世界136カ国で、ASEANはインドネシア、マレーシア、ミャンマー、フィリピン、シンガポール、タイ、ベトナムの7カ国。調査は2022年時点。</p>
+
+<p class="noindent">（藪恭兵）</p>
+</div>
+
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock40584944">
+						<div class="elem_paragraph pb0"><p>
+（タイ）</p>
+</div>
+
+			</div>
+		</div>
+
+			</div>
+		</div>
+
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock40584963">
+						<div class="narrow font16">
+    <div class="elem_paragraph">
+        <p class="text right">
+            ビジネス短信　0d6899c0567152aa
+        </p>
+    </div>
+</div>
+			</div>
+			<div class="  pbNested pbNestedWrapper "  id="pbBlock40584960">
+								<div class="pbNested " id="biznews_related">
+			<div class="pbNested pbNestedWrapper "  id="pbBlock903827">
+						<div id="xi_related_40023310" class="area_ref" style="width:100%; display:none;"><img src="/library/new/common/gif-load.gif" alt="load" title="" style="display: block;margin: 10px auto;" ></div>
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock32175128">
+						<!-- related_article_plugin start -->
+<div class="narrow">
+  <div class="elem_heading_lv2">
+		  <h2>
+			  関連情報
+		  </h2>
+  </div>
+  <div class="area_ref_goo_rec">
+	  <div class="xi_recommend_list elem_list_news var_border_top var_link_black" style="display: none;">
+		  <ul>
+			  <li class="xi_rec_clone_def jetro_xi_related_article_readMore_40023311" style="display: none;">
+				  <p>
+				  <span class="cate font_gray font12">
+
+				  </span><br>
+					  <a href="javascript:void(0);">dummy</a><span class="pubdate"></span>
+				  </p>
+			  </li>
+		  </ul>
+		  <div class="linkBox jetro_xi_related_article_readMore_40023311_btn related_article">
+			  <a href="javascript:readMore40023311();" class="var_mini var_more pt0 " style="border-radius: 17px;"><span>もっと見る</span></a>
+		  </div>
+	  </div>
+  </div>
+</div>
+<!-- related_article_plugin end -->
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock40009816">
+						
+			</div>
+			<div class="area_related pbNested pbNestedWrapper "  id="pbBlock20523952">
+								<div class="pbNested " >
+			<div class="pbNested pbNestedWrapper "  id="pbBlock24100766">
+						<div class="questionnaire_area"></div>
+			</div>
+		</div>
+
+			</div>
+		</div>
+
+			</div>
+			<div class="  pbNested pbNestedWrapper "  id="pbBlock40584961">
+								<div class="pbNested " >
+			<div class="biznews_contact pbNested pbNestedWrapper "  id="pbBlock589323">
+						<div class="pbBlock pbBlockBase">
+    <div>
+        <!--<div id="biznews_contact">
+    <div class="elem_heading_lv2">
+        <h2>
+            ご質問・お問い合わせ
+        </h2>
+    </div>
+    <div class="elem_content_divide_block">
+        <div class="content_divide_col2 elem_content_divide_block_pad">
+            <div class="elem_content_divide_box pb10">
+                <div class="elem_heading_lv3 jtrcom_border">
+                    <h3>
+                        記事に関するお問い合わせ
+                    </h3>
+                </div>
+                <div class="linkBox">
+                    <a style="opacity: 1;" class="var_small" href="/form5/pub/ora2/j-tanshin" target="_blank" rel="noopener"><span>お問い合わせフォーム<img src="/library/icons/icon_nwindow_w.png" alt="新しいウィンドウで開きます" class="icon_external" title="" width="17" height="12"></span></a>
+                </div>
+            </div>
+            <div class="elem_content_divide_box">
+                <div class="elem_heading_lv3 jtrcom_border">
+                    <h3>
+                        ビジネス短信の詳細検索等のご利用について
+                    </h3>
+                </div>
+                <div class="elem_paragraph pb5">
+                    <p class="text">
+                        <a href="/members/" class="witharrow">ジェトロ・メンバーズ</a>
+                    </p>
+                    <p class="text">
+                        メンバーズ・サービスデスク（会員サービス班）<br>
+                        E-mail：jmember@jetro.go.jp
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>-->
+    </div>
+</div>
+			</div>
+		</div>
+
+			</div>
+			<div class="temp_Biznews01 pbNested pbNestedWrapper "  id="pbBlock40584958">
+								<div class="pbNested " >
+		</div>
+
+			</div>
+		</div>
+	</div>
+
+</div></div></div><div id="footerArea" class="pbFooterArea Footer_wrap">
+	<div id="area4" class="pbArea ">
+		<div class="pbNested " >
+			<div class="fotter_menu  pbNested pbNestedWrapper "  id="pbBlock18347385">
+								<div class="pbNested " >
+			<div class="pbNested pbNestedWrapper "  id="pbBlock30948710">
+						<div class="jtrWidth960">
+<div id="pbBlockToJtr30948710" >
+<div class="jbtn pb10 block_right">
+    <ul>
+        <li class="pc_only">
+            <a class="jtrPrint" href="#"><img src="/library/icons/bt/pr.png" title="" alt="印刷する" width="25" height="25"></a>
+        </li>
+        <li>
+            <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=WTO%E3%80%81%E3%82%BF%E3%82%A4%E3%81%AE%E9%96%A2%E7%A8%8E%E3%83%BB%E5%A4%96%E8%B3%87%E8%A6%8F%E5%88%B6%E3%82%92%E6%8C%87%E6%91%98%E3%80%81OECD%E5%8A%A0%E7%9B%9F%E3%81%AB%E6%9C%9F%E5%BE%85%E7%A4%BA%E3%81%99%28%E3%82%BF%E3%82%A4%29+%7C+%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E7%9F%AD%E4%BF%A1+%E2%80%95%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%81%AE%E6%B5%B7%E5%A4%96%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9+-+%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD&url=https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html', 'snsTwWindow', 'width=500, height=500, menubar=no, toolbar=no, scrollbars=yes'); return false;"><img src="/library/icons/bt/x.png" title="" alt="Xにツイートする（新しいウィンドウで開きます）" width="25" height="25"></a>
+        </li>
+        <li>
+            <a href="#" onclick="window.open('https://www.facebook.com/sharer.php?src=bm&t=WTO%E3%80%81%E3%82%BF%E3%82%A4%E3%81%AE%E9%96%A2%E7%A8%8E%E3%83%BB%E5%A4%96%E8%B3%87%E8%A6%8F%E5%88%B6%E3%82%92%E6%8C%87%E6%91%98%E3%80%81OECD%E5%8A%A0%E7%9B%9F%E3%81%AB%E6%9C%9F%E5%BE%85%E7%A4%BA%E3%81%99%28%E3%82%BF%E3%82%A4%29+%7C+%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E7%9F%AD%E4%BF%A1+%E2%80%95%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%81%AE%E6%B5%B7%E5%A4%96%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9+-+%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD&u=https%3A%2F%2Fwww.jetro.go.jp%2Fbiznews%2F2025%2F12%2F0d6899c0567152aa.html', 'snsFbWindow', 'width=500, height=500, menubar=no, toolbar=no, scrollbars=yes'); return false;"><img src="/library/icons/bt/fb.png" title="" alt="Facebookでシェアする（新しいウィンドウで開きます）" width="25" height="25"></a>
+        </li>
+        
+    </ul>
+</div>
+</div>
+</div>
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock1333965">
+						<div class="pageelem_topic_path"> 
+<ol> 
+    <li class="home"><a href="/"><img src="/library/new/common/content_images/icon/icon_home.gif" alt="サイトトップ" title=""></a></li> 
+ 
+ 
+    <li><a href="/biznews/">ビジネス短信 ―ジェトロの海外ニュース</a></li> 
+ 
+ 
+ 
+    <li>WTO、タイの関税・外資規制を指摘、OECD加盟に期待示す</li> 
+ 
+ 
+</ol> 
+</div> 
+
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock1333970">
+						<div class="pbBlock pbBlockBase">
+    <div>
+        <div class="new_footer" id="Footer">
+            <div class="ft_bottom" role="navigation" aria-label="フッターには4つのリストがあります。">
+                <div class="elem_content_divide_block">
+                    <div class="content_divide_col4 elem_content_divide_block_pad">
+                        <div class="elem_content_divide_box sp_only">
+                            <ul class="ftLink">
+                                <li>
+                                    <a href="/en/">Global Site</a>
+                                </li>
+                                <li>
+                                    <a href="/search_result.html">サイト内検索</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="elem_content_divide_box">
+                            <ul class="ftLink">
+                                <li>
+                                    <a href="/recruit/">採用情報</a>
+                                </li>
+                                <li>
+                                    <a href="/procurement/">調達情報</a>
+                                </li>
+                                <li>
+                                    <a href="/disclosure/">情報公開</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="elem_content_divide_box pl0 pr30">
+                            <ul class="ftLink">
+                                <li>
+                                    <a href="/contact/">お問い合わせ</a>
+                                </li>
+                                <li>
+                                    <a href="/legal.html">利用規約・免責事項</a>
+                                </li>
+                                <li>
+                                    <a href="/privacy.html">個人情報保護について</a>
+                                </li>
+                                <li>
+                                    <a href="/accessibility.html">ウェブアクセシビリティについて</a>
+                                </li>
+                                <li>
+                                    <a href="/sitemap.html">サイトマップ</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="elem_content_divide_box">
+                            <ul class="ftLink">
+                                <li class="button">
+                                    <div class="linkBox">
+                                        <a class="var_mini" href="http://www.ide.go.jp/Japanese" style="opacity: 1;" target="_blank" rel="noopener noreferrer"><span class="font12">ジェトロ・アジア経済研究所<img src="/library/icons/icon_blank_w.png" alt="外部サイトへ、新しいウィンドウで開きます" class="icon_external" height="12" width="17" title=""></span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="/jfoodo/">日本食品海外プロモーションセンター（JFOODO）</a>
+                                </li>
+                                <li>
+                                    <a href="/links.html">各種自治体・機関等へのリンク集</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="elem_content_divide_box">
+                            <ul class="ftLink">
+                                <li class="button">
+                                    <div class="linkBox">
+                                        <a class="var_mini" href="https://twitter.com/jetro_info" style="opacity: 1;" target="_blank" rel="noopener noreferrer"><span class="font12"><img src="/library/icons/icon_ft_x_n.png" alt="" title="" width="20" height="20" class="pr5">X 公式アカウント<img src="/library/icons/icon_blank_w.png" alt="外部サイトへ、新しいウィンドウで開きます" class="icon_external" height="12" width="17" title=""></span></a>
+                                    </div>
+                                </li>
+                                <li class="button">
+                                    <div class="linkBox">
+                                        <a class="var_mini" href="https://www.youtube.com/user/jetrochannel" style="opacity: 1;" target="_blank" rel="noopener noreferrer"><span class="font12"><img src="/library/icons/icon_ft_yt_n.png" alt="" title="" width="20" height="20" class="pr5">YouTube 公式アカウント<img src="/library/icons/icon_blank_w.png" alt="外部サイトへ、新しいウィンドウで開きます" class="icon_external" height="12" width="17" title=""></span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="/legal/social.html">ソーシャルメディア運用ポリシー</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="copyright">
+                    <p lang="en">
+                        Copyright (C) 1995-2025 Japan External Trade Organization(JETRO). All rights reserved.
+                    </p>
+                    <p>
+                        独立行政法人日本貿易振興機構 （法人番号 2010405003693）
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="ft_top" style="position: fixed; top: auto; bottom: -100px;">
+            <ul>
+                <li>
+                    <a href="#page"><img title="" alt="ページの先頭に戻る" src="/library/new/common/img/btn_pagetop_new.gif"></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+			</div>
+		</div>
+
+			</div>
+			<div class="pbNested pbNestedWrapper "  id="pbBlock30797208">
+						
+			</div>
+		</div>
+	</div>
+
+</div></div>
+<script src="https://log.gs3.goo.ne.jp/js/jetro/gssa.js" ></script>
+<script>
+$(function() {
+	var url = parent != undefined ? parent.location.href : location.href;
+	$.ajax({
+		type: 'GET',
+		url: '/view_interface.php?className=XiSearchBeacon&token',
+		dataType: 'json'
+	}).done(function(data) {
+		var token = data.token;
+		$.ajax({
+			type: 'POST',
+			url: '/view_interface.php?className=XiSearchBeacon&beacon',
+			dataType: 'json',
+			data: {
+				'_token_': token,
+				'url': url
+			}
+		}).done(function(data) {
+			if (data.mode == 'click') {
+				GSSA.set("action", data.action);
+				GSSA.set("category", data.category);
+				GSSA.set("item", data.item);
+				GSSA.set("amount", data.amount);
+				GSSA.send();
+			}
+			else if (data.mode == 'search') {
+				GSSA.set('action', data.action);
+				GSSA.set('category', data.category);
+				GSSA.set('keyword', data.keyword);
+				GSSA.set('page', data.page);
+				GSSA.set('hits', $('[name=totalHit]').val());
+				GSSA.send();
+			}
+			else if (data.mode == 'other') {
+				GSSA.set('action', data.action);
+				GSSA.send();
+			}
+		});
+	});
+});
+</script>
+<script>
+$(function() {
+	var apiUrl = "https://jetro.gs3.goo.ne.jp/recommend";
+	var size = 30;
+	var initNum = 5;
+	var url = parent != undefined ? parent.location.href : location.href;
+	var tmap = {
+		'biznews': 'ビジネス短信',
+		'reports': '調査レポート',
+		'areareports': '地域・分析レポート',
+		'special': '地域・分析レポート',
+		'special_sub': '地域・分析レポート',
+		'qa': '貿易・投資相談Q&A',
+		'publications': '出版物',
+		'case_study': 'ジェトロ活用事例',
+		'tv': '世界は今',
+		'events': 'イベント情報',
+		'news': 'お知らせ・記者発表',
+		'webseminar': 'ウェビナー',
+		'topics': 'ジェトロ・トピックス',
+		'investnews': '対日投資お知らせ',
+		'webseminar_free': 'ウェビナー',
+		'l_trade': '輸出入に関する制度',
+		'l_fdi': '日本からの進出に関する制度',
+		'exportguide': '品目別輸出ガイド',
+		'services': 'ジェトロのサービス',
+	};
+	$.ajax({
+		url: apiUrl + "?id=0d6899c0567152aa&size=" + size + "&pattern=article_similarity",
+		dataType: "jsonp"
+	}).done(function(data, status, xhr) {
+		if (data.hits > 0) {
+			$.each(data.items, function(i, val) {
+				var thumFlg = false;
+				if (val.img != undefined && val.img != null && val.img != "") {
+					if (!val.img.match(/logo1200_630/)) {
+						thumFlg = true;
+					}
+				}
+				if (url.match(/\/biznews\/(.*)/) || url.match(/\/biz\/areareports\/(.*)/)) {
+					var cln = $('.xi_rec_clone_def').clone();
+					var d = '';
+					cln.find('a').attr('href', val.url.replace(/^http?s:\/\/(.*?)\//, '/'));
+					if (val.publish_date && val.contents_type != 'services') {
+						d = val.publish_date.substr(0, 4);
+						d = d + '年' + val.publish_date.substr(4, 2);
+						d = d + '月' + val.publish_date.substr(6, 2);
+						d = d + '日';
+					}
+					var tag = 'その他';
+					if (tmap[val.contents_type]) {
+						tag = tmap[val.contents_type];
+						if (val.content_type == 'special' || val.content_type == 'special') {
+							if (val.keywords !== undefined) {
+								if (!val.keywords.includes('j_sensor')) {
+									tag = 'その他';
+								}
+							}
+							else {
+								tag = 'その他';
+							}
+						}
+					}
+					cln.find('.pubdate').html(d);
+					if (val.contents_type == 'l_fdi' || val.contents_type ==  'l_trade') {
+						var m = val.title.match(/\| (.*?) -/);
+						cln.find('a').html(val.title.replace(/\|.*/i, '') + '\(' + m[1] + '\) ');
+					}
+					else {
+						cln.find('a').html(val.title.replace(/\|.*/i, ''));
+					}
+					cln.find('.cate').html(tag);
+					cln.removeClass('xi_rec_clone_def');
+					if (initNum > 0) {
+						cln.show();
+					}
+					initNum--;
+					if (initNum == 0) {
+						cln.addClass('noborder');
+					}
+					$('.xi_recommend_list > ul').append(cln);
+				}
+			});
+			$('.xi_rec_clone_thumb').remove();
+			$('.xi_rec_clone_def').remove();
+			if (initNum >= 0) {
+				jQuery(".jetro_xi_related_article_readMore_40023311_btn").remove();
+				jQuery(".jetro_xi_related_article_readMore_40023311").removeClass("noborder");
+			}
+			$(".xi_recommend_list").show();
+			$(".xi_recommend_list_title").show();
+			$(".area_ref_goo_rec").prev('.elem_heading_lv2').show();
+		}
+		else {
+			$(".area_ref_goo_rec").prev('.elem_heading_lv2').hide();
+			$('.area_ref').removeAttr('style');
+		}
+	}).fail(function (jqXHR, textStatus, errorThrown) {
+		console.log(jqXHR);
+	});
+});
+</script>
+<script>
+	jQuery(function() {
+		if (jQuery("#pbBlock40023311").prev().hasClass("PLUGIN_XiGooRecommend")) {
+		}
+	});
+
+	function readMore40023311() {
+		jQuery(".jetro_xi_related_article_readMore_40023311").show();
+		jQuery(".jetro_xi_related_article_readMore_40023311_btn").remove();
+		jQuery(".jetro_xi_related_article_readMore_40023311").removeClass("noborder");
+		jQuery(".jetro_xi_related_th_40023311").attr("rowSpan", 30);
+		var i = 0;
+		jQuery(".xi_recommend_list > ul > li").each(function() {
+			if (5 ==i) {
+				$(this).find('a').focus();
+				return false;
+			}
+			i++;
+		});
+	}
+</script>
+
+<script>
+$(function () {
+	$.ajax({
+		type: "POST",
+		url: "/view_interface.php?wim=mypagebutton",
+		data: {
+			className: "XiMyPageReadlaterButton",
+			page_block_id: 30948712,
+			page_id: 551097,
+			m: "html", 
+		},
+		dataType: 'html',
+	}).done(function(r) {
+		$('.mypage_button_data').html(r);
+		$('.add_unread_data').on('click', function() {
+			var url = location.href;
+			var data = {
+				className: "XiMyPageReadlater",
+				page_block_id: 30266664,
+				m: "add", 
+				url: url,
+				_token_: $(this).data('token')
+			};
+			$.ajax({
+				type: "POST",
+				url: "/view_interface.php",
+				data: data,
+				dataType: 'json',
+			}).done(function(r){
+				if (r.status == "ok") {
+					$(".mypage_save").fadeIn(200).delay(2000).fadeOut(1000);
+				}
+				else {
+					if (r.m == 0) {
+						$(".mypage_save").find(".text_1").html("エラー");
+						$(".mypage_save").find(".text_2").html(r.data);
+						$(".mypage_save").find(".mypage_link").html("");
+						$(".mypage_save").fadeIn(200).delay(2000).fadeOut(1000);
+					}
+					else {
+						$(".mypage_save").find(".text_1").hide();
+						$(".mypage_save").find(".text_2").html(r.data);
+						$(".mypage_save").fadeIn(200).delay(2000).fadeOut(1000);
+					}
+				}
+			});
+		});
+
+		$('.add_unread_data').on('keydown', function(e) {
+			if (e.keyCode === 13) {
+				$('.add_unread_data').on("click");
+			}
+		});
+		
+		$('.jtrPrint').on('click', function() {
+			window.print();
+		});
+	});
+});
+$("#pbBlock30948712").css("overflow", "visible");
+$("#pbBlock30948712").parents("[id^=pbBlock]").each(function(i) {
+	$(this).css("overflow","visible");
+});
+</script>
+<script>
+$(function() {
+	var url = '/view_interface.php?wim=relatedarticle';
+	$.ajax({
+		type: "POST",
+		url: url,
+		data : {
+			className : 'XiRelatedArticle',
+			blockId : '40023310',
+			pageId : '551097',
+			ut : parseInt((new Date)/1000)
+		},
+		dataType : 'html',
+	}).done(function(res) {
+		$("#xi_related_40023310").empty();
+		//$("#xi_related_40023310").removeAttr('style');
+		$("#xi_related_40023310").css('width', '');
+		$("#xi_related_40023310").append(res);
+	}).fail(function(XMLHttpRequest, textStatus, errorThrown){;
+		//alert(errorThrown);
+	})
+});
+</script>
+
+<script >
+// default header start
+</script>
+<script  src="/library/new/common/asset_js/221216/jquery.tile.js"></script>
+<script  src="/library/new/common/js/jquery.cookie.js"></script>
+<script  src="/library/new/common/asset_js/250902/jquery.common.js"></script>
+<script >
+$(function() {
+	var url = '/view_interface.php?className=XiMyPageRecently&t=' + (+new Date());
+	var path = location.pathname;
+	$.ajax({
+		type: "POST",
+		url : url,
+		data : {
+			mode : "cac",
+			path : path
+		},
+		dataType : 'json',
+		beforeSend: function(xhr) {
+			xhr.setRequestHeader('Pragma', 'no-cache');
+			xhr.setRequestHeader('Cache-Control', 'no-cache');
+			xhr.setRequestHeader('If-Modified-Since', 'Thu, 01 Jun 1970 00:00:00 GMT');
+		}
+	}).done(function(res) {
+		//
+	}).fail(function(XMLHttpRequest, textStatus, errorThrown) {
+		//
+	});
+});
+</script>
+<script  src="/library/new/common/asset_js/250902/common.js"></script>
+<script >
+// default header end
+</script>
+</body>
+</html>

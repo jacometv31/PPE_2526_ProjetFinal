@@ -1,0 +1,764 @@
+   #[1]alternate
+
+   [2]コンテンツにスキップする
+
+   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-M29XPPM
+
+   外国為替証拠金（FX）及びCFD取引はレバレッジ取引であり、元本や利益が保証されていません
+   外国為替証拠金（FX）及びCFD取引はレバレッジ取引であり、元本や利益が保証されていません
+
+   [ ] その他のサービス
+     * [4]ホーム
+     * [5]機関投資家向けサイト
+     *
+          + [6]IGアカデミー
+          + [7]ヘルプ&サポート
+
+     * [8]受信メール
+     * [9]IGアカデミー
+     * [10]ヘルプ&サポート
+
+     * [11]ログイン
+     * [12]口座開設
+
+   [ ] お客様のアカウント
+     *
+     * [13]My IG
+     *
+          + [14]受信メール
+          + [15]IGアカデミー
+          + [16]ヘルプ&サポート
+     *
+          + [17]ホーム
+          + [18]機関投資家向けサイト
+     * [19]ログアウト
+
+   (BUTTON) Open
+
+   (BUTTON)
+     * [20]IG証券について
+       (BUTTON) Show submenu for IG証券について
+       (BUTTON) メインメニュー (BUTTON)
+       IG証券の魅力
+          + [21]IGアリーナ
+          + [22]快適なお取り引きのために
+          + [23]安心の信託保全
+          + [24]IGの収益源
+          + [25]開示情報
+       最新情報・お知らせ
+          + [26]ニュースリリース
+               o [27]2017 - 2020
+               o [28]2016
+               o [29]2015
+               o [30]2014
+               o [31]2013
+          + [32]システムレポート
+          + [33]マーケット状況
+          + [34]メンテナンス情報
+       最先端グローバル・アリーナ「IGアリーナ」
+       [35]詳しくはこちら
+     * [36]ご利用案内
+       (BUTTON) Show submenu for ご利用案内
+       (BUTTON) メインメニュー (BUTTON)
+       取引の基本
+          + [37]お取引開始にあたって
+          + [38]取引ルール
+          + [39]取引コスト
+               o [40]維持証拠金率
+               o [41]強制ロスカット
+          + [42]IG証券 始め方ガイド
+       口座開設
+          + [43]口座開設
+               o [44]本人確認書類をご準備いただく際の注意点
+          + [45]デモ口座開設
+       プロ・トレーダーの皆様へ
+          + [46]IG 1% Clubのご案内
+          + [47]取引連動型キャッシュバック・プログラム
+          + [48]法人口座開設
+       キャンペーン情報
+          + [49]新規口座開設キャンペーン
+       注目の株式ノックアウト・オプション取引
+       [50]詳しくはこちら
+     * [51]取り扱い金融商品
+       (BUTTON) Show submenu for 取り扱い金融商品
+       (BUTTON) メインメニュー (BUTTON)
+       FX/CFD取引
+          + [52]FX
+               o [53]FXとその仕組み
+               o [54]FX取引の始め方
+               o [55]FX取引ガイド集
+               o [56]FXのメリット
+               o [57]FX注文画面の使い方
+               o [58]FX レート 一覧
+               o [59]スワップポイント
+          + [60]株式CFD
+               o [61]株（株式）の仕組み
+               o [62]株取引の始め方
+               o [63]米国株の24時間取引
+               o [64]テーマ株
+               o [65]株価・株式CFD銘柄検索
+               o [66]お取引の前に
+          + [67]株価指数CFD
+               o [68]株価指数とは？ 株価指数に投資する方法
+               o [69]日経平均株価とは？
+               o [70]株価指数CFD レート 一覧
+          + [71]商品CFD
+               o [72]商品取引の仕組みと取引方法
+               o [73]原油CFD
+               o [74]金取引
+               o [75]銀取引
+               o [76]プラチナ取引
+               o [77]商品CFD レート 一覧
+          + [78]上場投資商品 CFD
+               o [79]ETF（上場投資信託）とその仕組み
+          + [80]債券先物CFD
+               o [81]債券の仕組みと特徴
+               o [82]債券先物CFDの取引方法
+               o [83]国債の仕組みと取引方法
+               o [84]債券先物CFD銘柄検索
+          + [85]暗号資産関連
+               o [86]暗号資産ETF
+               o [87]暗号資産株式インデックス
+          + [88]バラエティ(VIX他)
+               o [89]ボラティリティ指数
+       オプション取引
+          + [90]ノックアウト・オプション
+               o [91]株式ノックアウト・オプション
+          + [92]バイナリーオプション
+               o [93]バイナリーオプションとその仕組み
+               o [94]バイナリーオプションの始め方と口座開設について
+               o [95]オプション取引とその仕組み
+               o [96]バイナリーオプション取引概要
+               o [97]知識確認テスト解説
+               o [98]バイナリー月次取引実績
+       IG証券の法人口座
+       [99]詳しくはこちら
+     * [100]取引システム
+       (BUTTON) Show submenu for 取引システム
+       (BUTTON) メインメニュー (BUTTON)
+       IG証券の取引システム
+          + [101]トレーディング・アプリ
+          + [102]取引システム機能比較
+          + [103]アラート機能
+          + [104]チャート機能
+          + [105]IG証券の約定力
+          + [106]ProRealTimeチャート
+       ヘルプ＆サポート
+       [107]詳しくはこちら
+     * [108]マーケット情報＆分析
+       (BUTTON) Show submenu for マーケット情報＆分析
+       (BUTTON) メインメニュー (BUTTON)
+       マーケット情報
+          + [109]ニュース＆分析レポート
+          + [110]モーニングメール
+          + [111]世界の政治経済イベント・注目市場
+               o [112]FOMC（米連邦公開市場委員会）
+               o [113]米雇用統計
+               o [114]日銀 金融政策決定会合
+               o [115]OPEC総会
+               o [116]米国企業 決算発表
+               o [117]ECB理事会
+               o [118]米国株の分析レポート
+               o [119]中国マーケット特集：IG証券の中国銘柄取引
+               o [120]ブレグジットへの備え方
+          + [121]マーケットデータ
+          + [122]経済カレンダー
+          + [123]アナリストの紹介
+       トレード分析
+          + [124]トレード・アナリティクス
+          + [125]トレーディングダイアリー
+       公式YouTubeチャンネル
+       [126]詳しくはこちら
+     * [127]学習コンテンツ
+       (BUTTON) Show submenu for 学習コンテンツ
+       (BUTTON) メインメニュー (BUTTON)
+       初級・中級編
+          + [128]IGアカデミー
+          + [129]リスク管理について
+               o [130]レバレッジとは
+               o [131]逆指値注文
+               o [132]指値注文
+          + [133]金融・経済用語集
+          + [134]CFD取引の基本
+               o [135]CFD取引とその仕組み
+               o [136]CFDの取引方法
+               o [137]CFD取引の魅力とリスク
+          + [138]知っておくべきトレードの基本
+               o [139]トレードとその仕組み
+               o [140]トレードの始め方・総合ガイド
+               o [141]初心者のためのトレード入門ガイド
+               o [142]トレードと投資の比較
+               o [143]デリバティブ（金融派生商品）の仕組みと取引方法
+               o [144]日本でオンライントレードを始める方法
+               o [145]証券口座を開設する方法
+               o [146]トレードアプリの選び方
+               o [147]証拠金取引とは？ 証拠金取引を始める方法
+       上級編
+          + [148]投資戦略ソリューション
+          + [149]取引戦略レポート
+       トレーダーの心理学
+       [150]詳しくはこちら
+
+     * [151]ホーム
+     * [152]機関投資家向けサイト
+
+     * [153]受信メール
+     * [154]IGアカデミー
+     * [155]ヘルプ&サポート
+
+   [156]口座開設
+   [157]口座開設
+   (BUTTON)
+   検索 ____________________ Submit
+   検索結果がみつかりませんでした
+
+   [158]検索結果を表示
+   1 2 3 4 5 6 7 8 9 10
+   Related search: [159]Market Data
+   Market Data Type of market
+   [160]See all Market data search results >
+     * [161]ニュース＆分析レポート 米国株に失速リスク　S&amp;P500は2026年8％高予想　利下げ期待も
+
+米国株に失速リスク　S&P500は2026年8％高予想　利下げ期待も
+
+   S&P500は年間上昇率が18％に到達。一方、2026年は8％高に留まると予想されているが、FRBの利下げ加速への期待もある。
+   米国株に失速リスク　S&P500は2026年8％高予想　利下げ期待も 出所：ブルームバーグ
+   [162]Indices [163]S&P 500 [164]連邦準備制度 [165]アメリカ [166]政策金利
+   (BUTTON)
+
+   Written by
+   小雲 規生
+
+   [167]小雲 規生
+
+   シニアファイナンシャルライター/Senior Financial Writer
+   Published on: 2025-12-27T02:12:32+0000
+
+   2026年のアメリカの株式市場は失速リスクにさられれそうだ。S&P500種株価指数の26日の終値は1週間前比1.40％高で4週ぶりの高い伸び。
+   2024年末比での伸び率は18％程度となり、株式市場のムードは明るさを維持している。一方、S&P500の2026年の伸び率は8％程度が予想され
+   ており、株価上昇の勢いが削がれるとの見方が強い。人工知能（AI）ブームの継続性をめぐる疑念が消えない中、企業の収益力の成長ペースが鈍化すること
+   への不安もありそうだ。実際、大手ハイテク株の株価は2025年の減速が目立ち、2026年には実体経済が悪化するとの懸念も拭えない。ただ、2026
+   年は米連邦準備制度理事会（FRB）が利下げに前向きになることが想定され、株式市場のカンフル剤として機能する可能性もある。FRBの利下げが株式市
+   場での楽観ムードを下支えした場合には、S&P500の上昇ペースが維持される展開もありえる。
+
+アメリカのS&P500は週次1.40％高　4週ぶりの高い上昇率
+
+   S&P500（[168]SPX）の26日の終値は前日比では0.03％安で、6営業日ぶりの値下がり。ブルームバーグによると、週次での上昇は2週連
+   続で、上昇率（1.40％高）は[169]FRBの利下げへの期待が再燃した11月24-28日週（3.73％高）以来の大きさだった。2024年末比
+   での伸び率は17.82％高で、[170]3年ぶりの20％割れが近づいているが、株式市場のムードは明るい。
+   S&P500とアメリカの長期金利の推移のグラフ
+
+S&P500は2026年に7.71％高の予想　企業収益の期待が縮小か
+
+   一方、金融市場では2026年のS&P500の値動きをめぐる楽観ムードは感じられない。ブルームバーグによると、S&P500の2026年末の水準に
+   関する市場予想の平均値は7464.18で、26日終値から7.71％の上昇が見込まれているにすぎない。リーマン・ショックに伴う株式市場の急変動が
+   落ち着いた2010年以降の年次騰落率の平均（12.94％高）を下回る低調な上昇が想定されている形だ。
+   S&P500と予想1株当たり利益の推移のグラフ
+
+   S&P500への期待が盛り上がらない背景には、これまで膨らんできた企業収益への期待が縮小するリスクがある。ブルームバーグによると、S&P500
+   構成銘柄の今後12か月の予想1株当たり利益（EPS）は26日段階で300ドルで、株式市場でのAIブームが本格化した2023年からの3年間で34
+   ％程度上昇。これに対してS&P500の直近12か月の予想1株当たり利益は269ドル程度で、3年間での上昇率は20％程度にとどまる。予想1株当た
+   り利益と実績1株当たり利益の差は30.64ドルで、2023年以降でほぼ最大だ。今後の大手ハイテク企業の決算発表などを経て、予想収益への期待が実
+   績に沿った水準に修正されていけば、2026年のS&P500の上昇ペースが鈍化することも考えられる。
+   S&P500と予想EPSと実績EPSの推移のグラフ
+
+マグニフィセント・セブンの株価上昇は減速　2026年は実体経済悪化の恐れも
+
+   実際、S&P500への影響度が高い「マグニフィセント・セブン」と呼ばれる大手ハイテク7社の株価は2025年は減速が目立った。26日終値時点での
+   年間騰落率は、アマゾン・コム（[171]AMZN）とアップル（[172]AAPL）が10％割れ。テスラ（[173]TSLA）、マイクロソフト（
+   [174]MSFT）、メタ・プラットフォームズ（[175]META）が20％割れだ。2024年に株価が2.7倍になったエヌビディア（[176]
+   NVDA）も[177]2025年は4割高程度に留まっている。2024年の年間騰落率は、約12％高だったマイクロソフトを除く6社が30％超の値上
+   がりを記録していた。
+   アルファベット、エヌビディア、アップル、テスラ、マイクロソフト、メタ・プラットフォームズ、アマゾン・コムの株価の推移のグラフ
+
+   また、2026年は米国の実体経済の悪化がS&P500の逆風になる可能性がある。16日に発表された[178]11月の雇用統計では失業率が4.6％
+   となり、2021年8月（4.7％）以来の高さに到達。ブルームバーグがまとめた市場予想の4.5％を超える悪さとなった。23日に発表された2025
+   年7-9月期のGDP速報値は個人消費の伸びが原動力となって[179]実質成長率が前期比年率4.3％に加速したが、高所得者の消費への依存度が大き
+   いとの指摘も多い。
+
+次期FRB議長は年内にも指名か　利下げに前向きな情報発信でS&P500上昇も
+
+   ただ、2026年はFRBが利下げに前向きになることがS&P500を押し上げることも考えらえる。ドナルド・トランプ大統領は5月で任期が切れるジェ
+   ローム・パウエル議長の後任に利下げに前向きな人物を指名することが確実視されており、年内にも人事が公表される可能性がある。
+
+   FRBの政策金利は10日の連邦公開市場委員会（FOMC）で3.50-3.75％（中間値3.625％）まで下げられ、2024年9月までの5.25
+   -5.50％から1.75％ポイント低くなっている。しかしトランプ氏はさらなる利下げを主張しており、FRBがFOMC後に示した経済見通しでは、2
+   026年までに4回の追加利下げを主張する参加者もいた。トランプ氏の指名を受けて9月に就任したスティーブン・マイラン理事とみられる。
+
+   ブルームバーグによると、26日の金融市場では2026年12月のFOMC後の政策金利の水準は3.066％と見込まれており、現状から少なくとも2回
+   の利下げが想定されている。トランプ氏が指名する次期FRB議長からの情報発信が利下げペースの加速を予感させれば、仮に企業業績への期待が縮小したと
+   しても、2026年のS&P500の上昇ペースが維持される可能性もありそうだ。
+   金融市場で見込まれるFRBの政策金利の見通しの推移のグラフ
+   (BUTTON)
+
+   本レポートはお客様への情報提供を目的としてのみ作成されたもので、当社の提供する金融商品・サービスその他の取引の勧誘を目的とした
+   ものではありません。本レポートに掲載された内容は当社の見解や予測を示すものでは無く、当社はその正確性、安全性を保証するものではありません。また
+   、掲載された価格、
+   数値、予測等の内容は予告なしに変更されることがあります。投資商品の選択、その他投資判断の最終決定は、お客様ご自身の判断でなさるようお願いいたし
+   ま す。本レポートの記載内容を原因とするお客様の直接あるいは間接的損失および損害については、当社は一切の責任を負うものではありません。
+   無断で複製、配布等の著作権法上の禁止行為に当たるご使用はご遠慮ください。
+
+IG証券の株価指数CFD
+
+     * 主要指数の24時間取引が可能
+     * 世界約30銘柄の株価指数を提供
+     * 株価指数をバイナリーオプションで取引
+
+   [180]詳しくはこちら
+     * [181]米国株、AIブームに疑念　S&P500急落　利下げ見通しに反転不安も
+       [182]小雲 規生, 作成日 : 2025-12-18T02:29:52+0000
+     * [183]米国株に経済指標リスク　S&P500続落　雇用統計とCPIで波乱も
+       [184]小雲 規生, 作成日 : 2025-12-16T01:51:52+0000
+     * [185]米国株、利下げ見通しに疑念の目　S&P500最高値　経済指標が焦点に
+       [186]小雲 規生, 作成日 : 2025-12-11T03:02:49+0000
+     * [187]米国株、利下げ見通しで最高値も　S&P500続伸　エヌビディア復調か
+       [188]小雲 規生, 作成日 : 2025-12-04T02:31:59+0000
+     * [189]S&P500は連日で最高値更新、連続の大幅利下げ期待高まる、しかしさえない経済指標は諸刃の剣に
+       [190]石川 順一, 作成日 : 2024-09-25T05:03:00+0100
+
+リアルタイムレート
+
+     * FX
+     * 株式CFD
+     * 株価指数CFD
+
+   liveprices.javascriptrequired
+
+   [191]FX銘柄リアルタイムレート一覧はこちら
+   liveprices.javascriptrequired
+
+   [192]株式CFD銘柄リアルタイムレート一覧はこちら
+   liveprices.javascriptrequired
+
+   [193]株価指数CFD銘柄リアルタイムレート一覧はこちら
+
+   ※上記レートは参考レートであり、取引が保証されるものではありません。株式のレートは少なくとも15分遅れとなっております。
+
+モーニングメール
+
+   ストラテジストによる「本日の予想レンジとトレンド」を毎朝※無料でお届け中！
+   デモ口座のみお持ちのお客さまには、2週間の期間限定での配信となります。受信を継続するにはライブ口座の開設をお願いいたします。
+   ※メール送信は基本的に月～金の平日を予定しておりますが、ストラテジストの都合により予告なく送信を行わない日がございますので、予めご了承ください
+   姓 ____________________
+   名 ____________________
+   Email ____________________
+
+   弊社の[194]個人情報保護方針・アクセスポリシーにご同意の上、申し込みください。
+   [ ] 商品情報の案内メールなどをご希望される方はこちらにチェックを入れて送信して下さい。
+   sourceType
+   locale
+   managingOffice
+   siteId
+   campaignId
+   送信
+
+こちらのコンテンツもお勧めです
+
+   [195]
+
+取引コスト
+
+   [196]
+
+IG証券について
+
+   [197]
+
+経済カレンダー
+
+   IG証券はお取引に際してお客様がご負担になるコストについて明確な情報を提供しています。
+
+   FX/バイナリーオプション/CFDのリーディングカンパニー。IG証券について詳しくはこちら
+
+   その日の重要な経済イベントが一目でわかるカレンダー。「予想値」、「前回値」、「発表結果」データの提供に加え、国名や影響度によるイベントのスクリ
+   ーニング機能も搭載。
+
+[198]IG証券について
+
+[199]マーケット情報＆分析
+
+[200]学習コンテンツ
+
+その他
+
+   [201]IG証券 ブランドサイト
+
+   [202]トレーダーの心理学
+
+[203]取り扱い金融商品
+
+   [204]FX
+
+   [205]株式CFD
+
+   [206]株価指数CFD
+
+   [207]商品CFD
+
+   [208]ETF CFD
+
+   [209]債券先物CFD
+
+   [210]バラエティ(VIX他)
+
+   [211]ノックアウト・オプション
+
+[212]ご利用案内
+
+   [213]お取引開始にあたって
+
+   [214]取引ルール
+
+   [215]取引コスト
+
+   [216]IG証券 始め方ガイド
+
+   [217]口座開設
+
+   [218]デモ口座開設
+
+   [219]IG 1% Clubメンバーシップ
+
+   [220]取引量連動型キャッシュバック・プログラム
+
+   [221]法人口座開設
+
+   [222]新規口座開設キャンペーン
+
+[223]取引システム
+
+   [224]トレーディング・アプリ
+
+   [225]取引システム機能比較
+
+   [226]アラート機能
+
+   [227]チャート機能
+
+   [228]IG証券の約定力
+
+   [229]ProRealTimeチャート
+
+[230]お問い合わせ
+
+   新規口座開設に関する
+   お問い合わせ
+   [231]0120-965-915 もしくは [232]sales.jp@ig.com
+
+   口座をお持ちのお客さま
+   [233]0120-257-734
+
+   各種オプション
+   お問い合わせ専用デスク
+   [234]0120-917-968
+
+   [235]IG証券 | [236]サイトマップ | [237]各種規定・方針 | [238]個人情報の取扱いについて | [239]Cooki
+   eについて | [240]お客さま本位の業務運営方針 | [241]カスタマーハラスメントに関する考え方 | [242]ヘルプ＆サポート | 
+   [243]IG証券について
+
+   IG証券をフォロー:
+
+   法令に基づく表記
+
+   ●外国為替証拠金（FX）及びCFD取引はレバレッジ取引であり、元本や利益が保証されていません。●ストップ注文及び強制ロスカット機能は、損失の限
+   定を保証するものではなく、外国為替、株式、株価指数、商品、債券等の相場急変等により証拠金以上の損失が発生する事もあります。●取引に必要な証拠金
+   （個人）FX：約定代金の4％以上、商品：同5％以上、株式：同20％以上、株価指数：同10％以上、債券：同2％以上、その他：同20％以上（法人）
+   銘柄ごとに異なります。取引画面にてご確認ください。ただしFXは一般社団法人金融先物取引業協会が算出した為替リスク想定比率以上となります。為替リ
+   スク想定比率は金融商品取引業等に関する内閣府令第117条第27項第1号に規定される定量的計算モデルを用い算出されます。（法・個人共）各種オプシ
+   ョン：当該取引の最大損失額。●未決オーダーにも証拠金が必要です。●売値と買値には差があり、拡大することがあります。●各先物CFD・オプション取
+   引には取引期限があります。●FX・CFD取引の手数料等は次の通りです。株式CFD取引・両替・出金の各手数料、ライブデータ・チャートの各利用料、
+   スワップポイント、調達コスト、配当金相当額、借株コスト、ノースリッページ注文保証料、ノックアウトプレミアム。●契約締結前交付書面を熟読し十分に
+   仕組みやリスクをご理解頂いた上で、ご自身の判断にてお取引をお願い致します。●弊社企業情報は、本店又は弊社Web及び日本商品先物取引協会Webに
+   て開示されております。●弊社お客さま窓口 0120-257-734、日本商品先物取引協会相談センター 03-3664-6243
+
+   金融商品取引業 関東財務局長（金商）第255号 商品先物取引業
+   加入：日本証券業協会 一般社団法人金融先物取引業協会 会員番号1168 日本商品先物取引協会
+
+   IG証券株式会社 IG Securities Limited.
+
+   [244]金融庁 | [245]日本証券業協会 | [246]金融先物取引業協会 | [247]金融商品取引苦情相談窓口のご案内 |
+   [248]証券取引等監視委員会＜情報受付＞ | [249]日本商品先物取引協会 | [250]商品先物取引苦情相談窓口のご案内
+   [251][26OgoI.svg]
+   © 2003-2025
+
+   [252]IG Group | [253]採用情報
+   (BUTTON)
+
+Références
+
+   Liens visibles :
+   1. https://www.ig.com/jp/feeds/news-and-trade-ideas
+   2. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227#main-content
+   3. https://www.googletagmanager.com/ns.html?id=GTM-M29XPPM
+   4. https://www.ig.com/jp
+   5. https://www.ig.com/jp/prime
+   6. https://www.ig.com/jp/learn-to-trade/ig-academy
+   7. https://www.ig.com/jp/help-and-support
+   8. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+   9. https://www.ig.com/jp/learn-to-trade/ig-academy
+  10. https://www.ig.com/jp/help-and-support
+  11. https://www.ig.com/jp/login
+  12. https://www.ig.com/jp/application-form
+  13. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+  14. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+  15. https://www.ig.com/jp/learn-to-trade/ig-academy
+  16. https://www.ig.com/jp/help-and-support
+  17. https://www.ig.com/jp
+  18. https://www.ig.com/jp/prime
+  19. https://deal.ig.com/dealing/pd/websiteLogout.htm
+  20. https://www.ig.com/jp/about-ig
+  21. https://www.ig.com/jp/about-ig_arena
+  22. https://www.ig.com/jp/how-we-support-you
+  23. https://www.ig.com/jp/what-we-do-with-money
+  24. https://www.ig.com/jp/how-does-ig-make-money
+  25. https://www.ig.com/jp/financial
+  26. https://www.ig.com/jp/news
+  27. https://www.ig.com/jp/back-number2017
+  28. https://www.ig.com/jp/back-number2016
+  29. https://www.ig.com/jp/back-number2015
+  30. https://www.ig.com/jp/back-number2014
+  31. https://www.ig.com/jp/back-number2013
+  32. https://www.ig.com/jp/system-report
+  33. https://www.ig.com/jp/market-close
+  34. https://www.ig.com/jp/maintenance
+  35. https://www.ig.com/jp/about-ig_arena
+  36. https://www.ig.com/jp/services
+  37. https://www.ig.com/jp/trading-platforms/fund-your-account
+  38. https://www.ig.com/jp/product-details
+  39. https://www.ig.com/jp/our-charges
+  40. https://www.ig.com/jp/our-charges/margin-rates
+  41. https://www.ig.com/jp/our-charges/margin-calls
+  42. https://www.ig.com/jp/get-started
+  43. https://www.ig.com/jp/create-account
+  44. https://www.ig.com/jp/create-account/id-verification-documents
+  45. https://www.ig.com/jp/demo-account
+  46. https://www.ig.com/jp/premium-services
+  47. https://www.ig.com/jp/campaign
+  48. https://www.ig.com/jp/professional-corporate-trader
+  49. https://www.ig.com/jp/campaign-index
+  50. https://www.ig.com/jp/knock-outs/equity_ko
+  51. https://www.ig.com/jp/markets-to-trade
+  52. https://www.ig.com/jp/forex
+  53. https://www.ig.com/jp/forex/what-is-forex-and-how-does-it-work
+  54. https://www.ig.com/jp/forex/how-to-trade-forex
+  55. https://www.ig.com/jp/forex/fx-need-to-knows
+  56. https://www.ig.com/jp/forex/benefits-of-forex-trading
+  57. https://www.ig.com/jp/forex/types-of-order
+  58. https://www.ig.com/jp/forex/markets-forex
+  59. https://www.ig.com/jp/forex/swap-point
+  60. https://www.ig.com/jp/shares
+  61. https://www.ig.com/jp/shares/what-are-shares
+  62. https://www.ig.com/jp/shares/how-to-trade-stocks
+  63. https://www.ig.com/jp/shares/24h-us-trading
+  64. https://www.ig.com/jp/shares/thematic-basket
+  65. https://www.ig.com/jp/shares/markets-shares
+  66. https://www.ig.com/jp/shares/data-feeds
+  67. https://www.ig.com/jp/indices
+  68. https://www.ig.com/jp/indices/what-are-indices-how-to-trade-them
+  69. https://www.ig.com/jp/indices/what-is-nikkei-how-to-invest
+  70. https://www.ig.com/jp/indices/markets-indices
+  71. https://www.ig.com/jp/commodities
+  72. https://www.ig.com/jp/commodities/what-are-commodities-how-to-trade-them
+  73. https://www.ig.com/jp/commodities/oil
+  74. https://www.ig.com/jp/commodities/gold-trading
+  75. https://www.ig.com/jp/commodities/silver-trading
+  76. https://www.ig.com/jp/commodities/platinum-trading
+  77. https://www.ig.com/jp/commodities/markets-commodities
+  78. https://www.ig.com/jp/shares/etfs
+  79. https://www.ig.com/jp/shares/etfs/what-are-etfs-how-they-work
+  80. https://www.ig.com/jp/bonds
+  81. https://www.ig.com/jp/bonds/what-are-bonds
+  82. https://www.ig.com/jp/bonds/how-to-trade-bonds
+  83. https://www.ig.com/jp/bonds/how-to-trade-government-bonds
+  84. https://www.ig.com/jp/bonds/markets-bonds
+  85. https://www.ig.com/jp/crypto
+  86. https://www.ig.com/jp/crypto/crypto-etf
+  87. https://www.ig.com/jp/crypto/crypto-stocks-index
+  88. https://www.ig.com/jp/other-markets
+  89. https://www.ig.com/jp/other-markets/vix
+  90. https://www.ig.com/jp/knock-outs
+  91. https://www.ig.com/jp/knock-outs/equity_ko
+  92. https://www.ig.com/jp/binaries-trading
+  93. https://www.ig.com/jp/binaries-trading/what-are-binary-options
+  94. https://www.ig.com/jp/binaries-trading/how-to-start-binary-options
+  95. https://www.ig.com/jp/binaries-trading/what-are-options-trading-how-does-it-work
+  96. https://www.ig.com/jp/binaries-trading/bo-summary
+  97. https://www.ig.com/jp/binaries-trading/bo-test
+  98. https://www.ig.com/jp/binaries-trading/bo-monthly-trading-performance
+  99. https://www.ig.com/jp/professional-corporate-trader
+ 100. https://www.ig.com/jp/trading-platforms
+ 101. https://www.ig.com/jp/trading-platforms/trading-apps
+ 102. https://www.ig.com/jp/trading-platforms/compare-trading-platforms
+ 103. https://www.ig.com/jp/trading-platforms/trading-alerts
+ 104. https://www.ig.com/jp/trading-platforms/trading-charts
+ 105. https://www.ig.com/jp/trading-platforms/pricing-execution
+ 106. https://www.ig.com/jp/trading-platforms/prorealtime
+ 107. https://www.ig.com/jp/help-and-support
+ 108. https://www.ig.com/jp/market-data-and-analysis
+ 109. https://www.ig.com/jp/news-and-trade-ideas
+ 110. https://www.ig.com/jp/morning-call
+ 111. https://www.ig.com/jp/financial-events
+ 112. https://www.ig.com/jp/financial-events/fomc-meeting-announcement
+ 113. https://www.ig.com/jp/market-news-and-analysis/non-farm-payrolls
+ 114. https://www.ig.com/jp/financial-events/bank-of-japan
+ 115. https://www.ig.com/jp/financial-events/opec
+ 116. https://www.ig.com/jp/financial-events/earnings-season
+ 117. https://www.ig.com/jp/financial-events/european-central-bank-meeting
+ 118. https://www.ig.com/jp/us-stock-market-analysis
+ 119. https://www.ig.com/jp/china
+ 120. https://www.ig.com/jp/brexit
+ 121. https://www.ig.com/jp/market-data
+ 122. https://www.ig.com/jp/economic-calendar
+ 123. https://www.ig.com/jp/speakers
+ 124. https://www.ig.com/jp/trade-analytics-tool
+ 125. https://www.ig.com/jp/ig-diary
+ 126. https://www.youtube.com/@IGJapan
+ 127. https://www.ig.com/jp/market-training
+ 128. https://www.ig.com/jp/learn-to-trade/ig-academy
+ 129. https://www.ig.com/jp/risk-management
+ 130. https://www.ig.com/jp/risk-management/what-is-leverage
+ 131. https://www.ig.com/jp/risk-management/stop-orders
+ 132. https://www.ig.com/jp/risk-management/limit-order
+ 133. https://www.ig.com/jp/glossary-trading-terms
+ 134. https://www.ig.com/jp/cfd-trading
+ 135. https://www.ig.com/jp/cfd-trading/what-is-cfd-trading-how-does-it-work
+ 136. https://www.ig.com/jp/cfd-trading/how-to-trade-cfds-with-ig
+ 137. https://www.ig.com/jp/cfd-trading/benefits-of-trading-cfds
+ 138. https://www.ig.com/jp/trading-need-to-knows
+ 139. https://www.ig.com/jp/trading-need-to-knows/what-is-trading
+ 140. https://www.ig.com/jp/trading-need-to-knows/how-to-get-into-trading
+ 141. https://www.ig.com/jp/trading-need-to-knows/trading-for-beginners
+ 142. https://www.ig.com/jp/trading-need-to-knows/trading-vs-investing
+ 143. https://www.ig.com/jp/trading-need-to-knows/what-are-derivatives
+ 144. https://www.ig.com/jp/trading-need-to-knows/how-to-trade-online
+ 145. https://www.ig.com/jp/trading-need-to-knows/what-is-brokerage-account-how-to-open
+ 146. https://www.ig.com/jp/trading-need-to-knows/how-to-choose-trading-app
+ 147. https://www.ig.com/jp/trading-need-to-knows/what-is-margin-trading
+ 148. https://www.ig.com/jp/solutions
+ 149. https://www.ig.com/jp/trading-strategies
+ 150. https://www.ig.com/jp/research/psychology-in-trading
+ 151. https://www.ig.com/jp
+ 152. https://www.ig.com/jp/prime
+ 153. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+ 154. https://www.ig.com/jp/learn-to-trade/ig-academy
+ 155. https://www.ig.com/jp/help-and-support
+ 156. https://www.ig.com/jp/application-form
+ 157. https://www.ig.com/jp/application-form
+ 158. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+ 159. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+ 160. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+ 161. https://www.ig.com/jp/news-and-trade-ideas
+ 162. https://www.ig.com/jp/tag/Indices
+ 163. https://www.ig.com/jp/tag/S&P 500
+ 164. https://www.ig.com/jp/tag/連邦準備制度
+ 165. https://www.ig.com/jp/tag/アメリカ
+ 166. https://www.ig.com/jp/tag/政策金利
+ 167. https://www.ig.com/jp/profile/norio-kokumo
+ 168. https://www.ig.com/jp/indices/markets-indices/us-spx-500
+ 169. https://www.ig.com/jp/news-and-trade-ideas/s-p500-closes-to-record-high-while-nvidia-keeps-falling-251129
+ 170. https://www.ig.com/jp/news-and-trade-ideas/sp500-rises-moderately-with-hope-for-rate-cut-and-wary-on-ai-boo-251220
+ 171. https://www.ig.com/jp/shares/markets-shares/amazoncom-inc-AMZN-US
+ 172. https://www.ig.com/jp/shares/markets-shares/apple-inc-AAPL-US
+ 173. https://www.ig.com/jp/shares/markets-shares/tesla-motors-TSLA-US
+ 174. https://www.ig.com/jp/shares/markets-shares/microsoft-corp-MSFT-US
+ 175. https://www.ig.com/jp/shares/markets-shares/roundhill-ball-metaverse-etf
+ 176. https://www.ig.com/jp/shares/markets-shares/nvidia-corp-NVDA-US
+ 177. https://www.ig.com/jp/news-and-trade-ideas/nvidia-shares-may-show-rapid-rise-in-2026-after-struggling-in-20-251226
+ 178. https://www.ig.com/jp/news-and-trade-ideas/openai-related-firms-shares-plummet-by-40-percent-from-record-hi-251217
+ 179. https://www.ig.com/jp/news-and-trade-ideas/sp500-repeats-record-highs-while-trump-may-announce-next-fed-cha-251225
+ 180. https://www.ig.com/jp/indices
+ 181. https://www.ig.com/jp/news-and-trade-ideas/sp500-drops-4-days-in-a-row-with-resurging-concerns-on-ai-boom-251218
+ 182. https://www.ig.com/jp/profile/norio-kokumo
+ 183. https://www.ig.com/jp/news-and-trade-ideas/sp500-waits-for-jobs-report-and-cpi-data-with-anxious-investors-251216
+ 184. https://www.ig.com/jp/profile/norio-kokumo
+ 185. https://www.ig.com/jp/news-and-trade-ideas/sp500-floats-to-just-above-record-high-after-fomc-projections-251211
+ 186. https://www.ig.com/jp/profile/norio-kokumo
+ 187. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-nearing-to-record-high-after-adp-shows-weak-labor-marke-251204
+ 188. https://www.ig.com/jp/profile/norio-kokumo
+ 189. https://www.ig.com/jp/us-stock-market-analysis/sp500-record-high-week-economic-indicator-as-double-edged-sword-240925
+ 190. https://www.ig.com/jp/profile/junichi-ishikawa
+ 191. https://www.ig.com/jp/forex/markets-forex
+ 192. https://www.ig.com/jp/shares/markets-shares
+ 193. https://www.ig.com/jp/indices/markets-indices
+ 194. https://www.ig.com/jp/privacy
+ 195. https://www.ig.com/jp/our-charges
+ 196. https://www.ig.com/jp/about-ig
+ 197. https://www.ig.com/jp/economic-calendar
+ 198. https://www.ig.com/jp/about-ig
+ 199. https://www.ig.com/jp/market-data-and-analysis
+ 200. https://www.ig.com/jp/market-training
+ 201. https://ig-brand.jp/
+ 202. https://www.ig.com/jp/research/psychology-in-trading
+ 203. https://www.ig.com/jp/markets-to-trade
+ 204. https://www.ig.com/jp/forex
+ 205. https://www.ig.com/jp/shares
+ 206. https://www.ig.com/jp/indices
+ 207. https://www.ig.com/jp/commodities
+ 208. https://www.ig.com/jp/shares/etfs
+ 209. https://www.ig.com/jp/bonds
+ 210. https://www.ig.com/jp/other-markets
+ 211. https://www.ig.com/jp/knock-outs
+ 212. https://www.ig.com/jp/services
+ 213. https://www.ig.com/jp/trading-platforms/fund-your-account
+ 214. https://www.ig.com/jp/product-details
+ 215. https://www.ig.com/jp/our-charges
+ 216. https://www.ig.com/jp/get-started
+ 217. https://www.ig.com/jp/create-account
+ 218. https://www.ig.com/jp/demo-account
+ 219. https://www.ig.com/jp/premium-services
+ 220. https://www.ig.com/jp/campaign
+ 221. https://www.ig.com/jp/professional-corporate-trader
+ 222. https://www.ig.com/jp/campaign-index
+ 223. https://www.ig.com/jp/trading-platforms
+ 224. https://www.ig.com/jp/trading-platforms/trading-apps
+ 225. https://www.ig.com/jp/trading-platforms/trading-apps
+ 226. https://www.ig.com/jp/trading-platforms/trading-alerts
+ 227. https://www.ig.com/jp/trading-platforms/trading-charts
+ 228. https://www.ig.com/jp/trading-platforms/pricing-execution
+ 229. https://www.ig.com/jp/trading-platforms/prorealtime
+ 230. https://www.ig.com/jp/contact-us
+ 231. tel:0120965915
+ 232. mailto:sales.jp@ig.com
+ 233. tel:0120257734
+ 234. tel:0120917968
+ 235. https://www.ig.com/jp
+ 236. https://www.ig.com/jp/sitemap-ig
+ 237. https://www.ig.com/jp/terms-and-agreements
+ 238. https://www.ig.com/jp/privacy
+ 239. https://www.ig.com/jp/cookies
+ 240. https://a.c-dn.net/c/content/dam/publicsites/1729054755676/igcom/jp/files/other/The-policy-for-Client-oriented-Business-Practices-20241031.pdf
+ 241. https://a.c-dn.net/c/content/dam/publicsites/1740635636356/igcom/jp/files/other/The-policy-for-Customer-Harassment-Prevention_20250228.pdf
+ 242. https://www.ig.com/jp/help-and-support
+ 243. https://www.ig.com/jp/about-ig
+ 244. http://www.fsa.go.jp/
+ 245. http://www.jsda.or.jp/
+ 246. https://www.ffaj.or.jp/
+ 247. https://www.finmac.or.jp/
+ 248. https://www.fsa.go.jp/sesc/watch/
+ 249. http://www.nisshokyo.or.jp/
+ 250. https://www.nisshokyo.or.jp/investor/s_center.html
+ 251. https://www.ig.com/jp
+ 252. https://www.iggroup.com/
+ 253. https://www.iggroup.com/careers
+
+   Liens cachés :
+ 255. https://www.facebook.com/sharer/sharer.php?u=https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+ 256. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+ 257. https://twitter.com/share?url=https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227&text=%E7%B1%B3%E5%9B%BD%E6%A0%AA%E3%81%AB%E5%A4%B1%E9%80%9F%E3%83%AA%E3%82%B9%E3%82%AF%E3%80%80S%26P500%E3%81%AF2026%E5%B9%B48%EF%BC%85%E9%AB%98%E4%BA%88%E6%83%B3%E3%80%80%E5%88%A9%E4%B8%8B%E3%81%92%E6%9C%9F%E5%BE%85%E3%82%82&via=IGJapan
+ 258. https://www.linkedin.com/shareArticle?mini=true&url=https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+ 259. https://www.ig.com/jp/knock-outs/equity_ko
+ 260. https://www.ig.com/jp/knock-outs/equity_ko
+ 261. https://www.facebook.com/sharer/sharer.php?u=https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+ 262. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+ 263. https://twitter.com/share?url=https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227&text=%E7%B1%B3%E5%9B%BD%E6%A0%AA%E3%81%AB%E5%A4%B1%E9%80%9F%E3%83%AA%E3%82%B9%E3%82%AF%E3%80%80S%26P500%E3%81%AF2026%E5%B9%B48%EF%BC%85%E9%AB%98%E4%BA%88%E6%83%B3%E3%80%80%E5%88%A9%E4%B8%8B%E3%81%92%E6%9C%9F%E5%BE%85%E3%82%82&via=IGJapan
+ 264. https://www.linkedin.com/shareArticle?mini=true&url=https://www.ig.com/jp/news-and-trade-ideas/sp500-is-expected-8-percent-growth-with-ai-bubble-concerns-251227
+ 265. https://www.ig.com/jp/news-and-trade-ideas/sp500-drops-4-days-in-a-row-with-resurging-concerns-on-ai-boom-251218
+ 266. https://www.ig.com/jp/news-and-trade-ideas/sp500-waits-for-jobs-report-and-cpi-data-with-anxious-investors-251216
+ 267. https://www.ig.com/jp/news-and-trade-ideas/sp500-floats-to-just-above-record-high-after-fomc-projections-251211
+ 268. https://www.ig.com/jp/news-and-trade-ideas/sp500-is-nearing-to-record-high-after-adp-shows-weak-labor-marke-251204
+ 269. https://www.ig.com/jp/us-stock-market-analysis/sp500-record-high-week-economic-indicator-as-double-edged-sword-240925
+ 270. https://www.facebook.com/IGjpn
+ 271. https://www.instagram.com/igjapan.official/
+ 272. https://twitter.com/IGJapan
+ 273. https://www.youtube.com/IGSecJP
+ 274. https://www.linkedin.com/company/igjapan/

@@ -1,0 +1,238 @@
+[1]TBS CROSS DIG with Bloomberg
+
+   ____________________ (BUTTON)
+     * [2]トップ
+     * ニュース
+     * [3]番組
+     * [4]オピニオン
+     * [5]アカデミー
+
+     * [6]総合
+     * [7]新着
+     * [8]Bloomberg
+     * [9]経済
+     * [10]政治
+     * [11]社会
+     * [12]国際
+     * [13]金融
+     * [14]投資・資産
+     * [15]テクノロジー
+     * [16]企業・IR
+     * [17]ライフ・キャリア
+
+【日本市況】株式が続伸、業績や政策期待でAI関連に買い－円は下落
+
+   堤健太郎 山中英典 日高正裕
+   2025.12.26 09:35
+   【日本市況】株式が続伸、業績や政策期待でAI関連に買い－円は下落
+   カテゴリ
+   [18]経済 [19]金融 [20]投資・資産 [21]企業・IR
+
+   （ブルームバーグ）：26日の日本市場では株式が続伸。堅調な企業業績や高市早苗政権の政策期待などを背景に主力株で買いが優勢だった。12月の東京都
+   区部消費者物価指数（CPI）の伸びが予想を下回り、円は対ドルで156円台前半に下落。債券は超長期債を中心に上昇（金利は低下）した。
+
+   前日の米欧主要市場がクリスマスの祝日休場で海外投資家の参加が少ない中、株式はソフトバンクグループやアドバンテストといった人工知能（AI）関連や
+   ファーストリテイリングなど時価総額が大きい銘柄への買いが目立った。東証株価指数（TOPIX）は取引時間中の最高値を更新した。
+
+   三井住友DSアセットマネジメントの市川雅浩チーフマーケットストラテジストは「ここ数年の賃金・物価の上昇は株価にとって良いマクロ環境で、企業の資
+   本効率改善というミクロ面の追い風も吹いている」とし、高市政権下の成長投資なども含めて日本株への支援材料は来年も続くとの見通しを示した。
+
+株式　　
+
+   株式は情報・通信や電機、小売りなどの業種が上昇。きょうは12月決算期企業の期末配当や株主優待の権利付き最終売買日で、権利取りを狙った個人投資家
+   などの買いが入りやすい面もあった。
+
+   しんきんアセットマネジメント投信の藤原直樹シニアファンドマネジャーは「個人投資家による節税を目的とした損益通算の売りはある程度一巡した」と指摘
+   。米国で年末年始の株高を見込むサンタクロース・ラリーへの期待や国内金利の落ち着き、為替がやや円安に振れたことも支援材料と述べた。
+
+   個別ではカカクコムが急騰。アクティビスト（物言う株主）として知られる香港のオアシス･マネジメントが同社株を5.23%保有していることが明らかに
+   なった。
+
+為替
+
+   円は対ドルで156円台前半に下落。東京CPIの発表後に売りが優勢となった。
+
+   SBI
+   FXトレードの上田真理人取締役は、ドル・円は上値の重い展開が続いたが、下値は堅くドルが買い戻されていると指摘。「東京CPIは弱く、日本銀行の利
+   上げを後押しする材料にならなかったことで、円売りのきっかけになっている」と話した。
+
+   12月の東京コアCPIは前年同月比2.3%上昇と前月から伸びが縮小した。市場予想は2.5%上昇だった。
+
+債券
+
+   債券は超長期債を中心に上昇。来年度国債発行計画で超長期債が減額されたことを受けて買いが優勢だった。
+
+   アクサ・インベストメント・マネージャーズの木村龍太郎シニア債券ストラテジストは「超長期債が全ての年限で減額されたのは大きい」と語る。年明け以降
+   に大口の機関投資家が戻ってきて流動性が回復すれば、改めて減額を評価した買いが入ると予想する。
+
+   一方、中長期金利には「円安への警戒を強めている高市政権が日銀の利上げ継続を容認するとの見方から上昇圧力がかかりやすい」と指摘。利回り曲線はフラ
+   ット（平たん）化に向かうとみている。
+
+   新発国債利回り（午後3時時点）
+
+   この記事は一部にブルームバーグ・オートメーションを利用しています。
+
+   もっと読むにはこちら [22]bloomberg.com/jp
+
+   ©2025 Bloomberg L.P.
+
+関連記事
+
+   [23]
+   マスク氏ではなかった、2025年ハイテクニュースの主役は81歳のあの人| TBS CROSS DIG with Bloomberg
+   1時間前
+   マスク氏ではなかった、2025年ハイテクニュースの主役は81歳のあの人
+   [24]
+   中国は来年も積極財政、買い替え支援を継続へ－全国財政工作会議| TBS CROSS DIG with Bloomberg
+   9時間前
+   中国は来年も積極財政、買い替え支援を継続へ－全国財政工作会議
+   [25]
+   中国、「人のようなAI」利用規制強化へ－社会主義的価値観も要求| TBS CROSS DIG with Bloomberg
+   11時間前
+   中国、「人のようなAI」利用規制強化へ－社会主義的価値観も要求
+   [26]
+   NISA「18歳未満も対象」の期待と懸念　親世代が使えていないという現実| TBS CROSS DIG with Bloomberg
+   13時間前
+   NISA「18歳未満も対象」の期待と懸念　親世代が使えていないという現実
+   [27]
+   中国が対外貿易法改正、3月施行－貿易摩擦への備えを強化| TBS CROSS DIG with Bloomberg
+   14時間前
+   中国が対外貿易法改正、3月施行－貿易摩擦への備えを強化
+   [28]
+   高市首相とマリオと丙午、26年の日本を占う| TBS CROSS DIG with Bloomberg
+   16時間前
+   高市首相とマリオと丙午、26年の日本を占う
+
+アクセスランキング
+
+   [29]
+   日本生命　営業職員対象に6%超賃上げへ| TBS CROSS DIG with Bloomberg
+   2025.12.22
+   日本生命　営業職員対象に6%超賃上げへ
+   [30]
+   当初案とは異なる？「年収の壁」178万円　2026年度・税制改正大綱のポイント| TBS CROSS DIG with Bloomberg
+   2025.12.27
+   当初案とは異なる？「年収の壁」178万円　2026年度・税制改正大綱のポイント
+   [31]
+   来年度予算案の一般会計総額過去最大122.3兆円規模も『基礎的財政収支の黒字化』達成…税収83.7兆円程度と過去最大で| TBS CROSS
+   DIG with Bloomberg
+   2025.12.25
+   来年度予算案の一般会計総額過去最大122.3兆円規模も『基礎的財政収支の黒字化』達成…税収83.7兆円程度と過去最大で
+   [32]
+   楽天モバイル　事業開始5年で契約数1000万回線を達成| TBS CROSS DIG with Bloomberg
+   2025.12.25
+   楽天モバイル　事業開始5年で契約数1000万回線を達成
+   [33]
+   中国の超高級車市場、ファーウェイが攻略－外国勢の牙城崩す| TBS CROSS DIG with Bloomberg
+   2025.12.26
+   中国の超高級車市場、ファーウェイが攻略－外国勢の牙城崩す
+
+新着記事一覧
+
+   [34]
+   ミャンマー軍政主導の総選挙　多くの市民が“投票拒否”か　国際社会の対応には温度差も…中ロ印など選挙監視団を派遣| TBS CROSS DIG
+   with Bloomberg
+   1時間前
+   ミャンマー軍政主導の総選挙　多くの市民が“投票拒否”か　国際社会の対応には温度差も…中ロ印など選挙監視団を派遣
+   [35]
+   マスク氏ではなかった、2025年ハイテクニュースの主役は81歳のあの人| TBS CROSS DIG with Bloomberg
+   1時間前
+   マスク氏ではなかった、2025年ハイテクニュースの主役は81歳のあの人
+   [36]
+   【２発の原爆の「キノコ雲」その下に祖父はいた】原田小鈴さん／祖父は広島・長崎で二度被爆した「二重被爆者」／「落とした側」との和解は「そんな簡単
+   ではない」／祖父の体験を伝えることが、核の抑止になる| TBS CROSS DIG with Bloomberg
+   8時間前
+   【２発の原爆の「キノコ雲」その下に祖父はいた】原田小鈴さん／祖父は広島・長崎で二度被爆した「二重被爆者」／「落とした側」との和解は「そんな簡単
+   ではない」／祖父の体験を伝えることが、核の抑止になる
+   [37]
+   観光船沈没　インドネシアの人気観光地コモド島付近　スペイン人4人不明　悪天候で3メートルほどの高波| TBS CROSS DIG with
+   Bloomberg
+   8時間前
+   観光船沈没　インドネシアの人気観光地コモド島付近　スペイン人4人不明　悪天候で3メートルほどの高波
+   [38]
+   「投票しない人は民主主義を理解していない」軍トップ総司令官を取材　ミャンマー軍主導の総選挙 投票開始　クーデターから5年　欧州諸国「見せかけの
+   民政移管だ」| TBS CROSS DIG with Bloomberg
+   8時間前
+   「投票しない人は民主主義を理解していない」軍トップ総司令官を取材　ミャンマー軍主導の総選挙 投票開始　クーデターから5年　欧州諸国「見せかけの
+   民政移管だ」
+    1. [39]トップページ
+    2. [40]経済
+    3. [41]【日本市況】株式が続伸、業績や政策期待でAI関連に買い－円は下落
+
+   [42]トップ
+     * [43]ニュース
+     * [44]番組
+     * [45]オピニオン
+     * [46]アカデミー
+
+     * [47]お問い合わせ
+     * [48]プライバシーポリシー
+     * [49]サイトポリシー
+     * [50]Cookieポリシー
+     * [51]利用規約
+     * [52]運営会社・連絡先
+
+   TBS CROSS DIG with Bloomberg
+   Copyright© Tokyo Broadcasting System Television, Inc. All Rights
+   Reserved.
+
+Références
+
+   Liens visibles :
+   1. https://newsdig.tbs.co.jp/list/withbloomberg
+   2. https://newsdig.tbs.co.jp/list/withbloomberg
+   3. https://newsdig.tbs.co.jp/list/withbloomberg/movie
+   4. https://newsdig.tbs.co.jp/list/withbloomberg/opinion
+   5. https://newsdig.tbs.co.jp/list/withbloomberg/academy
+   6. https://newsdig.tbs.co.jp/list/withbloomberg/news
+   7. https://newsdig.tbs.co.jp/list/withbloomberg/news/latest
+   8. https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg
+   9. https://newsdig.tbs.co.jp/list/withbloomberg/news/経済
+  10. https://newsdig.tbs.co.jp/list/withbloomberg/news/政治
+  11. https://newsdig.tbs.co.jp/list/withbloomberg/news/社会
+  12. https://newsdig.tbs.co.jp/list/withbloomberg/news/国際
+  13. https://newsdig.tbs.co.jp/list/withbloomberg/news/金融
+  14. https://newsdig.tbs.co.jp/list/withbloomberg/news/投資・資産
+  15. https://newsdig.tbs.co.jp/list/withbloomberg/news/テクノロジー
+  16. https://newsdig.tbs.co.jp/list/withbloomberg/news/企業・IR
+  17. https://newsdig.tbs.co.jp/list/withbloomberg/news/ライフ・キャリア
+  18. https://newsdig.tbs.co.jp/list/withbloomberg/news/経済
+  19. https://newsdig.tbs.co.jp/list/withbloomberg/news/金融
+  20. https://newsdig.tbs.co.jp/list/withbloomberg/news/投資・資産
+  21. https://newsdig.tbs.co.jp/list/withbloomberg/news/企業・IR
+  22. https://www.bloomberg.com/jp
+  23. https://newsdig.tbs.co.jp/articles/withbloomberg/2376080?display=1
+  24. https://newsdig.tbs.co.jp/articles/withbloomberg/2375956?display=1
+  25. https://newsdig.tbs.co.jp/articles/withbloomberg/2375866?display=1
+  26. https://newsdig.tbs.co.jp/articles/withbloomberg/2368603?display=1
+  27. https://newsdig.tbs.co.jp/articles/withbloomberg/2375699?display=1
+  28. https://newsdig.tbs.co.jp/articles/withbloomberg/2375627?display=1
+  29. https://newsdig.tbs.co.jp/articles/withbloomberg/2363968?display=1
+  30. https://newsdig.tbs.co.jp/articles/withbloomberg/2365782?display=1
+  31. https://newsdig.tbs.co.jp/articles/withbloomberg/2369638?display=1
+  32. https://newsdig.tbs.co.jp/articles/withbloomberg/2371616?display=1
+  33. https://newsdig.tbs.co.jp/articles/withbloomberg/2372856?display=1
+  34. https://newsdig.tbs.co.jp/articles/withbloomberg/2376076?display=1
+  35. https://newsdig.tbs.co.jp/articles/withbloomberg/2376080?display=1
+  36. https://newsdig.tbs.co.jp/articles/withbloomberg/2375223?display=1
+  37. https://newsdig.tbs.co.jp/articles/withbloomberg/2375952?display=1
+  38. https://newsdig.tbs.co.jp/articles/withbloomberg/2375939?display=1
+  39. https://newsdig.tbs.co.jp/list/withbloomberg
+  40. https://newsdig.tbs.co.jp/list/withbloomberg/news/経済
+  41. https://newsdig.tbs.co.jp/articles/withbloomberg/2372272
+  42. https://newsdig.tbs.co.jp/list/withbloomberg
+  43. https://newsdig.tbs.co.jp/list/withbloomberg/news
+  44. https://newsdig.tbs.co.jp/list/withbloomberg/movie
+  45. https://newsdig.tbs.co.jp/list/withbloomberg/opinion
+  46. https://newsdig.tbs.co.jp/list/withbloomberg/academy
+  47. https://www.tbs.co.jp/contact/
+  48. https://www.tbsholdings.co.jp/tbstv/privacy/policy.html
+  49. https://www.tbs.co.jp/sitepolicy/
+  50. https://newsdig.tbs.co.jp/list/withbloomberg/cookiepolicy
+  51. https://newsdig.tbs.co.jp/list/withbloomberg/rights
+  52. https://www.tbsholdings.co.jp/tbstv/corporate/
+
+   Liens cachés :
+  54. https://x.com/intent/tweet?url=https://newsdig.tbs.co.jp/articles/withbloomberg/2372272&text=%E3%80%90%E6%97%A5%E6%9C%AC%E5%B8%82%E6%B3%81%E3%80%91%E6%A0%AA%E5%BC%8F%E3%81%8C%E7%B6%9A%E4%BC%B8%E3%80%81%E6%A5%AD%E7%B8%BE%E3%82%84%E6%94%BF%E7%AD%96%E6%9C%9F%E5%BE%85%E3%81%A7AI%E9%96%A2%E9%80%A3%E3%81%AB%E8%B2%B7%E3%81%84%EF%BC%8D%E5%86%86%E3%81%AF%E4%B8%8B%E8%90%BD
+  55. https://social-plugins.line.me/lineit/share?url=https://newsdig.tbs.co.jp/articles/withbloomberg/2372272
+  56. https://www.facebook.com/sharer/sharer.php?u=https://newsdig.tbs.co.jp/articles/withbloomberg/2372272

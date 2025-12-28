@@ -1,0 +1,205 @@
+   #[1]アールスリーインスティテュート ｜R3 Institute » フィード [2]JSON [3]oEmbed (JSON)
+   [4]oEmbed (XML)
+
+   IFRAME: [5]https://www.googletagmanager.com/ns.html?id=GTM-NH78ZSG
+
+   [6]アールスリーインスティテュート ｜R3 Institute アールスリーインスティテュート ｜R3 Institute
+   (BUTTON)
+     * [7]サービス
+          + [8]キミノマホロ for kintonekintoneを活用した業務改善・システム開発サービス
+          + [9]キミノマホロ for フルスクラッチお客様に寄り添いながら進めるフルスクラッチのシステム構築
+          + [10]gusuku Custominekintoneのカスタマイズをノーコードで実現
+          + [11]gusuku Deploitkintoneアプリのバージョン管理・配布・バックアップ
+          + [12]gusuku Boostonegusuku
+            Customineの開発を加速するためのプロフェッショナルサポートサービス
+          + [13]gusuku Everysitekintoneと連携可能なフロントエンド開発サービス
+          + [14]Cloud UniversitykintoneやCustomineの基礎から、アプリ開発の最適解を学べる研修コース
+     * [15]事例
+     * [16]イベント
+     * [17]コラム
+     * [18]ブログ
+     * [19]採用
+     * [20]あしびな〜
+     * [21]資料ダウンロード
+     * [22]お問い合わせ
+
+期待しない働き方（2）「期待するのはエゴ」
+
+   公開日：2021-06-10
+
+   前回の”[23]期待しない働き方（1）「心穏やかに仕事するコツ」“からの続きになりますので、まだ（1）を読んでいない方は、できれば（1）を読ん
+   でからこちらをお読みください。
+
+   前回の記事を出してから「アドラー心理学っぽいよね」ってご意見をいただきましたが、それは大いにあると思います。ちゃんと勉強したわけではありません
+   が、個人的にはアドラー心理学大好きですし、共感するところが多いです。
+
+前回のおさらい
+
+   前回のポイントは、この3つでした。
+   img1.png img1.png
+   img4.png img4.png
+   img2.png img2.png
+
+   今回は、この3つを踏まえて「期待」の本質と「期待」することによる結果と「期待」のサインについて考えてみましょう。
+
+期待は自分の思い通りになって欲しいというエゴ
+
+   「期待」ってなんなんでしょうか？前回も似たようなこと書きましたが「期待」というのは仕事に関していうと、
+     * こうやって欲しい
+     * こういう結果になって欲しい
+     * ここまで気がついて欲しい
+     * 当然こう考えるよね？
+     * これくらいできて当然だよね？
+
+   みたいな感じになると思います。これって、要は「自分の思い通りになって欲しい」ってことです。ですので「期待するのはエゴ」だと考えています。
+
+   仕事で関わる人全員が自分の思う通りに動いてくれたら楽だというのは想像できると思いますが、まずそうはならないことも想像できると思います。
+
+   万が一そうなったとすると、気持ちは楽かもしれませんが、おそらく自分の周りからイノベーションは起きないということを示唆しているとも言えます。なぜ
+   ならすべてが自分の想像の範囲を超えないとすると、自分が驚くようなことは起きないということですからね。
+   img5.png img5.png
+
+期待は裏切られる
+
+   上で紹介したような「期待」は大体裏切られます。そりゃそうですよね、他人は自分ではないのですから。自分の思っている通りに動いてくれるはずがありま
+   せん。いい方向に裏切られるのは大歓迎ですが、世の中そんなに甘くはないです。
+
+   実はこの裏切りを最小化する方法があります。それは「マイクロマネジメント」です。すべてのやることなすことを事細かに指示をして、その通りにやっても
+   らうという方法ですね。
+
+   でも、マイクロマネジメントはマネジメントする方も大変だし、やらされる側はロボットのようにやるだけになるのでやらされる側の心が穏やかではありませ
+   ん。さらに、やらされる人に自由度がないのでイノベーションは起きにくいやり方だとも言えます。
+
+   マイクロマネジメントは正確に同じことを繰り返す必要がある場合には有効ですが、そうではない仕事では有効ではないと考えています。
+   img6.png img6.png
+
+「自分なら」という言葉がつく場合は要注意
+
+   自分が期待してしまっているかどうかを判定するのは実は結構難しいと感じています。無意識に期待してしまうので、自分で気づかないうちに期待して裏切ら
+   れて凹むという負のループに入りがちです。
+
+   1つの目安として、「自分なら」という言葉をつけてしまいたくなるケースは自分のやり方を期待しているという判断をしています。
+     * 「自分なら」こうできるのになぜできない？
+     * 「自分なら」ここまで考慮できるのになぜそこまで思いつかない？
+     * 「自分なら」こう判断するのに、なぜそっちを選ぶ？
+
+   みたいな感じですね。もちろん、アドバイスをするために「自分ならこう考えるよ」という言い方をするケースはあると思いますが、それは問題ありません。
+   自分の心の中で「自分なら」という言葉をつけて期待するとよくないんじゃないかと考えています。
+   img7.png img7.png
+
+いよいよ最終回
+
+   次回、最終回のつもりですが、期待せずに仕事を進めるコツのようなものをご紹介したいと思っています。
+
+   読みなたいな〜という方は、この記事をSNSなどでどんどんシェアしていただけないでしょうか？執筆するモチベーションになります。って他人に期待して
+   るやん・・・
+
+   では、次回。
+
+   ‍
+
+投稿者プロフィール
+
+   アバター画像 アバター画像
+
+   金春 利幸
+          "gusukuシリーズプロダクトマネージャー
+          ノーコード(No-Code)の有効性に着目し、kintoneとgusukuシリーズの普及のため全国を飛び回っています。"
+
+最新の投稿
+
+   [24]この投稿者のすべての記事
+     * [25]gusuku2025年12月20日[26]「ここが変だよカスタマイン！11選」に贈るアンサーブログ
+     * [27]Inside Everysite #4 焼いてあるたこ焼きか焼きたてのたこ焼きかそれが問題だ！ Inside
+       Everysite #4 焼いてあるたこ焼きか焼きたてのたこ焼きかそれが問題だ！
+       [28]gusuku2025年3月6日[29][Inside Everysite #4]
+       焼いてあるたこ焼きか焼きたてのたこ焼きかそれが問題だ！
+     * [30]gusuku2025年2月21日[31][Inside Everysite #3] 自由と複雑さのせめぎ合い
+     * [32]gusuku2025年2月7日[33][Inside Everysite #2] 社外DXって？
+
+関連投稿:
+
+   [34]Default Thumbnail Default Thumbnail パートタイム社員が沖縄にワーケーションにいってみた
+   [35]二日間開催の「DesignMattersTokyo」に行ってきました！ [36]もう20年、まだ20年
+   〜アールスリー設立20年に際して〜
+
+提供サービス
+
+     * [37]キミノマホロ for kintone
+     * [38]キミノマホロ for フルスクラッチ
+     * [39]gusuku Customine
+     * [40]gusuku Deploit
+     * [41]gusuku Boostone
+     * [42]gusuku Everysite
+     * [43]Cloud University
+
+会社情報
+
+     * [44]会社概要
+     * [45]お知らせ
+     * [46]情報セキュリティポリシー
+     * [47]資料ダウンロード
+     * [48]採用情報
+
+   アールスリーインスティテュートは
+   琉球ゴールデンキングスを応援しています。
+
+   Copyright © 2000 - 2025 R3 Institute All Rights Reserved.
+
+Références
+
+   Liens visibles :
+   1. https://www.r3it.com/feed
+   2. https://www.r3it.com/wp-json/wp/v2/posts/9624
+   3. https://www.r3it.com/wp-json/oembed/1.0/embed?url=https://www.r3it.com/blog/how-to-work-with-peace-of-mind-2
+   4. https://www.r3it.com/wp-json/oembed/1.0/embed?url=https://www.r3it.com/blog/how-to-work-with-peace-of-mind-2&format=xml
+   5. https://www.googletagmanager.com/ns.html?id=GTM-NH78ZSG
+   6. https://www.r3it.com/
+   7. https://www.r3it.com/services
+   8. https://www.r3it.com/services/kiminomahoro/kintone
+   9. https://www.r3it.com/services/kiminomahoro/fullscratch
+  10. https://customine.gusuku.io/
+  11. https://deploit.gusuku.io/
+  12. https://boostone.gusuku.io/
+  13. https://everysite.gusuku.io/
+  14. https://clouduniversity.jp/
+  15. https://www.r3it.com/case
+  16. https://www.r3it.com/seminarevent/
+  17. https://www.r3it.com/column/
+  18. https://www.r3it.com/blog/
+  19. https://www.r3it.com/recruitment
+  20. https://www.r3it.com/ashibinaa
+  21. https://www.r3it.com/download
+  22. https://www.r3it.com/contact
+  23. https://www.r3it.com/blog/how-to-work-with-peace-of-mind
+  24. https://www.r3it.com/blog/author/konparu
+  25. https://www.r3it.com/blog/category/gusuku
+  26. https://www.r3it.com/blog/20251220_answerto_11_critique
+  27. https://www.r3it.com/blog/inside-everysite-4
+  28. https://www.r3it.com/blog/category/gusuku
+  29. https://www.r3it.com/blog/inside-everysite-4
+  30. https://www.r3it.com/blog/category/gusuku
+  31. https://www.r3it.com/blog/inside-everysite-3
+  32. https://www.r3it.com/blog/category/gusuku
+  33. https://www.r3it.com/blog/inside-everysite-2
+  34. https://www.r3it.com/blog/part-time-employee-workcation-okinawa
+  35. https://www.r3it.com/blog/goto-designmatterstokyo22
+  36. https://www.r3it.com/blog/20years-anniversary
+  37. https://www.r3it.com/services/kiminomahoro/kintone
+  38. https://www.r3it.com/services/kiminomahoro/fullscratch
+  39. https://customine.gusuku.io/
+  40. https://deploit.gusuku.io/
+  41. https://boostone.gusuku.io/
+  42. https://everysite.gusuku.io/
+  43. https://clouduniversity.jp/
+  44. https://www.r3it.com/aboutr3
+  45. https://www.r3it.com/info/
+  46. https://www.r3it.com/security-policy
+  47. https://www.r3it.com/download
+  48. https://www.r3it.com/recruitment
+
+   Liens cachés :
+  50. https://www.r3it.com/blog/20251220_answerto_11_critique
+  51. https://www.r3it.com/blog/inside-everysite-3
+  52. https://www.r3it.com/blog/inside-everysite-2
+  53. https://www.r3it.com/

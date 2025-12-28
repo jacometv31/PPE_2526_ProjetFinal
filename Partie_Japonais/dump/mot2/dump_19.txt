@@ -1,0 +1,444 @@
+   [1]主要コンテンツに飛ぶ
+     * [2]ワールド (BUTTON)
+
+[3]ワールドを閲覧する
+          + [4]国内
+          + [5]米国
+          + [6]中国
+          + [7]台湾情勢
+          + [8]欧州
+          + [9]ウクライナ情勢
+          + [10]ロシア
+          + [11]北朝鮮
+          + [12]韓国
+          + [13]中東・アフリカ
+          + [14]トランプ政権特集
+          + [15]特集 安全保障問題
+          + [16]自然災害
+          + [17]特別リポート
+          + [18]インタビュー
+     * [19]マーケット (BUTTON)
+
+[20]マーケットを閲覧する
+          + [21]外国為替
+          + [22]金利・国債
+          + [23]株式市場
+          + [24]原油・エネルギー
+          + [25]商品先物
+          + [26]特集 仮想通貨
+          + [27]各国の株式指数
+          + [28]欧州マーケット
+          + [29]アメリカマーケット
+          + [30]アジアマーケット
+          + [31]国内マーケット
+     * [32]経済 (BUTTON)
+
+[33]経済を閲覧する
+          + [34]米ＦＲＢ特集
+          + [35]日銀特集
+          + [36]政局の行方
+          + [37]企業・産業
+          + [38]マクロスコープ
+     * [39]ビジネス (BUTTON)
+
+[40]ビジネスを閲覧する
+          + [41]テクノロジー
+          + [42]AIの進化と社会
+          + [43]自動車産業の未来
+          + [44]SDGsとビジネス
+          + [45]金融・Ｍ＆Ａ
+     * [46]オピニオン (BUTTON)
+
+[47]オピニオンを閲覧する
+          + [48]外国為替フォーラム
+          + [49]Breakingviews
+     * [50]ライフ (BUTTON)
+
+[51]ライフを閲覧する
+          + [52]スポーツ
+          + [53]エンタテインメント
+     * [54]写真 (BUTTON)
+
+[55]写真を閲覧する
+          + [56]フォトログ
+          + [57]Wider Image
+     * [58]ビデオ (BUTTON)
+
+[59]ビデオを閲覧する
+          + [60]日本語のビデオ
+          + [61]エンタテインメント
+          + [62]ライフ
+          + [63]ビジネス
+          + [64]スポーツ
+          + [65]テクノロジー
+
+   (BUTTON)
+   (BUTTON)
+
+展望2026：政策期待が日本株の追い風、インフレで高ＰＥＲ正当化　日経6万5000円予想も
+
+   [66]ロイター編集
+   2025年12月26日午前 5:42 UTC2025年12月26日更新
+   (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+
+   (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+
+   ［東京　２３日　ロイター］ -
+   ２０２６年の日本株は、政策期待とＡＩ（人工知能）関連物色の裾野拡大を追い風に堅調との見立てが出ている。高市政権の積極財政が長期の株高レジームを
+   強めるとの見方から、日経平均の高値は６万５０００円との予想もある。株価に割高感はあっても企業の１株当たり利益（ＥＰＳ）が切り上がることで指数が
+   押し上げられるとの指摘や、２―３％のインフレ環境は高い株価収益率（ＰＥＲ）を正当化するとの見方もある。リスクとしては、高市政権の政策の行き詰ま
+   りや米ハイテク・ＡＩ投資の減速などが意識される。
+   市場関係者の見方は以下の通り。
+   ◎６─８月に日経５万８０００円視野、翌年のリスク意識し年末にかけ調整も
+   ＜和キャピタル　運用本部部長　村松一之氏＞
+   日本株は当面、堅調な推移が続き、６─８月にかけて高値を付ける可能性がある。ただ、２０２７年は注意すべき年とみており、２６年後半からは市場でリス
+   ク要因が意識され、上げ幅を縮小し始めるだろう。
+   高市政権の下で国内経済がデフレに回帰する可能性は低く、高圧的なインフレの継続を見込む。２─３％程度のマイルドなインフレは株式市場にとってプラス
+   に作用する。値上げが消費者に受け入れられやすいし、企業業績は名目値で示されるため、値上げによる売上増で自然体で利益が伸びやすい。
+   コーポレートガバナンス・コード改定やＴＯＰＩＸ改革が進み、日本企業は自己資本利益率（ＲＯＥ）１０％の時代に入っていく可能性が意識される。２４年
+   から売り越しとなっている海外投資家の興味を刺激し、条件が整えば１０兆円規模の資金流入も視野に入る。自社株買いのフローも加わるため、需給環境は極
+   めて良好だろう。
+   日経平均は１株あたり利益（ＥＰＳ）と株価収益率（ＰＥＲ）を考慮すれば、５万８０００円水準も現実的で一時６万円を目指すこともあり得る。足元でＰＥ
+   Ｒの高さへの懸念も聞かれるが、インフレ時代にデフレ時代の物差しは通用しなくなる。より高いＰＥＲが正当化されるようになってくる。
+   高市政権の経済運営は、リフレ政策を主軸とした安倍政権とは異なり、成長戦略に軸足を置く。本格的な成長戦略を打ち出す政権は長らくなかっただけに、来
+   年の骨太方針でその具体像が示されれば、株高材料になるとみている。２６年はロボットや機械をＡＩで制御するフィジカルＡＩがテーマになり得る。生成Ａ
+   Ｉに比べると、製造業に強い日本株のサポート要因になりやすい。
+   米国では中間選挙を控えており、トランプ政権が税還付や住宅投資支援など、なりふり構わぬ景気浮揚策を打ってくる可能性が高い。米景気は巡航速度以上の
+   好調を維持する公算が大きい。中国も新５カ年計画の初年度にあたり、習近平国家主席の４期目となる２７年を見据えれば、米国と対立を激化させる局面では
+   ない。米中関係は当面、安定に向かう可能性がある。
+   もっとも、２７年には米中間選挙後の政局不透明感、米中摩擦の再燃、世界の中銀による利上げ路線への転換などが重なりやすい。強気相場の循環のアノマリ
+   ーを踏まえても、２７年はいつ勢いを失ってもおかしくない局面となる。こうしたことへの警戒感が２６年末にかけて強まるだろう。
+   ただ、この局面でも日本株への好評価は継続し、高値からの調整は５万４０００－５万６０００円程度までにとどまるとみている。年初の株価水準が来年の底
+   値になる可能性がある。
+   日経平均の２０２６年予想レンジ：５万円―５万８０００円
+   ◎２０２６年末に５万５０００円へ、企業業績が支え リスクはＡＩ株の減速
+   ＜ステート・ストリート・インベストメント・マネジメント ポートフォリオ・ストラテジスト 吉橋諒佑氏＞
+   ２０２６年の日経平均は、年末にかけて５万２５００円から５万５０００円程度まで上昇していくと予想する。グローバルで市場をけん引する共通テーマはＡ
+   Ｉ関連であり、来年はこれまで上昇が遅れていた銘柄にも物色が広がりそうだ。日本独自の好材料もあり、日本株に対してはポジティブな見方を持っている。
+   日本独自の要因としては、高い支持率を持つ政権下でＡＩ関連の設備投資が増えるのではないかとの期待があるほか、実質賃金の上昇など、企業業績を後押し
+   するような環境になることが挙げられる。日経平均のバリュエーションは既に高い水準にあるが、ＥＰＳが切り上がる形で指数を押し上げていくだろう。２５
+   年に比べて米関税など海外由来の不透明感や、国内政治への懸念が大きく後退しているので、政策の実効性への信頼感が高まっているとみている。
+   物色面では、国内景気に連動しやすいテーマが底堅く推移しそうだ。具体的には、実質賃金の上昇に伴う消費関連やＡＩ関連需要、政策的なインフラ整備に関
+   連する建設株などが相対的に買われやすいのではないか。
+   一方、最大のリスク要因は、米国の大型ハイテク株の業績減速や、ＡＩの設備投資計画が市場の期待を下回る「想定外の減速」を見せることだろう。その場合
+   は世界共通で売りが伝播し、日本株にも重しとなるため、米ハイテク銘柄の動向は今年同様に、引き続き注目度が高いとみている。
+   日経平均の２０２６年予想レンジ：４万８０００円―５万５０００円
+   ◎政策方向性が長期上昇トレンド示唆、日経６万５０００円も　高市改革頓挫がリスク
+   ＜武者リサーチ　代表　武者陵司氏＞
+   ２０２６年の日経平均は６万５０００円まで上昇する余地があるとみている。２０１２年の第２次安倍政権以降、日経平均は上昇トレンドをたどっているが、
+   高市早苗首相の就任で長期上昇トレンドの持続性がより確かなものとなった。
+   重要になってくるのは政策レジームだ。積極財政を掲げる高市政権の誕生により、株価の長期上昇トレンドに弾みがつくとみている。過去の日本の株式市場に
+   おける大きな転換点は、政策レジームによって決まってきた。平成のバブル崩壊は金融引き締めと業種別の貸付規制から始まり、そこから長期の停滞期が続い
+   た。一方、２０１２年には第２次安倍政権が誕生した。株価は様々な要素が決めるものの、決定的に重要なのは政策レジームだ。
+   これまで海外投資家は日本株をアンダーウエートしていたが、持たざるリスクが確認される１年となるのではないか。日経平均はアベノミクスが始まった２０
+   １２年から平均で１２％上昇している。足元のペースでいけば、日経平均は今後５年で１０万円、１０年後に１５万円を達成することも想定できる。
+   高市首相が目指すとみられる財政出動、減税政策が実現されると、力強い経済成長に株価が連動してくるだろう。日本政府はこれまで税金を取り過ぎており、
+   乱暴ともいえる増税や社会保険料の引き上げが行われてきた。増税は経済成長を損なう。来年は日米ともに減税の実施が想定され、景気の好循環が形成されや
+   すい。
+   グローバルなＡＩブームは来年も続くことが想定されるが、物色はコンテンツや知的財産（ＩＰ）、フィジカルＡＩといったインターフェースにも広がってく
+   るだろう。また、減税が実行されると、消費主導の経済に転換し、生活水準が大きく上がる。小売りやエンターテインメント、不動産など恩恵を受ける業種が
+   増えるだろう。
+   最大のリスクは高市政権の政策が頓挫することだ。高市政権が終わり、緊縮財政を中心とした経済に戻り、成長を追求しなくなると、株高は終焉を迎える。市
+   場は長期経済成長のレジームが始まると期待しているため、はしごが外されることが最大のネガティブサプライズになる。その上でも、早期の解散・総選挙の
+   有無は、株式市場としても関心事になりやすいとみている。
+   日経平均の２０２６年予想レンジ：５万円─６万５０００円
+
+   平田紀之　浜田寛子　佐古田麻優
+
+   私たちの行動規範：[67]トムソン・ロイター「信頼の原則」, opens new tab
+     * 関連トピック
+     * [68]国内マーケット (BUTTON)
+
+   (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+
+次の記事
+
+   (BUTTON) (BUTTON)
+     * 前[69]国内マーケットcategory
+       [70]米、中国の米企業制裁「強く反対」、台湾への圧力停止求める
+       [71]米、中国の米企業制裁「強く反対」、台湾への圧力停止求める
+     * 前[72]国内マーケットcategory
+       [73]中南米金融市場＝レアル下落、総じて薄商いで小動き
+       [74]Reuters logo
+     * 2025年12月27日[75]オピニオンcategory
+       [76]2026年の視点：次の日銀利上げはいつか、予想外に早いシナリオも＝熊野英生氏
+       [77]2026年の視点：次の日銀利上げはいつか、予想外に早いシナリオも＝熊野英生氏
+     * 2025年12月26日[78]国内マーケットcategory
+       [79]Ｓ＆Ｐ500は7000射程、ＦＯＭＣ議事要旨で金融政策占う＝来週の米株式市場
+       [80]Ｓ＆Ｐ500は7000射程、ＦＯＭＣ議事要旨で金融政策占う＝来週の米株式市場
+     * 2025年12月26日[81]国内マーケットcategory
+       [82]ＮＹ市場サマリー（26日）円が軟化、株横ばい
+       [83]Reuters logo
+     * 2025年12月26日[84]国内マーケットcategory
+       [85]米金融・債券市場＝10年債利回り低下、薄商いの中で静かな値動き
+       [86]Reuters logo
+
+[87]マーケット
+
+     * [88]中国工業部門利益、1年ぶり大幅減　11月13.1％減
+
+[89]中国工業部門利益、1年ぶり大幅減　11月13.1％減
+       [90]各国の株式指数category · 2025年12月28日 · 午前 5:31 UTC · 前
+       中国国家統計局が２７日発表した１１月の工業部門企業利益は前年比１３．１％減少した。減少幅は１０月（５．５％減）から拡大し過去１年で最大
+       となった。内需の弱さが底固い輸出を帳消しにした。
+     * [91]米、中国の米企業制裁「強く反対」、台湾への圧力停止求める
+       [92]国内マーケットcategory[93]米、中国の米企業制裁「強く反対」、台湾への圧力停止求める
+       午前 3:46 UTC
+     * [94]アングル：中国企業、希少木材や高級茶をトークン化　ＲＷＡ市場急成長
+       [95]ワールドcategory[96]アングル：中国企業、希少木材や高級茶をトークン化　ＲＷＡ市場急成長
+       2025年12月27日
+     * [97]米航空会社、北東部の暴風雪警報で1000便超欠航
+       [98]商品先物category[99]米航空会社、北東部の暴風雪警報で1000便超欠航
+       2025年12月26日
+     * [100]米国株式市場＝横ばい、ＡＩ・貴金属関連が高い
+       [101]国内マーケットcategory[102]米国株式市場＝横ばい、ＡＩ・貴金属関連が高い
+       2025年12月26日
+
+Site Index
+
+最新
+
+     * [103]ホーム
+     * [104]アーカイブ
+     * [105]サイトマップ
+
+メディア
+
+     * [106]ビデオ
+     * [107]写真
+
+最新
+
+     * [108]ホーム
+     * [109]アーカイブ
+     * [110]サイトマップ
+
+ブラウズ
+
+     * [111]ワールド
+     * [112]マーケット
+     * [113]経済
+     * [114]ビジネス
+     * [115]オピニオン
+     * [116]ライフ
+     * [117]スポーツ
+
+メディア
+
+     * [118]ビデオ
+     * [119]写真
+
+ロイターについて
+
+     * [120]ロイターについて, opens new tab
+     * [121]採用情報, opens new tab
+     * [122]ロイター・ニュース・エージェンシー, opens new tab
+     * [123]ブランド・ガイドライン, opens new tab
+     * [124]リーダーシップチーム, opens new tab
+
+最新情報を入手
+
+     * [125]ニュースメール, opens new tab
+
+信頼されるメディアとして
+
+   ロイターは、トムソン・ロイターのニュース・メディア部門で、毎日世界各地の数十億人にリーチする世界最大級の国際マルチメディア通信社です。デスクト
+   ップ端末、世界の報道メディア、業界イベント、そしてダイレクトにビジネス、金融、国内・国際ニュースをプロフェッショナルにお届けします。
+
+ロイターをフォロー
+
+     *
+     *
+     *
+     *
+     *
+
+     * [126]広告掲載について, opens new tab
+     * [127]広告掲載ポリシー
+
+     * [128]クッキー, opens new tab
+     * [129]ロイター利用規約（英語）
+     * [130]個人情報保護方針, opens new tab
+     * [131]著作権, opens new tab
+     * [132]ウェブアクセシビリティ（英語）, opens new tab
+     * [133]お問い合わせ先
+     * [134]フィードバック, opens new tab
+
+   掲載の情報は15分以上の遅れで表示しています。[135]詳しくはこちらをご確認ください。
+     * [136]クッキー, opens new tab
+     * [137]ロイター利用規約（英語）
+     * [138]個人情報保護方針, opens new tab
+     * [139]著作権, opens new tab
+     * [140]ウェブアクセシビリティ（英語）, opens new tab
+     * [141]お問い合わせ先
+     * [142]フィードバック, opens new tab
+
+   © 2025 Reuters. [143]All rights reserved
+
+Références
+
+   Liens visibles :
+   1. https://jp.reuters.com/markets/japan/JHIAVTU2ZNM5DJSOAMMTDVRTWU-2025-12-26/#main-content
+   2. https://jp.reuters.com/world/
+   3. https://jp.reuters.com/world/
+   4. https://jp.reuters.com/world/japan/
+   5. https://jp.reuters.com/world/us/
+   6. https://jp.reuters.com/world/china/
+   7. https://jp.reuters.com/world/taiwan/
+   8. https://jp.reuters.com/world/europe/
+   9. https://jp.reuters.com/world/ukraine/
+  10. https://jp.reuters.com/world/russia/
+  11. https://jp.reuters.com/world/north-korea/
+  12. https://jp.reuters.com/world/korea/
+  13. https://jp.reuters.com/world/mideast/
+  14. https://jp.reuters.com/world/us-politics/
+  15. https://jp.reuters.com/world/security/
+  16. https://jp.reuters.com/world/environment/
+  17. https://jp.reuters.com/world/special-report/
+  18. https://jp.reuters.com/world/interview/
+  19. https://jp.reuters.com/markets/
+  20. https://jp.reuters.com/markets/
+  21. https://jp.reuters.com/markets/currencies/
+  22. https://jp.reuters.com/markets/bonds/
+  23. https://jp.reuters.com/markets/global-markets/
+  24. https://jp.reuters.com/markets/oil/
+  25. https://jp.reuters.com/markets/commodities/
+  26. https://jp.reuters.com/markets/cryptocurrency/
+  27. https://jp.reuters.com/markets/world-indices/
+  28. https://jp.reuters.com/markets/europe/
+  29. https://jp.reuters.com/markets/us/
+  30. https://jp.reuters.com/markets/asia/
+  31. https://jp.reuters.com/markets/japan/
+  32. https://jp.reuters.com/economy/
+  33. https://jp.reuters.com/economy/
+  34. https://jp.reuters.com/economy/federal-reserve-board/
+  35. https://jp.reuters.com/economy/bank-of-japan/
+  36. https://jp.reuters.com/economy/japan-politics/
+  37. https://jp.reuters.com/economy/industry/
+  38. https://jp.reuters.com/economy/macroscope/
+  39. https://jp.reuters.com/business/
+  40. https://jp.reuters.com/business/
+  41. https://jp.reuters.com/business/technology/
+  42. https://jp.reuters.com/business/tech-ai/
+  43. https://jp.reuters.com/business/autos/
+  44. https://jp.reuters.com/business/sdgs/
+  45. https://jp.reuters.com/business/ma/
+  46. https://jp.reuters.com/opinion/
+  47. https://jp.reuters.com/opinion/
+  48. https://jp.reuters.com/opinion/forex-forum/
+  49. https://jp.reuters.com/opinion/breakingviews/
+  50. https://jp.reuters.com/life/
+  51. https://jp.reuters.com/life/
+  52. https://jp.reuters.com/life/sports/
+  53. https://jp.reuters.com/life/entertainment/
+  54. https://jp.reuters.com/pictures/
+  55. https://jp.reuters.com/pictures/
+  56. https://jp.reuters.com/pictures/blog/
+  57. https://jp.reuters.com/pictures/wider-image/
+  58. https://jp.reuters.com/video/
+  59. https://jp.reuters.com/video/
+  60. https://jp.reuters.com/video/in-depth/
+  61. https://jp.reuters.com/video/entertainment/
+  62. https://jp.reuters.com/video/oddly-enough/
+  63. https://jp.reuters.com/video/business/
+  64. https://jp.reuters.com/video/sports/
+  65. https://jp.reuters.com/video/technology/
+  66. https://jp.reuters.com/authors/ロイター編集/
+  67. https://www.thomsonreuters.com/en/about-us/trust-principles.html
+  68. https://jp.reuters.com/markets/japan/
+  69. https://jp.reuters.com/markets/japan/
+  70. https://jp.reuters.com/markets/japan/CWNJJZC2EVNYXEC4MJT3TASJXE-2025-12-28/
+  71. https://jp.reuters.com/markets/japan/CWNJJZC2EVNYXEC4MJT3TASJXE-2025-12-28/
+  72. https://jp.reuters.com/markets/japan/
+  73. https://jp.reuters.com/markets/japan/3HTTXFEWJ5OPPFN3MAFDVVGLBM-2025-12-27/
+  74. https://jp.reuters.com/markets/japan/3HTTXFEWJ5OPPFN3MAFDVVGLBM-2025-12-27/
+  75. https://jp.reuters.com/opinion/
+  76. https://jp.reuters.com/opinion/forex-forum/GETKJC4UNBNBTPVLM6SAVSEPLI-2025-12-27/
+  77. https://jp.reuters.com/opinion/forex-forum/GETKJC4UNBNBTPVLM6SAVSEPLI-2025-12-27/
+  78. https://jp.reuters.com/markets/japan/
+  79. https://jp.reuters.com/markets/japan/OEZ7K4WPNBLEREMCPWT5CRKQ2M-2025-12-26/
+  80. https://jp.reuters.com/markets/japan/OEZ7K4WPNBLEREMCPWT5CRKQ2M-2025-12-26/
+  81. https://jp.reuters.com/markets/japan/
+  82. https://jp.reuters.com/markets/japan/XNU3S4N6V5LEDFRIEPA7GZPONA-2025-12-26/
+  83. https://jp.reuters.com/markets/japan/XNU3S4N6V5LEDFRIEPA7GZPONA-2025-12-26/
+  84. https://jp.reuters.com/markets/japan/
+  85. https://jp.reuters.com/markets/japan/7CEPN5GURNOPREPGKHTUSKBTZA-2025-12-26/
+  86. https://jp.reuters.com/markets/japan/7CEPN5GURNOPREPGKHTUSKBTZA-2025-12-26/
+  87. https://jp.reuters.com/markets/
+  88. https://jp.reuters.com/markets/world-indices/C7MQCU6FDZJE5OX7PEOUHVKJPQ-2025-12-28/
+  89. https://jp.reuters.com/markets/world-indices/C7MQCU6FDZJE5OX7PEOUHVKJPQ-2025-12-28/
+  90. https://jp.reuters.com/markets/world-indices/
+  91. https://jp.reuters.com/markets/japan/CWNJJZC2EVNYXEC4MJT3TASJXE-2025-12-28/
+  92. https://jp.reuters.com/markets/japan/
+  93. https://jp.reuters.com/markets/japan/CWNJJZC2EVNYXEC4MJT3TASJXE-2025-12-28/
+  94. https://jp.reuters.com/world/china/JXO4DFQCUJLURGFJGYCBWGO4SM-2025-12-27/
+  95. https://jp.reuters.com/world/
+  96. https://jp.reuters.com/world/china/JXO4DFQCUJLURGFJGYCBWGO4SM-2025-12-27/
+  97. https://jp.reuters.com/markets/commodities/ING6IGCS4JK6VMNGCWQTRAI3GE-2025-12-26/
+  98. https://jp.reuters.com/markets/commodities/
+  99. https://jp.reuters.com/markets/commodities/ING6IGCS4JK6VMNGCWQTRAI3GE-2025-12-26/
+ 100. https://jp.reuters.com/markets/japan/5NNX2L42IVM35GSQGXVNXV4YFQ-2025-12-26/
+ 101. https://jp.reuters.com/markets/japan/
+ 102. https://jp.reuters.com/markets/japan/5NNX2L42IVM35GSQGXVNXV4YFQ-2025-12-26/
+ 103. https://jp.reuters.com/
+ 104. https://jp.reuters.com/archive/
+ 105. https://jp.reuters.com/sitemap/
+ 106. https://jp.reuters.com/video/
+ 107. https://jp.reuters.com/pictures
+ 108. https://jp.reuters.com/
+ 109. https://jp.reuters.com/archive/
+ 110. https://jp.reuters.com/sitemap/
+ 111. https://jp.reuters.com/world/
+ 112. https://jp.reuters.com/markets/
+ 113. https://jp.reuters.com/economy/
+ 114. https://jp.reuters.com/business/
+ 115. https://jp.reuters.com/opinion/
+ 116. https://jp.reuters.com/life/
+ 117. https://jp.reuters.com/life/sports/
+ 118. https://jp.reuters.com/video/
+ 119. https://jp.reuters.com/pictures
+ 120. https://www.reutersprofessional.com/reuters-plus-studio/p/1
+ 121. https://thomsonreuters.com/en/careers.html
+ 122. https://www.reutersagency.com/ja
+ 123. https://reutersagency.com/brand-attribution-guidelines/
+ 124. https://www.reutersagency.com/ja/about/leadership-team/
+ 125. https://newslink.jp.reuters.com/join/subscribe
+ 126. https://www.reutersprofessional.com/advertise-with-us-jp/p/1
+ 127. https://jp.reuters.com/info-pages/advertising-guidelines/
+ 128. https://www.thomsonreuters.com/ja/privacy-statement.html#cookies
+ 129. https://jp.reuters.com/info-pages/terms-of-use/
+ 130. https://www.thomsonreuters.com/jp/privacy-statement.html
+ 131. https://www.thomsonreuters.com/en/policies/copyright
+ 132. https://www.thomsonreuters.com/en/policies/digital-accessibility-policy.html
+ 133. https://jp.reuters.com/info-pages/contact-us/
+ 134. https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz
+ 135. https://jp.reuters.com/info-pages/disclaimer/
+ 136. https://www.thomsonreuters.com/ja/privacy-statement.html#cookies
+ 137. https://jp.reuters.com/info-pages/terms-of-use/
+ 138. https://www.thomsonreuters.com/jp/privacy-statement.html
+ 139. https://www.thomsonreuters.com/en/policies/copyright
+ 140. https://www.thomsonreuters.com/en/policies/digital-accessibility-policy.html
+ 141. https://jp.reuters.com/info-pages/contact-us/
+ 142. https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz
+ 143. https://www.thomsonreuters.com/en/policies/copyright.html
+
+   Liens cachés :
+ 145. https://jp.reuters.com/
+ 146. https://x.com/reutersjapan
+ 147. https://www.facebook.com/ReutersJapan
+ 148. https://www.instagram.com/reutersjapan/
+ 149. https://www.youtube.com/c/ReutersJapan/videos
+ 150. https://www.linkedin.com/company/10256858/

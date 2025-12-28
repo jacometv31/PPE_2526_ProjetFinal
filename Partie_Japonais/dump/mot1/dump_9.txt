@@ -1,0 +1,289 @@
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-W7SZB6C
+
+   [2]ヘルスとヘルスケア
+
+3Dプリントの義肢が紛争地域にもたらす、モビリティと希望
+
+   2025年12月12日
+   男性医師が、ベッドに座っている切断手術を受けた男児の足をスマートフォンで撮影している。スマートフォンで撮影した画像データをもとに3Dプリントの
+   義肢を製作する様子。
+
+   スマートフォンで撮影した画像データをもとに3Dプリントの義肢を製作する様子。 Image: 3DP4ME/Omar Al-Khalidi
+
+[3]Jason Szolomayer
+
+   Founder, 3DP4ME
+
+[4]Alice Hawamleh
+
+   Project Manager, 3DP4ME
+   本稿は、以下センター （部門）の一部です。 [5]ヘルス、ヘルスケア
+     * 3Dプリンティングにより、より迅速で軽量、低コストかつ高度にカスタマイズされた義肢の製造が可能となります。
+     * このテクノロジーは、紛争地域など従来のリハビリテーションサービスが限られる状況下で、人々が運動機能と希望を取り戻す一助となります。
+     * ホリスティックなリハビリテーションと組み合わせることで、3Dプリントの義肢は、患者の体力回復、自信の回復、自立の支援に役立つでしょう。
+
+   国際慈善団体ヒューマニティ・アンド・インクルージョンによると、2023年10月のガザ紛争激化以降、12万3,000人以上が負傷し、そのうち[6
+   ]4,000人以上が四肢のいずれかを失っています。現在、同地域では約6,000体の義肢が必要とされており、その多くは子ども向けです。
+
+   ガザは現在、手足を失った子どもを人口当たりで[7]世界一多く抱えています。子どもが義肢を装着する場合、成長に合わせて義肢の調整や交換を継続的に
+   行うための支援が必要です。しかし、ガザのような紛争地域では、このような専門的なケアへのアクセスはほぼ不可能です。
+
+   国境を隔てたシリアでも、義肢の必要性は極めて高くなっています。同団体の最近の報告書によると、2011年のシリア内戦開始以降、同国では[8]約8
+   6,000件の切断手術が行われています。サービス不足、資金不足、インフラ破壊のため、これらの切断患者の数千人が義肢や継続的なリハビリテーション
+   を受けられていません。不発弾（UXO）の絶え間ない脅威が、シリアの状況をさらに緊迫したものにしています。不発弾による民間人の死者は、最近では徐
+   々に減少傾向にあるものの、依然として[9]数百人に上っているのです。
+
+   継続的な紛争で傷ついた地域に住む多くの人々にとって、負傷後に再び歩けるようになり、自立性を取り戻す機会は、依然として手の届かないものとなってい
+   ます。なぜなら、必要なリハビリテーションを受けることができないからです。このような状況の中、3Dプリントで製作した義肢が、必要とする人々に運動
+   機能と希望を取り戻す可能性を秘めています。この技術は、スキャンと設計を遠隔で行うことが可能なため、距離が医療の障壁でなくなり、深刻な医療格差を
+   解消することができるのです。
+   シリアのイドリブで、アブドゥルジャバールは、新しく3Dプリントされた膝下義足でサッカーを楽しんでいます。
+   シリアのイドリブで、アブドゥルジャバールは、新しく3Dプリントされた膝下義足でサッカーを楽しんでいます。 Image: 3DP4ME/Omar
+   Al-Khalidi
+
+医療分野における先進的製造技術
+
+   3Dプリンティングは、義肢の設計、製造方法を大きく変革しました。時間と労力を要する従来の製造工程に頼る代わりに、患者の手や足をスマートフォンで
+   デジタルスキャンし、印刷可能な精密な設計データに変換します。これにより、これまで以上にアクセスしやすく、手頃な価格で、カスタマイズ可能な義肢を
+   実現することができるのです。
+
+   「カスタム3Dプリント義肢の最大の利点はスピードです」と、十分な医療サービスを受けられない地域社会に革新的な義肢ソリューションを提供する非営利
+   団体、ライフネイブルドの認定義肢装具士、ブレント・ライト氏は述べています。「かつて数週間を要した型取りや調整が、今では数日で完了します。これに
+   より、動けない期間の短縮、不快感の軽減、そしてより早い運動機能の回復が可能となります」。
+
+   3Dプリンティングは、コストと製造時間の削減だけでなく、快適性と機能性を向上させるオーダーメイドのフィット感も実現。現地での製造と迅速な調整を
+   可能とし、紛争地域、資源不足の環境、遠隔地など、従来の義肢サービスが限られている患者にとって、新たな可能性を創出しています。
+
+   例えばシリアでは、非営利団体3DP4MEが地雷爆発やミサイル攻撃で手足を失った13人の子どもたちに3Dプリントの義肢を提供。ヨルダンでの別のパ
+   イロット事業でも膝下義肢を提供しました。同団体が3Dプリントの義肢を装着した患者の総数は、これまでに25名に上ります。新しい義肢で最初の一歩を
+   踏み出した時、子どもたちは新たな運動機能と未来に向けた希望を取り戻すのです。
+   Loading...
+
+3Dプリントの義肢を支える資金調達
+
+   3DP4MEは、取引プラットフォーム「コモン・グッド・マーケットプレイス（CGM）」との提携を通じ、義肢や補聴器へのアクセスを拡大するための新
+   たな資金調達モデルを開拓しています。このモデルでは、すべての検証済み成果を取引可能な「インパクト資産」に結びつけることで、持続可能な資金調達を
+   実現。成果は「検証済みインパクト資産」として取引所に登録され、資金提供者は意図ではなく実際に達成された成果に基づいて、資金を提供できるようにな
+   ります。
+
+   目標は、組織や資金提供者による成果の測定、提示に役立つ、明確なエビデンス基盤を構築することです。具体的には、受益者からデータを収集し、CGMが
+   提供する調査ツールなどを用いて主要指標の変化を追跡します。透明性を確保するため、これらのインパクトレポートには共通の用語と明確な指標を用いた標
+   準化が行われます。
+
+   この革新的な資金調達の活用により、包摂的かつエビデンスに基づく医療イノベーションに向けた新たな資金の流れが、世界中で生まれる可能性があります。
+   運動機能と自立性を高める個別対応型義肢から、緊急のニーズに応える現地生産ソリューションまで、3Dプリンティング、ロボティクス、AIなどのイノベ
+   ーションは、よりアクセスしやすく公平な医療の未来を形作る一助となるでしょう。
+
+関連記事を読む
+
+     * [10]ウクライナのファーストレディーが語る、戦争とメンタルヘルス
+     * [11]5歳未満の死亡数が過去最低に - 子どもの命を守るためにできること
+     * [12]肉の消費量削減に役立つかもしれない、3Dプリントステーキ
+
+義肢ケアの変革
+
+   義肢による運動機能の回復は、単に新しい義肢を装着して終わりではありません。長期的な成功を確実にするためには、ホリスティック（全体論的）なケアが
+   必要です。理学療法では、患者が筋力を強化し、バランス感覚を改善し、自信を持って歩行や義肢の使用を習得することができるよう支援します。また、継続
+   的な調整を行うことで、装着時の快適さと機能性を維持します。これにより、3Dプリントの義肢の利点が最大限に発揮され、患者に最大の効果がもたらされ
+   るようになるのです。
+
+   心理社会的サポートも、同様に重要です。これは、手足を失ったことに伴う精神的、心理的な課題を解決し、個人が自尊心を取り戻してトラウマに対処し、家
+   族や地域社会に再び溶け込めるよう支援するものです。
+
+   これらのサービスを一体的に提供することで、義肢ケアは単なる医療処置から、完全な回復、自立、そして新たな生きる目的を見出すための道筋へと変革する
+   ことが可能になります。このことは、医療環境が著しく制限されている紛争地域に住む人々が、運動機能の回復を通じて自立を取り戻し、未来への新たな希望
+   を育む手助けとなるでしょう。
+   Loading...
+
+このトピックに関する最新情報をお見逃しなく
+
+   無料アカウントを作成し、パーソナライズされたコンテンツコレクション（最新の出版物や分析が掲載）にアクセスしてください。
+   会員登録（無料）
+
+   ライセンスと転載
+
+   世界経済フォーラムの記事は、Creative Commons Attribution-NonCommercial-NoDerivatives
+   4.0 International Public Licenseに基づき、利用規約に従って転載することができます。
+
+   この記事は著者の意見を反映したものであり、世界経済フォーラムの主張によるものではありません。
+
+最新の情報をお届けします：
+
+Flexible Neural Electronics
+
+   (BUTTON) Follow
+
+関連トピック：
+
+   ヘルスとヘルスケア
+   [13]
+   公正、多様性、包摂性
+   [14]
+   ソーシャルイノベーション
+   [15]
+   新興テクノロジー
+   [16]
+   若者の視点
+   [17]
+   マニュファクチャリングとバリューチェーン
+   [18]
+   フロンティアテクノロジー、イノベーションセンター
+
+シェアする：
+
+     *
+     *
+     *
+     *
+     *
+
+   大きな絵
+
+調さしモニターする 3Dプリンティング は、経済、産業、グローバルな問題に影響を与えています。
+
+   World Economic Forum logo
+
+「フォーラム・ストーリー」ニュースレター ウィークリー
+
+   世界の課題を読み解くインサイトと分析を、毎週配信。
+   [19]今すぐ登録する
+
+   もっと知る ヘルスとヘルスケア
+   [20]すべて見る
+
+   [21]男性更年期の認知向上により、健康で包摂的かつ持続可能な社会へ
+
+   Naoko Tochibayashi
+
+   2025年12月3日
+
+   [22]アジア太平洋地域の心不全治療に、今こそ投資が必要な理由
+
+   [23]Workforce Health Across the Value Chain: Organizational Insights to
+   Mitigate Risk and Create Sustainable Growth
+   2025年11月12日
+
+   [24]信頼に基づく連携～都市がゼロからイノベーションを生み出す方法～
+
+   [25]脳の健康と食料システム～神経科学が変える食と農業のあり方～
+
+   [26]薬剤耐性が、血液がん治療のサイレントリスクでなくなる日
+
+   世界経済フォーラムについて
+     * 私たちのストラテジー
+     * [27]私たちのアイデンティティ
+     * [28]私たちの活動
+     * [29]リーダーシップとガバナンス
+     * [30]インパクト
+
+   詳細
+     * [31]センター（部門）
+     * [32]会合
+     * [33]ステークホルダーのコミュニティ
+     * [34]「フォーラム・ストーリー」
+     * [35]プレスリリース
+     * [36]フォトギャラリー
+     * [37]ビデオ
+     * [38]ポッドキャスト
+
+   エンゲージメント
+     * サインイン
+     * [39]パートナー（組織）について
+     * [40]参加する（個人、組織）
+     * [41]プレスリリース登録
+     * [42]ニュースレター購読
+     * [43]連絡先 (英語のみ)
+
+   リンク
+     * [44]サステナビリティへの取り組み
+     * [45]採用情報 (英語のみ)
+
+   言語
+     * EN▪
+     * [46]ES▪
+     * [47]中文▪
+     * [48]日本語
+
+   [49]プライバシーポリシーと利用規約
+
+   [50]サイトマップ
+
+   © 2025 世界経済フォーラム
+   (BUTTON)
+
+Références
+
+   Liens visibles :
+   1. https://www.googletagmanager.com/ns.html?id=GTM-W7SZB6C
+   2. https://jp.weforum.org/stories/health-and-healthcare-systems/
+   3. https://jp.weforum.org/stories/authors/jason-szolomayer/
+   4. https://jp.weforum.org/stories/authors/alice-hawamleh/
+   5. https://jp.weforum.org/centres/centre-for-health-and-healthcare/
+   6. https://www.humanity-inclusion.org.uk/en/more-than-6-thousand-prosthetic-limbs-needed-in-gaza
+   7. https://news.un.org/en/story/2025/08/1165713
+   8. https://www.humanity-inclusion.org.uk/en/amputation-crisis-in-conflict-zones-report-reveals-urgent-need-for-rehabilitation-services-in-gaza-syria-and-ukraine?
+   9. https://www.unocha.org/publications/report/syrian-arab-republic/syrian-arab-republic-humanitarian-situation-report-no-6-27-may-2025
+  10. https://jp.weforum.org/stories/2024/06/ukurainanofa-sutoredhi-ga-ru-tomentaruherusu/
+  11. https://jp.weforum.org/stories/2024/04/5-no-ga-ni-domono-wo-rutamenidekirukoto/
+  12. https://jp.weforum.org/stories/2020/07/no-ni-tsukamoshirenai-3dpurintosute-ki/
+  13. https://jp.weforum.org/stories/equity-diversity-and-inclusion/
+  14. https://jp.weforum.org/stories/social-innovation/
+  15. https://jp.weforum.org/stories/emerging-technologies/
+  16. https://jp.weforum.org/stories/youth/
+  17. https://jp.weforum.org/stories/manufacturing-and-value-chains/
+  18. https://jp.weforum.org/stories/technological-innovation/
+  19. https://pub.s6.exacttarget.com/u1toxyddesm
+  20. https://jp.weforum.org/stories/health-and-healthcare-systems/
+  21. https://jp.weforum.org/stories/2025/12/andropause-awareness-helps-move-us-towards-a-healthier-society/
+  22. https://jp.weforum.org/stories/2025/11/financing-heart-failure-care-in-asia-pacific-investing-now-ja/
+  23. https://jp.weforum.org/publications/workforce-health-across-the-value-chain-organizational-insights-to-mitigate-risk-and-create-sustainable-growth/
+  24. https://jp.weforum.org/stories/2025/10/gpli-innovation-award-cities-healthcare-pollution-housing-ja/
+  25. https://jp.weforum.org/stories/2025/10/how-neuroscience-is-reshaping-the-way-we-grow-and-eat-ja/
+  26. https://jp.weforum.org/stories/2025/10/how-antimicrobial-resistance-is-risking-blood-cancer-treatment-ja/
+  27. https://jp.weforum.org/about/who-we-are/
+  28. https://jp.weforum.org/about/how-we-work/
+  29. https://jp.weforum.org/about/leadership-and-governance/
+  30. https://jp.weforum.org/impact/
+  31. https://jp.weforum.org/centres/
+  32. https://jp.weforum.org/events/
+  33. https://jp.weforum.org/stakeholders/
+  34. https://jp.weforum.org/stories/
+  35. https://jp.weforum.org/press/
+  36. https://www.flickr.com/photos/worldeconomicforum/
+  37. https://jp.weforum.org/videos/
+  38. https://jp.weforum.org/podcasts/
+  39. https://jp.weforum.org/partners/
+  40. https://jp.weforum.org/join-us/individuals/
+  41. https://weforum.us3.list-manage.com/subscribe/?u=6308fe51b420dc9ff3834abc8&id=bf3fa00e64
+  42. https://mcrp6tl67vypnqsv1739snkkwg4q.pub.sfmc-content.com/u1toxyddesm
+  43. https://wefglobal.eu.qualtrics.com/jfe/form/SV_af38noL8hELk7ie
+  44. https://www.weforum.org/sustainability-world-economic-forum/
+  45. https://www.weforum.org/careers/
+  46. https://es.weforum.org/
+  47. https://cn.weforum.org/
+  48. https://jp.weforum.org/
+  49. https://jp.weforum.org/about/privacy-and-terms-of-use
+  50. https://jp.weforum.org/sitemap/
+
+   Liens cachés :
+  52. https://jp.weforum.org/
+  53. https://jp.weforum.org/join-us/individuals
+  54. https://jp.weforum.org/stories/health-and-healthcare-systems/
+  55. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjp.weforum.org%2Fstories%2F2025%2F12%2F3d-printed-prostheses-conflict-zones-ja%2F
+  56. https://twitter.com/intent/tweet?via=wef&text=3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E7%BE%A9%E8%82%A2%E3%81%8C%E7%B4%9B%E4%BA%89%E5%9C%B0%E5%9F%9F%E3%81%AB%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E3%80%81%E3%83%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E5%B8%8C%E6%9C%9B&url=https%3A%2F%2Fjp.weforum.org%2Fstories%2F2025%2F12%2F3d-printed-prostheses-conflict-zones-ja%2F
+  57. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fjp.weforum.org%2Fstories%2F2025%2F12%2F3d-printed-prostheses-conflict-zones-ja%2F
+  58. https://share.flipboard.com/bookmarklet/popout?v=2&title=3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E7%BE%A9%E8%82%A2%E3%81%8C%E7%B4%9B%E4%BA%89%E5%9C%B0%E5%9F%9F%E3%81%AB%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E3%80%81%E3%83%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E5%B8%8C%E6%9C%9B&url=https%3A%2F%2Fjp.weforum.org%2Fstories%2F2025%2F12%2F3d-printed-prostheses-conflict-zones-ja%2F
+  59. whatsapp://send/?text=3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E7%BE%A9%E8%82%A2%E3%81%8C%E7%B4%9B%E4%BA%89%E5%9C%B0%E5%9F%9F%E3%81%AB%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E3%80%81%E3%83%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E5%B8%8C%E6%9C%9B+https%3A%2F%2Fjp.weforum.org%2Fstories%2F2025%2F12%2F3d-printed-prostheses-conflict-zones-ja%2F
+  60. https://intelligence.weforum.org/topics/a1Gb0000001k6I5EAI?tab=publications
+  61. https://jp.weforum.org/stories/2025/12/andropause-awareness-helps-move-us-towards-a-healthier-society/
+  62. https://jp.weforum.org/stories/2025/11/financing-heart-failure-care-in-asia-pacific-investing-now-ja/
+  63. https://jp.weforum.org/publications/workforce-health-across-the-value-chain-organizational-insights-to-mitigate-risk-and-create-sustainable-growth/
+  64. https://jp.weforum.org/stories/2025/10/gpli-innovation-award-cities-healthcare-pollution-housing-ja/
+  65. https://jp.weforum.org/stories/2025/10/how-neuroscience-is-reshaping-the-way-we-grow-and-eat-ja/
+  66. https://jp.weforum.org/stories/2025/10/how-antimicrobial-resistance-is-risking-blood-cancer-treatment-ja/
+  67. https://jp.weforum.org/about/world-economic-forum/
+  68. https://jp.weforum.org/sign-in
+  69. https://www.weforum.org/
+  70. https://www.facebook.com/japanweforum
+  71. https://www.linkedin.com/company/japanweforum/
+  72. https://www.youtube.com/c/wefjapan

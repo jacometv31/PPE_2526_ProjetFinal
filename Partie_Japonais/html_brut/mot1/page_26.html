@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="ja" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="preconnect" href="https://i.kfs.io" crossorigin>
+<link rel="preconnect" href="https://cdn.rollbar.com" crossorigin>
+<link rel="preconnect" href="https://api-portal.kkbox.com.tw" crossorigin>
+<meta name="rollbar-setting" content="setting for rollbar" data-token="b1104e5c43af4d4ca8bbb1ff1d724382" data-env="production" />
+<script>!function(){"use strict";var r=document.head.querySelector('meta[name="rollbar-setting"]').dataset,e=window.location.hostname.split(".").slice(-2).join(".");window._rollbarConfig={accessToken:r.token,captureUncaught:!0,captureUnhandledRejections:!0,hostSafeList:[e,"kfs.io"],enabled:window.customElements&&e.includes("kkbox"),checkIgnore:function(r,e,n){if(!r)return!1;var o=n.body.trace.exception;return"SecurityError"===o.class&&/^Blocked a frame with origin "https?:\/\/.+" from accessing/.test(o.message)},payload:{environment:r.env}},function(r){var e={};function n(o){if(e[o])return e[o].exports;var t=e[o]={i:o,l:!1,exports:{}};return r[o].call(t.exports,t,t.exports,n),t.l=!0,t.exports}n.m=r,n.c=e,n.d=function(r,e,o){n.o(r,e)||Object.defineProperty(r,e,{enumerable:!0,get:o})},n.r=function(r){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(r,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(r,"__esModule",{value:!0})},n.t=function(r,e){if(1&e&&(r=n(r)),8&e)return r;if(4&e&&"object"==typeof r&&r&&r.__esModule)return r;var o=Object.create(null);if(n.r(o),Object.defineProperty(o,"default",{enumerable:!0,value:r}),2&e&&"string"!=typeof r)for(var t in r)n.d(o,t,function(e){return r[e]}.bind(null,t));return o},n.n=function(r){var e=r&&r.__esModule?function(){return r.default}:function(){return r};return n.d(e,"a",e),e},n.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},n.p="",n(n.s=0)}([function(r,e,n){var o=n(1),t=n(5);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdn.rollbar.com/rollbarjs/refs/tags/v2.25.0/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=o.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=o.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,e,n){var o=n(2),t=n(3);function a(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}var l=0;function i(r,e){this.options=r,this._rollbarOldOnError=null;var n=l++;this.shimId=function(){return n},"undefined"!=typeof window&&window._rollbarShims&&(window._rollbarShims[n]={handler:e,messages:[]})}var s=n(4),c=function(r,e){return new i(r,e)},d=function(r){return new s(c,r)};function u(r){return a((function(){var e=Array.prototype.slice.call(arguments,0),n={shim:this,method:r,args:e,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)}))}i.prototype.loadFull=function(r,e,n,o,t){var l=!1,i=e.createElement("script"),s=e.getElementsByTagName("script")[0],c=s.parentNode;i.crossOrigin="",i.src=o.rollbarJsUrl,n||(i.async=!0),i.onload=i.onreadystatechange=a((function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){i.onload=i.onreadystatechange=null;try{c.removeChild(i)}catch(r){}l=!0,function(){var e;if(void 0===r._rollbarDidLoad){e=new Error("rollbar.js did not load");for(var n,o,a,l,i=0;n=r._rollbarShims[i++];)for(n=n.messages||[];o=n.shift();)for(a=o.args||[],i=0;i<a.length;++i)if("function"==typeof(l=a[i])){l(e);break}}"function"==typeof t&&t(e)}()}})),c.insertBefore(i,s)},i.prototype.wrap=function(r,e,n){try{var o;if(o="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){n&&"function"==typeof n&&n.apply(this,arguments);try{return r.apply(this,arguments)}catch(n){var e=n;throw e&&("string"==typeof e&&(e=new String(e)),e._rollbarContext=o()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e),e}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(e){return r}};for(var p="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),f=0;f<p.length;++f)i.prototype[p[f]]=u(p[f]);r.exports={setupShim:function(r,e){if(r){var n=e.globalAlias||"Rollbar";if("object"==typeof r[n])return r[n];r._rollbarShims={},r._rollbarWrappedError=null;var l=new d(e);return a((function(){e.captureUncaught&&(l._rollbarOldOnError=r.onerror,o.captureUncaughtExceptions(r,l,!0),e.wrapGlobalEventHandlers&&t(r,l,!0)),e.captureUnhandledRejections&&o.captureUnhandledRejections(r,l,!0);var a=e.autoInstrument;return!1!==e.enabled&&(void 0===a||!0===a||function(r){return!("object"!=typeof r||void 0!==r.page&&!r.page)}(a))&&r.addEventListener&&(r.addEventListener("load",l.captureLoad.bind(l)),r.addEventListener("DOMContentLoaded",l.captureDomContentLoaded.bind(l))),r[n]=l,l}))()}},Rollbar:d}},function(r,e,n){r.exports={captureUncaughtExceptions:function(r,e,n){if(r){var o;if("function"==typeof e._rollbarOldOnError)o=e._rollbarOldOnError;else if(r.onerror){for(o=r.onerror;o._rollbarOldOnError;)o=o._rollbarOldOnError;e._rollbarOldOnError=o}e.handleAnonymousErrors();var t=function(){var n=Array.prototype.slice.call(arguments,0);!function(r,e,n,o){r._rollbarWrappedError&&(o[4]||(o[4]=r._rollbarWrappedError),o[5]||(o[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null);var t=e.handleUncaughtException.apply(e,o);n&&n.apply(r,o),"anonymous"===t&&(e.anonymousErrorsPending+=1)}(r,e,o,n)};n&&(t._rollbarOldOnError=o),r.onerror=t}},captureUnhandledRejections:function(r,e,n){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var o=function(r){var n,o,t;try{n=r.reason}catch(r){n=void 0}try{o=r.promise}catch(r){o="[unhandledrejection] error getting `promise` from event"}try{t=r.detail,!n&&t&&(n=t.reason,o=t.promise)}catch(r){}n||(n="[unhandledrejection] error getting `reason` from event"),e&&e.handleUnhandledRejection&&e.handleUnhandledRejection(n,o)};o.belongsToShim=n,r._rollbarURH=o,r.addEventListener("unhandledrejection",o)}}}},function(r,e,n){function o(r,e,n){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){for(var o=e.addEventListener;o._rollbarOldAdd&&o.belongsToShim;)o=o._rollbarOldAdd;var t=function(e,n,t){o.call(this,e,r.wrap(n),t)};t._rollbarOldAdd=o,t.belongsToShim=n,e.addEventListener=t;for(var a=e.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,e,n){a.call(this,r,e&&e._rollbar_wrapped||e,n)};l._rollbarOldRemove=a,l.belongsToShim=n,e.removeEventListener=l}}r.exports=function(r,e,n){if(r){var t,a,l="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(t=0;t<l.length;++t)r[a=l[t]]&&r[a].prototype&&o(e,r[a].prototype,n)}}},function(r,e,n){function o(r,e){this.impl=r(e,this),this.options=e,function(r){for(var e=function(r){return function(){var e=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,e)}},n="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),o=0;o<n.length;o++)r[n[o]]=e(n[o])}(o.prototype)}o.prototype._swapAndProcessMessages=function(r,e){var n,o,t;for(this.impl=r(this.options);n=e.shift();)o=n.method,t=n.args,this[o]&&"function"==typeof this[o]&&("captureDomContentLoaded"===o||"captureLoad"===o?this[o].apply(this,[t[0],n.ts]):this[o].apply(this,t));return this},r.exports=o},function(r,e,n){r.exports=function(r){return function(e){if(!e&&!window._rollbarInitialized){for(var n,o,t=(r=r||{}).globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;n=window._rollbarShims[i++];)o||(o=n.handler),n.handler._swapAndProcessMessages(l,n.messages);window[t]=o,window._rollbarInitialized=!0}}}}])}();
+</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://www.kkbox.com/favicon.ico" rel="shortcut icon">
+<link rel="apple-touch-icon" href="https://pkg.kfs.io/kk-web/img/icon/kkbox_app_icon_180x180.png"/>
+<meta name="api-portal-setting"
+    content="setting for api portal"
+    data-origin="https://api-portal.kkbox.com.tw"
+    data-id="www-kkbox"
+    data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY5Mzk3NTYsIm5iZiI6MTc2NjkzOTc1NiwiZXhwIjoxNzY2OTQwMDU2LCJ0ZXJyIjoiSlAifQ.gmHzYsLGANMLpUTLXKNGIIcngX24AJOeAGx8pEXHRZM"
+    data-terr="jp"
+/>
+    <title>希望について-歌詞-NO NAME-KKBOX</title>
+<meta name="description" content="希望について-歌詞- その手 伸ばしても 今は(今は)届かないよ 僕たちの夢は もっと(もっと)遠くにあるんだ 夜空の星だって 何億光年の彼方 暗闇の先... -今すぐKKBOXを使って好きなだけ聞きましょう。">
+<meta property="fb:app_id" content="314155392230" />
+<meta property="og:title" content="希望について" />
+<meta property="og:type" content="music.song" />
+<meta property="og:image" content="https://i.kfs.io/album/jp/1075023,0v1/fit/500x500.jpg" />
+<meta property="og:url" content="https://www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-" />
+<meta property="og:description" content="NO NAMEの曲「 希望について」はこちら、今すぐKKBOXを使って好きなだけ聞きましょう。" />
+<meta property="og:site_name" content="KKBOX" />
+<meta property="og:restrictions:country:allowed" content="JP" />
+<meta property="music:duration" content="246" />
+<meta property="music:album" content="https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t" />
+<meta property="music:album:disc" content="1" />
+<meta property="music:album:track" content="1" />
+<meta property="music:musician" content="https://www.kkbox.com/jp/ja/artist/-tYGG-TrdRktDOh4g3" />
+
+<meta property="fb:pages" content="180458088803667">
+<meta property="fb:pages" content="933019496765740">
+<meta property="fb:pages" content="191473504869">
+<meta property="fb:pages" content="101349183368364">
+<meta property="fb:pages" content="432325683499719">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@kkbox" />
+<meta name="twitter:title" content="希望について" />
+<meta name="twitter:description" content="NO NAMEの曲「 希望について」はこちら、今すぐKKBOXを使って好きなだけ聞きましょう。" />
+<meta name="twitter:image" content="https://i.kfs.io/album/jp/1075023,0v1/fit/500x500.jpg" />
+
+<meta property="al:ios:url" content="kkbox://song/11600917?e=0#play" />
+<meta property="al:ios:app_store_id" content="300915900" />
+<meta property="al:ios:app_name" content="KKBOX" />
+<meta property="al:android:url" content="kkbox://song/11600917?e=0#play" />
+<meta property="al:android:package" content="com.skysoft.kkbox.android" />
+<meta property="al:android:app_name" content="KKBOX" />
+<meta property="al:windows_universal:url" content="kkbox://song/11600917?e=0#play" />
+<meta property="al:windows_universal:app_id" content="af04b3e5-793c-4d54-9694-72072d4a11df" />
+<meta property="al:windows_universal:app_name" content="KKBOX" />
+<meta property="al:windows_phone:url" content="kkbox://song/11600917?e=0#play" />
+<meta property="al:windows_phone:app_id" content="af04b3e5-793c-4d54-9694-72072d4a11df" />
+<meta property="al:windows_phone:app_name" content="KKBOX" />
+<meta property="al:iphone:url" content="kkbox://song/11600917?e=0#play" />
+<meta property="al:iphone:app_store_id" content="300915900" />
+<meta property="al:iphone:app_name" content="KKBOX" />
+<meta property="al:ipad:url" content="kkbox://song/11600917?e=0#play" />
+<meta property="al:ipad:app_store_id" content="300915900" />
+<meta property="al:ipad:app_name" content="KKBOX" />
+<meta property="al:web:url" content="https://www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-" />
+<meta property="al:web:should_fallback" content="true" />
+
+
+<link rel="canonical" href="https://www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-">
+<link rel="alternate" href="https://www.kkbox.com/jp/en/song/5XpfsvA_ELRufbCUz-" hreflang="en" />
+<link rel="alternate" href="android-app://com.skysoft.kkbox.android/https/www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-" />
+<link rel="alternate" href="ios-app://tw.com.skysoft.iPhone/https/www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-" />
+<link rel="alternate" href="android-app://com.skysoft.kkbox.android/kkbox/song/11600917?e=0#play" />
+<link rel="alternate" href="ios-app://tw.com.skysoft.iPhone/kkbox/song/11600917?e=0#play" />
+
+
+    <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"NO NAME","item":"https://www.kkbox.com/jp/ja/artist/-tYGG-TrdRktDOh4g3"},{"@type":"ListItem","position":2,"name":"希望について[type-A 通常盤]","item":"https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t"},{"@type":"ListItem","position":3,"name":"希望について","item":{"url":"https://www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-"}}]}    </script>
+    <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"MusicRecording","@id":"https://www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-","name":"希望について","url":"https://www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-","duration":"PT4M6S","inAlbum":{"@type":"MusicAlbum","@id":"https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t","name":"希望について[type-A 通常盤]"},"byArtist":{"@type":"MusicGroup","@id":"https://www.kkbox.com/jp/ja/artist/-tYGG-TrdRktDOh4g3","name":"NO NAME","image":"https://i.kfs.io/artist/global/260621,0v1/fit/500x500.jpg"},"recordingOf":{"@type":"MusicComposition","name":"希望について","lyrics":{"@type":"CreativeWork","text":"\nその手 伸ばしても\n今は(今は)届かないよ\n僕たちの夢は\nもっと(もっと)遠くにあるんだ\n\n夜空の星だって\n何億光年の彼方\n暗闇の先に\n輝くもの\n\n希望について\n僕は語ろう\n名もなき詩人のように(ように)\n熱く(熱く)\n君が涙に\n暮れているなら\n慰めよりも\nやがて(やがて)白む(白む)\n空を語ろうか?\n\n愛を探しても\nすぐに(すぐに)見つからないよ\n自分の方から\n誰か(誰か)愛してみるんだ\n\nこんな広い世界\n運命に導かれて\nたった一つだけの\n光を見た\n\n希望について\n僕は語ろう\n年老いた水夫のように(ように)\n深く(深く)\n君が何かに\n傷ついたなら\n手当するより\n昇る(昇る)朝陽(朝陽)\n僕は指差そう\n\n人は誰もみんな\nあきらめて楽になるよ\nだけど夢はいつも\n背を向けない\n\n希望について\n僕は語ろう\n名もなき詩人のように(ように)\n熱く(熱く)\n君が答えに\n迷ってるなら\n立ち止まらずに\n歩き(歩き)ながら(ながら)\n希望について\n僕は語ろう\n名もなき戦士のように(ように)\nいつか(いつか)\n夢を糧(かて)にして…"},"lyricist":{"@type":"Person","name":"秋元康　"},"composer":{"@type":"Person","name":"川浦正大"}}}    </script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.kkbox.com/jp/ja/","logo":"https://pkg.kfs.io/kk-web/img/icon/kkbox_app_icon.png"}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","url":"https://www.kkbox.com/jp/ja/","potentialAction":{"@type":"SearchAction","target":"https://www.kkbox.com/jp/ja/search.php?word={search_term_string}","query-input":"required name=search_term_string"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"SiteNavigationElement","position":1,"name":"機能","url":"https://www.kkbox.com/jp/ja/feature"},{"@type":"SiteNavigationElement","position":2,"name":"音楽ニュース","url":"https://www.kkbox.com/jp/ja/info/"},{"@type":"SiteNavigationElement","position":3,"name":"KKBOX サービス利用規約","url":"https://www.kkbox.com/about/jp/ja/terms"},{"@type":"SiteNavigationElement","position":4,"name":"会社概要","url":"https://www.kkbox.com/about/jp/ja/"},{"@type":"SiteNavigationElement","position":5,"name":"プレスリリース","url":"https://www.kkbox.com/about/jp/ja/news"},{"@type":"SiteNavigationElement","position":6,"name":"お問い合わせ","url":"https://www.kkbox.com/about/jp/ja/contact"}]}</script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="prefetch" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&amp;display=swap" as="style">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&amp;display=swap"></noscript><link rel="stylesheet" href="https://a-www.kfs.io/static/external/portal-menu/header-5e41cb8c98.css">
+<link rel="stylesheet" href="https://a-www.kfs.io/static/css/reset-fce0431c69.css">
+<link rel="stylesheet" href="https://a-www.kfs.io/static/css/page-song-more-92f3bfe20b.css">
+<link rel="prefetch" href="https://a-www.kfs.io/static/external/portal-menu/footer-f35a2756a4.css" as="style">
+<noscript><link rel="stylesheet" href="https://a-www.kfs.io/static/external/portal-menu/footer-f35a2756a4.css"></noscript></head>
+<body data-terr="jp" data-lang="ja" data-is-mobile="false">
+<script>!function(){"use strict";window.dataLayer=[],window.dataLayer.push({"gtm.start":(new Date).getTime(),event:"gtm.js"})}();
+</script><header class="pm-header pm-jp"><div class="pm-mobile-header"><button class="pm-menu-icon" data-toggle="pm-sidebar" aria-label="Menu"></button><a class="pm-logo" href="/jp/ja/" aria-label="KKBOX"></a><button class="pm-search-icon" data-toggle="pm-search-panel" aria-label="Search"></button></div><div class="pm-desktop-header"><div class="pm-container"><div class="pm-header-aside"><a class="pm-logo" href="/jp/ja/" aria-label="KKBOX"></a></div><ul class="pm-header-menu"><li> <a data-ga-category="header" data-ga-action="click_features" href="/jp/ja/feature">機能</a></li><li> <a target="_blank" href="https://ssl.kkbox.com/billing/index.php">料金プラン</a></li><li> <div class="pm-drop-down"><span>ニュース</span><ul><li><a href="/jp/ja/info/">音楽ニュース</a></li><li><a target="_blank" href="https://kma.kkbox.com/charts/?terr=jp&lang=ja">ランキング</a></li><li><a target="_blank" href="https://kma.kkbox.com/awards/">Music Awards</a></li></ul></div></li><li> <div class="pm-drop-down"><span>サポート</span><ul><li><a target="_blank" href="https://ssl.kkbox.com/billing.php">お支払い</a></li><li><a target="_blank" href="https://mykkid.kkbox.com">マイページ</a></li><li><a target="_blank" href="https://help.kkbox.com/jp/ja?p=kkbox">FAQ</a></li><li><a target="_blank" href="/about/jp/ja/terms">KKBOX サービス利用規約</a></li></ul></div></li><li> <div class="pm-drop-down"><span>会社情報</span><ul><li><a target="_blank" href="https://www.kkcompany.com/ja-jp/about/">KKCompany について</a></li><li><a href="/about/jp/ja/">会社概要</a></li><li><a href="/about/jp/ja/news">プレスリリース</a></li><li><a target="_blank" rel="noreferrer noopener" href="https://careers.kkcompany.com/#kkbox">採用情報</a></li><li><a href="/about/jp/ja/contact">お問い合わせ</a></li></ul></div></li><li> <div class="pm-search-button pm-highlight" data-toggle="pm-search-panel">検索</div></li><li> <a class="pm-highlight" href="/jp/ja/download">ダウンロード</a></li></ul></div></div></header><nav class="pm-sidebar pm-jp" id="pm-sidebar"><ul><li><a data-ga-category="header" data-ga-action="click_features" href="/jp/ja/feature">機能</a></li><li><a target="_blank" href="https://ssl.kkbox.com/billing/index.php">料金プラン</a></li><li><div class="pm-h3">ニュース</div><ul><li> <a href="/jp/ja/info/">音楽ニュース</a></li><li> <a target="_blank" href="https://kma.kkbox.com/charts/?terr=jp&lang=ja">ランキング</a></li><li> <a target="_blank" href="https://kma.kkbox.com/awards/">Music Awards</a></li></ul></li><li><div class="pm-h3">サポート</div><ul><li> <a target="_blank" href="https://ssl.kkbox.com/billing.php">お支払い</a></li><li> <a target="_blank" href="https://mykkid.kkbox.com">マイページ</a></li><li> <a target="_blank" href="https://help.kkbox.com/jp/ja?p=kkbox">FAQ</a></li><li> <a target="_blank" href="/about/jp/ja/terms">KKBOX サービス利用規約</a></li></ul></li><li><div class="pm-h3">会社情報</div><ul><li> <a target="_blank" href="https://www.kkcompany.com/ja-jp/about/">KKCompany について</a></li><li> <a href="/about/jp/ja/">会社概要</a></li><li> <a href="/about/jp/ja/news">プレスリリース</a></li><li> <a target="_blank" rel="noreferrer noopener" href="https://careers.kkcompany.com/#kkbox">採用情報</a></li><li> <a href="/about/jp/ja/contact">お問い合わせ</a></li></ul></li></ul><div class="pm-socials"><a class="pm-social pm-facebook" href="https://www.facebook.com/KKBOXJP" rel="noreferrer noopener" target="_blank" aria-label="Facebook"></a><a class="pm-social pm-twitter" href="https://twitter.com/KKBOX_JP" rel="noreferrer noopener" target="_blank" aria-label="Twitter"></a><a class="pm-social pm-youtube" href="https://www.youtube.com/user/KKBOXJP" rel="noreferrer noopener" target="_blank" aria-label="Youtube"></a></div></nav><div class="pm-search-panel pm-jp" id="pm-search-panel"><form action="/jp/ja/search" method="GET" data-terr="jp" data-lang="ja"><button type="submit"></button><input type="text" name="q" placeholder="曲、アーティストやプレイリスト名で検索" autocomplete="off" spellcheck="true"/></form><ul class="pm-search-suggestion"></ul></div>
+<main><div class="song-header-bg" data-ga-category="Song" data-ga-label="希望について">
+<div class="song-header">
+    <div class="image">
+        <div class="image-container">
+            <a href="https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t" title="希望について[type-A 通常盤]">
+                <img src="https://i.kfs.io/album/jp/1075023,0v1/fit/500x500.jpg" alt="希望について[type-A 通常盤]" width="500" height="500">
+            </a>
+            <div class="playing"><playing-animation></playing-animation></div>
+        </div>
+    </div>
+    <div class="label">楽曲</div>
+    <div class="title">
+        <h1>希望について</h1>
+    </div>
+    <div class="artist">
+                <a href="https://www.kkbox.com/jp/ja/artist/-tYGG-TrdRktDOh4g3" title="NO NAME">
+            <img src="https://i.kfs.io/artist/global/260621,0v1/fit/160x160.jpg" alt="NO NAME">
+            NO NAME
+        </a>
+            </div>
+    <div class="buttons">
+        <preview-control data-type="song" data-id="5XpfsvA_ELRufbCUz-" data-ga-action="click_preview" data-ga-category="Song" data-ga-label="希望について">
+            <img src="https://a-www.kfs.io/static/images/icons/play-7fb5bbc884.1.svg"width="32" height="32">
+            <img src="https://a-www.kfs.io/static/images/icons/pause-3b8362ca9d.1.svg" width="32" height="32" loading="lazy">
+            <span>試聴する</span>
+        </preview-control>
+        <wp-modal-v4 data-action="view_and_play" data-type="song" data-id="5XpfsvA_ELRufbCUz-" data-ga-action="click_full_track" data-ga-category="Song" data-ga-label="希望について">
+            <span>フル再生</span>
+        </wp-modal-v4>
+    </div>
+    <div class="share">
+        <share-box data-ga-action="click_share"
+                        data-url="https://kkbox.fm/mo0Zfv"
+            data-text="NO NAME '希望について'"
+            data-options="{&quot;twitter&quot;:{&quot;hashtags&quot;:[&quot;NO NAME&quot;,&quot;希望について&quot;]}}">
+            <img src="https://a-www.kfs.io/static/images/icons/share-7920216b46.black.svg" width="24" height="24">
+        </share-box>
+    </div>
+</div>
+</div>
+<div class="track-content" data-ga-category="Song">
+<div class="lyrics">
+        <p>
+                    作詞：秋元康　
+        &nbsp;&nbsp;&nbsp;
+                            作曲：川浦正大
+            </p>
+    <br>    <p><br />
+その手 伸ばしても<br />
+今は(今は)届かないよ<br />
+僕たちの夢は<br />
+もっと(もっと)遠くにあるんだ<br />
+<br />
+夜空の星だって<br />
+何億光年の彼方<br />
+暗闇の先に<br />
+輝くもの<br />
+<br />
+希望について<br />
+僕は語ろう<br />
+名もなき詩人のように(ように)<br />
+熱く(熱く)<br />
+君が涙に<br />
+暮れているなら<br />
+慰めよりも<br />
+やがて(やがて)白む(白む)<br />
+空を語ろうか?<br />
+<br />
+愛を探しても<br />
+すぐに(すぐに)見つからないよ<br />
+自分の方から<br />
+誰か(誰か)愛してみるんだ<br />
+<br />
+こんな広い世界<br />
+運命に導かれて<br />
+たった一つだけの<br />
+光を見た<br />
+<br />
+希望について<br />
+僕は語ろう<br />
+年老いた水夫のように(ように)<br />
+深く(深く)<br />
+君が何かに<br />
+傷ついたなら<br />
+手当するより<br />
+昇る(昇る)朝陽(朝陽)<br />
+僕は指差そう<br />
+<br />
+人は誰もみんな<br />
+あきらめて楽になるよ<br />
+だけど夢はいつも<br />
+背を向けない<br />
+<br />
+希望について<br />
+僕は語ろう<br />
+名もなき詩人のように(ように)<br />
+熱く(熱く)<br />
+君が答えに<br />
+迷ってるなら<br />
+立ち止まらずに<br />
+歩き(歩き)ながら(ながら)<br />
+希望について<br />
+僕は語ろう<br />
+名もなき戦士のように(ように)<br />
+いつか(いつか)<br />
+夢を糧(かて)にして…</p>
+    </div><div class="album-info">
+    <h2>収録アルバム</h2>
+    <a href="https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t">
+        <div class="image">
+            <img src="https://i.kfs.io/album/jp/1075023,0v1/fit/500x500.jpg" alt="希望について[type-A 通常盤]" loading="lazy" height="80" width="80">
+        </div>
+        <div class="album-name"><div class="inner">希望について[type-A 通常盤]</div></div>
+        <div class="release">2012/08/01</div>
+    </a>
+    <div class="google-ad-manager" data-id="/421074048/KKBOX_song_mid1_leftdragon" data-sizes="[[1,1],[300,100],[300,250],[320,100],[336,280]]" style="min-height:250px;"></div>
+    <div class="album-tracks" data-id="4ob0VppRVgY_blgu-t">
+        <h2>楽曲一覧</h2>
+        <ol></ol>
+        <a class="go-to-album" href="https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t">収録曲を見る</a>
+    </div>
+</div>
+<div class="related-playlists" data-id="5XpfsvA_ELRufbCUz-">
+    <h2>収録プレイリスト</h2>
+    <ul></ul>
+    <div class="google-ad-manager" data-id="/421074048/KKBOX_song_bottom_superbanner" data-sizes="[[1,1],[300,100],[300,250],[320,50],[320,100],[336,280],[728,90]]"></div>
+</div>
+</div>
+</main>
+<footer class="pm-footer pm-jp"><div class="pm-footer-menu"><div class="pm-footer-column"><div class="pm-footer-subtitle">Explore KKBOX</div><div class="pm-footer-li"><a href="/jp/ja/feature" data-ga-category="footer" data-ga-action="click_features">機能</a></div><div class="pm-footer-li"><a href="/jp/ja/download">ダウンロード</a></div></div><div class="pm-footer-column"><div class="pm-footer-subtitle">ニュース</div><div class="pm-footer-li"><a href="/jp/ja/info/">音楽ニュース</a></div><div class="pm-footer-li"><a href="https://kma.kkbox.com/charts/?terr=jp&lang=ja" target="_blank">ランキング</a></div><div class="pm-footer-li"><a href="https://kma.kkbox.com/awards/" target="_blank">Music Awards</a></div></div><div class="pm-footer-column"><div class="pm-footer-subtitle">サポート</div><div class="pm-footer-li"><a href="https://ssl.kkbox.com/billing.php" target="_blank">お支払い</a></div><div class="pm-footer-li"><a href="https://mykkid.kkbox.com" target="_blank">マイページ</a></div><div class="pm-footer-li"><a href="https://help.kkbox.com/jp/ja?p=kkbox" target="_blank">FAQ</a></div><div class="pm-footer-li"><a href="/about/jp/ja/terms" target="_blank">KKBOX サービス利用規約</a></div></div><div class="pm-footer-column"><div class="pm-footer-subtitle">会社情報</div><div class="pm-footer-li"><a href="https://www.kkcompany.com/ja-jp/about/" target="_blank">KKCompany について</a></div><div class="pm-footer-li"><a href="/about/jp/ja/">会社概要</a></div><div class="pm-footer-li"><a href="/about/jp/ja/news">プレスリリース</a></div><div class="pm-footer-li"><a href="https://careers.kkcompany.com/#kkbox" target="_blank" rel="noreferrer noopener">採用情報</a></div><div class="pm-footer-li"><a href="/about/jp/ja/contact">お問い合わせ</a></div></div><div class="pm-footer-column-socials"><a class="pm-social pm-facebook" href="https://www.facebook.com/KKBOXJP" rel="noreferrer noopener" target="_blank" aria-label="Facebook"></a><a class="pm-social pm-twitter" href="https://twitter.com/KKBOX_JP" rel="noreferrer noopener" target="_blank" aria-label="Twitter"></a><a class="pm-social pm-youtube" href="https://www.youtube.com/user/KKBOXJP" rel="noreferrer noopener" target="_blank" aria-label="Youtube"></a></div></div><div class="pm-all-width pm-jp"><div class="pm-terr-lang"><div class="pm-lang"><select id="pm-lang-select" onchange="window.location=window.location.href.replace(/\/jp\/(ja)\//,(m,p)=&gt;m.replace(p,this.value))"><option value="ja" selected="selected">日本語</option><option value="en">English</option></select><label for="pm-lang-select">日本語</label><div class="pm-dropdown-menu" tabindex="0"><button>日本語</button><div class="pm-dropdown"><a class="pm-dropdown-li" href="javascript:window.location=window.location.href.replace(/\/jp\/(ja)\//,(m,p)=&gt;m.replace(p,'en'))">English</a></div></div></div><div class="pm-terr"><select id="pm-terr-select" onchange="window.location=this.value"><option value="/tw/tc/">台湾</option><option value="/hk/tc/">香港</option><option value="/jp/ja/" selected="selected">日本</option><option value="/sg/en/">シンガポール</option><option value="/my/en/">マレーシア</option></select><label for="pm-terr-select">日本</label><div class="pm-dropdown-menu" tabindex="0"><button>日本</button><div class="pm-dropdown"><a class="pm-dropdown-li" href="/tw/tc/">台湾</a><a class="pm-dropdown-li" href="/hk/tc/">香港</a><a class="pm-dropdown-li" href="/sg/en/">シンガポール</a><a class="pm-dropdown-li" href="/my/en/">マレーシア</a></div></div></div></div><div class="pm-copyright">© KKBOX All Rights Reserved.</div><div class="pm-law"><div class="law"><div class="pm-footer-li"><a href="/about/jp/ja/privacy">プライバシーポリシー</a></div></div><div class="law"><div class="line"></div><div class="pm-footer-li"><a href="/about/jp/ja/ipr">知的財産権</a></div></div><div class="law"><div class="line"></div><div class="pm-footer-li"><a href="/about/jp/ja/specified_law">特定商取引法</a></div></div></div></div></footer>
+<script async src="https://a-www.kfs.io/static/js/common-762f7e099a.js" onerror="window.Rollbar.error('Load assets from kfs.io error', this.src);"></script>
+<script async src="https://a-www.kfs.io/static/external/portal-menu/main-3ec5b21f63.js"></script>
+<script nomodule src="https://pkg.kfs.io/kk-web/a-better-browser/1.0.0/app.js"></script>
+<script async src="https://a-www.kfs.io/static/components/preview-control-4a287da788.js"></script>
+<script async src="https://pkg.kfs.io/kk-web/web-playback/4.0.6/wp.js" onerror="window.Rollbar.error('Load assets from pkg.kfs.io error', this.src);"></script>
+<script async src="https://a-www.kfs.io/static/components/playing-animation-8d61ea6113.js"></script>
+<script async src="https://pkg.kfs.io/kk-web/sharebox.js/2.1.0/main.js"></script>
+<script>document.body.oncontextmenu=function(e){e.preventDefault()};</script>
+<style>.lyrics{-youbkit-touch-callout:none;-youbkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}@media print{.lyrics{display:none}}</style>
+<script async src="https://a-www.kfs.io/static/js/page-song-90a4b50329.js"></script>
+<script async src="https://a-www.kfs.io/static/components/playlist-card-v2-de3d91d54a.js"></script>
+<script async src="https://a-www.kfs.io/static/components/card-actions-v2-b7e03be260.js"></script>
+    <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-56S7ZT"></script>
+</body>
+</html>

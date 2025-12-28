@@ -1,0 +1,536 @@
+   IFRAME: [1]//www.googletagmanager.com/ns.html?id=GTM-P8J5HF
+
+   このページではjavascriptを使用しています。
+     * [2]ジェトロについて
+     * [3]お問合せ
+     * [4]Global Site
+     * [5]アジア経済研究所 外部サイトへ、新しいウィンドウで開きます
+
+   [6]
+
+   マイページ
+   サイト内検索 ____________________ 検索実行
+
+   [7]JETRO 日本貿易振興機構（ジェトロ）
+   [8]キーボードでメニューを操作する場合はこちらを実行してください。スムーズに閲覧できるようにマウスの動きを抑制します。
+     * [9]海外ビジネス情報 メニューを開く
+
+海外ビジネス情報
+       ジェトロの海外ネットワークを通じて収集した最新のビジネスニュース・レポートなどをお届けしています。
+       [10]新着情報を見る
+       各国・地域の基礎情報や制度をご覧になりたい場合は「国・地域別情報」をご覧ください。
+          + [11]国・地域別一覧
+
+        ビジネスニュース・レポート
+                [12]ビジネス短信
+                [13]地域・分析レポート
+                [14]調査レポート
+                [15]国際ビジネス情報番組「世界は今」
+                [16]ウェビナー/WEBセミナー
+                [17]世界貿易投資報告
+                [18]主要国・地域の貿易投資年報
+                [19]海外発トレンドレポート
+                [20]マーケティング情報
+                [21]出版物
+
+        各国の制度・手続き
+                [22]輸出入に関する基本的な制度
+                [23]海外進出に関する基本的な制度
+                [24]貿易・投資相談Q&A
+                [25]世界各国の関税率
+                [26]投資コスト比較
+
+        各国の基本情報
+                [27]統計ナビ
+
+        イベント情報
+                [28]イベント一覧
+                [29]ジェトロが支援する展示会・商談会
+
+        見本市・展示会情報
+                [30]世界の見本市・展示会情報(J-messe)
+
+        引き合い案件情報
+                [31]e-Venue（国際ビジネスマッチングサイト)
+                [32]政府公共調達データベース
+
+     * [33]サービス メニューを開く
+
+ジェトロのサービス
+       各種サービスメニューを取り揃えて日本企業の皆様の海外ビジネス展開を支援します。
+       [34]詳細を見る
+          + [35]支援サービス一覧
+               o [36]貿易投資相談
+               o [37]海外ミニ調査サービス
+               o [38]海外事務所による現地事情ブリーフィング
+               o [39]ビジネスデータベースコーナー（東京）
+          + [40]イベント情報（セミナー・展示会）
+               o [41]お客様情報の登録・確認・変更のご案内
+          + [42]貿易実務オンライン講座
+          + [43]メールマガジン
+          + [44]ジェトロ・メンバーズ
+          + [45]出版物
+          + [46]ジェトロ活用事例
+          + [47]ジェトロ・トピックス
+         ______________________________________________________________
+
+          + [48]輸出支援
+          + [49]海外進出支援
+          + [50]対日投資
+          + [51]お問い合わせ窓口一覧
+     * [52]国・地域別に見る メニューを開く
+
+[53]国・地域別に見る
+          + [54]アジア
+          + [55]オセアニア
+          + [56]北米
+          + [57]中南米
+          + [58]欧州
+          + [59]ロシア・中央アジア等
+          + [60]中東
+          + [61]アフリカ
+          + [62]日本
+          + [63]アジア全体
+          + [64]ASEAN
+          + [65]インド
+          + [66]インドネシア
+          + [67]韓国
+          + [68]カンボジア
+          + [69]シンガポール
+          + [70]スリランカ
+          + [71]タイ
+          + [72]台湾
+          + [73]中国
+          + [74]バングラデシュ
+          + [75]パキスタン
+          + [76]フィリピン
+          + [77]ベトナム
+          + [78]香港
+          + [79]マレーシア
+          + [80]ミャンマー
+          + [81]モンゴル
+          + [82]ラオス
+       [83]国・地域別に見る
+          + [84]オセアニア全体
+          + [85]オーストラリア
+          + [86]ニュージーランド
+       [87]国・地域別に見る
+          + [88]北米全体
+          + [89]カナダ
+          + [90]米国
+       [91]国・地域別に見る
+          + [92]中南米全体
+          + [93]アルゼンチン
+          + [94]ウルグアイ
+          + [95]キューバ
+          + [96]コロンビア
+          + [97]チリ
+          + [98]パラグアイ
+          + [99]ブラジル
+          + [100]ベネズエラ
+          + [101]ペルー
+          + [102]メキシコ
+       [103]国・地域別に見る
+          + [104]欧州全体
+          + [105]EU
+          + [106]アイルランド
+          + [107]イタリア
+          + [108]ウクライナ
+          + [109]英国
+          + [110]オランダ
+          + [111]オーストリア
+          + [112]スイス
+          + [113]スウェーデン
+          + [114]スペイン
+          + [115]スロバキア
+          + [116]チェコ
+          + [117]デンマーク
+          + [118]ドイツ
+          + [119]ハンガリー
+          + [120]フィンランド
+          + [121]フランス
+          + [122]ベルギー
+          + [123]ポルトガル
+          + [124]ポーランド
+          + [125]ルーマニア
+       [126]国・地域別に見る
+          + [127]ロシア・中央アジア・コーカサス全体
+          + [128]ウズベキスタン
+          + [129]ロシア
+       [130]国・地域別に見る
+          + [131]中東全体
+          + [132]アラブ首長国連邦
+          + [133]イスラエル
+          + [134]イラン
+          + [135]サウジアラビア
+          + [136]トルコ
+       [137]国・地域別に見る
+          + [138]アフリカ全体
+          + [139]エジプト
+          + [140]エチオピア
+          + [141]ガーナ
+          + [142]ケニア
+          + [143]コートジボワール
+          + [144]ナイジェリア
+          + [145]南アフリカ共和国
+          + [146]モザンビーク
+          + [147]モロッコ
+       [148]国・地域別に見る
+     * [149]目的別に見る メニューを開く
+
+目的別に見る
+       海外ビジネスの目的にあわせてご利用いただける、ジェトロのビジネス情報とサービスをご案内します。
+       [150]詳細を見る
+
+        [151]輸出
+                [152]制度・手続きを知る
+                [153]関税・関税制度を調べる
+                [154]取引先を探す
+                [155]市場を知りたい
+                [156]初めて輸出に取り組みたい
+
+        [157]海外進出
+                [158]進出先を検討する
+                [159]進出時の制度・手続きを知る
+                [160]税制・法制を調べる
+                [161]市場を知りたい
+                [162]初めて海外進出に取り組みたい
+
+       [163]対日投資
+         ______________________________________________________________
+
+          + [164]EPA/FTA、WTO
+          + [165]知的財産保護
+          + [166]イノベーション・スタートアップ
+          + [167]高度外国人材活躍支援
+          + [168]越境EC
+          + [169]基準・認証、
+            規制、ルール
+          + [170]輸入
+     * [171]産業別に見る メニューを開く
+          + [172]農林水産物・食品
+          + [173]ファッション・繊維
+          + [174]デザイン（日用品）
+          + [175]コンテンツ
+          + [176]サービス産業
+          + [177]ライフサイエンス
+          + [178]機械・機器
+          + [179]環境・エネルギー
+          + [180]インフラ・プラント
+
+    1. [181]サイトトップ
+    2. [182]ビジネス短信 ―ジェトロの海外ニュース
+    3. WTO、タイの関税・外資規制を指摘、OECD加盟に期待示す
+
+   [183]ビジネス短信
+
+   [184]ビジネス短信のコンテンツ一覧 開く
+   [185]閉じる
+
+WTO、タイの関税・外資規制を指摘、OECD加盟に期待示す
+
+   （タイ）
+
+   バンコク発
+
+   2025年12月26日
+
+   WTOは12月1～3日、加盟国間で定期的に行われる「貿易政策検討（TPR）」（注1）の一環として、タイの貿易政策・慣行に関する[186]第9回
+   評価を実施 外部サイトへ、新しいウィンドウで開きます
+   した。2037年までの高所得国入りを目指すタイに対して、WTOは行政サービスの現代化やデジタル化の進展を評価する一方、高関税や外資制限、国有企
+   業といった構造的な貿易・投資上の課題が成長を妨げていると指摘した。
+
+   関税面では、2025年時点のタイの最恵国待遇（MFN）関税率が平均14.3％である一方、農産品は30.9％と平均の2倍を超える水準であるほか、
+   自動車分野も手厚く保護されていると分析。また、政府の税収全体に占める関税の寄与率は4％（2024年時点）にとどまるとし、関税が財政的な検討より
+   も、通商戦略的な目的で活用されていると述べた。
+
+   サービス分野はGDPの59.2％、雇用の48.8％を占め、観光部門がサービス輸出を牽引する一方、サービス貿易には参入障壁があるとした。例えば、
+   WTOによれば、タイの「サービス貿易制限指数」は、金融や通信などの全調査項目で、世界とASEANの平均値を上回っている（注2）。投資規制につい
+   ても、外国人事業法（FBA）（[187]2024年9月3日記事参照）のほか、産業分野ごとの法令に基づき、外国資本比率の上限や許認可要件が残って
+   いるとした。
+
+   国有企業に関しては、市場競争を阻害する最大の要因の1つに挙げ、政府が資本の過半数を所有する国有企業の資産は、GDPの88％に相当し、歳入の24
+   %を生み出していると分析（2024年時点）。金融、エネルギー、運輸などの分野で国有企業の影響力が強く、また安全保障や公共の利益を理由とする場合
+   、競争法の適用が免除される。
+
+OECD加盟を通じた構造改革に期待
+
+   タイはこれまで、2024年のWTO貿易円滑化協定（TFA）の完全履行、2022年のWIPO著作権条約加盟による知的財産保護の強化、地理的表示（
+   GI）申請を促すオンラインシステム導入などを実施している。また、WTOによれば、タイはさまざまな投資優遇措置を有しているが、特に、電気自動車（
+   EV）（[188]2025年12月4日記事参照）やスマートエレクトロニクス分野での恩典付与に重点を置いている。
+
+   WTOからは、2024年のタイによるOECD加盟に向けた意向表明（[189]2024年1月18日記事参照）に期待が示された。同年7月、タイの加
+   盟に向けたロードマップがOECDに採択され、2030年までの加盟が目標として設定されている。特に、汚職防止に関わるOECD贈賄防止条約による構
+   造改革を通じて、タイが「中所得国のわな」を回避し、持続可能な競争力を強化することが望ましいとした。
+
+   （注1）貿易政策検討（TPR）は、WTO協定上の義務として、加盟国の貿易政策・関連政策を定期的に調査・評価する取り組み。全てのWTO加盟国が評
+   価対象で、評価の頻度は国の規模によって異なる。
+
+   （注2）「サービス貿易制限指数」の調査対象項目はプロフェッショナル・コンピュータ・通信・建設・配送・金融・健康・観光・物流の9項目。また、調査
+   対象国は世界136カ国で、ASEANはインドネシア、マレーシア、ミャンマー、フィリピン、シンガポール、タイ、ベトナムの7カ国。調査は2022年
+   時点。
+
+   （藪恭兵）
+
+   （タイ）
+
+   ビジネス短信　0d6899c0567152aa
+   load
+
+関連情報
+
+     *
+       [190]dummy
+
+   [191]もっと見る
+
+     * [192]印刷する
+     * [193]Xにツイートする（新しいウィンドウで開きます）
+     * [194]Facebookでシェアする（新しいウィンドウで開きます）
+
+    1. [195]サイトトップ
+    2. [196]ビジネス短信 ―ジェトロの海外ニュース
+    3. WTO、タイの関税・外資規制を指摘、OECD加盟に期待示す
+
+     * [197]Global Site
+     * [198]サイト内検索
+
+     * [199]採用情報
+     * [200]調達情報
+     * [201]情報公開
+
+     * [202]お問い合わせ
+     * [203]利用規約・免責事項
+     * [204]個人情報保護について
+     * [205]ウェブアクセシビリティについて
+     * [206]サイトマップ
+
+     * [207]ジェトロ・アジア経済研究所 外部サイトへ、新しいウィンドウで開きます
+     * [208]日本食品海外プロモーションセンター（JFOODO）
+     * [209]各種自治体・機関等へのリンク集
+
+     * [210]X 公式アカウント 外部サイトへ、新しいウィンドウで開きます
+     * [211]YouTube 公式アカウント 外部サイトへ、新しいウィンドウで開きます
+     * [212]ソーシャルメディア運用ポリシー
+
+   Copyright (C) 1995-2025 Japan External Trade Organization(JETRO). All
+   rights reserved.
+
+   独立行政法人日本貿易振興機構 （法人番号 2010405003693）
+     * [213]ページの先頭に戻る
+
+Références
+
+   1. https://www.googletagmanager.com/ns.html?id=GTM-P8J5HF
+   2. https://www.jetro.go.jp/jetro/
+   3. https://www.jetro.go.jp/contact/
+   4. https://www.jetro.go.jp/en/
+   5. http://www.ide.go.jp/
+   6. https://www.jetro.go.jp/mypage/
+   7. https://www.jetro.go.jp/
+   8. javascript:void(0);
+   9. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html
+  10. https://www.jetro.go.jp/biz/
+  11. https://www.jetro.go.jp/world/
+  12. https://www.jetro.go.jp/biznews/
+  13. https://www.jetro.go.jp/biz/areareports/
+  14. https://www.jetro.go.jp/world/reports/
+  15. https://www.jetro.go.jp/tv/
+  16. https://www.jetro.go.jp/biz/seminar/
+  17. https://www.jetro.go.jp/world/gtir/
+  18. https://www.jetro.go.jp/world/gtirs.html
+  19. https://www.jetro.go.jp/biz/trendreports/
+  20. https://www.jetro.go.jp/world/marketing/
+  21. https://www.jetro.go.jp/publications/
+  22. https://www.jetro.go.jp/world/trade.html
+  23. https://www.jetro.go.jp/world/invest.html
+  24. https://www.jetro.go.jp/world/qa/
+  25. https://www.jetro.go.jp/theme/export/tariff/
+  26. https://www.jetro.go.jp/world/search/cost.html
+  27. https://www.jetro.go.jp/world/statistics.html
+  28. https://www.jetro.go.jp/events/
+  29. https://www.jetro.go.jp/events/tradefair.html
+  30. https://www.jetro.go.jp/j-messe/
+  31. https://e-venue.jetro.go.jp/bizportal/s/?language=jp
+  32. https://www.jetro.go.jp/gov_procurement/
+  33. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html
+  34. https://www.jetro.go.jp/services/
+  35. https://www.jetro.go.jp/services/list.html
+  36. https://www.jetro.go.jp/services/advice.html
+  37. https://www.jetro.go.jp/services/quick_info.html
+  38. https://www.jetro.go.jp/services/briefing/
+  39. https://www.jetro.go.jp/db_corner/
+  40. https://www.jetro.go.jp/events/
+  41. https://www.jetro.go.jp/events/inform/
+  42. https://www.jetro.go.jp/elearning/
+  43. https://www.jetro.go.jp/mail.html
+  44. https://www.jetro.go.jp/members/
+  45. https://www.jetro.go.jp/publications/
+  46. https://www.jetro.go.jp/case_study/
+  47. https://www.jetro.go.jp/jetro/topics/
+  48. https://www.jetro.go.jp/services/export_guide/
+  49. https://www.jetro.go.jp/services/fdi_guide/
+  50. https://www.jetro.go.jp/invest.html
+  51. https://www.jetro.go.jp/services/contact.html
+  52. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html
+  53. https://www.jetro.go.jp/world/
+  54. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html#gc_asia
+  55. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html#gc_oceania
+  56. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html#gc_n_america
+  57. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html#gc_cs_america
+  58. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html#gc_europe
+  59. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html#gc_russia_cis
+  60. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html#gc_middle_east
+  61. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html#gc_africa
+  62. https://www.jetro.go.jp/world/japan/
+  63. https://www.jetro.go.jp/world/asia/
+  64. https://www.jetro.go.jp/world/asia/asean/
+  65. https://www.jetro.go.jp/world/asia/in/
+  66. https://www.jetro.go.jp/world/asia/idn/
+  67. https://www.jetro.go.jp/world/asia/kr/
+  68. https://www.jetro.go.jp/world/asia/kh/
+  69. https://www.jetro.go.jp/world/asia/sg/
+  70. https://www.jetro.go.jp/world/asia/lk/
+  71. https://www.jetro.go.jp/world/asia/th/
+  72. https://www.jetro.go.jp/world/asia/tw/
+  73. https://www.jetro.go.jp/world/asia/cn/
+  74. https://www.jetro.go.jp/world/asia/bd/
+  75. https://www.jetro.go.jp/world/asia/pk/
+  76. https://www.jetro.go.jp/world/asia/ph/
+  77. https://www.jetro.go.jp/world/asia/vn/
+  78. https://www.jetro.go.jp/world/asia/hk/
+  79. https://www.jetro.go.jp/world/asia/my/
+  80. https://www.jetro.go.jp/world/asia/mm/
+  81. https://www.jetro.go.jp/world/asia/mn/
+  82. https://www.jetro.go.jp/world/asia/la/
+  83. https://www.jetro.go.jp/world/
+  84. https://www.jetro.go.jp/world/oceania/
+  85. https://www.jetro.go.jp/world/oceania/au/
+  86. https://www.jetro.go.jp/world/oceania/nz/
+  87. https://www.jetro.go.jp/world/
+  88. https://www.jetro.go.jp/world/n_america/
+  89. https://www.jetro.go.jp/world/n_america/ca/
+  90. https://www.jetro.go.jp/world/n_america/us/
+  91. https://www.jetro.go.jp/world/
+  92. https://www.jetro.go.jp/world/cs_america/
+  93. https://www.jetro.go.jp/world/cs_america/ar/
+  94. https://www.jetro.go.jp/world/cs_america/uy/
+  95. https://www.jetro.go.jp/world/cs_america/cu/
+  96. https://www.jetro.go.jp/world/cs_america/co/
+  97. https://www.jetro.go.jp/world/cs_america/cl/
+  98. https://www.jetro.go.jp/world/cs_america/py/
+  99. https://www.jetro.go.jp/world/cs_america/br/
+ 100. https://www.jetro.go.jp/world/cs_america/ve/
+ 101. https://www.jetro.go.jp/world/cs_america/pe/
+ 102. https://www.jetro.go.jp/world/cs_america/mx/
+ 103. https://www.jetro.go.jp/world/
+ 104. https://www.jetro.go.jp/world/europe/
+ 105. https://www.jetro.go.jp/world/europe/eu/
+ 106. https://www.jetro.go.jp/world/europe/ie/
+ 107. https://www.jetro.go.jp/world/europe/it/
+ 108. https://www.jetro.go.jp/world/europe/ua/
+ 109. https://www.jetro.go.jp/world/europe/uk/
+ 110. https://www.jetro.go.jp/world/europe/nl/
+ 111. https://www.jetro.go.jp/world/europe/at/
+ 112. https://www.jetro.go.jp/world/europe/ch/
+ 113. https://www.jetro.go.jp/world/europe/se/
+ 114. https://www.jetro.go.jp/world/europe/es/
+ 115. https://www.jetro.go.jp/world/europe/sk/
+ 116. https://www.jetro.go.jp/world/europe/cz/
+ 117. https://www.jetro.go.jp/world/europe/dk/
+ 118. https://www.jetro.go.jp/world/europe/de/
+ 119. https://www.jetro.go.jp/world/europe/hu/
+ 120. https://www.jetro.go.jp/world/europe/fi/
+ 121. https://www.jetro.go.jp/world/europe/fr/
+ 122. https://www.jetro.go.jp/world/europe/be/
+ 123. https://www.jetro.go.jp/world/europe/pt/
+ 124. https://www.jetro.go.jp/world/europe/pl/
+ 125. https://www.jetro.go.jp/world/europe/ro/
+ 126. https://www.jetro.go.jp/world/
+ 127. https://www.jetro.go.jp/world/russia_cis/
+ 128. https://www.jetro.go.jp/world/russia_cis/uz/
+ 129. https://www.jetro.go.jp/world/russia_cis/ru/
+ 130. https://www.jetro.go.jp/world/
+ 131. https://www.jetro.go.jp/world/middle_east/
+ 132. https://www.jetro.go.jp/world/middle_east/ae/
+ 133. https://www.jetro.go.jp/world/middle_east/il/
+ 134. https://www.jetro.go.jp/world/middle_east/ir/
+ 135. https://www.jetro.go.jp/world/middle_east/sa/
+ 136. https://www.jetro.go.jp/world/middle_east/tr/
+ 137. https://www.jetro.go.jp/world/
+ 138. https://www.jetro.go.jp/world/africa/
+ 139. https://www.jetro.go.jp/world/africa/eg/
+ 140. https://www.jetro.go.jp/world/africa/et/
+ 141. https://www.jetro.go.jp/world/africa/gh/
+ 142. https://www.jetro.go.jp/world/africa/ke/
+ 143. https://www.jetro.go.jp/world/africa/ci/
+ 144. https://www.jetro.go.jp/world/africa/ng/
+ 145. https://www.jetro.go.jp/world/africa/za/
+ 146. https://www.jetro.go.jp/world/africa/mz/
+ 147. https://www.jetro.go.jp/world/africa/ma/
+ 148. https://www.jetro.go.jp/world/
+ 149. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html
+ 150. https://www.jetro.go.jp/theme/
+ 151. https://www.jetro.go.jp/themetop/export/
+ 152. https://www.jetro.go.jp/themetop/export/e-proc/
+ 153. https://www.jetro.go.jp/themetop/export/e-tariff/
+ 154. https://www.jetro.go.jp/themetop/export/e-ptr/
+ 155. https://www.jetro.go.jp/themetop/export/e-trend/
+ 156. https://www.jetro.go.jp/themetop/export/e-basic/
+ 157. https://www.jetro.go.jp/themetop/fdi/
+ 158. https://www.jetro.go.jp/themetop/fdi/f-dest/
+ 159. https://www.jetro.go.jp/themetop/fdi/f-proc/
+ 160. https://www.jetro.go.jp/themetop/fdi/f-legal/
+ 161. https://www.jetro.go.jp/themetop/fdi/f-trend/
+ 162. https://www.jetro.go.jp/themetop/fdi/f-basic/
+ 163. https://www.jetro.go.jp/invest.html
+ 164. https://www.jetro.go.jp/themetop/wto-fta/
+ 165. https://www.jetro.go.jp/themetop/ip/
+ 166. https://www.jetro.go.jp/themetop/innovation/
+ 167. https://www.jetro.go.jp/hrportal/
+ 168. https://www.jetro.go.jp/themetop/crossborder_ec/
+ 169. https://www.jetro.go.jp/themetop/standards/
+ 170. https://www.jetro.go.jp/themetop/import/
+ 171. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html
+ 172. https://www.jetro.go.jp/industrytop/foods/
+ 173. https://www.jetro.go.jp/industrytop/fashion/
+ 174. https://www.jetro.go.jp/industrytop/design/
+ 175. https://www.jetro.go.jp/industrytop/contents/
+ 176. https://www.jetro.go.jp/industrytop/service/
+ 177. https://www.jetro.go.jp/industrytop/life_science/
+ 178. https://www.jetro.go.jp/industrytop/machinery/
+ 179. https://www.jetro.go.jp/industrytop/energy/
+ 180. https://www.jetro.go.jp/industrytop/infrastructure/
+ 181. https://www.jetro.go.jp/
+ 182. https://www.jetro.go.jp/biznews/
+ 183. https://www.jetro.go.jp/biznews
+ 184. javascript:void(0)
+ 185. javascript:void(0)
+ 186. https://www.wto.org/english/tratop_e/tpr_e/tpr_tha_01dec25_e.htm
+ 187. https://www.jetro.go.jp/biznews/2024/09/82617f3456a54d9a.html
+ 188. https://www.jetro.go.jp/biznews/2025/12/f3b3254be0f105d0.html
+ 189. https://www.jetro.go.jp/biznews/2024/01/f840c333ada4d1dc.html
+ 190. javascript:void(0);
+ 191. javascript:readMore40023311();
+ 192. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html
+ 193. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html
+ 194. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html
+ 195. https://www.jetro.go.jp/
+ 196. https://www.jetro.go.jp/biznews/
+ 197. https://www.jetro.go.jp/en/
+ 198. https://www.jetro.go.jp/search_result.html
+ 199. https://www.jetro.go.jp/recruit/
+ 200. https://www.jetro.go.jp/procurement/
+ 201. https://www.jetro.go.jp/disclosure/
+ 202. https://www.jetro.go.jp/contact/
+ 203. https://www.jetro.go.jp/legal.html
+ 204. https://www.jetro.go.jp/privacy.html
+ 205. https://www.jetro.go.jp/accessibility.html
+ 206. https://www.jetro.go.jp/sitemap.html
+ 207. http://www.ide.go.jp/Japanese
+ 208. https://www.jetro.go.jp/jfoodo/
+ 209. https://www.jetro.go.jp/links.html
+ 210. https://twitter.com/jetro_info
+ 211. https://www.youtube.com/user/jetrochannel
+ 212. https://www.jetro.go.jp/legal/social.html
+ 213. https://www.jetro.go.jp/biznews/2025/12/0d6899c0567152aa.html#page

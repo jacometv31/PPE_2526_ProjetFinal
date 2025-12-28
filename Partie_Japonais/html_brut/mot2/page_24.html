@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>株価指数先物【寄り前】　米国株高を期待した押し目狙いのロング対応 | 市況 - 株探ニュース</title>
+<meta name="description" content="　２５日の米国や欧州など主要な株式市場は、クリスマスの祝日で休場。　日経２２５先物（３月限）は日中比変わらずの５万０５２０円で始まった。直後につけた５万０５３０円を高値に軟化し、５万０４７０円まで売られた・・・。" />
+<meta http-equiv="content-language" content="ja">
+<meta name="google" content="notranslate" />
+<meta name="google-site-verification" content="9TyMQp63vRE7zxgZJofMB6CJlyYQBwnVoHJoVFo1_rg" />
+<meta name="PublicationDate" content="2025/12/26 07:43:18" />
+<meta name="format-detection" content="telephone=no" />
+<meta property="og:url" content="https://kabutan.jp/news/marketnews/?b=n202512260040" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="株価指数先物【寄り前】　米国株高を期待した押し目狙いのロング対応 | 市況 - 株探ニュース" />
+<meta property="og:description" content="　２５日の米国や欧州など主要な株式市場は、クリスマスの祝日で休場。　日経２２５先物（３月限）は日中比変わらずの５万０５２０円で始まった。直後につけた５万０５３０円を高値に軟化し、５万０４７０円まで売られた・・・。" />
+<meta property="og:image" content="https://async.api.kabutan.jp/og_image?title=%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0%E5%85%88%E7%89%A9%E3%80%90%E5%AF%84%E3%82%8A%E5%89%8D%E3%80%91%E3%80%80%E7%B1%B3%E5%9B%BD%E6%A0%AA%E9%AB%98%E3%82%92%E6%9C%9F%E5%BE%85%E3%81%97%E3%81%9F%E6%8A%BC%E3%81%97%E7%9B%AE%E7%8B%99%E3%81%84%E3%81%AE%E3%83%AD%E3%83%B3%E3%82%B0%E5%AF%BE%E5%BF%9C" />
+<meta name="twitter:card" content="summary_large_image" /><meta name='twitter:card' content='summary_large_image'>
+<link rel="shortcut icon" href="/favicon.ico?2" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto" type="text/css" media="all">
+<link rel="stylesheet" type="text/css" media="all" href="/css/base.css?v=250819" />
+<link rel="stylesheet" type="text/css" media="all" href="https://selection.kabutan.jp/wp-content/themes/kabutan_selection/dynamic_assets/custom.css" />
+<link rel="canonical" href="https://kabutan.jp/news/marketnews/?b=n202512260040" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://s.kabutan.jp/news/n202512260040/" />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">if (typeof jQuery == 'undefined') document.write(unescape("%3Cscript type='text/javascript' src='/js/lib/jquery-1.9.1.min.js' %3E%3C/script%3E"));</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+<script type="text/javascript">if (typeof jQuery.ui == 'undefined') document.write(unescape("%3Cscript type='text/javascript' src='/js/lib/jquery-ui-1.10.3.min.js' %3E%3C/script%3E"));</script>
+<script type="text/javascript" src="/js/lib/dropdowncontent.js"></script>
+<script type="text/javascript" src="/js/base.js?v=250711"></script>
+<script type="text/javascript" src="/js/rand_ads.js?v=1766912172"></script>
+<!-- 1) Prebid（Demand Manager） -->
+<script async src="https://micro.rubiconproject.com/prebid/dynamic/14032.js"></script>
+
+<!-- 2) GPT（最新/https固定/async） -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+<!-- 3) Bootstrap：cmd/que と定数・配列 -->
+<script>
+  window.googletag = window.googletag || { cmd: [] };
+  window.pbjs      = window.pbjs      || { que: [] };
+
+  const FAILSAFE_TIMEOUT = 3000;   // 2000～3000ms がおすすめ
+  let   adServerCalled   = false;
+
+  // 枠を溜める配列（HB/非HB）
+  const hbSlots   = [];
+  const nonhbSlots = [];
+</script>
+
+<!-- 4) KV外部JS（refresh 前設置 -->
+<script src="/js/kv-kabutan.js?v=20250930"></script>
+
+<!-- 5) 枠定義 / HB / failsafe -->
+<script>
+  // ===== Prebid（DM）ラッパ =====
+  function requestHeaderBids(slots) {
+    const dmRequest = new Promise(resolve => {
+      pbjs.que.push(() => {
+        pbjs.rp.requestBids({
+          gptSlotObjects: slots,
+          callback: () => {
+            // Prebid → GPT 連携（安全側でここでも一応セット）
+            googletag.cmd.push(() => { try{ pbjs.setTargetingForGPTAsync(); }catch(_){}; });
+            resolve();
+          }
+        });
+      });
+    });
+
+    // DM戻り or FAILSAFE の早い方で解決
+    return new Promise(resolve => {
+      Promise.race([
+        dmRequest,
+        new Promise(res => setTimeout(res, FAILSAFE_TIMEOUT))
+      ]).then(() => resolve(slots));
+    });
+  }
+
+  // ===== 枠定義 & GPT初期化 =====
+  googletag.cmd.push(function() {
+    // （ここで setTargeting は kv-kabutan.js に一任）
+    hbSlots.push(googletag.defineSlot('/94446337/1291_tan_pc_gatead_left', [[160,600],[120,600]], 'div-gpt-ad-1519008725722-0').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/1291_tan_pc_gatead_right', [[160,600],[120,600]], 'div-gpt-ad-1519008758041-0').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/8100_tan_pc_premiumbanner', [[970,90],[728,90]], 'div-gpt-ad-1497932639366-0').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/1201_tan_pc_primerectangle', [[300,250],[300,600]], 'div-gpt-ad-1413891264102-1').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/5000_tan_pc_footeroverlay', [[728,50],[728,90]], 'div-gpt-ad-1748403571195-0').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/1561_tan_pc_longbanner', [[650,300],[640,360],[336,280],[300,250]], 'div-gpt-ad-1470729919773-0').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/1203_tan_pc_middlerectangle', [[300,250],[300,600]], 'div-gpt-ad-1413891264102-2').addService(googletag.pubads()));
+    nonhbSlots.push(googletag.defineSlot('/94446337/1803_tan_pc_infeedA_1st', [490,20], 'div-gpt-ad-1413891264102-30').addService(googletag.pubads()));
+    nonhbSlots.push(googletag.defineSlot('/94446337/1501_tan_pc_primeshowcase', [[468,60],[640,60]], 'div-gpt-ad-1413891264102-5').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/1561_tan_pc_longbanner_2', [650,300], 'div-gpt-ad-1563268967604-0').addService(googletag.pubads()));
+    nonhbSlots.push(googletag.defineSlot('/94446337/1502_tan_pc_contentsshowcase', [[640,60],[468,60]], 'div-gpt-ad-1413891264102-6').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/8001_tan_pc_bigbanner', [728,90], 'div-gpt-ad-1413891264102-10').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/1207_tan_pc_smallrectangle', [200,200], 'div-gpt-ad-1485251430638-0').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/2208_tan_pc_bottombigrectangle_left', [336,280], 'div-gpt-ad-1413891264102-9').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/2207_tan_pc_bottombigrectangle_right', [336,280], 'div-gpt-ad-1413891264102-8').addService(googletag.pubads()));
+    
+    hbSlots.push(googletag.defineSlot('/94446337/1403_tan_pc_Contentalliance_1', [113, 36], 'div-gpt-ad-1746689749770-0').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/1403_tan_pc_Contentalliance_2', [113, 36], 'div-gpt-ad-1746689847116-0').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/1403_tan_pc_Contentalliance_3', [113, 36], 'div-gpt-ad-1746689887815-0').addService(googletag.pubads()));
+    
+    //c-popup_ad
+    hbSlots.push(googletag.defineSlot('/94446337/1701_tan_pc_popupbanner', [234, 60], 'div-gpt-ad-1492587780175-0').addService(googletag.pubads()));
+    
+    //rand.js
+    hbSlots.push(googletag.defineSlot('/94446337/1401_tan_pc_topfront_banner', [190, 100], 'div-gpt-ad-1401').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/1402_tan_pc_top_text_1', [443, 19], 'div-gpt-ad-1402-1').addService(googletag.pubads()));
+    hbSlots.push(googletag.defineSlot('/94446337/1402_tan_pc_top_text_2', [443, 19], 'div-gpt-ad-1402-2').addService(googletag.pubads()));
+    
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().disableInitialLoad();   // ← 追加（HB完了まで初回ロード抑止）
+    googletag.enableServices();
+  });
+
+  // ===== 非HB を先に refresh（KVを直前に適用してから）=====
+  googletag.cmd.push(function(){
+    if (!nonhbSlots.length) return;
+    try { if (window.kvKabutanApply) window.kvKabutanApply(); } catch(_){}
+    googletag.pubads().refresh(nonhbSlots);
+  });
+
+  // ===== HB：入札 → KV適用 → refresh =====
+  googletag.cmd.push(function(){
+    if (!hbSlots.length) return;
+    requestHeaderBids(hbSlots).then(function(slots){
+      googletag.cmd.push(function(){
+        try { if (window.kvKabutanApply) window.kvKabutanApply(); } catch(_){}
+        try { pbjs.setTargetingForGPTAsync(); } catch(_){}
+        googletag.pubads().refresh(slots);
+      });
+    });
+  });
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWTW5JXV');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({
+  "user_id": "0"
+});
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWTW5JXV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--wrapper_main start-->
+<div id="wrapper_main">
+
+<!--ad1291 start-->
+<div class="ad" id="ad1291">
+<div id="top_impact" style="width:1338px; margin-left:-676px; margin-top:106px;">
+	<div id="top_impact_L" style="float:left;">
+		<div id='div-gpt-ad-1519008725722-0'>
+			<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1519008725722-0'); });</script>
+		</div>
+	</div>
+	<div id="top_impact_R">
+		<div id='div-gpt-ad-1519008758041-0'>
+			<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1519008758041-0'); });</script>
+		</div>
+	</div>
+</div>
+</div>
+<!--ad1291 end-->
+
+<!--header start-->
+<div id="header">
+<div id="logo"><a href="/"><img src="/images/header/top_kabutan_logo.jpg?v=220310" alt="株探（かぶたん）" /></a>
+</div>
+<div class="login_link">
+<span class="us_site_link1">
+<a href="https://us.kabutan.jp">≫<img src="/images/cmn/us.png" />米株</a>
+</span>
+
+<span><a class="sp1" href="https://info.kabutan.jp/lp/?utm_source=kabutan&utm_medium=referral&utm_campaign=kabutan_pc&utm_content=shared_gnavi">株探プレミアムに登録！</a></span>
+<span><a href="https://account.kabutan.jp/login" rel="nofollow">ログイン</a></span>
+</div><!--/login_link-->
+<table id="header_shisuu_big">
+  <thead>
+    <tr>
+            <th scope="col" colspan="2">
+        <div>
+        <a href="/stock/?code=0000" target="_top">日経平均</a>
+                <time datetime="2025-12-26T15:30+09:00">15:30</time>
+        </div>
+        <a href="/stock/chart?code=0000" target="_top"><img class="chart-icon" src="/images/header/chart_icon.png" alt="チャートアイコン" /></a>
+      </th>
+            <th scope="col" colspan="2">
+        <div>
+        <a href="/stock/?code=0950" target="_top">米ドル円</a>
+                <time class="close" datetime="2025-12-27T06:59+09:00">06:59</time>
+        </div>
+        <a href="/stock/chart?code=0950" target="_top"><img class="chart-icon" src="/images/header/chart_icon.png" alt="チャートアイコン" /></a>
+      </th>
+            <th scope="col" colspan="2">
+        <div>
+        <a href="/stock/?code=0800" target="_top">ＮＹダウ</a>
+                <time datetime="2025-12-26">終値</time>
+        </div>
+        <a href="/stock/chart?code=0800" target="_top"><img class="chart-icon" src="/images/header/chart_icon.png" alt="チャートアイコン" /></a>
+      </th>
+            <th scope="col" colspan="2">
+        <div>
+        <a href="/stock/?code=0823" target="_top">上海総合</a>
+                <time datetime="2025-12-17">終値</time>
+        </div>
+        <a href="/stock/chart?code=0823" target="_top"><img class="chart-icon" src="/images/header/chart_icon.png" alt="チャートアイコン" /></a>
+      </th>
+          </tr>
+  </thead>
+  <tbody>
+    <tr>
+            <td rowspan="2" class="price">50,750.39</td>
+      <td class="amount"><span class="up">+342.60</span></td>
+            <td rowspan="2" class="price">156.57</td>
+      <td class="amount"><span class="up">+0.75</span></td>
+            <td rowspan="2" class="price">48,710.97</td>
+      <td class="amount"><span class="down">-20.19</span></td>
+            <td rowspan="2" class="price">3,832.67</td>
+      <td class="amount"><span class="up">+7.86</span></td>
+          </tr>
+    <tr class="percentage">
+            <td>0.68%</td>
+            <td>0.48%</td>
+            <td>-0.05%</td>
+            <td>0.21%</td>
+          </tr>
+  </tbody>
+</table>
+<!--menu_1 start-->
+<div id="menu_1">
+<ul>
+<li class="navi_bg_home"><a href="/" >トップ</a></li>
+<li class="navi_bg_marcket_active menu_1_active"><a href="/news/marketnews/" class="small_font">市場ニュース</a></li>
+<li class="navi_bg_news"><a href="/news/" >決算速報</a></li>
+<li class="navi_bg_warning"><a href="/warning/" >株価注意報</a></li>
+<li class="navi_bg_disclosures"><a href="/disclosures/" class="small_font">会社開示情報</a></li>
+<li class="navi_bg_tansaku"><a href="/tansaku/" >銘柄探検</a></li>
+<li class="navi_bg_shareholder"><a href="/holder/" >日本の株主</a></li>
+<li class="navi_bg_distribution-map"><a href="/distribution-map/" >市場マップ</a></li>
+</ul>
+</div>
+<!--menu_1 end-->
+<div id="main_kensaku">
+<div class="main_kensaku_div1">
+<form method="get" action="/search/" name="kensaku" id="kensaku_form">
+<table>
+<tr>
+<td class="kensaku_title"><label for="input_id"><img src="/images/header/kensaku_logo.jpg" alt="株探検隊　検索" /></label></td>
+<td class="kensaku_input">
+<input type="text" id="input_id" name="q" autocomplete="off" placeholder="銘柄コード、企業名、テーマから検索できます" />
+</td>
+<td>
+<button type="button"><img src="/images/header/kensaku_bottom.jpg" id="kensaku_btn" alt="Go"></button>
+</td>
+<td>
+<button type="button"><img src="/images/header/kensaku_theme_bottom.jpg" id="theme_btn" alt="テーマ"></button>
+</td>
+<td>
+<button type="button"><img src="/images/header/kensaku_news_bottom.jpg?1" id="searchlink2" rel="sub_window2"></button>
+<div id="sub_window2" class="sub_window">「株探」で配信したニュース記事を検索します</div>
+</td>
+<td>
+<a href="/" id="searchlink1" rel="sub_window1"><img src="/images/header/kensaku_help_bottom.jpg?1" alt="" /></a>
+<div id="sub_window1" class="sub_window"><img src="/images/header/Help_text.gif?v=220406" alt="help説明文" /></div>
+</td>
+</tr>
+</table>
+</form>
+<div class="main_kensaku_div2_2 font-sans flex h-9">
+  <div class="text-[11px] font-bold text-white bg-ash-400 flex items-center pl-2 pr-[6px] rounded-l-full">PR</div>
+  <ul class="flex">
+    <li class="bg-white border border-ash-400 border-l-0 list-none pl-1 pr-1">
+      <!-- /94446337/1403_tan_pc_Contentalliance_1 -->
+      <div id='div-gpt-ad-1746689749770-0' style='min-width: 113px; min-height: 36px;'>
+        <!--
+        <span class="text-9px text-green-700"></span><a href="https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjss2rUVtgbJWrFayDFl-FYRJ_twYXpvtihK4-bifrikXC3Glmr66N1qeTLsSoCF59FJe9456lutVNIEloet3KNw9LAIfqgcTmTTsTWz7qtZCccbMx_l0LZ-rku30NkZFykFHUxwjZHrgh3s0zbnb_M2jkXKzUZUx9HqRsqXRWVd5ENE2B-TolJlI78Icy-mCNl6Dmf2W5ouTNWxkT0cyL_Mt74WVkZHDL32kG1rfCTXjFY3k5OtXNO4y7xofM2XccYgvuSe6WUqneZ96TbPH9gpcoPDEsW77lnq9nwCHcxRicix1UhKWjpL6s72Xn4zQF9WWJt2u_tcEYbVVdNV8qkW5Uzbn-DEErNmLZQW6gK_MY-KLwesQH6BmdO_LNxCK0O-nKlbYPddkfW2V&amp;sai=AMfl-YRbALmvJ_eWlOuAnw6cwHaPdFGTPTiqpvsAS5ALbPuOyBs64F5z96ijDCroswYYd1mFlbhJ91HuKdXaMrMUqFKie_8Zwyrt6UmYU_y0mAqMS-bnyTNQR2cy8JWXzGHn4nV6cdJCkxHwN-MIdJwxrdEeWXmEQqmLIVEnzj0AclF28N25Ju8J8Fe8M5J6jbPzdtKTac_S7BGAzFT-qkYL2FVABAUzI91FIIq_NMPhlZk&amp;sig=Cg0ArKJSzPDK3njqwl1sEAE&amp;fbs_aeid=%5Bgw_fbsaeid%5D&amp;urlfix=1&amp;adurl=https://ac.ebis.ne.jp/tr_set.php?argument=GFU4CUZu&amp;ai=3253" class="inline-block font-sans leading-34px text-13px link-primary no-underline ml-1px" target="_blank" rel="noopener noreferrer">米国高配当5選</a>
+        -->
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1746689749770-0'); });
+        </script>
+      </div>
+    </li>
+    <li class="bg-white border border-ash-400 border-l-0 list-none pl-1 pr-1">
+      <!-- /94446337/1403_tan_pc_Contentalliance_2 -->
+      <div id='div-gpt-ad-1746689847116-0' style='min-width: 113px; min-height: 36px;'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1746689847116-0'); });
+        </script>
+      </div>
+    </li>
+    <li class="bg-white border border-ash-400 border-l-0 rounded-r-full list-none pl-1 pr-1.5">
+      <!-- /94446337/1403_tan_pc_Contentalliance_3 -->
+      <div id='div-gpt-ad-1746689887815-0' style='min-width: 113px; min-height: 36px;'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1746689887815-0'); });
+        </script>
+      </div>
+    </li>
+  </ul>
+</div>
+</div><!--main_kensaku_div1-->
+<!-- /94446337/8100_tan_pc_premiumbanner -->
+<div style="clear:both;overflow:hidden;max-height:90px;min-height:90px;">
+<div id='div-gpt-ad-1497932639366-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1497932639366-0'); });
+</script>
+</div>
+</div>
+<div class="main_kensaku_div4_2"></div>
+</div><!--#main_kensaku-->
+<script type="text/javascript">
+$(function(){
+	(function(){
+	dropdowncontent.init("searchlink1", "left-bottom", 300, "mouseover");
+	dropdowncontent.init("searchlink2", "left-bottom", 300, "mouseover");
+	
+	$('#input_id').keypress(function(e){
+		if (e.which == 13) {
+			btn_post('');
+			return false;
+		}
+	});
+	function btn_post(btn){
+		if ($('#input_id').val() == '') return false;
+		if (btn != ''){
+			$("<input>",{
+				type:"hidden",
+				name:"btn",
+				value:btn
+			}).appendTo("#kensaku_form");
+		}
+		$('#kensaku_form').submit();
+		return false;
+	}
+	$('#kensaku_btn').click(function(){btn_post('');});
+	$('#theme_btn').click(function(){btn_post('theme');});
+	$('#searchlink2').click(function(){btn_post('cse');});
+	})();
+	
+	(function(){
+	var d=$("#input_id");
+	if ($(window).scrollTop() == 0) d.focus();
+	d.autocomplete({
+	delay:400,
+	minLength:2,
+	select:function(event, ui){
+		d.val(ui.item.label);
+		$("#kensaku_form").submit();
+	},
+	focus:function(event, ui ){
+		return false;
+	},
+	source:function(request, response){
+		$.ajax({
+			url:"/pulldown/",
+			type:"post",
+			data:{"q": request.term},
+			dataType:"json",
+			success: function( data ) {
+				response( data );
+			},
+			error: function() {
+				response( [] );
+			}
+		});
+	}
+	});
+	})();
+
+});
+</script>
+
+<noscript>
+<div class="w-full2 h-auto px-2 pb-2 gap-2.5 box-border">
+	<div class="w-full2 h-auto py-4 px-4 border border-solid error-input rounded-md gap-2 box-border">
+		<div class="w-full2 mb-2">
+			<div class="w-auto h-auto gap-2 flex">
+				<div class="w-auto h-auto py-0.5 mb-2.5 box-border">
+					<svg class="" width="20" height="18" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+						<path fill="#ef4444" d="M256 32c14.2 0 27.3 7.5 34.5 19.8l216 368c7.3 12.4 7.3 27.7 .2 40.1S486.3 480 472 480H40c-14.3 0-27.6-7.7-34.7-20.1s-7-27.8 .2-40.1l216-368C228.7 39.5 241.8 32 256 32zm0 128c-13.3 0-24 10.7-24 24V296c0 13.3 10.7 24 24 24s24-10.7 24-24V184c0-13.3-10.7-24-24-24zm32 224a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/>
+					</svg>
+				</div>
+				<div class="text-base align-middle text-slate-700 font-semibold">
+					JavaScriptが無効になっています。
+				</div>
+			</div>
+			<div class="w-full align-middle text-slate-700 text-sm mt-2.5">
+				株探のすべての機能を利用するためには、JavaScriptを有効にしてください。
+			</div>
+		</div>
+	</div>
+</div>
+</noscript>
+<div class="fs0">
+<div class="topicpath">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/"><span itemprop="name">トップ</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/news/marketnews/"><span itemprop="name">市場ニュース</span></a>
+<meta itemprop="position" content="2" />
+</li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<span itemprop="name">株価指数先物【寄り前】　米国株高を期待した押し目狙いのロング対応</span>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</div>
+<!--header end-->
+
+<!--container start-->
+<div id="container">
+<!--main start-->
+<div id="main">
+
+
+<div id="shijyounews">
+<div class="title_box">
+<h2>市場ニュース</h2>
+<div class="tw_icon_box">
+<a href="#" onClick="history.back(); return false;"><img src="/images/cmn/modoru.jpg" alt="戻る" /></a>
+<ul class="snslink">
+<li><a href="#" class="snslink1" data-num="1">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_922_124)">
+<path d="M13 26C20.1797 26 26 20.1797 26 13C26 5.8203 20.1797 0 13 0C5.8203 0 0 5.8203 0 13C0 20.1797 5.8203 26 13 26Z" fill="black"/>
+<mask id="mask0_922_124" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="6" y="6" width="14" height="14">
+<path d="M20 6H6V20H20V6Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_922_124)">
+<path d="M14.3319 11.925L19.5437 6H18.3087L13.7833 11.1446L10.1688 6H6L11.4657 13.7795L6 19.9928H7.2351L12.0141 14.5599L15.8312 19.9928H20L14.3319 11.925ZM12.6403 13.8481L12.0865 13.0734L7.68013 6.90931H9.57717L13.1331 11.8839L13.6869 12.6586L18.3093 19.1249H16.4122L12.6403 13.8481Z" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_922_124">
+<rect width="26" height="26" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+</a></li>
+
+<li><a href="#" class="snslink1" data-num="2">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_922_125)">
+<mask id="mask0_922_125" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="26" height="26">
+<path d="M26 0H0V26H26V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_922_125)">
+<path d="M14.5752 25.9061C21.0123 25.1268 26 19.6459 26 13C26 5.82039 20.1796 0 13 0C5.82039 0 0 5.82039 0 13C0 19.097 4.19683 24.2132 9.85978 25.6179L10.1111 24.5556H14.0833L14.5752 25.9061Z" fill="#0866FF"/>
+<path d="M9.85908 25.6181V16.9731H7.17603V13.0001H9.85908V11.2885C9.85908 6.8634 11.8611 4.81445 16.2031 4.81445C17.025 4.81445 18.4441 4.97551 19.027 5.13656V8.7354C18.72 8.70434 18.1841 8.68845 17.524 8.68845C15.392 8.68845 14.5701 9.49445 14.5701 11.5954V13.0001H18.819L18.091 16.9723H14.5759V25.9062C12.9994 26.0961 11.4008 25.9985 9.85908 25.6181Z" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_922_125">
+<rect width="26" height="26" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+</a></li>
+
+<li><a href="#" class="snslink1" data-num="3">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_922_126)">
+<mask id="mask0_922_126" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="26" height="26">
+<path d="M26 0H0V26H26V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_922_126)">
+<path d="M12.9951 25.9902C20.1721 25.9902 25.9902 20.1721 25.9902 12.9951C25.9902 5.8181 20.1721 0 12.9951 0C5.8181 0 0 5.8181 0 12.9951C0 20.1721 5.8181 25.9902 12.9951 25.9902Z" fill="#4CC764"/>
+<path d="M21.665 12.2381C21.665 8.35534 17.7724 5.19995 12.9853 5.19995C8.19811 5.19995 4.30548 8.35534 4.30548 12.2381C4.30548 15.7179 7.39206 18.6374 11.5599 19.1879C11.845 19.2468 12.2284 19.3746 12.3267 19.6204C12.4151 19.8366 12.3856 20.1807 12.3561 20.4068C12.3561 20.4068 12.2578 21.0162 12.2284 21.1538C12.189 21.3701 12.0514 22.009 12.9754 21.6257C13.8994 21.2325 17.969 18.6865 19.7974 16.5829C21.0556 15.2068 21.6552 13.8011 21.6552 12.248L21.665 12.2381Z" fill="white"/>
+<path d="M18.7848 14.4794C18.8733 14.4794 18.952 14.4008 18.952 14.3123V13.693C18.952 13.6046 18.8733 13.5259 18.7848 13.5259H17.1236V12.887H18.7848C18.8733 12.887 18.952 12.8084 18.952 12.7199V12.1006C18.952 12.0121 18.8733 11.9335 18.7848 11.9335H17.1236V11.2946H18.7848C18.8733 11.2946 18.952 11.2159 18.952 11.1275V10.5082C18.952 10.4197 18.8733 10.3411 18.7848 10.3411H16.347C16.2586 10.3411 16.1799 10.4197 16.1799 10.5082V14.2927C16.1799 14.391 16.2586 14.4598 16.347 14.4598H18.7848V14.4794Z" fill="#4CC764"/>
+<path d="M9.76105 14.4794C9.84952 14.4794 9.92815 14.4007 9.92815 14.3123V13.693C9.92815 13.6045 9.84952 13.5259 9.76105 13.5259H8.0998V10.5179C8.0998 10.4295 8.02116 10.3508 7.93269 10.3508H7.31341C7.22494 10.3508 7.1463 10.4295 7.1463 10.5179V14.3024C7.1463 14.4007 7.22494 14.4695 7.31341 14.4695H9.75122L9.76105 14.4794Z" fill="#4CC764"/>
+<path d="M11.2257 10.3606H10.6163C10.524 10.3606 10.4492 10.4354 10.4492 10.5277V14.3122C10.4492 14.4045 10.524 14.4793 10.6163 14.4793H11.2257C11.318 14.4793 11.3928 14.4045 11.3928 14.3122V10.5277C11.3928 10.4354 11.318 10.3606 11.2257 10.3606Z" fill="#4CC764"/>
+<path d="M15.4231 10.3606H14.8038C14.7153 10.3606 14.6367 10.4392 14.6367 10.5277V12.7787L12.9066 10.4392C12.9066 10.4392 12.9066 10.4294 12.8968 10.4196C12.8968 10.4196 12.8968 10.4196 12.887 10.4097C12.887 10.4097 12.887 10.4097 12.8771 10.4097C12.8771 10.4097 12.8771 10.4097 12.8673 10.4097H12.2579C12.1694 10.4097 12.0908 10.4884 12.0908 10.5769V14.3614C12.0908 14.4498 12.1694 14.5285 12.2579 14.5285H12.8771C12.9656 14.5285 13.0443 14.4498 13.0443 14.3614V12.1103L14.7743 14.4498C14.7743 14.4498 14.8038 14.4793 14.8136 14.4891C14.8136 14.4891 14.8136 14.4891 14.8235 14.4891C14.8235 14.4891 14.8235 14.4891 14.8333 14.4891C14.8431 14.4891 14.8628 14.4891 14.8726 14.4891H15.4821C15.5705 14.4891 15.6492 14.4105 15.6492 14.322V10.5375C15.6492 10.4491 15.5705 10.3704 15.4821 10.3704L15.4231 10.3606Z" fill="#4CC764"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_922_126">
+<rect width="26" height="26" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+</a></li>
+</ul>
+
+<script type='text/javascript'>
+$(function(){
+	var u=encodeURIComponent(location.href.replace(location.host,'kabutan.jp'));
+	var t=encodeURIComponent(document.title);
+	$(".snslink1").each(function(i, elem) {
+		var n = $(elem).attr('data-num');
+		var w = '';
+		switch(n){
+			case '1':w='https://twitter.com/intent/tweet?url='+u+'&text='+t; break;
+			case '2':w='https://www.facebook.com/share.php?u='+u; break;
+			case '3':w='https://line.me/R/msg/text/?'+t+' '+u; break;
+		}
+		if (w != ''){
+			$(elem).attr({'href':w,'target':'_blank','rel':'nofollow'});
+		}
+	});
+});
+</script>
+</div>
+</div>
+
+
+
+<article>
+<div class="s_news_p_msg">&nbsp;</div>
+<time class="s_news_date" datetime="2025-12-26T07:43:18+09:00" itemprop="datePublished">2025年12月26日07時43分</time>
+
+<h1><span class="news_left_icon1">【市況】</span>株価指数先物【寄り前】　米国株高を期待した押し目狙いのロング対応</h1>
+
+<div class="body">
+
+<br />
+大阪3月限ナイトセッション<br />
+日経225先物　50490　-30 （-0.05％）<br />
+TOPIX先物　3427.0　±0.0 （±0.00％）　<br />
+シカゴ日経平均先物　-<br />
+（注：ナイトセッション、CMEは大阪の日中終値比）<br />
+<br />
+　25日の米国や欧州など主要な株式市場は、クリスマスの祝日で休場。<br />
+<br />
+　日経225先物（3月限）は日中比変わらずの5万0520円で始まった。直後につけた5万0530円を高値に軟化し、5万0470円まで売られた。ただ、米国や欧州など主要な金融市場が休場になるなかで閑散な取引となった。中盤以降は動意薄となり、概ね5万0470円～5万0500円辺りでの狭いレンジでの推移が続き、日中比30円安の5万0490円でナイトセッションの取引を終えた。<br />
+<br />
+　海外投資家が不在となるなかで薄商いが想定されるため、大きなトレンドは出にくいだろう。25日移動平均線（5万0040円）とボリンジャーバンドの+1σ（5万0680円）でのレンジ内での推移は継続しそうであり、スキャルピング中心のトレードも手控えられそうである。<br />
+<br />
+　前日の東証プライムの売買高は13億株台、売買代金は3兆円を割り込む薄商いだった。本日は12月の権利付き最終日で、損益通算による節税対策の売りも一巡する。閑散な取引が見込まれるなか、アドバンテスト&lt;<a href="/stock/?code=6857">6857</a>&gt;［東証P］や東京エレクトロン&lt;<a href="/stock/?code=8035">8035</a>&gt;［東証P］など、指数インパクトが大きい半導体・AI関連株の影響を受けやすい。<br />
+<br />
+　ソフトバンクグループ&lt;<a href="/stock/?code=9984">9984</a>&gt;［東証P］は12月末基準で1対4の株式分割を実施する。AI関連の代表的位置づけである同社の株価水準が切り下がることで、分割前後の動向が注目されよう。<br />
+<br />
+　日経225先物は朝方に動意をみせた後は、トレンドレスの状況が続くだろう。ただ、米国のクリスマス明け後の年末高が意識されやすいなか、先物市場では引けにかけて先回り的なロングが入る可能性はありそうだ。積極的な売買は期待しにくいものの、押し目狙いのロング対応に向かわせそうである。<br />
+<br />
+　オプション権利行使価格の5万0375円から5万0625円でのレンジを想定。ただし、5万0500円辺りでの底堅さがみられるようだと、終盤にかけて+1σを捉えてくる展開もありそうだ。そのため、下値の堅さが意識される局面では、オプション権利行使価格の5万0500円から5万0750円でのレンジに切り上がろう。<br />
+<br />
+　昨日のNT倍率は先物中心限月で14.74倍に低下した。一時14.79倍をつける場面もみられたが、75日線（14.81倍）、25日線（14.81倍）に上値を抑えられている。両線のデッドクロスが見込まれるなか、下向きで推移する25日線に沿った低下となるかを見極めたい。-1σ（14.68倍）に接近する局面では、その後のリバランスを想定したNTロング対応に向かわせる可能性がありそうだ。<br />
+<br />
+株探ニュース<br />
+
+
+</div><!--/.body-->
+</article>
+
+
+<div class="floatclear"></div>
+<div class="ads_box">
+<!-- /94446337/1561_tan_pc_longbanner_2 -->
+<div id='div-gpt-ad-1563268967604-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1563268967604-0'); });
+</script>
+</div>
+</div>
+<div class="floatclear mgbt10"></div>
+
+<div class="kanren_news">
+
+<div class="clearfix">
+<b class="floatl">【関連記事・情報】</b>
+<div class="kanren_news_rank">
+<a href="/info/accessranking/2_1"><img src="/images/news/ninkinews_small.gif" class="vat" /></a>
+<a href="/info/accessranking/2_1">8時間</a> | <a href="/info/accessranking/2_2">3日間</a>
+</div>
+</div>
+
+<ul id="kanrenlink">
+<li>・<a href="https://kabutan.jp/news/marketnews/?b=n202512260058">伊藤智洋が読む「日経平均株価・短期シナリオ」　(12月26日記）</a><span></span></li>
+<li>・<a href="https://kabutan.jp/news/marketnews/?b=n202512260101">前場に注目すべき3つのポイント～中小型株での短期的な値幅取り狙い～ (12/26)</a><span></span></li>
+<li>・<a href="https://kabutan.jp/news/marketnews/?b=n202512260065">＜必見＞ 寄り付き直前チェック・リスト！ (12/26)</a><span></span></li>
+<li>・<a href="https://kabutan.jp/news/marketnews/?b=n202512260035">今朝の注目ニュース！　★農業総研、アルピコＨＤ、クスリアオキなどに注目！ (12/26)</a><span></span></li>
+<li>・<a href="https://kabutan.jp/news/marketnews/?b=n202512260026">本日注目すべき【好決算】銘柄 クスリアオキ、ミタチ産業、エイベックス  (25日引け後 .. </a><span></span></li>
+<li>・<a href="https://kabutan.jp/news/marketnews/?b=n202512251072">物価高で変革ニーズ拡大、好業績満喫の「外食ソリューション」関連株 ＜株探.. (12/25)</a><span></span></li>
+<li>・<a href="https://kabutan.jp/news/marketnews/?b=n202512251075">利益成長“青天井”銘柄リスト【総集編】第4弾 33社選出 ＜成長株特集＞ (12/25)</a><span></span></li>
+<li>・<a href="https://kabutan.jp/news/marketnews/?b=n202512241079">温暖化対策の切り札、化石燃料ニーズ対応で「CO2回収」関連再評価へ ＜株探.. (12/24)</a><span></span></li>
+<li>・<a href="https://kabutan.jp/news/marketnews/?b=n202512260013">NY株式：クリスマスの祝日で休場 (12/26)</a><span></span></li>
+<li>・<a href="https://kabutan.jp/news/marketnews/?b=n202512260017">本日の決算発表予定 … Ｊフロント、ＤＣＭ、マルマエなど 14社 (12月26日)</a><span></span></li>
+</ul>
+
+</div>
+
+
+<div id="shijyounews_next_prev">
+<ul>
+<li class="u"><a href="/news/marketnews/?b=n202512260041">【市況】米国市場データ　米国市場はクリスマスの祝日ため休場　（12月25日）</a></li>
+<li class="d"><a href="/news/marketnews/?b=n202512260039">【市況】シカゴ日経平均先物　クリスマスの祝日のため休場　（12月25日）</a></li>
+</ul>
+</div>
+
+</div><!--/#shijyounews-->
+
+<div class="floatclear"></div>
+</div>
+<!--main end-->
+
+<!--sub start-->
+<div id="sub">
+<!-- 1201_tan_pc_primerectangle -->
+<div id='div-gpt-ad-1413891264102-1' style="min-height:250px; margin-bottom:10px;">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1413891264102-1'); });
+</script>
+</div>
+
+
+<div id="announce">
+<h3>株探からのお知らせ</h3>
+<ul></ul>
+</div>
+
+<script>
+$(function(){
+set_AnnounceBox({'mode':'free'});
+});
+</script>
+
+
+<script type="text/javascript" src="/js/ch/fav.js?v=2506232"></script>
+
+
+
+<div class="box1">
+<div class="ch">
+<h3>日経平均</h3>
+<table>
+<tr><td rowspan="2">
+<div id="chc_1_1" class="ch_sz0" style="display:none;"></div>
+<div id="chc_1_2" class="ch_sz0" style="display:block;"><a href="/stock/chart?code=0000&ashi=1" target="_top"><img src="https://funit.api.kabutan.jp/jp/chart?c=0000&amp;a=1&amp;s=0&v=1766940160" alt="" /></a></div>
+</td>
+<td id="chb_1_1" class="close" style="height:68px;" onclick="change_chimg(1,'https://funit.api.kabutan.jp/jp/chart?c=0000&amp;a=5&amp;s=0&v=1766940160','chc_1_','chb_1_','/stock/chart?code=0000&ashi=4');">日<br>中<br>足</td></tr><tr>
+<td id="chb_1_2" class="open" style="height:68px;" onclick="change_chimg(2,'https://funit.api.kabutan.jp/jp/chart?c=0000&amp;a=1&amp;s=0&v=1766940160','chc_1_','chb_1_','/stock/chart?code=0000&ashi=1');">日<br>　<br>足</td></tr>
+</table>
+</div><!--/ch-->
+
+</div><!--/box1-->
+
+<div class="sub_news_box">
+<img src="/images/news/topnews.gif" width="298" height="25" />
+<ul>
+<li>
+<a href="/news/marketnews/?b=n202512280028" target="_top">【明日の好悪材料】を開示情報でチェック！ (12月26日発表分)</a>
+</li>
+<li>
+<a href="/news/marketnews/?b=n202512280044" target="_top">上方修正“先回り”、25年12月期【業績上振れ】候補 41社選出 ＜成長株特集＞</a>
+</li>
+<li>
+<a href="/news/marketnews/?b=n202512270168" target="_top">半導体セクター未開の最強株高エリア、沸騰する「化学株」厳選5銘柄 ＜株探トップ特集＞</a>
+</li>
+<li>
+<a href="/news/marketnews/?b=n202512270161" target="_top">来週・再来週の相場で注目すべき3つのポイント：日銀金融政策決定会合「主な意見」、米FOMC議事要旨、米雇用統計</a>
+</li>
+<li>
+<a href="/news/marketnews/?b=n202512280018" target="_top">個人投資家・有限亭玉介：フィジカルAI、業績期待＆話題株をピックアップ【FISCOソーシャルレポーター】</a>
+</li>
+<li>
+<a href="/news/marketnews/?b=n202512280029" target="_top">10万円以下で買える、高利回り＆低PBR 28社【スタンダード】編 ＜割安株特集＞</a>
+</li>
+<li>
+<a href="/news/marketnews/?b=n202512280020" target="_top">【高配当利回り株】ベスト50 ＜割安株特集＞　(12月26日現在)</a>
+</li>
+<li>
+<a href="/news/marketnews/?b=n202512280032" target="_top">買い局面を迎えた【25日線上抜け】低PER銘柄 16社　＜テクニカル特集＞ 12月26日版</a>
+</li>
+</ul>
+<p><img src="/images/top/top-news_mark.gif"><a href="/news/marketnews/" target="_top">【総合ニュース】を見る</a></p>
+</div><!--/sub_news_box-->
+
+
+<!--1203_tan_pc_middlerectangle -->
+<div id='div-gpt-ad-1413891264102-2' style="min-height:250px; margin-bottom:10px;">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1413891264102-2'); });
+</script>
+</div>
+
+
+
+
+<div class="sub_news_box">
+<h3 class="ranknews">人気ニュース【ベスト5】</h3>
+<ul class="ranknews">
+<li class="ranknews1">
+<a href="/news/marketnews/?b=n202512280028" target="_top">【明日の好悪材料】を開示情報でチェック！ (12月26日発表分)</a>
+</li>
+<li class="ranknews2">
+<a href="/news/marketnews/?b=n202512270168" target="_top">半導体セクター未開の最強株高エリア、沸騰する「化学株」厳選5銘柄 ＜株探トップ特集＞</a>
+</li>
+<li class="ranknews3">
+<a href="/news/marketnews/?b=n202512280044" target="_top">上方修正“先回り”、25年12月期【業績上振れ】候補 41社選出 ＜成長株特集＞</a>
+</li>
+<li class="ranknews4">
+<a href="/news/marketnews/?b=n202512280018" target="_top">個人投資家・有限亭玉介：フィジカルAI、業績期待＆話題株をピックアップ【FISCOソーシャルレポーター】</a>
+</li>
+<li class="ranknews5">
+<a href="/news/marketnews/?b=n202512280032" target="_top">買い局面を迎えた【25日線上抜け】低PER銘柄 16社　＜テクニカル特集＞ 12月26日版</a>
+</li>
+</ul>
+<p><img src="/images/top/top-news_mark.gif"> <a href="/info/accessranking/2_1" target="_top">一覧を見る</a></p>
+</div><!--/sub_news_box-->
+
+
+<div class="sub_pm_column_box">
+<h3>プレミアム会員限定コラム</h3>
+<div><a href="https://selection.kabutan.jp/investor-article/" target="_top">
+<img src="/images/adv/kb_pm_investor-article.png" height="37"><span>キーワードで発掘！<br>強い投資家・すごい技</span></a></div>
+<div><a id="sidebar_premium_sugoude" data-click-event="sidebar" data-click-value="premium_sugoude" href="https://selection.kabutan.jp/%E4%BC%9A%E5%93%A1%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%A9%E3%83%A0/%E3%81%99%E3%81%94%E8%85%95%E6%8A%95%E8%B3%87%E5%AE%B6/" target="_top">
+<img src="/images/adv/kb-pm_news-sugoude_190x100.gif" height="37"><span>すご腕投資家に聞く「銘柄選び」の技</span></a></div>
+<div><a href="https://selection.kabutan.jp/%E4%BC%9A%E5%93%A1%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%A9%E3%83%A0/%E3%83%97%E3%83%AD%E3%81%AB%E8%81%9E%E3%81%8F%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E8%A9%B1%E9%A1%8C/" target="_top">
+<img src="/images/adv/kininaruwadai_190x100.png" height="37"><span>プロに聞く　気になる話題</span></a></div>
+<div><a id="sidebar_premium_2025research" data-click-event="sidebar" data-click-value="premium_2025research" href="https://selection.kabutan.jp/%E4%BC%9A%E5%93%A1%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%A9%E3%83%A0/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E6%B3%A2%E4%B9%B1%E3%82%92%E5%8B%9D%E3%81%A1%E6%8A%9C%E3%81%8F%E6%8A%80/" target="_top">
+<img src="/images/adv/kb_pm_2025research.png" height="37"><span>トランプ波乱を勝ち抜く技<br>～個人投資家大調査2025～</span></a></div>
+<div><a id="sidebar_premium_buyandhold" data-click-event="sidebar" data-click-value="premium_buyandhold" href="https://selection.kabutan.jp/%E4%BC%9A%E5%93%A1%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%A9%E3%83%A0/buy%EF%BC%86hold-stories/" target="_top">
+<img src="/images/adv/kb_pm_buyandhold_190×100_240118.png" height="37"><span>Buy&Hold STORIES 長期投資成功への道</span></a></div>
+<div><a id="sidebar_premium_okutore" data-click-event="sidebar" data-click-value="premium_okutore" href="https://selection.kabutan.jp/%E4%BC%9A%E5%93%A1%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%A9%E3%83%A0/%E7%9B%AE%E6%8C%87%E3%81%9B%E5%84%84%E3%83%88%E3%83%AC%E3%80%81%E9%A0%91%E5%BC%B5%E3%82%8A%E6%8A%95%E8%B3%87%E5%AE%B6%E3%81%95%E3%82%93%E3%81%AE%E7%A8%BC%E3%81%8E%E6%8A%80/" target="_top">
+<img src="/images/adv/kb_pm_ganbari_190×100_200825.png" height="37"><span>目指せ億トレ、頑張り投資家さんの稼ぎ技</span></a></div>
+<div class="sub_pm_col_list"><a id="sidebar_premium_viewall" data-click-event="sidebar" data-click-value="premium_viewall" href="https://selection.kabutan.jp/%E4%BC%9A%E5%93%A1%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%A9%E3%83%A0/" target="_top">
+<img src="/images/top/top-news_mark.gif"><span>プレミアム会員限定コラムの一覧を見る</span></a></div>
+</div><!--/sub_pm_column_box-->
+
+
+<div class="sub_news_box osusume_news">
+<h3 class="osusume_news">お薦めコラム・特集</h3>
+<ul class="osusume_news">
+<li>
+<a id="sidebar_recommend_column_num1" data-click-event="sidebar" data-click-value="recommend_column_num1" href="/news/marketnews/?b=n202512280044" target="_top">上方修正“先回り”、25年12月期【業績上振れ】候補 41社選出 ＜成長株特集＞</a>
+</li>
+<li>
+<a id="sidebar_recommend_column_num2" data-click-event="sidebar" data-click-value="recommend_column_num2" href="/news/marketnews/?b=n202512270168" target="_top">半導体セクター未開の最強株高エリア、沸騰する「化学株」厳選5銘柄 ＜株探トップ特集＞</a>
+</li>
+<li>
+<a id="sidebar_recommend_column_num3" data-click-event="sidebar" data-click-value="recommend_column_num3" href="/news/marketnews/?b=n202512280032" target="_top">買い局面を迎えた【25日線上抜け】低PER銘柄 16社　＜テクニカル特集＞ 12月26日版</a>
+</li>
+<li>
+<a id="sidebar_recommend_column_num4" data-click-event="sidebar" data-click-value="recommend_column_num4" href="/news/marketnews/?b=n202512280029" target="_top">10万円以下で買える、高利回り＆低PBR 28社【スタンダード】編 ＜割安株特集＞</a>
+</li>
+<li>
+<a id="sidebar_recommend_column_num5" data-click-event="sidebar" data-click-value="recommend_column_num5" href="/news/marketnews/?b=n202512280020" target="_top">【高配当利回り株】ベスト50 ＜割安株特集＞　(12月26日現在)</a>
+</li>
+</ul>
+<p><img src="/images/top/top-news_mark.gif"> <a id="sidebar_recommend_column_viewall" data-click-event="sidebar" data-click-value="recommend_column_viewall" href="/news/marketnews/?category=-2" target="_top">一覧を見る</a></p>
+</div><!--/sub_news_box-->
+
+<div class="kanrensite1">
+<ul>
+<li><a id="sidebar_futures_minkabu" data-click-event="sidebar" data-click-value="futures_minkabu" href="https://fu.minkabu.jp/beginner/column/1" target="_blank" title="初心者向け先物解説記事を公開中">初心者向け先物解説記事を公開中</a></li>
+</ul>
+</div>
+
+<div class="sub_column">
+<div><a id="sidebar_bannar_kbtntop" data-click-event="sidebar" data-click-value="bannar_kbtntop" href="https://selection.kabutan.jp/category/kbtntop/" target="_top"><img src="/images/top/top-kbtntop-banner.png" /></a></div>
+<div><a id="sidebar_bannar_columnists" data-click-event="sidebar" data-click-value="bannar_columnists" href="https://selection.kabutan.jp/columnists/" target="_top"><img src="/images/top/writer_corner_banner.png" /></a></div>
+<div><a id="sidebar_bannar_marketview" data-click-event="sidebar" data-click-value="bannar_marketview" href="https://selection.kabutan.jp/category/marketview/" target="_top"><img src="/images/top/top-soubakan-banner.png" /></a></div>
+<div><a id="sidebar_bannar_usstocks" data-click-event="sidebar" data-click-value="bannar_usstocks" href="https://selection.kabutan.jp/category/usstocks/" target="_top"><img src="/images/top/top-usstocks-banner.png" /></a></div>
+<div><a id="sidebar_bannar_koaku" data-click-event="sidebar" data-click-value="bannar_koaku" href="https://selection.kabutan.jp/category/koaku/?membership=1" target="_top"><img src="/images/top/top-kouaku-banner.png" /></a></div>
+<div><a id="sidebar_bannar_commodity" data-click-event="sidebar" data-click-value="bannar_commodity" href="https://selection.kabutan.jp/category/commodity/" target="_top"><img src="/images/top/top-commodity-banner.png" /></a></div>
+<div><a id="sidebar_bannar_topinterview" data-click-event="sidebar" data-click-value="bannar_topinterview" href="https://selection.kabutan.jp/category/topinterview/" target="_top"><img src="/images/top/top-interview-banner.png" /></a></div>
+<div><a id="sidebar_bannar_otegami" data-click-event="sidebar" data-click-value="bannar_otegami" href="https://selection.kabutan.jp/category/otegami/" target="_top"><img src="/images/top/top-mailmag-banner.png" /></a></div>
+</div>
+
+<div class="kanrensite1">
+<ul>
+<li><a id="sidebar_crowdfunding" data-click-event="sidebar" data-click-value="crowdfunding" href="https://selection.kabutan.jp/category/crowdfunding/" target="_top">クラファン（株式投資）ニュース</a></li>
+</ul>
+</div>
+
+<div class="kanrensite2">
+<h3>■関連サイト <span>※外部リンク</span></h3>
+<ul>
+<li><a href="https://fx.minkabu.jp/hikaku/?utm_source=kabutan&amp;utm_medium=navi&amp;utm_campaign=textlink" target="_blank" title="おすすめFX口座比較">おすすめFX口座比較ランキング</a></li>
+<li><a href="https://minkabu.jp/yutai" target="_blank" title="株主優待 | おすすめの優待情報">株主優待 | おすすめの優待情報</a></li>
+<li><a href="https://kabutan.jp/hikaku/" target="_blank" title="株探おすすめ証券会社比較">株探おすすめ証券会社比較</a></li>
+<li><a href="https://minkabu.jp/creditcard/" target="_blank" title="クレジットカードおすすめランキング">クレジットカードおすすめランキング｜人気クレカを徹底比較</a></li>
+<li><a href="https://minkabu.jp/cardloan/" target="_blank" title="カードローンおすすめランキング">カードローンおすすめランキング</a></li>
+</ul>
+</div>
+
+
+</div>
+<!--sub end-->
+
+<div class="floatclear"></div>
+</div>
+<!--container end-->
+
+<!--footer start-->
+<div id="footer">
+<p>当サイト「株探（かぶたん）」で提供する情報は投資勧誘または投資に関する助言をすることを目的としておりません。投資の決定は、ご自身の判断でなされますようお願いいたします。 当サイトにおけるデータは、東京証券取引所、大阪取引所、名古屋証券取引所、JPX総研、ジャパンネクスト証券、堂島取引所、China Investment Information Services、CME Group Inc. 等からの情報の提供を受けております。日経平均株価の著作権は日本経済新聞社に帰属します。株探に掲載される株価チャートは、その銘柄の過去の株価推移を確認する用途で掲載しているものであり、その銘柄の将来の価値の動向を示唆あるいは保証するものではなく、また、売買を推奨するものではありません。決算を扱う記事における「サプライズ決算」とは、決算情報として注目に値するかという観点から、発表された決算のサプライズ度（当該会社の本決算か各四半期であるか、業績予想の修正か配当予想の修正であるか、及びそこで発表された決算結果ならびに当該会社が過去に公表した業績予想・配当予想との比較及び過去の決算との比較を数値化し判定）が高い銘柄であり、また「サプライズ順」はサプライズ度に基づいた順番で決算情報を掲載しているものであり、記事に掲載されている各銘柄の将来の価値の動向を示唆あるいは保証するものではなく、また、売買を推奨するものではありません。</p>
+<ul>
+<li class="footer_top"><a href="/info/thissite" target="_top">「株探」について</a></li>
+<li><a href="https://info.kabutan.jp/terms-all/" target="_blank">利用規約</a></li>
+<li><a href="https://minkabu.co.jp/privacy-policy/" target="_blank">プライバシーポリシー</a></li>
+<li>
+<!-- STRIGHT ONE Privacy Setting Banner Redisplay Link Tag Start -->
+<div data-id="cookie_consent_cookie_btn" style="display:inline;"></div>
+<!-- STRIGHT ONE Privacy Setting Banner Redisplay Link Tag End -->
+</li>
+<li><a href="https://info.kabutan.jp/specified-commercial-transaction-act/" target="_blank">特定商取引表示</a></li>
+<li><a href="https://hrmos.co/pages/minkabu" target="_blank">採用情報</a></li>
+<li><a href="https://info.kabutan.jp/company/" target="_blank">運営会社</a></li>
+<li><a href="/info/sitemap" target="_top">サイトマップ</a></li>
+<li><a href="https://support.kabutan.jp/hc/ja" target="_blank">ヘルプ</a></li>
+</ul>
+<div class="foot2">
+<ul>
+<li class="footer_top"><a href="/" target="_top">トップ</a></li>
+<li><a href="/news/marketnews/" target="_top">市場ニュース</a></li>
+<li><a href="/news/" target="_top">決算速報</a></li>
+<li><a href="/warning/" target="_top">株価注意報</a></li>
+<li><a href="/disclosures/" target="_top">会社開示情報</a></li>
+<li><a href="/tansaku/" target="_top">銘柄探検</a></li>
+<li><a href="/holder/" target="_top">日本の株主</a></li>
+<li><a href="/distribution-map/" target="_top">市場マップ</a></li>
+<li><a href="/hikaku/" target="_top">証券会社比較</a></li>
+</ul>
+</div>
+</div>
+<!--footer end-->
+</div>
+<!--wrapper_main end-->
+
+<footer>
+<div id="footer2">
+<div class="ly_container">
+<div class="copyright dptbl">
+<a href="https://minkabu.co.jp/" target="_top" class=" tal">
+<img src="/images/info/infonoid_logo_sub_white.svg">
+</a>
+<span class="dptblc tar vabt">(C)&nbsp;MINKABU&nbsp;THE&nbsp;INFONOID,&nbsp;Inc.</span>
+</div>
+</div>
+</div>
+</footer>
+
+<!-- /94446337/5000_tan_pc_footeroverlay -->
+<div id='div-gpt-ad-1748403571195-0' style='min-width: 728px; min-height: 50px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1748403571195-0'); });
+  </script>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const adContainer = document.getElementById('div-gpt-ad-1748403571195-0');
+  function adjustBodyPadding() {
+    if (adContainer && window.getComputedStyle(adContainer).display !== 'none') {
+      const adHeight = adContainer.offsetHeight;
+      document.body.style.paddingBottom = adHeight + 'px';
+    } else {
+      document.body.style.paddingBottom = '0';
+    }
+  }
+  window.addEventListener('load', adjustBodyPadding);
+  window.addEventListener('resize', adjustBodyPadding);
+  if (adContainer) {
+    const observer = new MutationObserver(adjustBodyPadding);
+    observer.observe(adContainer, { attributes: true, childList: true, subtree: true });
+  }
+});
+</script>
+
+</body>
+</html>
