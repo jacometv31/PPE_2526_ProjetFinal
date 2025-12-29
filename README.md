@@ -7,3 +7,5 @@ pour la langue japonaise.(Vianney)
 
 #J'ai réalisé une première version du site à l'aide de BULMA CSS. J'ai créé les différentes pages que je vais remplir au fur et à mesure.
 J'y ai intégré les tableaux pour la langue japonaise.
+
+#J'ai déployé le site via GitHub pour voir si tout fonctionne correctement.
