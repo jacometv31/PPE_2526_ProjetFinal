@@ -168,44 +168,43 @@
 
    (BUTTON) (BUTTON)
      * 前[69]国内マーケットcategory
-       [70]米、中国の米企業制裁「強く反対」、台湾への圧力停止求める
-       [71]米、中国の米企業制裁「強く反対」、台湾への圧力停止求める
+       [70]米中古住宅仮契約指数、11月は3.3％上昇　約3年ぶり高水準
+       [71]米中古住宅仮契約指数、11月は3.3％上昇　約3年ぶり高水準
      * 前[72]国内マーケットcategory
-       [73]中南米金融市場＝レアル下落、総じて薄商いで小動き
+       [73]中国のデジタル人民元、26年から利子付きに　国営放送が報道
        [74]Reuters logo
-     * 2025年12月27日[75]オピニオンcategory
-       [76]2026年の視点：次の日銀利上げはいつか、予想外に早いシナリオも＝熊野英生氏
-       [77]2026年の視点：次の日銀利上げはいつか、予想外に早いシナリオも＝熊野英生氏
-     * 2025年12月26日[78]国内マーケットcategory
-       [79]Ｓ＆Ｐ500は7000射程、ＦＯＭＣ議事要旨で金融政策占う＝来週の米株式市場
-       [80]Ｓ＆Ｐ500は7000射程、ＦＯＭＣ議事要旨で金融政策占う＝来週の米株式市場
-     * 2025年12月26日[81]国内マーケットcategory
-       [82]ＮＹ市場サマリー（26日）円が軟化、株横ばい
+     * 前[75]国内マーケットcategory
+       [76]ウクライナ「和平望むならドンバス撤収必要」＝ロシア大統領報道官
+       [77]ウクライナ「和平望むならドンバス撤収必要」＝ロシア大統領報道官
+     * 前[78]国内マーケットcategory
+       [79]アジア株式市場サマリー：引け（29日）
+       [80]Reuters logo
+     * 前[81]国内マーケットcategory
+       [82]中国・香港株式市場・大引け＝上海株指数が9日続伸、消費促進策を好感　香港下落
        [83]Reuters logo
-     * 2025年12月26日[84]国内マーケットcategory
-       [85]米金融・債券市場＝10年債利回り低下、薄商いの中で静かな値動き
-       [86]Reuters logo
+     * 前[84]国内マーケットcategory
+       [85]独経済団体、半数が26年の人員削減を予想　経済危機が長期化
+       [86]独経済団体、半数が26年の人員削減を予想　経済危機が長期化
 
 [87]マーケット
 
-     * [88]中国工業部門利益、1年ぶり大幅減　11月13.1％減
+     * [88]エヌビディア、インテル株50億ドル取得　9月発表の出資を実行
 
-[89]中国工業部門利益、1年ぶり大幅減　11月13.1％減
-       [90]各国の株式指数category · 2025年12月28日 · 午前 5:31 UTC · 前
-       中国国家統計局が２７日発表した１１月の工業部門企業利益は前年比１３．１％減少した。減少幅は１０月（５．５％減）から拡大し過去１年で最大
-       となった。内需の弱さが底固い輸出を帳消しにした。
-     * [91]米、中国の米企業制裁「強く反対」、台湾への圧力停止求める
-       [92]国内マーケットcategory[93]米、中国の米企業制裁「強く反対」、台湾への圧力停止求める
-       午前 3:46 UTC
-     * [94]アングル：中国企業、希少木材や高級茶をトークン化　ＲＷＡ市場急成長
-       [95]ワールドcategory[96]アングル：中国企業、希少木材や高級茶をトークン化　ＲＷＡ市場急成長
-       2025年12月27日
-     * [97]米航空会社、北東部の暴風雪警報で1000便超欠航
-       [98]商品先物category[99]米航空会社、北東部の暴風雪警報で1000便超欠航
-       2025年12月26日
-     * [100]米国株式市場＝横ばい、ＡＩ・貴金属関連が高い
-       [101]国内マーケットcategory[102]米国株式市場＝横ばい、ＡＩ・貴金属関連が高い
-       2025年12月26日
+[89]エヌビディア、インテル株50億ドル取得　9月発表の出資を実行
+       [90]株式市場category · 2025年12月29日 · 午後 4:05 UTC · 前
+       米半導体大手インテルは、同業エヌビディアが５０億ドル相当のインテル株を取得したことを、２９日の提出書類で明らかにした。
+     * [91]Reuters logo
+       [92]株式市場category[93]広済堂ＨＤが30日に自社株取得、大株主の香港投資会社が売却意向
+       午前 9:50 UTC
+     * [94]日経平均は反落、需給面での売りが重し　次第にもみ合い
+       [95]国内マーケットcategory[96]日経平均は反落、需給面での売りが重し　次第にもみ合い
+       午前 7:08 UTC
+     * [97]アングル：無人タクシー「災害時どうなる」、カリフォルニア州停電で見えた課題
+       [98]ビジネスcategory[99]アングル：無人タクシー「災害時どうなる」、カリフォルニア州停電で見えた課題
+       午前 5:55 UTC
+     * [100]中国製リチウム電池需要、来年初めに失速へ　乗用車協会幹部が見通し
+       [101]商品先物category[102]中国製リチウム電池需要、来年初めに失速へ　乗用車協会幹部が見通し
+       午前 5:00 UTC
 
 Site Index
 
@@ -360,39 +359,39 @@ Références
   67. https://www.thomsonreuters.com/en/about-us/trust-principles.html
   68. https://jp.reuters.com/markets/japan/
   69. https://jp.reuters.com/markets/japan/
-  70. https://jp.reuters.com/markets/japan/CWNJJZC2EVNYXEC4MJT3TASJXE-2025-12-28/
-  71. https://jp.reuters.com/markets/japan/CWNJJZC2EVNYXEC4MJT3TASJXE-2025-12-28/
+  70. https://jp.reuters.com/markets/japan/XUKWRCQMUFKNHBYSV75V4PEQTM-2025-12-29/
+  71. https://jp.reuters.com/markets/japan/XUKWRCQMUFKNHBYSV75V4PEQTM-2025-12-29/
   72. https://jp.reuters.com/markets/japan/
-  73. https://jp.reuters.com/markets/japan/3HTTXFEWJ5OPPFN3MAFDVVGLBM-2025-12-27/
-  74. https://jp.reuters.com/markets/japan/3HTTXFEWJ5OPPFN3MAFDVVGLBM-2025-12-27/
-  75. https://jp.reuters.com/opinion/
-  76. https://jp.reuters.com/opinion/forex-forum/GETKJC4UNBNBTPVLM6SAVSEPLI-2025-12-27/
-  77. https://jp.reuters.com/opinion/forex-forum/GETKJC4UNBNBTPVLM6SAVSEPLI-2025-12-27/
+  73. https://jp.reuters.com/markets/japan/IGRRPVOQ5FK5TG3PGH7AOR4MVE-2025-12-29/
+  74. https://jp.reuters.com/markets/japan/IGRRPVOQ5FK5TG3PGH7AOR4MVE-2025-12-29/
+  75. https://jp.reuters.com/markets/japan/
+  76. https://jp.reuters.com/markets/japan/657KOCFNIBLJHGTSF5IUBSGBXQ-2025-12-29/
+  77. https://jp.reuters.com/markets/japan/657KOCFNIBLJHGTSF5IUBSGBXQ-2025-12-29/
   78. https://jp.reuters.com/markets/japan/
-  79. https://jp.reuters.com/markets/japan/OEZ7K4WPNBLEREMCPWT5CRKQ2M-2025-12-26/
-  80. https://jp.reuters.com/markets/japan/OEZ7K4WPNBLEREMCPWT5CRKQ2M-2025-12-26/
+  79. https://jp.reuters.com/markets/japan/27ZKKV3NIJKAJCVSGYU6DG33XI-2025-12-29/
+  80. https://jp.reuters.com/markets/japan/27ZKKV3NIJKAJCVSGYU6DG33XI-2025-12-29/
   81. https://jp.reuters.com/markets/japan/
-  82. https://jp.reuters.com/markets/japan/XNU3S4N6V5LEDFRIEPA7GZPONA-2025-12-26/
-  83. https://jp.reuters.com/markets/japan/XNU3S4N6V5LEDFRIEPA7GZPONA-2025-12-26/
+  82. https://jp.reuters.com/markets/japan/LAKT4JCJZRLMNOSRVPFAQPDZXI-2025-12-29/
+  83. https://jp.reuters.com/markets/japan/LAKT4JCJZRLMNOSRVPFAQPDZXI-2025-12-29/
   84. https://jp.reuters.com/markets/japan/
-  85. https://jp.reuters.com/markets/japan/7CEPN5GURNOPREPGKHTUSKBTZA-2025-12-26/
-  86. https://jp.reuters.com/markets/japan/7CEPN5GURNOPREPGKHTUSKBTZA-2025-12-26/
+  85. https://jp.reuters.com/markets/japan/NJWWXGZ46NNMJOXYN72Q4AHYGI-2025-12-29/
+  86. https://jp.reuters.com/markets/japan/NJWWXGZ46NNMJOXYN72Q4AHYGI-2025-12-29/
   87. https://jp.reuters.com/markets/
-  88. https://jp.reuters.com/markets/world-indices/C7MQCU6FDZJE5OX7PEOUHVKJPQ-2025-12-28/
-  89. https://jp.reuters.com/markets/world-indices/C7MQCU6FDZJE5OX7PEOUHVKJPQ-2025-12-28/
-  90. https://jp.reuters.com/markets/world-indices/
-  91. https://jp.reuters.com/markets/japan/CWNJJZC2EVNYXEC4MJT3TASJXE-2025-12-28/
-  92. https://jp.reuters.com/markets/japan/
-  93. https://jp.reuters.com/markets/japan/CWNJJZC2EVNYXEC4MJT3TASJXE-2025-12-28/
-  94. https://jp.reuters.com/world/china/JXO4DFQCUJLURGFJGYCBWGO4SM-2025-12-27/
-  95. https://jp.reuters.com/world/
-  96. https://jp.reuters.com/world/china/JXO4DFQCUJLURGFJGYCBWGO4SM-2025-12-27/
-  97. https://jp.reuters.com/markets/commodities/ING6IGCS4JK6VMNGCWQTRAI3GE-2025-12-26/
-  98. https://jp.reuters.com/markets/commodities/
-  99. https://jp.reuters.com/markets/commodities/ING6IGCS4JK6VMNGCWQTRAI3GE-2025-12-26/
- 100. https://jp.reuters.com/markets/japan/5NNX2L42IVM35GSQGXVNXV4YFQ-2025-12-26/
- 101. https://jp.reuters.com/markets/japan/
- 102. https://jp.reuters.com/markets/japan/5NNX2L42IVM35GSQGXVNXV4YFQ-2025-12-26/
+  88. https://jp.reuters.com/markets/global-markets/KJGBZMOIZ5NYBFJ4L3DGF3XR3Q-2025-12-29/
+  89. https://jp.reuters.com/markets/global-markets/KJGBZMOIZ5NYBFJ4L3DGF3XR3Q-2025-12-29/
+  90. https://jp.reuters.com/markets/global-markets/
+  91. https://jp.reuters.com/markets/global-markets/U43H4HV3EBK63F2IZSBCM2DNOI-2025-12-29/
+  92. https://jp.reuters.com/markets/global-markets/
+  93. https://jp.reuters.com/markets/global-markets/U43H4HV3EBK63F2IZSBCM2DNOI-2025-12-29/
+  94. https://jp.reuters.com/markets/japan/EPH7ZCC3ANKGJJFVXSHGKZKTVU-2025-12-29/
+  95. https://jp.reuters.com/markets/japan/
+  96. https://jp.reuters.com/markets/japan/EPH7ZCC3ANKGJJFVXSHGKZKTVU-2025-12-29/
+  97. https://jp.reuters.com/business/autos/5CINOJCGURJJJBFHZ6KTVQOZQE-2025-12-29/
+  98. https://jp.reuters.com/business/
+  99. https://jp.reuters.com/business/autos/5CINOJCGURJJJBFHZ6KTVQOZQE-2025-12-29/
+ 100. https://jp.reuters.com/markets/commodities/RZVPLXGIWVKJRE6K34XECYWQ7I-2025-12-29/
+ 101. https://jp.reuters.com/markets/commodities/
+ 102. https://jp.reuters.com/markets/commodities/RZVPLXGIWVKJRE6K34XECYWQ7I-2025-12-29/
  103. https://jp.reuters.com/
  104. https://jp.reuters.com/archive/
  105. https://jp.reuters.com/sitemap/

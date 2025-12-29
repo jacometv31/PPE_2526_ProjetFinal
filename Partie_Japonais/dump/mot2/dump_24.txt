@@ -6,14 +6,14 @@
    [4]≫ [us.png] 米株 [5]株探プレミアムに登録！ [6]ログイン
    [7]日経平均 15:30
    [8]チャートアイコン
-   [9]米ドル円 06:59
+   [9]米ドル円 01:07
    [10]チャートアイコン
    [11]ＮＹダウ 終値
    [12]チャートアイコン
    [13]上海総合 終値
    [14]チャートアイコン
-              50,750.39 +342.60     156.57 +0.75 48,710.97 -20.19 3,832.67 +7.86
-                        0.68%              0.48%           -0.05%          0.21%
+              50,526.92 -223.47     156.01 -0.56 48,710.97 -20.19 3,832.67 +7.86
+                        -0.44%             -0.36%          -0.05%          0.21%
      * [15]トップ
      * [16]市場ニュース
      * [17]決算速報
@@ -104,24 +104,24 @@
    　
    足
    [topnews.gif]
-     * [44]【明日の好悪材料】を開示情報でチェック！ (12月26日発表分)
-     * [45]上方修正“先回り”、25年12月期【業績上振れ】候補 41社選出 ＜成長株特集＞
-     * [46]半導体セクター未開の最強株高エリア、沸騰する「化学株」厳選5銘柄 ＜株探トップ特集＞
-     * [47]来週・再来週の相場で注目すべき3つのポイント：日銀金融政策決定会合「主な意見」、米FOMC議事要旨、米雇用統計
-     * [48]個人投資家・有限亭玉介：フィジカルAI、業績期待＆話題株をピックアップ【FISCOソーシャルレポーター】
-     * [49]10万円以下で買える、高利回り＆低PBR 28社【スタンダード】編 ＜割安株特集＞
-     * [50]【高配当利回り株】ベスト50 ＜割安株特集＞　(12月26日現在)
-     * [51]買い局面を迎えた【25日線上抜け】低PER銘柄 16社　＜テクニカル特集＞ 12月26日版
+     * [44]【明日の好悪材料】を開示情報でチェック！ (12月29日発表分)
+     * [45]明日の株式相場に向けて＝「マテリアル系」銘柄にビッグウェーブ
+     * [46]人気復活の鐘は鳴るか、成長エリア健在「メタバース」関連を徹底追跡 ＜株探トップ特集＞
+     * [47]「国土強靱化」が18位にランク、26年に「防災庁」設置でも関心高まる＜注目テーマ＞
+     * [48]トレンド追随【パラボリック陽転】低PBR 29社選出　＜テクニカル特集＞　12月29日版
+     * [49]【↓】日経平均 大引け｜ 3日ぶり反落、主力ハイテク株が売られる (12月29日)
+     * [50]話題株ピックアップ【夕刊】（1）：ＷＮＩウェザ、ノート、住友鉱
+     * [51]レーティング日報【最上位を継続＋目標株価を増額】　(12月29日)
 
    [top-news_mark.gif] [52]【総合ニュース】を見る
 
 人気ニュース【ベスト5】
 
-     * [53]【明日の好悪材料】を開示情報でチェック！ (12月26日発表分)
-     * [54]半導体セクター未開の最強株高エリア、沸騰する「化学株」厳選5銘柄 ＜株探トップ特集＞
-     * [55]上方修正“先回り”、25年12月期【業績上振れ】候補 41社選出 ＜成長株特集＞
-     * [56]個人投資家・有限亭玉介：フィジカルAI、業績期待＆話題株をピックアップ【FISCOソーシャルレポーター】
-     * [57]買い局面を迎えた【25日線上抜け】低PER銘柄 16社　＜テクニカル特集＞ 12月26日版
+     * [53]【明日の好悪材料】を開示情報でチェック！ (12月29日発表分)
+     * [54]明日の株式相場に向けて＝「マテリアル系」銘柄にビッグウェーブ
+     * [55]レーティング日報【最上位を継続＋目標株価を増額】　(12月29日)
+     * [56][PTS]ナイトタイムセッション17時30分時点　上昇77銘柄・下落107銘柄（東証終値比）
+     * [57]話題株ピックアップ【夕刊】（1）：ＷＮＩウェザ、ノート、住友鉱
 
    [top-news_mark.gif] [58]一覧を見る
 
@@ -139,11 +139,11 @@
 
 お薦めコラム・特集
 
-     * [66]上方修正“先回り”、25年12月期【業績上振れ】候補 41社選出 ＜成長株特集＞
-     * [67]半導体セクター未開の最強株高エリア、沸騰する「化学株」厳選5銘柄 ＜株探トップ特集＞
-     * [68]買い局面を迎えた【25日線上抜け】低PER銘柄 16社　＜テクニカル特集＞ 12月26日版
-     * [69]10万円以下で買える、高利回り＆低PBR 28社【スタンダード】編 ＜割安株特集＞
-     * [70]【高配当利回り株】ベスト50 ＜割安株特集＞　(12月26日現在)
+     * [66]人気復活の鐘は鳴るか、成長エリア健在「メタバース」関連を徹底追跡 ＜株探トップ特集＞
+     * [67]明日の株式相場に向けて＝「マテリアル系」銘柄にビッグウェーブ
+     * [68]トレンド追随【パラボリック陽転】低PBR 29社選出　＜テクニカル特集＞　12月29日版
+     * [69]伊藤智洋が読む「日経平均株価・短期シナリオ」　(12月29日記）
+     * [70]上方修正“先回り”、25年12月期【業績上振れ】候補 41社選出 ＜成長株特集＞
 
    [top-news_mark.gif] [71]一覧を見る
      * [72]初心者向け先物解説記事を公開中
@@ -244,20 +244,20 @@ Références
   41. https://kabutan.jp/news/marketnews/?b=n202512260017
   42. https://kabutan.jp/news/marketnews/?b=n202512260041
   43. https://kabutan.jp/news/marketnews/?b=n202512260039
-  44. https://kabutan.jp/news/marketnews/?b=n202512280028
-  45. https://kabutan.jp/news/marketnews/?b=n202512280044
-  46. https://kabutan.jp/news/marketnews/?b=n202512270168
-  47. https://kabutan.jp/news/marketnews/?b=n202512270161
-  48. https://kabutan.jp/news/marketnews/?b=n202512280018
-  49. https://kabutan.jp/news/marketnews/?b=n202512280029
-  50. https://kabutan.jp/news/marketnews/?b=n202512280020
-  51. https://kabutan.jp/news/marketnews/?b=n202512280032
+  44. https://kabutan.jp/news/marketnews/?b=n202512290908
+  45. https://kabutan.jp/news/marketnews/?b=n202512290799
+  46. https://kabutan.jp/news/marketnews/?b=n202512290903
+  47. https://kabutan.jp/news/marketnews/?b=n202512290389
+  48. https://kabutan.jp/news/marketnews/?b=n202512290791
+  49. https://kabutan.jp/news/marketnews/?b=n202512290864
+  50. https://kabutan.jp/news/marketnews/?b=n202512290638
+  51. https://kabutan.jp/news/marketnews/?b=n202512290755
   52. https://kabutan.jp/news/marketnews/
-  53. https://kabutan.jp/news/marketnews/?b=n202512280028
-  54. https://kabutan.jp/news/marketnews/?b=n202512270168
-  55. https://kabutan.jp/news/marketnews/?b=n202512280044
-  56. https://kabutan.jp/news/marketnews/?b=n202512280018
-  57. https://kabutan.jp/news/marketnews/?b=n202512280032
+  53. https://kabutan.jp/news/marketnews/?b=n202512290908
+  54. https://kabutan.jp/news/marketnews/?b=n202512290799
+  55. https://kabutan.jp/news/marketnews/?b=n202512290755
+  56. https://kabutan.jp/news/marketnews/?b=n202512290800
+  57. https://kabutan.jp/news/marketnews/?b=n202512290638
   58. https://kabutan.jp/info/accessranking/2_1
   59. https://selection.kabutan.jp/investor-article/
   60. https://selection.kabutan.jp/会員限定コラム/すご腕投資家/
@@ -266,11 +266,11 @@ Références
   63. https://selection.kabutan.jp/会員限定コラム/buy＆hold-stories/
   64. https://selection.kabutan.jp/会員限定コラム/目指せ億トレ、頑張り投資家さんの稼ぎ技/
   65. https://selection.kabutan.jp/会員限定コラム/
-  66. https://kabutan.jp/news/marketnews/?b=n202512280044
-  67. https://kabutan.jp/news/marketnews/?b=n202512270168
-  68. https://kabutan.jp/news/marketnews/?b=n202512280032
-  69. https://kabutan.jp/news/marketnews/?b=n202512280029
-  70. https://kabutan.jp/news/marketnews/?b=n202512280020
+  66. https://kabutan.jp/news/marketnews/?b=n202512290903
+  67. https://kabutan.jp/news/marketnews/?b=n202512290799
+  68. https://kabutan.jp/news/marketnews/?b=n202512290791
+  69. https://kabutan.jp/news/marketnews/?b=n202512290037
+  70. https://kabutan.jp/news/marketnews/?b=n202512280044
   71. https://kabutan.jp/news/marketnews/?category=-2
   72. https://fu.minkabu.jp/beginner/column/1
   73. https://selection.kabutan.jp/category/kbtntop/

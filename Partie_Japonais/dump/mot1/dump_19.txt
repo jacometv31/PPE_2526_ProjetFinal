@@ -286,25 +286,25 @@ More from my site
    [113]8  [114]9  [115]10 [116]11 [117]12 [118]13 [119]14
    [120]15 [121]16 [122]17 [123]18 [124]19 [125]20 [126]21
    [127]22 [128]23 [129]24 [130]25 [131]26 [132]27 [133]28
-   29
-   30      31
-   [134][footer_logo.png]
-   [135]クリニック紹介
-   [136]関連事業所
-   [137]診療について
-   [138]医療関係者の方へ
-   [139]ブログ
-   [140]採用情報
-   [141]アクセス
-   [142]お問い合わせ
+   [134]29 30
+   31
+   [135][footer_logo.png]
+   [136]クリニック紹介
+   [137]関連事業所
+   [138]診療について
+   [139]医療関係者の方へ
+   [140]ブログ
+   [141]採用情報
+   [142]アクセス
+   [143]お問い合わせ
    〒064-0953
    札幌市中央区宮の森3条1丁目1番38号
-   [143]訪問診療 011-215-8098
-   [144]外来診療 011-611-0001
+   [144]訪問診療 011-215-8098
+   [145]外来診療 011-611-0001
    〒064-0953
    札幌市中央区宮の森3条1丁目1番38号
-   [145]訪問診療 011-215-8098
-   [146]外来診療 011-611-0001
+   [146]訪問診療 011-215-8098
+   [147]外来診療 011-611-0001
    © Imai home care clinic
 
 Références
@@ -443,19 +443,20 @@ Références
  131. https://imai-hcc.com/cms/2025/12/26/
  132. https://imai-hcc.com/cms/2025/12/27/
  133. https://imai-hcc.com/cms/2025/12/28/
- 134. https://imai-hcc.com/index.php
- 135. https://imai-hcc.com/クリニック紹介/
- 136. https://imai-hcc.com/関連事業所/
- 137. https://imai-hcc.com/診療について/
- 138. https://imai-hcc.com/医療関係者の方へ/
- 139. https://imai-hcc.com/cms/
- 140. https://imai-hcc.com/recruit/
- 141. https://imai-hcc.com/アクセス/
- 142. https://imai-hcc.com/11813-2/
- 143. https://imai-hcc.com/在宅診療/
- 144. https://imai-hcc.com/外来診療/
- 145. tel:011-215-8098
- 146. tel:011-611-0001
+ 134. https://imai-hcc.com/cms/2025/12/29/
+ 135. https://imai-hcc.com/index.php
+ 136. https://imai-hcc.com/クリニック紹介/
+ 137. https://imai-hcc.com/関連事業所/
+ 138. https://imai-hcc.com/診療について/
+ 139. https://imai-hcc.com/医療関係者の方へ/
+ 140. https://imai-hcc.com/cms/
+ 141. https://imai-hcc.com/recruit/
+ 142. https://imai-hcc.com/アクセス/
+ 143. https://imai-hcc.com/11813-2/
+ 144. https://imai-hcc.com/在宅診療/
+ 145. https://imai-hcc.com/外来診療/
+ 146. tel:011-215-8098
+ 147. tel:011-611-0001
 
    Liens cachés :
- 148. https://imai-hcc.com/wordpress/wp-content/uploads/2025/12/aaa-53.jpg
+ 149. https://imai-hcc.com/wordpress/wp-content/uploads/2025/12/aaa-53.jpg
