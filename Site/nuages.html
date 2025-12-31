@@ -1,76 +1,195 @@
 <!DOCTYPE html>
-<html lang="">
-  <head>
+<html lang="fr">
+<head>
     <meta charset="utf-8">
-    <title>Nuages de mots</title>
-    <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"
->
-  </head>
-  <body>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Nuages de mots - Projet ESPOIR</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <style>
+        :root {
+            --accent-blue: #1e3a8a;
+            --soft-blue: #3b82f6;
+            --algeria-green: #006233;
+        }
+
+        body {
+            /* Arrière-plan avec une image de vrais nuages */
+            background: url('https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?q=80&w=2000&auto=format&fit=crop') no-repeat center center fixed;
+            background-size: cover;
+            min-height: 100vh;
+            font-family: 'Segoe UI', Roboto, sans-serif;
+        }
+
+        /* --- EFFET HALO DERRIÈRE ESPOIR --- */
+        .hero {
+            background: rgba(255, 255, 255, 0.1) !important; /* Léger voile pour la lisibilité */
+            backdrop-filter: blur(3px);
+            position: relative;
+            overflow: hidden;
+            padding: 4rem 0;
+        }
+
+        .title-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .title-container::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 150%;
+            height: 150%;
+            background: radial-gradient(circle, rgba(255,255,255,0.9) 0%, rgba(59, 130, 246, 0.4) 40%, transparent 70%);
+            filter: blur(25px);
+            z-index: 1;
+            animation: glowPulse 5s infinite ease-in-out;
+        }
+
+        @keyframes glowPulse {
+            0%, 100% { opacity: 0.5; transform: translate(-50%, -50%) scale(1); }
+            50% { opacity: 1; transform: translate(-50%, -50%) scale(1.1); }
+        }
+
+        .hero .title {
+            font-size: 6rem !important;
+            letter-spacing: 15px;
+            text-transform: uppercase;
+            font-weight: 900;
+            color: var(--accent-blue);
+            position: relative;
+            z-index: 2;
+            animation: titleFloat 4s ease-in-out infinite;
+        }
+
+        @keyframes titleFloat {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        /* Navbar Glassmorphism */
+        .navbar.is-link {
+            background-color: rgba(30, 58, 138, 0.85) !important;
+            backdrop-filter: blur(10px);
+        }
+
+        /* Boîtes pour les nuages de mots */
+        .box {
+            background: rgba(255, 255, 255, 0.75) !important;
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .box:hover {
+            transform: scale(1.02);
+        }
+
+        .cloud-img {
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            background: white;
+            padding: 10px;
+            margin-top: 1rem;
+            max-height: 300px;
+            width: auto;
+        }
+
+        .lang-label {
+            font-weight: 800;
+            color: var(--accent-blue);
+            margin-bottom: 10px;
+            display: block;
+            font-size: 1.5rem;
+        }
+
+        footer {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 3rem 0;
+            backdrop-filter: blur(5px);
+        }
+    </style>
+</head>
+<body>
+
     <section class="hero is-link">
-    <div class="hero-body">
-      <p class="title is-1">ESPOIR</p>
-      <p class="subtitle">Projet final PPE</p>
-    </div>
-  </section>
+      <div class="hero-body has-text-centered">
+        <div class="title-container">
+            <p class="title">ESPOIR</p>
+        </div>
+        <p class="subtitle is-4 mt-4" style="color: var(--accent-blue) !important; font-weight: 600;">
+            Visualisation par Nuages de Mots
+        </p>
+      </div>
+    </section>
 
-
-
-  <nav class="navbar is-link" role="navigation" aria-label="main navigation">
-        <div class="mx-auto">
-            <div id="navbarBasicExample" class="navbar-menu">
-                <div class="navbar-start">
-                    <a class="navbar-item" href="../index.html">
-                        <span>Accueil</span>
-                    </a>
-                    <a class="navbar-item" href="equipe.html">
-                        <span>Équipe</span>
-                    </a>
-                    <a class="navbar-item" href="methode.html">
-                        <span>Méthode</span>
-                    </a>
-
-                <div class="navbar-item has-dropdown is-hoverable">
-                    <a class="navbar-link">
-                        <span>Tableaux</span>
-                    </a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item">
-                            Français
-                        </a>
-                        <a class="navbar-item">
-                            Arabe
-                        </a>
-                        <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">
-                            Japonais
-                        </a>
-                    </div>
-                </div>
-                    <a class="navbar-item" href="analyse.html">
-                        <span>Analyse</span>
-                    </a>
-                <div class="navbar-end">
-                    <a class="navbar-item">
-                        <span>Nuages de mots</span>
-                    </a>
-                </div>
-            </div>
-            </div>
-        </nav>
-        <section class="section">
-          <div class="columns">
-            <div class="column"></div>
-            <div class="column is-two-thirds">
-              <h1 class="title is-1">Les différents nuages de mots</h1>
-              <br>
-              <div class="box">
-                <h2 class="subtitle">Ce site a été créé dans le cadre du projet de programmation encadré du premier semestre de Master 1 Traitement Automatique des Langues et représente la synthèse de notre travail. Il vise à présenter le résultat de notre travail de collecte à partir d'un corpus trilingue tiré de pages web et étudier le comportement d'un mot de notre choix dans ces trois corpus. Les trois langues étudiées dans notre corpus sont le français, l'arabe et le japonais. Le mot que nous avons choisi est le mot <em>espoir</em>.</h2>
+    <nav class="navbar is-link" role="navigation" aria-label="main navigation">
+      <div class="container">
+        <div class="navbar-menu is-active" style="background: transparent; box-shadow: none;">
+          <div class="navbar-start">
+            <a class="navbar-item" href="../index.html">Accueil</a>
+            <a class="navbar-item" href="equipe.html">Qui sommes-nous</a>
+            <a class="navbar-item" href="methode.html">Méthode</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link">Tableaux</a>
+              <div class="navbar-dropdown is-boxed">
+                <a class="navbar-item">Français</a>
+                <a class="navbar-item">Arabe</a>
+                <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Japonais</a>
               </div>
             </div>
-            <div class="column"></div>
+            <a class="navbar-item" href="analyse.html">Analyse</a>
+            <a class="navbar-item is-active">Nuages de mots</a>
+            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">
+          <span>Conclusion</span>
+        </a>
           </div>
-        </section>
-  </body>
+        </div>
+      </div>
+    </nav>
+
+    <section class="section">
+      <div class="container">
+        <h1 class="title is-2 has-text-centered mb-6" style="color: var(--accent-blue); text-shadow: 1px 1px 2px white;">
+            Les différents nuages de mots
+        </h1>
+
+        <div class="columns is-multiline">
+          <div class="column is-4">
+            <div class="box">
+              <span class="lang-label">🇫🇷 Français</span>
+              <p>Mots les plus fréquents associés à "Espoir".</p>
+              <img src="chemin_vers_ton_image_fr.png" alt="Nuage Français" class="cloud-img" onerror="this.src='https://via.placeholder.com/300x200?text=Nuage+Français'">
+            </div>
+          </div>
+
+          <div class="column is-4">
+            <div class="box" style="border-bottom: 5px solid var(--algeria-green);">
+              <span class="lang-label">🇩🇿 Arabe</span>
+              <p>Mots les plus fréquents associés à "أمل".</p>
+              <img src="chemin_vers_ton_image_ar.png" alt="Nuage Arabe" class="cloud-img" onerror="this.src='https://via.placeholder.com/300x200?text=Nuage+Arabe'">
+            </div>
+          </div>
+
+          <div class="column is-4">
+            <div class="box" style="border-bottom: 5px solid #dc2626;">
+              <span class="lang-label">🇯🇵 Japonais</span>
+              <p>Mots associés à "希望" et "期待".</p>
+              <img src="chemin_vers_ton_image_jp.png" alt="Nuage Japonais" class="cloud-img" onerror="this.src='https://via.placeholder.com/300x200?text=Nuage+Japonais'">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer has-text-centered">
+        <p style="color: var(--accent-blue);"><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+    </footer>
+
+</body>
 </html>

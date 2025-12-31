@@ -1,83 +1,252 @@
 <!DOCTYPE html>
-<html lang="">
-  <head>
+<html lang="fr">
+<head>
     <meta charset="utf-8">
-    <title>Équipe</title>
-    <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"
->
-  </head>
-  <body>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Qui sommes-nous - Projet ESPOIR</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <style>
+        :root {
+            --bg-gradient: linear-gradient(135deg, #e0f2fe 0%, #dbeafe 50%, #f0f9ff 100%);
+            --accent-blue: #1e3a8a;
+            --soft-blue: #3b82f6;
+        }
+
+        body {
+            background: var(--bg-gradient);
+            min-height: 100vh;
+            background-attachment: fixed;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        /* Hero Section avec Dessin Abstrait 2 (Équipe) */
+        .hero {
+            background: transparent !important;
+            position: relative;
+            overflow: hidden;
+            padding: 3rem 0;
+        }
+
+        /* --- EFFET LUMINEUX ET FLOTTANT SUR LE TITRE --- */
+        .hero .title {
+            font-size: 5rem !important;
+            letter-spacing: 10px;
+            text-transform: uppercase;
+            font-weight: 900;
+            color: var(--accent-blue);
+            position: relative;
+            display: inline-block;
+            /* Lueur blanche derrière les lettres */
+            text-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 0 0 40px rgba(59, 130, 246, 0.2);
+            /* Animation de respiration */
+            animation: titleFloatTeam 4s ease-in-out infinite;
+            z-index: 2;
+        }
+
+        @keyframes titleFloatTeam {
+            0%, 100% { transform: translateY(0); letter-spacing: 10px; }
+            50% { transform: translateY(-8px); letter-spacing: 13px; }
+        }
+        /* ----------------------------------------------- */
+
+        /* Formes croisées - Symbole de collaboration */
+        .hero::before, .hero::after {
+            content: "";
+            position: absolute;
+            width: 500px;
+            height: 500px;
+            border-radius: 50%;
+            filter: blur(80px);
+            z-index: 0;
+            animation: float-team 15s infinite alternate ease-in-out;
+        }
+
+        .hero::before {
+            background: rgba(59, 130, 246, 0.15);
+            top: -100px;
+            left: 10%;
+        }
+
+        .hero::after {
+            background: rgba(6, 182, 212, 0.15);
+            bottom: -100px;
+            right: 10%;
+            animation-delay: -5s;
+        }
+
+        @keyframes float-team {
+            0% { transform: translate(0, 0) scale(1); }
+            100% { transform: translate(50px, 30px) scale(1.1); }
+        }
+
+        .hero-body { position: relative; z-index: 1; }
+
+        .navbar.is-link {
+            background-color: rgba(30, 58, 138, 0.9) !important;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        .box {
+            background: rgba(255, 255, 255, 0.6) !important;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            border-radius: 24px;
+            transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+            border-left: 8px solid var(--soft-blue);
+            margin-bottom: 2.5rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.03);
+        }
+        
+        .box:hover {
+            transform: translateY(-8px);
+            background: rgba(255, 255, 255, 0.8) !important;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.08);
+        }
+
+        .profil-picture {
+            border-radius: 20px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+            object-fit: cover;
+            border: 3px solid #fff;
+        }
+
+        .member-name {
+            color: var(--accent-blue) !important;
+            font-size: 2rem;
+            font-weight: 800;
+        }
+
+        .devise {
+            background: rgba(255, 255, 255, 0.5);
+            padding: 1.2rem;
+            border-radius: 15px;
+            border-left: 4px solid #06b6d4;
+            font-style: italic;
+            margin-top: 1.5rem;
+        }
+
+        .arabe-text {
+            color: #06b6d4;
+            font-weight: bold;
+            font-style: normal;
+        }
+    </style>
+</head>
+<body>
+
     <section class="hero is-link">
-    <div class="hero-body">
-      <p class="title is-1">ESPOIR</p>
-      <p class="subtitle">Projet final PPE</p>
-    </div>
-  </section>
+      <div class="hero-body has-text-centered">
+        <p class="title">ESPOIR</p>
+        <p class="subtitle is-4" style="color: var(--accent-blue) !important; opacity: 0.8;">
+          L'équipe derrière le projet
+        </p>
+      </div>
+    </section>
 
-
-
-  <nav class="navbar is-link" role="navigation" aria-label="main navigation">
-        <div class="mx-auto">
-            <div id="navbarBasicExample" class="navbar-menu">
-                <div class="navbar-start">
-                    <a class="navbar-item" href="../index.html">
-                        <span>Accueil</span>
-                    </a>
-                    <a class="navbar-item">
-                        <span>Équipe</span>
-                    </a>
-                    <a class="navbar-item" href="methode.html">
-                        <span>Méthode</span>
-                    </a>
-
-                <div class="navbar-item has-dropdown is-hoverable">
-                    <a class="navbar-link">
-                        <span>Tableaux</span>
-                    </a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item">
-                            Français
-                        </a>
-                        <a class="navbar-item">
-                            Arabe
-                        </a>
-                        <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">
-                            Japonais
-                        </a>
-                    </div>
-                </div>
-                    <a class="navbar-item" href="analyse.html">
-                        <span>Analyse</span>
-                    </a>
-                <div class="navbar-end">
-                    <a class="navbar-item" href="nuages.html">
-                        <span>Nuages de mots</span>
-                    </a>
-                </div>
-            </div>
-            </div>
-        </nav>
-        <section class="section">
-          <div class="columns">
-            <div class="column"></div>
-            <div class="column is-two-thirds">
-              <h1 class="title is-1">Présentation des membres du groupe</h1>
-              <br>
-              <div class="box">
-                <h2 class="subtitle">Seifeddine Mebarki</h2>
-              </div>
-              <div class="box">
-                <h2 class="subtitle">Kaouther Abderrahmane</h2>
-              </div>
-              <div class="box">
-               <div class="columns is-vcentered"> <img src="images/hirako" class="profil-picture" width="200" /> <center> <h2 class="subtitle px-5">Vianney Jacomet</h2>
-               <p class="px-5">Après un DUT Métiers du Multimédia et de l'Internet et un licence LLCER Japonais, je me suis retrouver à ne rien faire pendant un an. J'ai donc décidé de partir un peu à l'étranger et de m'inscrire sur la plateforme d'inscription des Masters. Et par chance j'ai été accepté en Master Traitement Automatique des Langues.</p><center></div>
+    <nav class="navbar is-link" role="navigation" aria-label="main navigation">
+      <div class="container">
+        <div class="navbar-brand">
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMain">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div id="navbarMain" class="navbar-menu">
+          <div class="navbar-start">
+            <a class="navbar-item" href="../index.html">Accueil</a>
+            <a class="navbar-item is-active">Qui sommes-nous</a>
+            <a class="navbar-item" href="methode.html">Méthode</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link">Tableaux</a>
+              <div class="navbar-dropdown is-boxed">
+                <a class="navbar-item">Français</a>
+                <a class="navbar-item">Arabe</a>
+                <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Japonais</a>
               </div>
             </div>
-            <div class="column"></div>
+            <a class="navbar-item" href="analyse.html">Analyse</a>
+            <a class="navbar-item" href="nuages.html">Nuages de mots</a>
+            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">
+          <span>Conclusion</span>
+        </a>
           </div>
-        </section>
-  </body>
+        </div>
+      </div>
+    </nav>
+
+    <section class="section">
+      <div class="container">
+        <div class="columns is-centered">
+          <div class="column is-9">
+            
+            <div class="box p-5">
+              <h2 class="member-name">Seifeddine Mebarki</h2>
+              <p class="is-size-5 has-text-grey-dark">Membre de l'équipe</p>
+            </div>
+
+            <div class="box p-6">
+              <div class="columns is-vcentered">
+                <div class="column is-narrow">
+                  <img src="images/kaoutherab.jpg" class="profil-picture" width="220" alt="Photo de Kaouther" />
+                </div>
+                <div class="column">
+                  <h2 class="member-name">ABDERRAHMANE Kaouther</h2>
+                  <p class="is-size-5"><strong>Étudiante en M1 TAL - Inalco</strong></p>
+                  <hr style="background-color: rgba(30, 58, 138, 0.1); height: 1px; margin: 1rem 0;">
+                  <div class="content is-size-5">
+                    <p>Diplômée d’une Licence en SDL et d’un Master de traduction et interprétation en Algérie, j’ai poursuivi mon parcours académique en France par une Licence en Sciences du Langage, avant d’intégrer le Master Traitement automatique des langues à l’Inalco.</p>
+                    <p>L’articulation entre le langage et le numérique représente pour moi un véritable défi intellectuel, que j’ai choisi de relever afin de combiner mes compétences en linguistique avec des notions de programmation. Polyglotte (arabe, français, anglais, kabyle et espagnol).</p>
+                  </div>
+                  <div class="devise">
+                    <strong>Ma devise :</strong> « Aimer sans distinguer, respecter sans juger » 
+                    <span class="arabe-text">(احب دون تمييز واحترم دون حكم)</span>.
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="box p-6">
+              <div class="columns is-vcentered">
+                <div class="column is-narrow">
+                  <img src="images/hirako" class="profil-picture" width="220" alt="Photo de Vianney" />
+                </div>
+                <div class="column">
+                  <h2 class="member-name">Vianney Jacomet</h2>
+                  <p class="is-size-5"><strong>Étudiant en M1 TAL</strong></p>
+                  <hr style="background-color: rgba(30, 58, 138, 0.1); height: 1px; margin: 1rem 0;">
+                  <div class="content is-size-5">
+                    <p>Après un DUT Métiers du Multimédia et de l'Internet et une licence LLCER Japonais, j'ai décidé de partir à l'étranger avant de m'inscrire en Master. Par chance, j'ai été accepté en Master Traitement Automatique des Langues à l'Inalco, alliant ainsi mon intérêt pour les langues et la technologie.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer" style="background: transparent;">
+        <div class="content has-text-centered">
+            <p style="color: var(--accent-blue); opacity: 0.7;"><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+            $navbarBurgers.forEach( el => {
+                el.addEventListener('click', () => {
+                    const target = el.dataset.target;
+                    const $target = document.getElementById(target);
+                    el.classList.toggle('is-active');
+                    $target.classList.toggle('is-active');
+                });
+            });
+        });
+    </script>
+</body>
 </html>

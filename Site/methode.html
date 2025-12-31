@@ -1,76 +1,173 @@
 <!DOCTYPE html>
-<html lang="">
-  <head>
+<html lang="fr">
+<head>
     <meta charset="utf-8">
-    <title>Méthode</title>
-    <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"
->
-  </head>
-  <body>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Méthode - Projet ESPOIR</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <style>
+        :root {
+            --bg-gradient: linear-gradient(135deg, #e0f2fe 0%, #dbeafe 50%, #f0f9ff 100%);
+            --accent-blue: #1e3a8a;
+            --soft-blue: #3b82f6;
+        }
+
+        body {
+            background: var(--bg-gradient);
+            min-height: 100vh;
+            background-attachment: fixed;
+            font-family: 'Segoe UI', Roboto, sans-serif;
+        }
+
+        /* Hero Section avec Dessin Abstrait 3 (Structure/Grille) */
+        .hero {
+            background: transparent !important;
+            position: relative;
+            overflow: hidden;
+            padding: 3rem 0;
+        }
+
+        /* Le motif de grille pour le côté scientifique/méthode */
+        .hero::before {
+            content: "";
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-image: radial-gradient(var(--soft-blue) 1px, transparent 1px);
+            background-size: 30px 30px;
+            opacity: 0.15;
+            z-index: 0;
+        }
+
+        .hero .title {
+            font-size: 5rem !important;
+            letter-spacing: 12px;
+            text-transform: uppercase;
+            font-weight: 900;
+            color: var(--accent-blue);
+            position: relative;
+            display: inline-block;
+            text-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 0 0 40px rgba(59, 130, 246, 0.2);
+            animation: titleFloat 4s ease-in-out infinite;
+            z-index: 2;
+        }
+
+        @keyframes titleFloat {
+            0%, 100% { transform: translateY(0); letter-spacing: 12px; }
+            50% { transform: translateY(-8px); letter-spacing: 15px; }
+        }
+
+        .hero-body { position: relative; z-index: 1; }
+
+        /* Navbar Glassmorphism */
+        .navbar.is-link {
+            background-color: rgba(30, 58, 138, 0.9) !important;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        /* Conteneur de contenu */
+        .box {
+            background: rgba(255, 255, 255, 0.6) !important;
+            backdrop-filter: blur(12px);
+            border-radius: 24px;
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            border-left: 8px solid var(--soft-blue);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.03);
+            transition: transform 0.3s ease;
+        }
+
+        .section-title {
+            color: var(--accent-blue);
+            font-weight: 800;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        footer {
+            padding: 2rem 0;
+            background: transparent;
+            color: var(--accent-blue);
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+
     <section class="hero is-link">
-    <div class="hero-body">
-      <p class="title is-1">ESPOIR</p>
-      <p class="subtitle">Projet final PPE</p>
-    </div>
-  </section>
+        <div class="hero-body has-text-centered">
+            <p class="title">ESPOIR</p>
+            <p class="subtitle is-4" style="color: var(--accent-blue) !important; opacity: 0.8;">
+                Méthodologie du projet
+            </p>
+        </div>
+    </section>
 
-
-
-  <nav class="navbar is-link" role="navigation" aria-label="main navigation">
-        <div class="mx-auto">
-            <div id="navbarBasicExample" class="navbar-menu">
+    <nav class="navbar is-link" role="navigation" aria-label="main navigation">
+        <div class="container">
+            <div class="navbar-brand">
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMain">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+            <div id="navbarMain" class="navbar-menu">
                 <div class="navbar-start">
-                    <a class="navbar-item" href="../index.html">
-                        <span>Accueil</span>
-                    </a>
-                    <a class="navbar-item" href="equipe.html">
-                        <span>Équipe</span>
-                    </a>
-                    <a class="navbar-item">
-                        <span>Méthode</span>
-                    </a>
+                    <a class="navbar-item" href="../index.html">Accueil</a>
+                    <a class="navbar-item" href="equipe.html">Qui sommes nous</a>
+                    <a class="navbar-item is-active">Méthode</a>
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link">Tableaux</a>
+                        <div class="navbar-dropdown is-boxed">
+                            <a class="navbar-item">Français</a>
+                            <a class="navbar-item">Arabe</a>
+                            <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Japonais</a>
+                        </div>
+                    </div>
+                    <a class="navbar-item" href="analyse.html">Analyse</a>
+                    <a class="navbar-item" href="nuages.html">Nuages de mots</a>
+                    <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">
+          <span>Conclusion</span>
+        </a>
+                </div>
+            </div>
+        </div>
+    </nav>
 
-                <div class="navbar-item has-dropdown is-hoverable">
-                    <a class="navbar-link">
-                        <span>Tableaux</span>
-                    </a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item">
-                            Français
-                        </a>
-                        <a class="navbar-item">
-                            Arabe
-                        </a>
-                        <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">
-                            Japonais
-                        </a>
+    <section class="section">
+        <div class="container">
+            <div class="columns is-centered">
+                <div class="column is-two-thirds">
+                    <h1 class="title is-2 section-title">Étapes de création des tableaux</h1>
+                    
+                    <div class="box p-6">
+                        <div class="content is-size-5">
+                            <p class="has-text-centered has-text-grey-dark">
+                                <em>Contenu de la méthodologie à insérer ici (Collecte du corpus, scripts Bash/Python, outils d'analyse...).</em>
+                            </p>
+                        </div>
                     </div>
                 </div>
-                    <a class="navbar-item" href="analyse.html">
-                        <span>Analyse</span>
-                    </a>
-                <div class="navbar-end">
-                    <a class="navbar-item" href="nuages.html">
-                        <span>Nuages de mots</span>
-                    </a>
-                </div>
             </div>
-            </div>
-        </nav>
-        <section class="section">
-          <div class="columns">
-            <div class="column"></div>
-            <div class="column is-two-thirds">
-              <h1 class="title is-1">Présentation des étapes de créations des tableaux</h1>
-              <br>
-              <div class="box">
-                <h2 class="subtitle">Ce site a été créé dans le cadre du projet de programmation encadré du premier semestre de Master 1 Traitement Automatique des Langues et représente la synthèse de notre travail. Il vise à présenter le résultat de notre travail de collecte à partir d'un corpus trilingue tiré de pages web et étudier le comportement d'un mot de notre choix dans ces trois corpus. Les trois langues étudiées dans notre corpus sont le français, l'arabe et le japonais. Le mot que nous avons choisi est le mot <em>espoir</em>.</h2>
-              </div>
-            </div>
-            <div class="column"></div>
-          </div>
-        </section>
-  </body>
+        </div>
+    </section>
+
+    <footer class="has-text-centered">
+        <p><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+            $navbarBurgers.forEach( el => {
+                el.addEventListener('click', () => {
+                    const target = el.dataset.target;
+                    const $target = document.getElementById(target);
+                    el.classList.toggle('is-active');
+                    $target.classList.toggle('is-active');
+                });
+            });
+        });
+    </script>
+</body>
 </html>

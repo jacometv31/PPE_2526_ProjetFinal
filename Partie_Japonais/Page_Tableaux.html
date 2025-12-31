@@ -1,90 +1,185 @@
 <!DOCTYPE html>
-<html lang="">
-  <head>
+<html lang="fr">
+<head>
     <meta charset="utf-8">
-    <title>Tableaux Japonais</title>
-    <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"
-    >
-  </head>
-  <body>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tableaux de Données - Projet ESPOIR</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <style>
+        :root {
+            --bg-gradient: linear-gradient(135deg, #e0f2fe 0%, #dbeafe 50%, #f0f9ff 100%);
+            --accent-blue: #1e3a8a;
+            --soft-blue: #3b82f6;
+        }
 
-     <section class="hero is-link">
-      <div class="hero-body">
-      <p class="title is-1">ESPOIR</p>
-      <p class="subtitle">Projet final PPE</p>
+        body {
+            background: var(--bg-gradient);
+            min-height: 100vh;
+            background-attachment: fixed;
+            font-family: 'Segoe UI', Roboto, sans-serif;
+        }
+
+        /* --- EFFET BEAU DERRIERE ESPOIR --- */
+        .hero {
+            background: transparent !important;
+            position: relative;
+            overflow: hidden;
+            padding: 4rem 0;
+        }
+
+        .title-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .title-container::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 150%;
+            height: 150%;
+            background: radial-gradient(circle, rgba(255,255,255,0.9) 0%, rgba(59, 130, 246, 0.4) 40%, transparent 70%);
+            filter: blur(25px);
+            z-index: 1;
+            animation: glowPulse 5s infinite ease-in-out;
+        }
+
+        @keyframes glowPulse {
+            0%, 100% { opacity: 0.5; transform: translate(-50%, -50%) scale(1); }
+            50% { opacity: 1; transform: translate(-50%, -50%) scale(1.15); }
+        }
+
+        .hero .title {
+            font-size: 6rem !important;
+            letter-spacing: 15px;
+            text-transform: uppercase;
+            font-weight: 900;
+            color: var(--accent-blue);
+            position: relative;
+            z-index: 2;
+            animation: titleFloat 4s ease-in-out infinite;
+        }
+
+        @keyframes titleFloat {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        /* Navbar */
+        .navbar.is-link {
+            background-color: rgba(30, 58, 138, 0.9) !important;
+            backdrop-filter: blur(10px);
+        }
+
+        /* Boîtes et Cartes */
+        .box {
+            background: rgba(255, 255, 255, 0.6) !important;
+            backdrop-filter: blur(12px);
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            height: 100%;
+        }
+
+        .lang-card {
+            transition: all 0.3s ease;
+            border-top: 5px solid var(--soft-blue);
+        }
+
+        .lang-card:hover {
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.9) !important;
+        }
+
+        .jp-link {
+            color: #dc2626;
+            font-weight: bold;
+            text-decoration: underline;
+        }
+
+        footer { padding: 4rem 0; }
+    </style>
+</head>
+<body>
+
+    <section class="hero is-link">
+      <div class="hero-body has-text-centered">
+        <div class="title-container">
+            <p class="title">ESPOIR</p>
+        </div>
+        <p class="subtitle is-4 mt-4" style="color: var(--accent-blue) !important; opacity: 0.8; font-weight: 600;">
+            Corpus Trilingue : Français • Arabe • Japonais
+        </p>
       </div>
     </section>
 
-     <nav class="navbar is-link" role="navigation" aria-label="main navigation">
-        <div class="mx-auto">
-            <div id="navbarBasicExample" class="navbar-menu">
-                <div class="navbar-start">
-                    <a class="navbar-item" href="../index.html">
-                        <span>Accueil</span>
-                    </a>
-                    <a class="navbar-item" href="../Site/equipe.html">
-                        <span>Équipe</span>
-                    </a>
-                    <a class="navbar-item" href="../Site/methode.html">
-                        <span>Méthode</span>
-                    </a>
-
-                <div class="navbar-item has-dropdown is-hoverable">
-                    <a class="navbar-link">
-                        <span>Tableaux</span>
-                    </a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item">
-                            Français
-                        </a>
-                        <a class="navbar-item">
-                            Arabe
-                        </a>
-                        <a class="navbar-item">
-                            Japonais
-                        </a>
-                    </div>
-                </div>
-                    <a class="navbar-item" href="../Site/analyse.html">
-                            <span>Analyse</span>
-                        </a>
-                <div class="navbar-end">
-                    <a class="navbar-item" href="../Site/nuages.html">
-                        <span>Nuages de mots</span>
-                    </a>
-                </div>
+    <nav class="navbar is-link" role="navigation" aria-label="main navigation">
+      <div class="container">
+        <div class="navbar-menu is-active" style="background: transparent; box-shadow: none;">
+          <div class="navbar-start">
+            <a class="navbar-item" href="../index.html">Accueil</a>
+            <a class="navbar-item" href="../Site/equipe.html">Qui sommes-nous</a>
+            <a class="navbar-item" href="../Site/methode.html">Méthode</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link">Tableaux</a>
+              <div class="navbar-dropdown is-boxed">
+                <a class="navbar-item">Français</a>
+                <a class="navbar-item">Arabe</a>
+                <a class="navbar-item">Japonais</a>
+              </div>
             </div>
-            </div>
-        </nav>
-
-  <section class="section">
-  <h1 class="title is-1 has-text-centered">Les tableaux pour le japonais</h1>
-
-
-  <div class="columns">
-    <div class="column"></div>
-    <div class="column is-two-thirds">
-      <div class="box">
-        <h2 class="subtitle">Pour la langue japonaise, le mot espoir peut se traduire par deux mots différents: 希望(kibō) qui se rapproche plus du mot désir et 期待(kitai) qui se rapproche plus du mot attente. J'ai donc décidé de séparer les urls dans deux tableaux différents, un par mot.</h2>
+            <a class="navbar-item" href="../Site/analyse.html">Analyse</a>
+            <a class="navbar-item" href="../Site/nuages.html">Nuages de mots</a>
+            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">
+          <span>Conclusion</span>
+        </a>
+          </div>
+        </div>
       </div>
-    </div>
-    <div class="column"></div>
-  </div>
-  <div class="columns">
-    <div class="column"></div>
-    <div class="column has-text-centered"><div class="box"><a href="tableaux/tableau-jp1.html">Tableau pour 希望</a></div></div>
-    <div class="column has-text-centered"><div class="box"><a href="tableaux/tableau-jp2.html">Tableau pour 期待</a></div></div>
-    <div class="column"></div>
-  </div>
-  </section>
-  </body>
-  <footer class="footer">
-  <div class="content has-text-centered">
-    <p>
-      <strong>Ce site</strong> a été réalisé par Vianney Jacomet à l'aide du framework <a href="https://bulma.io/">BULMA CSS</a>.
-    </p>
-  </div>
-</footer>
+    </nav>
+
+    <section class="section">
+      <div class="container">
+        <h1 class="title is-2 has-text-centered mb-6" style="color: var(--accent-blue);">Exploration des Tableaux</h1>
+
+        <div class="columns is-centered">
+          <div class="column is-4">
+            <div class="box lang-card">
+              <h3 class="title is-4">Français</h3>
+              <p>Tableaux du corpus francophone.</p>
+              <br>
+              <a href="#" class="button is-small is-link is-outlined">Accéder au tableau</a>
+            </div>
+          </div>
+
+          <div class="column is-4">
+            <div class="box lang-card" style="border-top-color: #059669;">
+              <h3 class="title is-4">Arabe (أمل)</h3>
+              <p>Tableaux du corpus arabe.</p>
+              <br>
+              <a href="#" class="button is-small is-link is-outlined">Accéder au tableau</a>
+            </div>
+          </div>
+
+          <div class="column is-4">
+            <div class="box lang-card" style="border-top-color: #dc2626;">
+              <h3 class="title is-4">Japonais (希望 / 期待)</h3>
+              <p class="is-size-7 mb-3">Nuances entre le désir (Kibō) et l'attente (Kitai).</p>
+              <div class="buttons">
+                <a href="tableaux/tableau-jp1.html" class="button is-small is-danger is-outlined">Tableau 希望</a>
+                <a href="tableaux/tableau-jp2.html" class="button is-small is-danger is-outlined">Tableau 期待</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <footer class="footer has-text-centered">
+        <p style="color: var(--accent-blue); opacity: 0.7;"><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+    </footer>
+
+</body>
 </html>

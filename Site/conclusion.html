@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Conclusion - Projet ESPOIR</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <style>
+        :root {
+            --accent-blue: #1e3a8a;
+            --soft-blue: #3b82f6;
+            --algeria-green: #006233;
+            --japan-red: #bc002d;
+        }
+
+        body {
+            /* Image d'oiseaux (mouettes) dans le ciel bleu sans éléments parasites */
+            background: url('https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=2000&auto=format&fit=crop') no-repeat center center fixed;
+            background-size: cover;
+            min-height: 100vh;
+            font-family: 'Segoe UI', Roboto, sans-serif;
+        }
+
+        /* Voile pour la lisibilité */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.15);
+            z-index: -1;
+        }
+
+        .hero {
+            background: rgba(255, 255, 255, 0.2) !important;
+            backdrop-filter: blur(5px);
+            padding: 4rem 0;
+        }
+
+        .title-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .title-container::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 150%;
+            height: 150%;
+            background: radial-gradient(circle, rgba(255,255,255,0.9) 0%, rgba(59, 130, 246, 0.4) 40%, transparent 70%);
+            filter: blur(25px);
+            z-index: 1;
+        }
+
+        .hero .title {
+            font-size: 6rem !important;
+            letter-spacing: 15px;
+            text-transform: uppercase;
+            font-weight: 900;
+            color: var(--accent-blue);
+            position: relative;
+            z-index: 2;
+        }
+
+        .navbar.is-link {
+            background-color: rgba(30, 58, 138, 0.85) !important;
+            backdrop-filter: blur(10px);
+        }
+
+        .conclusion-box {
+            background: rgba(255, 255, 255, 0.75) !important;
+            backdrop-filter: blur(12px);
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            padding: 2.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .lang-title {
+            font-weight: 800;
+            color: var(--accent-blue);
+            border-bottom: 3px solid var(--soft-blue);
+            display: inline-block;
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+        }
+
+        footer {
+            background: rgba(255, 255, 255, 0.3);
+            padding: 2rem 0;
+            backdrop-filter: blur(5px);
+        }
+    </style>
+</head>
+<body>
+
+    <section class="hero is-link">
+      <div class="hero-body has-text-centered">
+        <div class="title-container">
+            <p class="title">ESPOIR</p>
+        </div>
+        <p class="subtitle is-4 mt-4" style="color: var(--accent-blue) !important; font-weight: 600;">
+            Conclusion finale du projet
+        </p>
+      </div>
+    </section>
+
+    <nav class="navbar is-link" role="navigation" aria-label="main navigation">
+      <div class="container">
+        <div class="navbar-menu is-active" style="background: transparent; box-shadow: none;">
+          <div class="navbar-start">
+            <a class="navbar-item" href="../index.html">Accueil</a>
+            <a class="navbar-item" href="equipe.html">Qui sommes-nous</a>
+            <a class="navbar-item" href="methode.html">Méthode</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link">Tableaux</a>
+              <div class="navbar-dropdown is-boxed">
+                <a class="navbar-item">Français</a>
+                <a class="navbar-item">Arabe</a>
+                <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Japonais</a>
+              </div>
+            </div>
+            <a class="navbar-item" href="analyse.html">Analyse</a>
+            <a class="navbar-item" href="nuages.html">Nuages de mots</a>
+            <a class="navbar-item is-active" href="conclusion.html">Conclusion</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <section class="section">
+      <div class="container">
+        <div class="columns is-centered is-multiline">
+          
+          <div class="column is-10">
+            <div class="box conclusion-box">
+              <h2 class="lang-title">🇫🇷 Français</h2>
+              <div class="content is-size-5">
+                </div>
+            </div>
+          </div>
+
+          <div class="column is-10">
+            <div class="box conclusion-box" style="border-left: 10px solid var(--algeria-green);">
+              <h2 class="lang-title" style="border-bottom-color: var(--algeria-green);">🇩🇿 Arabe</h2>
+              <div class="content is-size-5">
+                </div>
+            </div>
+          </div>
+
+          <div class="column is-10">
+            <div class="box conclusion-box" style="border-left: 10px solid var(--japan-red);">
+              <h2 class="lang-title" style="border-bottom-color: var(--japan-red);">🇯🇵 Japonais</h2>
+              <div class="content is-size-5">
+                </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer has-text-centered">
+        <p style="color: var(--accent-blue);"><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+    </footer>
+
+</body>
+</html>

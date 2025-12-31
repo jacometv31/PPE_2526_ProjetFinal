@@ -1,0 +1,1415 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar" style="direction: rtl;">
+    <head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="1.2.6",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this.t.bind(this),this.touchStartHandler=this.i.bind(this),this.touchMoveHandler=this.o.bind(this),this.touchEndHandler=this.h.bind(this),this.clickHandler=this.u.bind(this),this.interceptedClicks=[],this.interceptedClickListeners=[],this.l(this),window.addEventListener("pageshow",(t=>{this.persisted=t.persisted,this.everythingLoaded&&this.m()})),this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",(t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))})),document.addEventListener("DOMContentLoaded",(()=>{this.k()})),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}p(t){document.hidden?t.t():(this.triggerEvents.forEach((e=>window.addEventListener(e,t.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",t.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",t.touchStartHandler),document.addEventListener("visibilitychange",t.userEventHandler))}_(){this.triggerEvents.forEach((t=>window.removeEventListener(t,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}i(t){"HTML"!==t.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),t.target.addEventListener("click",this.clickHandler),this.L(t.target,!0),this.S(t.target,"onclick","rocket-onclick"),this.C())}o(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.S(t.target,"rocket-onclick","onclick"),this.M()}h(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}u(t){t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.S(t.target,"rocket-onclick","onclick"),this.interceptedClicks.push(t),t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),this.M()}O(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((t=>{t.target.dispatchEvent(new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0}))}))}l(t){EventTarget.prototype.addEventListenerWPRocketBase=EventTarget.prototype.addEventListener,EventTarget.prototype.addEventListener=function(e,i,o){"click"!==e||t.windowLoaded||i===t.clickHandler||t.interceptedClickListeners.push({target:this,func:i,options:o}),(this||window).addEventListenerWPRocketBase(e,i,o)}}L(t,e){this.interceptedClickListeners.forEach((i=>{i.target===t&&(e?t.removeEventListener("click",i.func,i.options):t.addEventListener("click",i.func,i.options))})),t.parentNode!==document.documentElement&&this.L(t.parentNode,e)}D(){return new Promise((t=>{this.P?this.M=t:t()}))}C(){this.P=!0}M(){this.P=!1}S(t,e,i){t.hasAttribute&&t.hasAttribute(e)&&(event.target.setAttribute(i,event.target.getAttribute(e)),event.target.removeAttribute(e))}t(){this._(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this.R.bind(this)):this.R()}k(){let t=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach((e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){0===i.indexOf("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}})),t=[...new Map(t.map((t=>[JSON.stringify(t),t]))).values()],this.T(t,"preconnect")}async R(){this.lastBreath=Date.now(),this.j(this),this.F(this),this.I(),this.W(),this.q(),await this.A(this.delayedScripts.normal),await this.A(this.delayedScripts.defer),await this.A(this.delayedScripts.async);try{await this.U(),await this.H(this),await this.J()}catch(t){console.error(t)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.D().then((()=>{this.O()})),this.N()}W(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)}))}async B(t){if(await this.G(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise((e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach((t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))})),t.text&&(i.text=t.text),i.hasAttribute("src")?(i.addEventListener("load",o),i.addEventListener("error",(function(){i.setAttribute("data-rocket-status","failed-network"),e()})),setTimeout((()=>{i.isConnected||e()}),1)):(i.text=t.text,o()),t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o),t.addEventListener("error",(i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: data-uri blocked by CSP -> fallback"),t.removeAttribute("src"),this.B(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())})),s?(t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}}));t.setAttribute("data-rocket-status","skipped")}async A(t){const e=t.shift();return e&&e.isConnected?(await this.B(e),this.A(t)):Promise.resolve()}q(){this.T([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}T(t,e){var i=document.createDocumentFragment();t.forEach((t=>{const o=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(o&&!o.startsWith("data:")){const s=document.createElement("link");s.href=o,s.rel=e,"preconnect"!==e&&(s.as="script"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(s.crossOrigin=!0),t.crossOrigin&&(s.crossOrigin=t.crossOrigin),t.integrity&&(s.integrity=t.integrity),i.appendChild(s),this.trash.push(s)}})),document.head.appendChild(i)}j(t){let e={};function i(i,o){return e[o].eventsToRewrite.indexOf(i)>=0&&!t.everythingLoaded?"rocket-"+i:i}function o(t,o){!function(t){e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(o)}function s(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o||function(){},set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}o(document,"DOMContentLoaded"),o(window,"DOMContentLoaded"),o(window,"load"),o(window,"pageshow"),o(document,"readystatechange"),s(document,"onreadystatechange"),s(window,"onload"),s(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}F(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map((t=>"load"===t||0===t.indexOf("load.")?"rocket-jquery-load":t)).join(" ")}function o(o){function s(t){const e=o.fn[t];o.fn[t]=o.fn.init.prototype[t]=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e}))),e.apply(this,arguments),this}}o&&o.fn&&!t.allJQueries.includes(o)&&(o.fn.ready=o.fn.init.prototype.ready=function(e){return t.domReadyFired?e.bind(document)(o):document.addEventListener("rocket-DOMContentLoaded",(()=>e.bind(document)(o))),o([])},s("on"),s("one"),t.allJQueries.push(o)),e=o}o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}async H(t){const e=document.querySelector("script[data-webpack]");e&&(await async function(){return new Promise((t=>{e.addEventListener("load",t),e.addEventListener("error",t)}))}(),await t.K(),await t.H(t))}async U(){this.domReadyFired=!0;try{document.readyState="interactive"}catch(t){}await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.G(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}async J(){try{document.readyState="complete"}catch(t){}await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),window.dispatchEvent(new Event("rocket-load")),await this.G(),window.rocketonload&&window.rocketonload(),await this.G(),this.allJQueries.forEach((t=>t(window).trigger("rocket-jquery-load"))),await this.G();const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.G(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted}),this.windowLoaded=!0}m(){document.onreadystatechange&&document.onreadystatechange(),window.onload&&window.onload(),window.onpageshow&&window.onpageshow({persisted:this.persisted})}I(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript;i||console.error("WPRocket unable to document.write this: "+e);const o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async G(){Date.now()-this.lastBreath>45&&(await this.K(),this.lastBreath=Date.now())}async K(){return document.hidden?new Promise((t=>setTimeout(t))):new Promise((t=>requestAnimationFrame(t)))}N(){this.trash.forEach((t=>t.remove()))}static run(){const t=new RocketLazyLoadScripts;t.p(t)}}RocketLazyLoadScripts.run()})();</script>
+        
+        <meta name="google-site-verification" content="_TVoSj2IEsVElqqaFvVtjg-LEvMHyiep7_0_JHUtISg" />
+        <meta name="viewport" content="user-scalable=no,width=device-width,initial-scale=1.0,maximum-scale=1.0"/>
+        <meta name="format-detection" content="telephone=no">
+        <link rel="profile" href="https://gmpg.org/xfn/11">
+        <link rel="pingback" href="https://www.almowaten.net/xmlrpc.php">
+        <meta name="theme-color" content="#f8d21e">
+        <meta name="msapplication-navbutton-color" content="#f8d21e">
+        <meta name="msapplication-TileColor" content="#f8d21e">
+        <meta name="apple-mobile-web-app-status-bar-style" content="#f8d21e">
+        <script type="rocketlazyloadscript" async data-rocket-src="https://get.optad360.io/sf/a1aeb415-f66a-4324-8687-f6d8c4b1e000/plugin.min.js"></script>
+
+        <script type="rocketlazyloadscript" data-minify="1" async data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/tag/js/gpt.js?ver=1766880001"></script>
+        
+
+<script type="rocketlazyloadscript" async data-rocket-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6374050127353171"
+     crossorigin="anonymous"></script>
+     
+
+     
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v22.6 (Yoast SEO v26.6) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>خواطر قصيرة عن الامل | صحيفة المواطن</title><link rel="preload" data-rocket-preload as="image" href="https://www.almowaten.net/wp-content/uploads/2020/10/1081.jpg" imagesrcset="https://www.almowaten.net/wp-content/uploads/2020/10/1081.jpg 600w, https://www.almowaten.net/wp-content/uploads/2020/10/1081-120x96.jpg 120w" imagesizes="(max-width: 600px) 100vw, 600px" fetchpriority="high">
+	<meta name="description" content="خواطر قصيرة عن الامل الأمل لابد منه لأنه هو الثقة بالله لأن القادم هو الأجمل لذلك كتبت خواطر قصيرة عن الامل تحث الأفراد على ضرورة طرد اليأس والتمسك بالأمل" />
+	<link rel="canonical" href="https://www.almowaten.net/2020/10/خواطر-قصيرة-عن-الامل/" />
+	<meta property="og:locale" content="ar_AR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="خواطر قصيرة عن الامل" />
+	<meta property="og:description" content="خواطر قصيرة عن الامل الأمل لابد منه لأنه هو الثقة بالله لأن القادم هو الأجمل لذلك كتبت خواطر قصيرة عن الامل تحث الأفراد على ضرورة طرد اليأس والتمسك بالأمل" />
+	<meta property="og:url" content="https://www.almowaten.net/2020/10/خواطر-قصيرة-عن-الامل/" />
+	<meta property="og:site_name" content="صحيفة المواطن" />
+	<meta property="article:publisher" content="https://www.facebook.com/almowatennet" />
+	<meta property="article:published_time" content="2020-10-23T09:26:37+00:00" />
+	<meta property="og:image" content="https://www.almowaten.net/wp-content/uploads/2020/10/1081.jpg" />
+	<meta property="og:image:width" content="600" />
+	<meta property="og:image:height" content="482" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="almowaten" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@almowatennet" />
+	<meta name="twitter:site" content="@almowatennet" />
+	<meta name="twitter:label1" content="كُتب بواسطة" />
+	<meta name="twitter:data1" content="almowaten" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","@id":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/#article","isPartOf":{"@id":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/"},"author":{"name":"almowaten","@id":"https://www.almowaten.net/#/schema/person/0c86acc6a73b16e8259c5b9d2f6f432a"},"headline":"خواطر قصيرة عن الامل","datePublished":"2020-10-23T09:26:37+00:00","mainEntityOfPage":{"@id":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/"},"wordCount":0,"publisher":{"@id":"https://www.almowaten.net/#organization"},"image":{"@id":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/#primaryimage"},"thumbnailUrl":"https://www.almowaten.net/wp-content/uploads/2020/10/1081.jpg","keywords":["أجمل العبارات عن الامل","أقاويل مأثورة عن الأمل والتفاؤل","التفاؤل والأمل","تعبير عن الأمل في الحياة","خواطر عن الأمل تويتر","خواطر عن الحياة والناس","خواطر قصيرة عن الأمل","عبارات عن الأمل والصبر","عبارات عن الأمل والنجاح","قصيدة أحمد مطر عن التفاؤل والأمل","كلمات عن الأمل والتفاؤل","مقولات عن الأمل وعدم اليأس"],"articleSection":["منوعات"],"inLanguage":"ar"},{"@type":"WebPage","@id":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/","url":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/","name":"خواطر قصيرة عن الامل | صحيفة المواطن","isPartOf":{"@id":"https://www.almowaten.net/#website"},"primaryImageOfPage":{"@id":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/#primaryimage"},"image":{"@id":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/#primaryimage"},"thumbnailUrl":"https://www.almowaten.net/wp-content/uploads/2020/10/1081.jpg","datePublished":"2020-10-23T09:26:37+00:00","description":"خواطر قصيرة عن الامل الأمل لابد منه لأنه هو الثقة بالله لأن القادم هو الأجمل لذلك كتبت خواطر قصيرة عن الامل تحث الأفراد على ضرورة طرد اليأس والتمسك بالأمل","breadcrumb":{"@id":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/"]}]},{"@type":"ImageObject","inLanguage":"ar","@id":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/#primaryimage","url":"https://www.almowaten.net/wp-content/uploads/2020/10/1081.jpg","contentUrl":"https://www.almowaten.net/wp-content/uploads/2020/10/1081.jpg","width":600,"height":482,"caption":"خواطر قصيرة عن الأمل"},{"@type":"BreadcrumbList","@id":"https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.almowaten.net/"},{"@type":"ListItem","position":2,"name":"خواطر قصيرة عن الامل"}]},{"@type":"WebSite","@id":"https://www.almowaten.net/#website","url":"https://www.almowaten.net/","name":"صحيفة المواطن","description":"أخبار السعودية برؤية المواطن","publisher":{"@id":"https://www.almowaten.net/#organization"},"alternateName":"صحيفة المواطن","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.almowaten.net/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"ar"},{"@type":"Organization","@id":"https://www.almowaten.net/#organization","name":"صحيفة المواطن","alternateName":"صحيفة المواطن","url":"https://www.almowaten.net/","logo":{"@type":"ImageObject","inLanguage":"ar","@id":"https://www.almowaten.net/#/schema/logo/image/","url":"https://www.almowaten.net/wp-content/uploads/2022/09/Group-2117.png","contentUrl":"https://www.almowaten.net/wp-content/uploads/2022/09/Group-2117.png","width":6271,"height":2388,"caption":"صحيفة المواطن"},"image":{"@id":"https://www.almowaten.net/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/almowatennet","https://x.com/almowatennet","https://www.instagram.com/almowaten1/","https://www.snapchat.com/add/almowaten"]},{"@type":"Person","@id":"https://www.almowaten.net/#/schema/person/0c86acc6a73b16e8259c5b9d2f6f432a","name":"almowaten","image":{"@type":"ImageObject","inLanguage":"ar","@id":"https://www.almowaten.net/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/f2b12613d05e15735b73da11d6260cbe9472db2adcebbfce420d55f71158fe16?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/f2b12613d05e15735b73da11d6260cbe9472db2adcebbfce420d55f71158fe16?s=96&d=mm&r=g","caption":"almowaten"},"url":"https://www.almowaten.net/author/web/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.11.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by MonsterInsights -->
+		<link rel='stylesheet' id='wp-block-library-rtl-css' href='https://www.almowaten.net/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.8.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='better-recent-comments-css' href='https://www.almowaten.net/wp-content/plugins/better-recent-comments/assets/css/better-recent-comments.min.css?ver=6.8.3' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='awesome-notifications-css' href='https://www.almowaten.net/wp-content/cache/min/1/wp-content/plugins/cbxwpbookmark/assets/vendors/awesome-notifications/style.css?ver=1766880001' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='cbxwpbookmarkpublic-css-css' href='https://www.almowaten.net/wp-content/cache/min/1/wp-content/plugins/cbxwpbookmark/assets/css/cbxwpbookmark-public.css?ver=1766880002' type='text/css' media='all' />
+<link rel='stylesheet' id='ctf_styles-css' href='https://www.almowaten.net/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='alm-bootstrap-css' href='https://www.almowaten.net/wp-content/themes/TriTheme/src/libraries/bootstrap/bootstrap.min.css?ver=4.0.0' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='alm-fontawesome-css' href='https://www.almowaten.net/wp-content/cache/min/1/wp-content/themes/TriTheme/src/libraries/fontawesome/css/all.min.css?ver=1766880002' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='alm-swiper-css' href='https://www.almowaten.net/wp-content/cache/min/1/wp-content/themes/TriTheme/src/libraries/swiper/swiper.min.css?ver=1766880002' type='text/css' media='all' />
+<link rel='stylesheet' id='alm-hamburgers-css' href='https://www.almowaten.net/wp-content/themes/TriTheme/src/libraries/hamburgers-master/dist/hamburgers.min.css?ver=1.1.3' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='alm-aos-css' href='https://www.almowaten.net/wp-content/cache/min/1/wp-content/themes/TriTheme/src/libraries/aos/aos.css?ver=1766880002' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='alm-intlTelInputmin-css' href='https://www.almowaten.net/wp-content/cache/min/1/wp-content/themes/TriTheme/src/libraries/number/css/intlTelInput.css?ver=1766880002' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='alm-styles-css' href='https://www.almowaten.net/wp-content/cache/min/1/wp-content/themes/TriTheme/assets/styles.css?ver=1766880001' type='text/css' media='all' />
+<script type="text/javascript" id="jquery-core-js-extra">
+/* <![CDATA[ */
+var ctf = {"ajax_url":"https:\/\/www.almowaten.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.almowaten.net/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.almowaten.net/wp-json/wp/v2/posts/3120717" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.almowaten.net/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.almowaten.net/?p=3120717' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.almowaten.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.almowaten.net%2F2020%2F10%2F%25d8%25ae%25d9%2588%25d8%25a7%25d8%25b7%25d8%25b1-%25d9%2582%25d8%25b5%25d9%258a%25d8%25b1%25d8%25a9-%25d8%25b9%25d9%2586-%25d8%25a7%25d9%2584%25d8%25a7%25d9%2585%25d9%2584%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.almowaten.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.almowaten.net%2F2020%2F10%2F%25d8%25ae%25d9%2588%25d8%25a7%25d8%25b7%25d8%25b1-%25d9%2582%25d8%25b5%25d9%258a%25d8%25b1%25d8%25a9-%25d8%25b9%25d9%2586-%25d8%25a7%25d9%2584%25d8%25a7%25d9%2585%25d9%2584%2F&#038;format=xml" />
+          <!-- Google tag (gtag.js) -->
+          <script type="rocketlazyloadscript" async data-rocket-src="https://www.googletagmanager.com/gtag/js?id=G-BF6WCSQ7KN"></script>
+          <script type="rocketlazyloadscript">
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-BF6WCSQ7KN');
+                            gtag('set', {'page_title': 'خواطر قصيرة عن الامل'});
+                      </script>
+      
+    
+    
+            <script type="rocketlazyloadscript" async data-rocket-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6374050127353171" crossorigin="anonymous"></script>
+    
+    
+    
+    
+          <meta name="onesignal" content="wordpress-plugin"/>
+            <script type="rocketlazyloadscript">
+
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+      OneSignalDeferred.push(function(OneSignal) {
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['serviceWorkerParam'] = { scope: '/' };
+oneSignal_options['serviceWorkerPath'] = 'OneSignalSDKWorker.js.php';
+
+        OneSignal.Notifications.setDefaultUrl("https://www.almowaten.net");
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '8df5322c-7d8f-47b7-9c80-c44e419b26a9';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "لقد قمت بالاشتراك فى تنبيهات المواطن الاخبارية";
+oneSignal_options['welcomeNotification']['message'] = "شكرا لاشتراكك فى تنبيهات المواطن";
+oneSignal_options['welcomeNotification']['url'] = "https://www.almowaten.net";
+oneSignal_options['path'] = "https://www.almowaten.net/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.3c6dd35c-6a89-4a57-8823-48d881ba6e9f";
+oneSignal_options['persistNotification'] = true;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "هل تريد ان تصلك الاخبار العاجله من المواطن";
+oneSignal_options['promptOptions']['siteName'] = "https://www.almowaten.net";
+oneSignal_options['promptOptions']['autoAcceptTitle'] = "السماح بالتنبيهات";
+              OneSignal.init(window._oneSignalInitOptions);
+              OneSignal.Slidedown.promptPush()      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.Notifications.requestPermission(); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link rel="icon" href="https://www.almowaten.net/wp-content/uploads/2023/02/new-icon.png" sizes="32x32" />
+<link rel="icon" href="https://www.almowaten.net/wp-content/uploads/2023/02/new-icon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.almowaten.net/wp-content/uploads/2023/02/new-icon.png" />
+<meta name="msapplication-TileImage" content="https://www.almowaten.net/wp-content/uploads/2023/02/new-icon.png" />
+        <link rel="stylesheet" type="text/css" media="print" href="https://www.almowaten.net/wp-content/themes/TriTheme/print.css?v=1.12" />
+
+    <meta name="generator" content="WP Rocket 3.17.3.1" data-wpr-features="wpr_delay_js wpr_minify_js wpr_oci wpr_image_dimensions wpr_minify_css wpr_desktop wpr_preload_links" /></head>
+    <body class="rtl wp-singular post-template-default single single-post postid-3120717 single-format-standard wp-theme-TriTheme cbxwpbookmark-default" >
+        <div  data-value="" class="site-body"> 
+                        <header >
+                               
+                <div  class="row no-gutters">
+                    <div class="col-12 order-2 order-xl-1">
+                        <div class="hide_mobile">
+                            <div class="site-header-marquee marquee_fixed  ">
+                                <div class="right_place">
+                                    <div class="live_marquee">
+                                        <img width="27" height="18" class="img-fluid icon mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/first_icon.svg" alt="Icon">
+                                    </div>
+                                </div>
+                                <div class="marquee_section" style="direction: ltr;">
+                                                                                <div class="marquee">
+                                                <p>
+                                                                                                        <a href="https://www.almowaten.net/2025/12/%d8%a8%d8%af%d8%a1-%d8%aa%d9%81%d8%b9%d9%8a%d9%84-%d8%aa%d8%ad%d9%88%d9%8a%d9%84%d8%a9-%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%a5%d9%85%d8%a7/">
+                                                            بدء تفعيل تحويلة مرورية على طريق الإمام مسلم بالرياض                                                        </a>
+                                                        <img width="72" height="72" class="img-fluid icon ml-2 mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/new-icon.png" alt="Icon">
+                                                                                                            <a href="https://www.almowaten.net/2025/12/%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d8%b4%d8%a7%d8%ba%d8%b1%d8%a9-%d9%84%d8%af%d9%89-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-5/">
+                                                            وظائف شاغرة لدى بنك الخليج الدولي                                                        </a>
+                                                        <img width="72" height="72" class="img-fluid icon ml-2 mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/new-icon.png" alt="Icon">
+                                                                                                            <a href="https://www.almowaten.net/2025/12/%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d8%a5%d8%af%d8%a7%d8%b1%d9%8a%d8%a9-%d8%b4%d8%a7%d8%ba%d8%b1%d8%a9-%d9%81%d9%8a-%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b2%d9%83%d8%a7%d8%a9-18/">
+                                                            وظائف إدارية شاغرة في هيئة الزكاة                                                        </a>
+                                                        <img width="72" height="72" class="img-fluid icon ml-2 mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/new-icon.png" alt="Icon">
+                                                                                                            <a href="https://www.almowaten.net/2025/12/%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d8%b4%d8%a7%d8%ba%d8%b1%d8%a9-%d8%a8%d9%81%d8%b1%d9%88%d8%b9-%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a3%d8%af%d9%8a%d9%84/">
+                                                            وظائف شاغرة بفروع طيران أديل                                                        </a>
+                                                        <img width="72" height="72" class="img-fluid icon ml-2 mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/new-icon.png" alt="Icon">
+                                                                                                            <a href="https://www.almowaten.net/2025/12/%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d8%b4%d8%a7%d8%ba%d8%b1%d8%a9-%d9%81%d9%8a-%d8%b4%d8%b1%d9%83%d8%a9-%d9%86%d8%aa-%d9%88%d8%b1%d9%83%d8%b1%d8%b3-%d9%84%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa-3/">
+                                                            وظائف شاغرة في شركة نت وركرس للخدمات                                                        </a>
+                                                        <img width="72" height="72" class="img-fluid icon ml-2 mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/new-icon.png" alt="Icon">
+                                                                                                            <a href="https://www.almowaten.net/2025/12/%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d8%b4%d8%a7%d8%ba%d8%b1%d8%a9-%d8%a8%d9%80-%d9%81%d8%b1%d9%88%d8%b9-%d8%b4%d8%b1%d9%83%d8%a9-seven/">
+                                                            وظائف شاغرة بـ فروع شركة SEVEN                                                        </a>
+                                                        <img width="72" height="72" class="img-fluid icon ml-2 mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/new-icon.png" alt="Icon">
+                                                                                                            <a href="https://www.almowaten.net/2025/12/%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d8%b4%d8%a7%d8%ba%d8%b1%d8%a9-%d8%a8%d9%80-%d8%b4%d8%b1%d9%83%d8%a9-%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9/">
+                                                            وظائف شاغرة بـ شركة شراء الطاقة                                                        </a>
+                                                        <img width="72" height="72" class="img-fluid icon ml-2 mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/new-icon.png" alt="Icon">
+                                                                                                            <a href="https://www.almowaten.net/2025/12/%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d8%b4%d8%a7%d8%ba%d8%b1%d8%a9-%d9%84%d8%af%d9%89-%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7-%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a-7/">
+                                                            وظائف شاغرة لدى الخطوط الجوية السعودية                                                        </a>
+                                                        <img width="72" height="72" class="img-fluid icon ml-2 mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/new-icon.png" alt="Icon">
+                                                                                                            <a href="https://www.almowaten.net/2025/12/%d9%85%d8%ad%d8%b8%d9%88%d8%b1%d8%a7%d8%aa-%d8%b5%d8%ad%d9%8a%d8%a9-%d8%ae%d8%b7%d9%8a%d8%b1%d8%a9-%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9%d8%a7%d9%86%d9%8a%d8%a9/">
+                                                            محظورات صحية خطيرة خلال المربعانية                                                        </a>
+                                                        <img width="72" height="72" class="img-fluid icon ml-2 mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/new-icon.png" alt="Icon">
+                                                                                                            <a href="https://www.almowaten.net/2025/12/%d8%a3%d8%b3%d8%aa%d9%88%d9%86-%d9%81%d9%8a%d9%84%d8%a7-%d9%8a%d8%aa%d8%ba%d9%84%d9%91%d9%8e%d8%a8-%d8%b9%d9%84%d9%89-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa/">
+                                                            أستون فيلا يتغلَّب على مانشستر يونايتد                                                        </a>
+                                                        <img width="72" height="72" class="img-fluid icon ml-2 mr-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/new-icon.png" alt="Icon">
+                                                                                                    </p>
+                                            </div>
+                                                                            </div>
+                            </div>
+                                                                <div class="site-header-marquee-not-fixed"></div>
+                                                            </div>
+                         
+                    </div>
+                    <div class="col-12 order-1 order-xl-2">
+                        <div class="header-content">
+                            <div class="content_header position-relative">
+                                <div class="logo_position">
+                                    <a title="AlMowaten" href="https://www.almowaten.net">
+                                        <img width="250" height="95" class="img-fluid logo" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/logo-website.png" alt="AlMowaten">
+                                    </a>
+                                </div>
+                                <div class="row no-gutters align-items-center align-items-xl-start">
+                                    <div class="col-4 col-sm-2 order-2 order-xl-1 text-right">
+
+                                    </div>
+                                    <div class="col-4 col-sm-5 order-1 order-xl-2 text-right">
+                                        <div class="d-xl-none">
+                                            <div class="js_menu">
+                                                <div class="lines js_menu_lines">
+                                                    <div class="line line_1"></div>
+                                                    <div class="line line_2"></div>
+                                                    <div class="line line_3"></div>
+                                                </div>
+                                                <div class="js_menu_close d-none">
+                                                    <i class="fa-solid fa-2x fa-xmark"></i>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                            </div>
+                                        </div>
+                                        <div class="d-none d-xl-block ad-header-section">
+                                                                                                                                       
+                                                
+                                                                                    </div>
+                                        
+                                    </div>
+                                    <div class="col-4 col-sm-5 order-3 order-xl-3 text-left">
+                                        <ul class="header_options">
+                                            <li class="d-none d-xl-inline-block">
+                                                                                               <!--  <a href="" target="_blank" rel="noreferrer">
+                                                    <div class="wtsp_links">
+                                                        <h3>
+                                                            إشترك بخدمة الواتسب
+                                                        </h3>
+                                                        <div class="circle">
+                                                            <i class="fa-brands fa-whatsapp"></i>
+                                                        </div>
+                                                    </div>
+                                                </a> -->
+                                            </li>
+                                            <li class="d-none d-xl-inline-block">
+                                                <a title="RSS Feed" href="https://www.almowaten.net/feed">
+                                                    <div class="links dark-white">
+                                                        <img width="75" height="79" class="img-fluid rss-width pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/rss.jpg" alt="Al Mouwaten">
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            <li class="d-none d-xl-inline-block">
+                                                <a title="Google Feed" href="https://news.google.com/publications/CAAiEM6Ir2ScWhd5mAOdFooDh2gqFAgKIhDOiK9knFoXeZgDnRaKA4do?hl=en-US&gl=US&ceid=US:en" target="_blank" rel="noopener">
+                                                    <div class="links dark-white">
+                                                        <img width="26" height="26" class="img-fluid pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/googlefeed.svg" alt="Al Mouwaten">
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <div class="links js_search d-none d-xl-inline-block">
+                                                    <div class="img-light-mode">
+                                                        <img width="17" height="17" class="img-fluid pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/search.svg" alt="Al Mouwaten">
+                                                    </div>
+                                                    <div class="img-dark-mode">
+                                                        <img width="17" height="17" class="img-fluid pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/dark/search.svg" alt="Al Mouwaten">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="notication_box hide-notification">
+                                                <div class="links">
+                                                    <div class="img-light-mode">
+                                                        <img width="14" height="19" class="img-fluid pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/notification.svg" alt="Al Mouwaten"> 
+                                                    </div>
+                                                    <div class="img-dark-mode">
+                                                        <img width="14" height="19" class="img-fluid pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/dark/notification.svg" alt="Al Mouwaten">
+                                                    </div>
+                                                </div>
+                                                <div class="notification ">
+                                                    <i class="fa-solid fa-caret-up"></i>
+                                                    <div class="content">
+                                                                                                                            <div class="row no-gutters">
+                                                                        <div class="col-5">
+                                                                            <a href="https://www.almowaten.net/2024/09/%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%b6%d8%af-%d8%a5%d9%86%d8%af%d9%88%d9%86%d9%8a%d8%b3%d9%8a%d8%a7-%d8%a5%d9%8a%d8%ac%d8%a7%d8%a8%d9%8a%d9%91%d9%8b/">
+                                                                                <div class="imglist background_img">
+                                                                                    <a href="https://www.almowaten.net/2024/09/%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%b6%d8%af-%d8%a5%d9%86%d8%af%d9%88%d9%86%d9%8a%d8%b3%d9%8a%d8%a7-%d8%a5%d9%8a%d8%ac%d8%a7%d8%a8%d9%8a%d9%91%d9%8b/">
+                                                                                        <picture class="img-fluid w-100 wp-post-image" decoding="async" fetchpriority="high">
+<source type="image/webp" srcset="https://www.almowaten.net/wp-content/uploads/2024/09/مباراة-السعودية-ضد-إندونيسيا-423x233.jpg.webp 423w, https://www.almowaten.net/wp-content/uploads/2024/09/مباراة-السعودية-ضد-إندونيسيا-225x125.jpg.webp 225w" sizes="(max-width: 423px) 100vw, 423px"/>
+<img width="423" height="233" src="https://www.almowaten.net/wp-content/uploads/2024/09/مباراة-السعودية-ضد-إندونيسيا-423x233.jpg" alt="تعادل السعودية ضد إندونيسيا إيجابيًّا بالشوط الأول" decoding="async" fetchpriority="high" srcset="https://www.almowaten.net/wp-content/uploads/2024/09/مباراة-السعودية-ضد-إندونيسيا-423x233.jpg 423w, https://www.almowaten.net/wp-content/uploads/2024/09/مباراة-السعودية-ضد-إندونيسيا-225x125.jpg 225w" sizes="(max-width: 423px) 100vw, 423px"/>
+</picture>
+                                                                                    </a>
+                                                                                </div>
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="col-7">
+                                                                            <a href="https://www.almowaten.net/2024/09/%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%b6%d8%af-%d8%a5%d9%86%d8%af%d9%88%d9%86%d9%8a%d8%b3%d9%8a%d8%a7-%d8%a5%d9%8a%d8%ac%d8%a7%d8%a8%d9%8a%d9%91%d9%8b/">
+                                                                                <h4>
+                                                                                   تعادل السعودية ضد إندونيسيا إيجابيًّا بالشوط الأول                                                                                </h4>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                                        <div class="col-12">
+                                                                                    <div class="separator"></div>
+                                                                                </div>
+                                                                                                                                                    </div>
+                                                                                                                                        <div class="row no-gutters">
+                                                                        <div class="col-5">
+                                                                            <a href="https://www.almowaten.net/2023/05/%d9%84%d8%ad%d8%b8%d8%a9-%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b1%d9%83%d8%a8%d8%a9-%d8%af%d8%b1%d8%a7%d8%ba%d9%88%d9%86-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1/">
+                                                                                <div class="imglist background_img">
+                                                                                    <a href="https://www.almowaten.net/2023/05/%d9%84%d8%ad%d8%b8%d8%a9-%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b1%d9%83%d8%a8%d8%a9-%d8%af%d8%b1%d8%a7%d8%ba%d9%88%d9%86-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1/">
+                                                                                        <picture class="img-fluid w-100 wp-post-image" decoding="async">
+<source type="image/webp" srcset="https://www.almowaten.net/wp-content/uploads/2023/05/IMG-20230522-WA0001-423x233.jpg.webp 423w, https://www.almowaten.net/wp-content/uploads/2023/05/IMG-20230522-WA0001-225x125.jpg.webp 225w" sizes="(max-width: 423px) 100vw, 423px"/>
+<img width="423" height="233" src="https://www.almowaten.net/wp-content/uploads/2023/05/IMG-20230522-WA0001-423x233.jpg" alt="لحظة انطلاق مركبة دراغون ‎نحو الفضاء وعلى متنها علي القرني وريانة برناوي" decoding="async" srcset="https://www.almowaten.net/wp-content/uploads/2023/05/IMG-20230522-WA0001-423x233.jpg 423w, https://www.almowaten.net/wp-content/uploads/2023/05/IMG-20230522-WA0001-225x125.jpg 225w" sizes="(max-width: 423px) 100vw, 423px"/>
+</picture>
+                                                                                    </a>
+                                                                                </div>
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="col-7">
+                                                                            <a href="https://www.almowaten.net/2023/05/%d9%84%d8%ad%d8%b8%d8%a9-%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b1%d9%83%d8%a8%d8%a9-%d8%af%d8%b1%d8%a7%d8%ba%d9%88%d9%86-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1/">
+                                                                                <h4>
+                                                                                   لحظة انطلاق مركبة دراغون ‎نحو الفضاء وعلى متنها علي القرني                                                                                </h4>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                                        <div class="col-12">
+                                                                                    <div class="separator"></div>
+                                                                                </div>
+                                                                                                                                                    </div>
+                                                                                                                                        <div class="row no-gutters">
+                                                                        <div class="col-5">
+                                                                            <a href="https://www.almowaten.net/2023/05/%d8%a7%d9%84%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d9%88%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%aa%d8%ad%d9%82%d9%82-121-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%b1%d9%8a%d8%a7%d9%84-%d8%a3%d8%b1%d8%a8/">
+                                                                                <div class="imglist background_img">
+                                                                                    <a href="https://www.almowaten.net/2023/05/%d8%a7%d9%84%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d9%88%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%aa%d8%ad%d9%82%d9%82-121-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%b1%d9%8a%d8%a7%d9%84-%d8%a3%d8%b1%d8%a8/">
+                                                                                        <picture class="img-fluid w-100 wp-post-image" decoding="async">
+<source type="image/webp" srcset="https://www.almowaten.net/wp-content/uploads/2023/05/5wjlTtXC-423x233.jpg.webp 423w, https://www.almowaten.net/wp-content/uploads/2023/05/5wjlTtXC-120x67.jpg.webp 120w, https://www.almowaten.net/wp-content/uploads/2023/05/5wjlTtXC-225x125.jpg.webp 225w" sizes="(max-width: 423px) 100vw, 423px"/>
+<img width="423" height="233" src="https://www.almowaten.net/wp-content/uploads/2023/05/5wjlTtXC-423x233.jpg" alt="&#8220;الأبحاث والإعلام&#8221; تحقق 121 مليون ريال أرباحاً" decoding="async" srcset="https://www.almowaten.net/wp-content/uploads/2023/05/5wjlTtXC-423x233.jpg 423w, https://www.almowaten.net/wp-content/uploads/2023/05/5wjlTtXC-120x67.jpg 120w, https://www.almowaten.net/wp-content/uploads/2023/05/5wjlTtXC-225x125.jpg 225w" sizes="(max-width: 423px) 100vw, 423px"/>
+</picture>
+                                                                                    </a>
+                                                                                </div>
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="col-7">
+                                                                            <a href="https://www.almowaten.net/2023/05/%d8%a7%d9%84%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d9%88%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%aa%d8%ad%d9%82%d9%82-121-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%b1%d9%8a%d8%a7%d9%84-%d8%a3%d8%b1%d8%a8/">
+                                                                                <h4>
+                                                                                   &#8220;الأبحاث والإعلام&#8221; تحقق 121 مليون ريال أرباحاً                                                                                </h4>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                                        <div class="col-12">
+                                                                                    <div class="separator"></div>
+                                                                                </div>
+                                                                                                                                                    </div>
+                                                                                                                                        <div class="row no-gutters">
+                                                                        <div class="col-5">
+                                                                            <a href="https://www.almowaten.net/2023/05/%d8%b5%d8%ad%d9%8a%d9%81%d8%a9-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d9%84%d8%b9%d8%a8-%d8%af%d9%88%d8%b1%d9%8b%d8%a7-%d9%85%d9%87/">
+                                                                                <div class="imglist background_img">
+                                                                                    <a href="https://www.almowaten.net/2023/05/%d8%b5%d8%ad%d9%8a%d9%81%d8%a9-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d9%84%d8%b9%d8%a8-%d8%af%d9%88%d8%b1%d9%8b%d8%a7-%d9%85%d9%87/">
+                                                                                        <picture class="img-fluid w-100 wp-post-image" decoding="async">
+<source type="image/webp" srcset="https://www.almowaten.net/wp-content/uploads/2023/05/GettyImages-1256165105-423x233.jpg.webp 423w, https://www.almowaten.net/wp-content/uploads/2023/05/GettyImages-1256165105-225x125.jpg.webp 225w" sizes="(max-width: 423px) 100vw, 423px"/>
+<img width="423" height="233" src="https://www.almowaten.net/wp-content/uploads/2023/05/GettyImages-1256165105-423x233.jpg" alt="صحيفة أوكرانية: السعودية تلعب دورًا مهمًا في خطة السلام" decoding="async" srcset="https://www.almowaten.net/wp-content/uploads/2023/05/GettyImages-1256165105-423x233.jpg 423w, https://www.almowaten.net/wp-content/uploads/2023/05/GettyImages-1256165105-225x125.jpg 225w" sizes="(max-width: 423px) 100vw, 423px"/>
+</picture>
+                                                                                    </a>
+                                                                                </div>
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="col-7">
+                                                                            <a href="https://www.almowaten.net/2023/05/%d8%b5%d8%ad%d9%8a%d9%81%d8%a9-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d9%84%d8%b9%d8%a8-%d8%af%d9%88%d8%b1%d9%8b%d8%a7-%d9%85%d9%87/">
+                                                                                <h4>
+                                                                                   صحيفة أوكرانية: السعودية تلعب دورًا مهمًا في خطة السلام                                                                                </h4>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                                        <div class="col-12">
+                                                                                    <div class="separator"></div>
+                                                                                </div>
+                                                                                                                                                    </div>
+                                                                                                                                        <div class="row no-gutters">
+                                                                        <div class="col-5">
+                                                                            <a href="https://www.almowaten.net/2023/05/%d8%ae%d9%84%d9%84-%d9%8a%d8%aa%d8%b3%d8%a8%d8%a8-%d9%81%d9%8a-%d8%aa%d8%a3%d8%ae%d9%8a%d8%b1-%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%88%d8%aa%d8%ba%d9%8a%d9%8a/">
+                                                                                <div class="imglist background_img">
+                                                                                    <a href="https://www.almowaten.net/2023/05/%d8%ae%d9%84%d9%84-%d9%8a%d8%aa%d8%b3%d8%a8%d8%a8-%d9%81%d9%8a-%d8%aa%d8%a3%d8%ae%d9%8a%d8%b1-%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%88%d8%aa%d8%ba%d9%8a%d9%8a/">
+                                                                                        <picture class="img-fluid w-100 wp-post-image" decoding="async">
+<source type="image/webp" srcset="https://www.almowaten.net/wp-content/uploads/2023/05/Untitled-282-423x233.jpg.webp 423w, https://www.almowaten.net/wp-content/uploads/2023/05/Untitled-282-225x125.jpg.webp 225w" sizes="(max-width: 423px) 100vw, 423px"/>
+<img width="423" height="233" src="https://www.almowaten.net/wp-content/uploads/2023/05/Untitled-282-423x233.jpg" alt="خلل يتسبب في تأخير رحلة السعودية وتغيير الطائرة" decoding="async" srcset="https://www.almowaten.net/wp-content/uploads/2023/05/Untitled-282-423x233.jpg 423w, https://www.almowaten.net/wp-content/uploads/2023/05/Untitled-282-225x125.jpg 225w" sizes="(max-width: 423px) 100vw, 423px"/>
+</picture>
+                                                                                    </a>
+                                                                                </div>
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="col-7">
+                                                                            <a href="https://www.almowaten.net/2023/05/%d8%ae%d9%84%d9%84-%d9%8a%d8%aa%d8%b3%d8%a8%d8%a8-%d9%81%d9%8a-%d8%aa%d8%a3%d8%ae%d9%8a%d8%b1-%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%88%d8%aa%d8%ba%d9%8a%d9%8a/">
+                                                                                <h4>
+                                                                                   خلل يتسبب في تأخير رحلة السعودية وتغيير الطائرة                                                                                </h4>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                            </div>
+                                                                                                                        </div>
+                                                </div>
+                                            </li>
+                                                                                                                                            <li class="weather_plug hide-screen-1200 mr-3 d-none d-xl-inline-block">
+                                                        26°<img src="https://openweathermap.org/img/w/01d.png" class="weather-icon" alt="Weather Image" />                                                     </li>
+                                                                                            </ul>
+                                    </div>
+                                    <div class="col-1 order-4 order-xl-4 d-none d-xl-block">
+
+                                    </div>
+                                    <div class="col-9 order-5 order-xl-5 text-right d-none d-xl-block">
+                                    <div class="menu-almowaten_menu-container"><ul id="menu-almowaten_menu" class="header-list"><li id="menu-item-5532385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532385"><a href="https://www.almowaten.net/category/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d9%8a%d9%88%d9%85/">السعودية اليوم</a></li>
+<li id="menu-item-5532397" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532397"><a href="https://www.almowaten.net/category/%d8%ad%d8%b5%d8%a7%d8%af-%d8%a7%d9%84%d9%8a%d9%88%d9%85/">حصاد اليوم</a></li>
+<li id="menu-item-5532399" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532399"><a href="https://www.almowaten.net/category/accedent/">أخبار أمنية</a></li>
+<li id="menu-item-5533421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5533421"><a href="https://www.almowaten.net/category/world/">العالم</a></li>
+<li id="menu-item-5532401" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532401"><a href="https://www.almowaten.net/category/market/">اقتصاد</a></li>
+<li id="menu-item-5532403" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532403"><a href="https://www.almowaten.net/category/%d8%ad%d8%b3%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86/">حساب المواطن</a></li>
+<li id="menu-item-5533325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5533325"><a href="#">الرياضة</a>
+<ul class="sub-menu">
+	<li id="menu-item-5532443" class="dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532443"><a href="https://www.almowaten.net/category/sport/">الرياضة المحلية</a></li>
+	<li id="menu-item-5532495" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532495"><a href="https://www.almowaten.net/category/world-sport/">الرياضة العالمية</a></li>
+</ul>
+</li>
+<li id="menu-item-5532457" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532457"><a href="https://www.almowaten.net/category/%d8%ac%d9%88%d9%84%d8%a9-%d9%88%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d9%87%d8%af/">جولة ولي العهد</a></li>
+<li id="menu-item-5533327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5533327"><a href="#">المزيد</a>
+<ul class="sub-menu">
+	<li id="menu-item-5532459" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532459"><a href="https://www.almowaten.net/category/royal-visits/">زيارات ملكية</a></li>
+	<li id="menu-item-5532415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5532415"><a href="https://www.almowaten.net/videos/">فيديو المواطن</a></li>
+	<li id="menu-item-5532405" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532405"><a href="https://www.almowaten.net/category/tech/">تكنولوجيا</a></li>
+	<li id="menu-item-5532417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5532417"><a href="https://www.almowaten.net/category/reports/">تقارير</a></li>
+	<li id="menu-item-5533329" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5533329"><a href="https://www.almowaten.net/category/social/">المجتمع</a></li>
+	<li id="menu-item-5533331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5533331"><a href="https://www.almowaten.net/category/jobs/">وظائف</a></li>
+	<li id="menu-item-5533333" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5533333"><a href="https://www.almowaten.net/category/tourism/">السياحة والسفر</a></li>
+	<li id="menu-item-5533335" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5533335"><a href="https://www.almowaten.net/category/%d8%ba%d8%b1%d8%a7%d8%a6%d8%a8/">غرائب</a></li>
+	<li id="menu-item-5533337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5533337"><a href="https://www.almowaten.net/category/%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%84%d8%b3%d9%88%d8%b4%d9%8a%d8%a7%d9%84-%d9%85%d9%8a%d8%af%d9%8a%d8%a7/">سوشيال ميديا</a></li>
+</ul>
+</li>
+</ul></div>                                                                            </div>
+                                    <div class="col-2 order-6 order-xl-6 d-none d-xl-block">
+                                        <div class="approved">
+                                            مرخصة من وزارة الاعلام
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="search-tab">
+    <form role="search" method="get" id="searchform" class="searchform"
+          action="https://www.almowaten.net">
+        <div class="row align-items-center">
+            <div class="col-2 col-sm-1 col-lg-1 col-xl-1">
+                <img width="32" height="32" class="img-fluid js_close_search close" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/close.svg" alt="Close">  
+                <div class="clearfix"></div>
+            </div>
+            <div class="col-6 col-sm-8 col-lg-9 col-xl-10">
+                <input id="search-input" type="text" placeholder="اكتب هنا "
+                       value="" name="s" id="s"/>
+            </div>
+            <div class="col-4 col-sm-3 col-lg-2 col-xl-1">
+                <button class="submit" type="submit">
+                   ابحث
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+
+
+                        </div>
+                    </div>
+                </div>
+                <div  class="mobile_menu d-xl-none">
+                    <div  class="container">
+                                                        <div class="row">
+                                                                                            <div class="col-6">
+                                                            <a title="السعودية اليوم" href="https://www.almowaten.net/category/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d9%8a%d9%88%d9%85/">
+                                                                <h4>
+                                                                    السعودية اليوم                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="حصاد اليوم" href="https://www.almowaten.net/category/%d8%ad%d8%b5%d8%a7%d8%af-%d8%a7%d9%84%d9%8a%d9%88%d9%85/">
+                                                                <h4>
+                                                                    حصاد اليوم                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                        <!-- <div class="col-6">
+                                                                    <a title="صوت المواطن" href="/صوت-المواطن">
+                                                                        <h4>صوت المواطن</h4>
+                                                                    </a>
+                                                                    <div class="line"></div>
+                                                                </div> -->
+                                                                                                                                                                                <div class="col-6">
+                                                            <a title="العالم" href="https://www.almowaten.net/category/world/">
+                                                                <h4>
+                                                                    العالم                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="أخبار أمنية" href="https://www.almowaten.net/category/accedent/">
+                                                                <h4>
+                                                                    أخبار أمنية                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                        <!-- <div class="col-6">
+                                                                    <a title="كوبونات المواطن" href="https://coupons.almowaten.net/" target="_blank" rel="noopener">
+                                                                        <h4 class="green">
+                                                                            كوبونات المواطن
+                                                                        </h4>
+                                                                    </a>
+                                                                    <div class="line"></div>
+                                                                </div> -->
+                                                                                                                                                                                <div class="col-6">
+                                                            <a title="السوق" href="https://www.almowaten.net/category/market/">
+                                                                <h4>
+                                                                    السوق                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="حساب المواطن" href="https://www.almowaten.net/category/%d8%ad%d8%b3%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86/">
+                                                                <h4>
+                                                                    حساب المواطن                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="الرياضة" href="https://www.almowaten.net/category/sport/">
+                                                                <h4>
+                                                                    الرياضة                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="الرياضة العالمية" href="https://www.almowaten.net/category/world-sport/">
+                                                                <h4>
+                                                                    الرياضة العالمية                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="جولة ولي العهد" href="https://www.almowaten.net/category/%d8%ac%d9%88%d9%84%d8%a9-%d9%88%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d9%87%d8%af/">
+                                                                <h4>
+                                                                    جولة ولي العهد                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="تكنولوجيا" href="https://www.almowaten.net/category/tech/">
+                                                                <h4>
+                                                                    تكنولوجيا                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="تقارير" href="https://www.almowaten.net/category/reports/">
+                                                                <h4>
+                                                                    تقارير                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="وظائف" href="https://www.almowaten.net/category/jobs/">
+                                                                <h4>
+                                                                    وظائف                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="السياحة والسفر" href="https://www.almowaten.net/category/tourism/">
+                                                                <h4>
+                                                                    السياحة والسفر                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                                        <div class="col-6">
+                                                            <a title="المجتمع" href="https://www.almowaten.net/category/social/">
+                                                                <h4>
+                                                                    المجتمع                                                                </h4>
+                                                            </a>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                                                                                                                </div>
+                                                        <div class="social_share">
+                            <div class="row align-items-center">
+                                <div class="col-7">
+                                    <!-- <div class="header-content p-0">
+                                        <div class="content_header" style="max-width: 100%;">
+                                            <ul class="header_options">
+                                                <li class="d-block">
+                                                    <a href="" target="_blank" rel="noopener">
+                                                        <div class="wtsp_links">
+                                                            <h3>
+                                                                إشترك بخدمة الواتسب
+                                                            </h3>
+                                                            <div class="circle">
+                                                                <i class="fa-brands fa-whatsapp"></i>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div> -->
+                                </div>
+                                <div class="col-5 text-left">
+                                    <div class="header-content p-0">
+                                        <div class="content_header" style="max-width: 100%;">
+                                            <ul class="header_options">
+                                                                                                        <li class="weather_plug mr-3 d-inline-block d-xl-none">
+                                                           26°<img src="https://openweathermap.org/img/w/01d.png" class="weather-icon" alt="Weather Image" />                                                         </li>
+                                                                                                    </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mt-3"></div>
+                            <div class="row no-gutters align-items-end">
+                                <div class="col-7">
+                                    <div class="header-content p-0">
+                                        <div class="content_header" style="max-width: 100%;">
+                                            <ul class="header_options">
+                                                <li>
+                                                    <a title="RSS Feed" href="https://www.almowaten.net/feed">
+                                                        <div class="links dark-white">
+                                                            <img width="75" height="79" class="img-fluid rss-width pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/rss.jpg" alt="Al Mouwaten">
+                                                        </div>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a title="Google Feed" href="https://news.google.com/publications/CAAiEM6Ir2ScWhd5mAOdFooDh2gqFAgKIhDOiK9knFoXeZgDnRaKA4do?hl=en-US&gl=US&ceid=US:en" target="_blank" rel="noopener">
+                                                        <div class="links dark-white">
+                                                            <img width="26" height="26" class="img-fluid pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/googlefeed.svg" alt="Al Mouwaten">
+                                                        </div>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <div class="links js_search ">
+                                                        <div class="img-light-mode">
+                                                            <img width="17" height="17" class="img-fluid pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/search.svg" alt="Al Mouwaten">
+                                                        </div>
+                                                        <div class="img-dark-mode">
+                                                            <img width="17" height="17" class="img-fluid pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/dark/search.svg" alt="Al Mouwaten">
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-5 text-left">
+                                    <div class="notes pb-3">
+                                        مرخصة من وزارة الاعلام
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <div  class="site-page">
+            <!-- Twitter Here -->
+            
+            <!-- <div class="twitter-tab position-relative" style="overflow: hidden;">
+                            </div> -->
+            
+            <!-- End Twitter -->
+            <div  class="breaking-news-section">
+                            </div>
+            
+   
+                         
+                       
+                                    
+            <div  class="blur_body"></div>
+
+<div  class="single-page js_single" data-ads="43">
+    <div class="container">
+        <div class="row" id="part_1">
+            <div class="col-12 text-right">
+                <div class="text-center ad-v mb-4">
+                    <ins class="adsbygoogle"  style="display:block" data-ad-client="ca-pub-6374050127353171" data-ad-slot="1890684948"  data-ad-format="auto" data-full-width-responsive="true"></ins>
+                            <script type="rocketlazyloadscript">
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                           </script>
+                           
+                           </div>
+                <div class="mb-2">
+                                                    <a href="https://www.almowaten.net/category//info/">
+                                    <div class="category d-inline-block">
+                                        منوعات                                    </div>
+                                </a>
+                                                </div>
+                <div class="header_section">
+                                        <h1 class="d-block">
+                        خواطر قصيرة عن الامل                    </h1>
+                </div>
+                 </div>
+            <div class="col-lg-8 text-right">
+                <div class="row align-items-center">
+                    <div class="col-sm-6">
+                        <div class="date">
+                            الجمعة ٢٣ أكتوبر ٢٠٢٠ الساعة ١٢:٢٦ مساءً                        </div>
+                    </div>
+                    <div class="col-sm-6 text-left">
+                        <div class="hover_share_icon mt-3 mt-sm-0">
+    <ul class="share">
+        
+           <li class="twitter_share" ><a
+                onClick="window.print()"
+                href="#"><i class="fa fa-print" style="color:#666"></i></a></li>
+                
+       <li class="telegram_share">
+         <a href="https://telegram.me/share/url?url=https%3A%2F%2Fwww.almowaten.net%3Fp%3D3120717" target="_blank">
+           <i class="fa-brands fa-telegram"></i>
+         </a>
+       </li>
+     
+        <li class="facebook_share"><a
+                onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.almowaten.net%3Fp%3D3120717', 'Facebook-dialog', 'width=626,height=436')"
+                href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+        <li class="twitter_share"><a
+                onclick="window.open('https://twitter.com/intent/tweet/?text=%D8%AE%D9%88%D8%A7%D8%B7%D8%B1+%D9%82%D8%B5%D9%8A%D8%B1%D8%A9+%D8%B9%D9%86+%D8%A7%D9%84%D8%A7%D9%85%D9%84&url=https%3A%2F%2Fwww.almowaten.net%3Fp%3D3120717', 'Twitter-dialog', 'width=626,height=436')"
+                href="#"><i><img width="43" height="16" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/tweeter.webp"></i></a></li>
+        <li class="whatsapp_share">
+            <a class="whatsapp_trigger"
+               href="https://web.whatsapp.com/send?phone=&text=خواطر قصيرة عن الامل : https%3A%2F%2Fwww.almowaten.net%3Fp%3D3120717">
+                   <i class="fa-brands fa-whatsapp"></i>
+               </a>
+            <a class="whatsapp_trigger mobileWhatsapp"
+               href="whatsapp://send?text=خواطر قصيرة عن الامل : https%3A%2F%2Fwww.almowaten.net%3Fp%3D3120717" data-action="share/whatsapp/share">
+                   <i class="fa-brands fa-whatsapp"></i>
+               </a>
+        </li>
+                
+                
+       
+        <li class="share_icon">
+            <i class="fa-solid fa-share-nodes"></i>
+        </li>
+        
+
+
+    </ul>
+</div>
+<div class="clearfix"></div>                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-start">
+            <div class="col-lg-8 order-1 order-lg-1">
+                <div id="part_2">
+                    <div class="space_content">
+                        <div class="thumbnail_container">
+                            <img fetchpriority="high" width="600" height="482" src="https://www.almowaten.net/wp-content/uploads/2020/10/1081.jpg" class="thumbnail img-fluid w-100 wp-post-image" alt="خواطر قصيرة عن الامل" decoding="async" srcset="https://www.almowaten.net/wp-content/uploads/2020/10/1081.jpg 600w, https://www.almowaten.net/wp-content/uploads/2020/10/1081-120x96.jpg 120w" sizes="(max-width: 600px) 100vw, 600px" />                        </div>
+                                                                                <div class="mb-2 mb-sm-4">
+                                    
+                                </div>
+                                                        
+                         <div class="text-center mb-4">
+                             <ins class="adsbygoogle"
+                                    style="display:block"
+                                    data-ad-client="ca-pub-6374050127353171"
+                                    data-ad-slot="2280679134"
+                                    data-ad-format="auto"
+                                    data-full-width-responsive="true"></ins>
+                                <script type="rocketlazyloadscript">
+                              (adsbygoogle = window.adsbygoogle || []).push({});
+                               </script>
+
+                         </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 order-3 order-lg-2">
+                <div class="related_section mb-4 mb-lg-0">
+                    <div class="row">
+                        <div class="col-12 order-2 order-lg-1">
+                                                                <div class="part_2_right">
+                                        <h2>
+                                            مواضيع ذات علاقة
+                                        </h2>
+                                        <ul class="related_list">
+                                                                                                <li>
+                                                        <a class="d-inline-flex" href="https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84-2/">
+                                                            <i class="fa-solid fa-chevron-left"></i>
+                                                            <span class="d-inline-block">خواطر قصيرة عن الامل</span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a class="d-inline-flex" href="https://www.almowaten.net/2020/10/%d9%83%d9%84%d9%85%d8%a7%d8%aa-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%a4%d9%84-%d9%88%d8%a7%d9%84%d8%a7%d9%85%d9%84-%d9%88%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad/">
+                                                            <i class="fa-solid fa-chevron-left"></i>
+                                                            <span class="d-inline-block">كلمات عن التفاؤل والامل والنجاح</span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a class="d-inline-flex" href="https://www.almowaten.net/2020/09/%d9%83%d9%84%d9%85%d8%a7%d8%aa-%d8%ac%d9%85%d9%8a%d9%84%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%a4%d9%84/">
+                                                            <i class="fa-solid fa-chevron-left"></i>
+                                                            <span class="d-inline-block">كلمات جميلة عن التفاؤل</span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a class="d-inline-flex" href="https://www.almowaten.net/2020/09/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d8%ac%d9%85%d9%8a%d9%84%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9/">
+                                                            <i class="fa-solid fa-chevron-left"></i>
+                                                            <span class="d-inline-block">خواطر جميلة عن الحياة</span>
+                                                        </a>
+                                                    </li>
+                                                                                            </ul>
+                                    </div>
+                                                            </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-8 order-2 order-lg-3">
+                <div class="">
+                    <div class="row align-items-start text-right" id="part_3">
+                        <div class="col-lg-3">
+                            
+                        </div>
+                        
+                        
+                        <div class="col-lg-9">
+
+                            <div class="content">
+                              <!--<script type="rocketlazyloadscript" id="_vidverto-d446d066a3a90423dedd2f443cf33759">!function(v,t,o){var a=t.createElement("script");a.src="https://ad.vidverto.io/vidverto/js/aries/v1/invocation.js",a.setAttribute("fetchpriority","high");var r=v.top;r.document.head.appendChild(a),v.self!==v.top&&(v.frameElement.style.cssText="width:0px!important;height:0px!important;"),r.aries=r.aries||{},r.aries.v1=r.aries.v1||{commands:[]};var c=r.aries.v1;c.commands.push((function(){var t=v.frameElement||"#_vidverto-d446d066a3a90423dedd2f443cf33759";c.mount("9285",t,{width:720,height:405})}))}(window,document);</script>-->
+
+
+                                <h2>خواطر قصيرة عن الامل</h2>
+<p>الأمل لابد منه لأنه هو الثقة بالله لأن القادم هو الأجمل لذلك كتبت <strong>خواطر قصيرة عن الامل </strong>تحث الأفراد على ضرورة طرد اليأس والتمسك بالأمل والثقة بأن غدًا هو الاجمل.</p>
+<h3>التفاؤل والأمل</h3>
+<p>قال موقع <strong>المواطن</strong> أن التفاؤل والأمل وجهين لعملة واحدة وهي حب الحياة والرضى بقضاء الله وقدره مهما مر الشخص بتجارب قاسية يجب أن يتمسك بالأمل لأن ما يعبر به هو بمثابة دروس تعطيه خبرة في فن التعامل مع الحياة المتغيرة.</p><div class="border-row">
+                <div class="title-section"> قد يهمّك أيضاً     </div>
+                <div class="row align-items-start">
+                    <div class="col-xl-6  ?>">
+                        <div class="row no-gutters align-items-start">
+                            <div class="col-5 col-sm-5">
+                                <a href="https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84-2/">
+                                    <div class="image-frame"><img decoding="async" width="307" height="233" src="https://www.almowaten.net/wp-content/uploads/2020/10/خواطر-قصيرة-عن-الامل.jpg" class="img-fluid m-0 wp-post-image" alt="خواطر قصيرة عن الامل" srcset="https://www.almowaten.net/wp-content/uploads/2020/10/خواطر-قصيرة-عن-الامل.jpg 500w, https://www.almowaten.net/wp-content/uploads/2020/10/خواطر-قصيرة-عن-الامل-120x91.jpg 120w, https://www.almowaten.net/wp-content/uploads/2020/10/خواطر-قصيرة-عن-الامل-90x68.jpg 90w" sizes="(max-width: 307px) 100vw, 307px" /></div>
+                                </a>
+                            </div>
+                            <div class="col-7 col-sm-7">
+                                <a href="https://www.almowaten.net/2020/10/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84-2/">
+                                    <h3 class="mt-0 mr-2">
+                                       خواطر قصيرة عن الامل
+                                    </h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-xl-6 d-none d-xl-block ?>">
+                        <div class="row no-gutters align-items-start">
+                            <div class="col-5 col-sm-5">
+                                <a href="https://www.almowaten.net/2020/10/%d9%83%d9%84%d9%85%d8%a7%d8%aa-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%a4%d9%84-%d9%88%d8%a7%d9%84%d8%a7%d9%85%d9%84-%d9%88%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad/">
+                                    <div class="image-frame"><img decoding="async" width="233" height="233" src="https://www.almowaten.net/wp-content/uploads/2020/10/tumblr_n02jn3CR431sgkqqfo1_500.gif" class="img-fluid m-0 wp-post-image" alt="كلمات عن التفاؤل والامل والنجاح" /></div>
+                                </a>
+                            </div>
+                            <div class="col-7 col-sm-7">
+                                <a href="https://www.almowaten.net/2020/10/%d9%83%d9%84%d9%85%d8%a7%d8%aa-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%a4%d9%84-%d9%88%d8%a7%d9%84%d8%a7%d9%85%d9%84-%d9%88%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad/">
+                                    <h3 class="mt-0 mr-2">
+                                       كلمات عن التفاؤل والامل والنجاح
+                                    </h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div></div>
+<p>بالأمل والثقة بالله يستطيع الفرد أن يتلقى جميع الأخبار المحزنة بصدر رحب لأنه يعلم أن الله لم يفعل إلا الخير وأن الله سوف يعوضه في المستقبل عاجلاً أو آجلاً.</p>
+<p>جميع الفلاسفة والعلماء دعوا إلى الأمل والاهتمام نصف الكوب الممتلئ وترك النصف الآخر الفارغ حفاظًا على صحة الفرد بدلاً من أن يمرض بسبب قلقه حزنه الدائم على ما فقده.</p>
+<p>يجب علينا أن نترك ما فات من أخطاء وننظر إلى الإمام لأن النظر للخلف على ما فات لم يعدل شيء ولا يغير ما أخطأنا فيه بل الجيد ان ننظر للأمام ونغير طريقة تفكيرنا لتلاشى الوقوع في نفس الخطأ.</p>
+<h3>أجمل العبارات عن الامل</h3>
+<ul>
+<li>من أجمل ما قيل من <strong>خواطر قصيرة عن الأمل </strong>هي أن الإنسان يمكنه أن يعيش ويتعايش مع الحياة حتى وإن كان كفيف ولكنه لا يستطيع أن يعيش ويتعايش مع الحياة إذا كان يائس.</li>
+<li>الأمل بمثابة المنفذ الوحيد في متاهة الحياة يجب أن تتمسك به خوفًا من أن تهلك في متاهات الحياة وتفقد في طرقها التي ليس لديها نهاية.</li>
+<li>إن الإنسان في تكوينه النفسي يشبه المعدن الذي يصدأ ويتلف باليأس ويزدهر ويلمع إذا اهتم به الشخص وعمل على إمدادات بالأمل ويجب أن يحرص من الألم لان المعدن قد يضمر منه.</li>
+<li>الأمل بمثابة الطاقة المتجددة التي لا تفنى أبدًا.</li>
+<li>إذا سقى الإنسان روحه بالأمل ترعرعت مثل الوردة وتفتحت وأصبح رحيقها يفوق في كل مكان ويجلب للأشخاص طاقة إيجابية.</li>
+<li>الأمل هو أحد أفرع الإيمان بالله لأن وجود الأمل يعني وجود الثقة بالله بأن الآتي أفضل.</li>
+<li>إذا تملك منك اليأس أطرد بركعة لله وسجده تدعو الله بها فإن الدعوة في أذن الأرض يسمعها من في السماء ودعوة قيام الليل والناس نيام مستجابة بأمر الله.</li>
+</ul>
+<h3>قصيدة أحمد مطر عن التفاؤل والأمل</h3>
+<p style="text-align: center;">دق بابي كائن يحمل أغلا العبيد بشع..</p>
+<p style="text-align: center;">في فمه عدوى وفــــــــــــــــي كفه نعي</p>
+<p style="text-align: center;">وبعينـــــــــــــــــــــــــــــــــــيه وعيد</p>
+<p style="text-align: center;">رأسه ما بين رجــــليه ورجلاه دماء</p>
+<p style="text-align: center;">وذراعـــــــــــــــــــــــــــــــــاه صديد</p>
+<p style="text-align: center;">قال: عندي لــــــــــــــــــــــك بشرى</p>
+<p style="text-align: center;">قلت: خــــــــــــــــــــــــــــــــــــيرًا؟!</p>
+<p style="text-align: center;">قال: ســـــــــــــــــــــــــــــــــــــــجل..</p>
+<p style="text-align: center;">حزنك الماضي سيغدو محض الذكرى</p>
+<p style="text-align: center;">سوف ستبدل بـــــــــــــــالقهر الشديد!</p>
+<p style="text-align: center;">إن تكن تســـــــــــــــــــــكن بالأجر</p>
+<p style="text-align: center;">فلن تدفع بعـــــــــــــــــــد اليوم أجرا</p>
+<p style="text-align: center;">سوف يعطونك بيتًا فيه قضبان حديد!</p>
+<p style="text-align: center;">لم يعد محتــــــــــــــــملاً فتلك غدرًا</p>
+<p style="text-align: center;">إنه أمـــــــــــــــــــــــــــــــــــر أكيد!</p>
+<p style="text-align: center;">قوة الإيمــــــــــــــــــــان فيكم ستزيد</p>
+<p style="text-align: center;">سوف تنجـــــــــــــــــــــــو من النار</p>
+<p style="text-align: center;">فلا يدخل فـــــــــــــــــــي النار شهيد</p>
+<h3>قصيدة أمطري لؤلؤًا للشاعر محمد مصطفى الشافعي</h3>
+<p style="text-align: center;">أمطري لؤلؤًا جبال سرنديب</p>
+<p style="text-align: center;">وفيضي آبـــــــار تكرور تبرا</p>
+<p style="text-align: center;">أنا إن عشت لست أعدم قوتًا</p>
+<p style="text-align: center;">وإذا مت لســـــــت أعدم قبرا</p>
+<p style="text-align: center;">همتي همة المــــــلوك ونفسي</p>
+<p style="text-align: center;">نفس حر تــــــرى المذلة كفرا</p>
+<p style="text-align: center;">وإذا ما قنعت بــالقوت عمري</p>
+<p style="text-align: center;">فلمــــــــاذا أزور زيدًا وعمرا</p>
+<h3>قصيدة لست بقاض أملي للشاعر ابن عبد ربه الأندلسي</h3>
+<p style="text-align: center;">لست بقـــــــاضٍ أملي</p>
+<p style="text-align: center;">ولا بعــــــــــــــادٍ أجلي</p>
+<p style="text-align: center;">ولا بمغلوب على الرزق</p>
+<p style="text-align: center;">الذي قـــــــــــــــــــدر لي</p>
+<p style="text-align: center;">ولا بمعطي رزق غيري</p>
+<p style="text-align: center;">بالشــــــــــــــــقا والعمل</p>
+<p style="text-align: center;">فليت شــعري، ما الذي</p>
+<p style="text-align: center;">أدخلني فـــــــي شغلي؟</p>
+<h3>قصيدة أملي فيه ليأسي قاهر للشاعر ابن الرومي</h3>
+<p style="text-align: center;">أملي فيه ليــــأسي قاهر</p>
+<p style="text-align: center;">فلذا قلبي علــــــــيه صابر</p>
+<p style="text-align: center;">وهو المحسن والمجمل بي</p>
+<p style="text-align: center;">وأنا الراجـــــي له والشاكر</p>
+<p style="text-align: center;">طرفه يخبـــــرني عن قلبه</p>
+<p style="text-align: center;">أنني يومًا عــــــــــليه قادر</p>
+<h3>أقاويل مأثورة عن الأمل والتفاؤل</h3>
+<ul>
+<li>من أجمل <strong>خواطر قصيرة عن الامل </strong>يمان السباعي حين قالت: &#8220;الإنسان دون أمل كالنبات دون ماء ودون ابتسامة كوردة دون رائحة ودون إيمان بالله ..  وحش في قطيع لا يرحم&#8221;.</li>
+<li>قال انطونيو جرامسكي: &#8220;أنا متشائم بسبب الذكاء، ولكنني متفائل بسبب العزيمة&#8221;.</li>
+<li>توماس كارليل كتب <strong>خواطر قصيرة عن الامل </strong>حيث قال: &#8220;العقل القوي دائم الأمل، ولديه دائمًا ما يبعث الأمل&#8221;.</li>
+<li>الدكتور إبراهيم الفقي قال عن الأمل: &#8220;أحيانًا يغلق الله سبحانه وتعالى امامنا بابًا لكي يفتح لنا بابًا آخر أفضل منه، ولكن معظم الناس يضيع تركيزه ووقته وطاقته في النظر إلى الباب الذي أغلق، بدلاً من أن باب الأمل الذي انفتح أمامه على مصراعيه&#8221;.</li>
+<li>توماس أديسون كتب عن الأمل: &#8220;الآمال العظيمة تصنع الأشخاص العظماء&#8221;.</li>
+<li>قال مصطفى السباعي: &#8220;إذا نظرت بعين التفاؤل إلى الوجود، لرأيت الجمال شائعًا في كل ذراته&#8221;.</li>
+</ul>
+<ul>
+<li>قال روبرت شولر عن التفاؤل والأمل: &#8220;ليس المهم ما يحدث لك بل المهم ما الذي ستفعله بما يحدث لك&#8221;.</li>
+<li>إبراهيم الفقي يتحدث عن الأمل والإيجابية وقال:&#8221;يجب ان يكون إحساسك ايجابياً مهما كانت الظروف ومهما كانت التحديات ومهما كان المؤثر الخارجي&#8221;.</li>
+<li>جيروم: &#8220;الأفضل دائمًا أن نتطلع للغمام بدلاً من النظر إلى الخلف&#8221;.</li>
+<li>الزعيم مصطفى كامل قال عن الأمل:&#8221;لا يأس مع الحياة ولا حياة مع اليأس&#8221;.</li>
+<li>إبراهيم الفقي قال: &#8220;استعن بالله ولا تعجز&#8221;.</li>
+<li>جون ناريمور كتب عن الأمل وقال:&#8221;يصبح الإنسان عجوزًا حين تحل الأعذار محل الأمل&#8221;.</li>
+<li>الشاعر جبران خليل جبران قال:&#8221;هناك من يتذمر لأن للورد شوكًا، وهناك من يتفاءل لأن فوق الشوك وردة&#8221;.</li>
+<li>ألبير ساميه تحدث عن الأمل وذكر أن: &#8220;إذا شعرت بالشتائم، تأمل الوردة&#8221;.</li>
+<li>علي أدهم قال:&#8221;الفرق بين نظرة الإسلام والنظرة التشاؤمية، هو أن الإسلام ينظر للحياة كما ينبغي أن تكون، أما التشاؤم فإنه ينظر للحياة كما هي&#8221;.</li>
+</ul>
+</p>                                
+                                  
+                </div>
+
+                                   <div class="fixed_ad d-none d-lg-block">
+                                 
+                                                                    <ins class="adsbygoogle"
+                                        style="display:block; text-align:center;"
+                                        data-ad-layout="in-article"
+                                        data-ad-format="fluid"
+                                        data-ad-client="ca-pub-6374050127353171"
+                                        data-ad-slot="4744341867"></ins>
+                                    <script type="rocketlazyloadscript">(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                                   
+                                                            </div>    
+                                                                <div class="text-center">
+                                                 <!--speakol-->
+                            
+              <script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/widget/js/speakol-widget-v2.js?ver=1766880001"></script>
+                <div class="speakol-widget" id="sp-wi-2109">
+                    <script type="rocketlazyloadscript">
+                        (spksdk = window.spksdk || []).push({
+                            widget_id: "wi-2109",
+                            element: "sp-wi-2109"
+                        });
+                    </script>
+                </div>
+                                                                    </div>
+                                                                                                        <ul class="tags">
+                                                                                                <li>
+                                                        <a href="https://www.almowaten.net/tag/%d8%a3%d8%ac%d9%85%d9%84-%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d9%85%d9%84/">
+                                                            # أجمل العبارات عن الامل                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d8%a3%d9%82%d8%a7%d9%88%d9%8a%d9%84-%d9%85%d8%a3%d8%ab%d9%88%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%84-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%a4%d9%84/">
+                                                            # أقاويل مأثورة عن الأمل والتفاؤل                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%a4%d9%84-%d9%88%d8%a7%d9%84%d8%a3%d9%85%d9%84/">
+                                                            # التفاؤل والأمل                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d8%aa%d8%b9%d8%a8%d9%8a%d8%b1-%d8%b9%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%84-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9/">
+                                                            # تعبير عن الأمل في الحياة                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d8%b9%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%84-%d8%aa%d9%88%d9%8a%d8%aa%d8%b1/">
+                                                            # خواطر عن الأمل تويتر                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d8%b9%d9%86-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%88%d8%a7%d9%84%d9%86%d8%a7%d8%b3/">
+                                                            # خواطر عن الحياة والناس                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d8%ae%d9%88%d8%a7%d8%b7%d8%b1-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%84/">
+                                                            # خواطر قصيرة عن الأمل                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d8%b9%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%84-%d9%88%d8%a7%d9%84%d8%b5%d8%a8%d8%b1/">
+                                                            # عبارات عن الأمل والصبر                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d8%b9%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%84-%d9%88%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad/">
+                                                            # عبارات عن الأمل والنجاح                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d9%82%d8%b5%d9%8a%d8%af%d8%a9-%d8%a3%d8%ad%d9%85%d8%af-%d9%85%d8%b7%d8%b1-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%a4%d9%84-%d9%88%d8%a7%d9%84%d8%a3%d9%85%d9%84/">
+                                                            # قصيدة أحمد مطر عن التفاؤل والأمل                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d9%83%d9%84%d9%85%d8%a7%d8%aa-%d8%b9%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%84-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%a4%d9%84/">
+                                                            # كلمات عن الأمل والتفاؤل                                                        </a> 
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://www.almowaten.net/tag/%d9%85%d9%82%d9%88%d9%84%d8%a7%d8%aa-%d8%b9%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d9%84-%d9%88%d8%b9%d8%af%d9%85-%d8%a7%d9%84%d9%8a%d8%a3%d8%b3/">
+                                                            # مقولات عن الأمل وعدم اليأس                                                        </a> 
+                                                    </li>
+                                                                                            </ul>
+                                                                        
+                               
+
+                            </div>
+                            
+                            <div class="google_news_tab">
+                                <a href="https://news.google.com/publications/CAAiEM6Ir2ScWhd5mAOdFooDh2gqFAgKIhDOiK9knFoXeZgDnRaKA4do?hl=en-US&gl=US&ceid=US:en" target="_blank" rel="noopener">
+                                    <img width="26" height="26" class="img-fluid pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/googlefeed.svg" alt="Al Mouwaten"> 
+                                    تابعوا آخر أخبار صحيفة المواطن على
+                                   
+                                        Google news
+                                </a>
+                            </div>
+                              <div class="google_news_tab">
+                                <a href="https://whatsapp.com/channel/0029Va83f2rBA1eylafdOM2b" target="_blank" rel="noopener">
+                                    <img width="26" height="26" class="img-fluid pointer" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/whats-app.svg" alt="Al Mouwaten"> 
+
+                                                  
+                                  تابعوا قناة المواطن على واتساب
+                                </a>
+                            </div>
+                            
+               
+
+                                                    </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="separator mt-5"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 order-4 order-lg-4">
+                <div class="related_section">
+                    <div class="row">
+                        <div class="col-12 order-1 order-lg-2">
+                            <div class="fixed_ad_2">    
+                                <div class="ad mb-4 mb-lg-0">
+                                                                        
+                                    <!-- square300 -->
+                                    <!--<ins class="adsbygoogle"-->
+                                    <!--    style="display:inline-block;width:300px;height:250px"-->
+                                    <!--    data-ad-client="ca-pub-6374050127353171"-->
+                                    <!--    data-ad-slot="9545064798"></ins>-->
+                                    <!--<script type="rocketlazyloadscript">(adsbygoogle = window.adsbygoogle || []).push({});</script>-->
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">   
+            <div class="col-lg-10 col-xl-8">
+                <div class="ad mt-5 mb-5">
+                                           <!-- 728x90 desktop -->
+                       <!--<ins class="adsbygoogle"-->
+                       <!--     style="display:inline-block;width:728px;height:90px"-->
+                       <!--     data-ad-client="ca-pub-6374050127353171"-->
+                       <!--     data-ad-slot="3115099330"></ins>-->
+                       <!-- <script type="rocketlazyloadscript">(adsbygoogle = window.adsbygoogle || []).push({});</script>-->
+                                    </div>
+            </div>
+        </div> 
+        <div class="read_more homepage">
+            <div class="all_news">
+                <div class="row align-items-start">
+                    <div class="col-xl-9">
+                        <h2 class="text-right">
+                            إقرأ المزيد
+                        </h2>
+                                            </div>
+                    <div class="col-xl-3">
+                        <div class="d-none d-xl-block">
+                                                            <ins class="adsbygoogle"
+                                    style="display:block; text-align:center;"
+                                    data-ad-layout="in-article"
+                                    data-ad-format="fluid"
+                                    data-ad-client="ca-pub-6374050127353171"
+                                    data-ad-slot="4744341867"></ins>
+                                <script type="rocketlazyloadscript">(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </div>
+</div>
+    </div> <!-- Site Page -->
+    <div  class="all_footer position-relative">
+                                        <div  class="most_read_section">
+                                    </div>
+                        <div  class="subscribe">
+                    </div>
+        <div  class="blur_footer"></div>
+        <footer  class="site-footer">
+                        <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg-7 text-right">
+                        <h3>
+                            أخبار
+                        </h3>
+                        <div class="line"></div>
+                        <div class="row">
+                                                                <div class="col-6 col-xl-3 order-1 order-xl-1">
+                                        <ul class="list">
+                                            <li>
+                                                <a title="فيديو المواطن" href="https://www.almowaten.net/videos/">
+                                                    فيديو المواطن
+                                                </a>
+                                            </li>
+                                                                                                    <li>
+                                                            <a title="حصاد اليوم" href="https://www.almowaten.net/category/%d8%ad%d8%b5%d8%a7%d8%af-%d8%a7%d9%84%d9%8a%d9%88%d9%85/">
+                                                                حصاد اليوم                                                            </a>
+                                                        </li>
+                                                                                                                <li>
+                                                            <a title="حساب المواطن" href="https://www.almowaten.net/category/%d8%ad%d8%b3%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86/">
+                                                                حساب المواطن                                                            </a>
+                                                        </li>
+                                                                                                                <li>
+                                                            <a title="السياحة والسفر" href="https://www.almowaten.net/category/tourism/">
+                                                                السياحة والسفر                                                            </a>
+                                                        </li>
+                                                                                                                <li>
+                                                            <a title="السوق" href="https://www.almowaten.net/category/market/">
+                                                                السوق                                                            </a>
+                                                        </li>
+                                                                                                                <li>
+                                                            <a title="تقارير" href="https://www.almowaten.net/category/reports/">
+                                                                تقارير                                                            </a>
+                                                        </li>
+                                                                                                </ul>
+                                    </div>
+                                    <div class="col-6 col-xl-3 order-3 order-xl-2">
+                                        <ul class="list">
+                                                                                                    <li>
+                                                            <a title="العالم" href="https://www.almowaten.net/category/world/">
+                                                                العالم                                                            </a>
+                                                        </li>
+                                                                                                                <li>
+                                                            <a title="تكنولوجيا" href="https://www.almowaten.net/category/tech/">
+                                                                تكنولوجيا                                                            </a>
+                                                        </li>
+                                                                                                                <li>
+                                                            <a title="مشاهير" href="https://www.almowaten.net/category/%d9%85%d8%b4%d8%a7%d9%87%d9%8a%d8%b1/">
+                                                                مشاهير                                                            </a>
+                                                        </li>
+                                                                                                                <li>
+                                                            <a title="غرائب" href="https://www.almowaten.net/category/%d8%ba%d8%b1%d8%a7%d8%a6%d8%a8/">
+                                                                غرائب                                                            </a>
+                                                        </li>
+                                                                                                                <li>
+                                                            <a title="زيارات ملكية" href="https://www.almowaten.net/category/royal-visits/">
+                                                                زيارات ملكية                                                            </a>
+                                                        </li>
+                                                                                                                <li>
+                                                            <a title="المواطن ديجيتال" href="https://www.almowaten.net/category/%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86-%d8%af%d9%8a%d8%ac%d9%8a%d8%aa%d8%a7%d9%84/">
+                                                                المواطن ديجيتال                                                            </a>
+                                                        </li>
+                                                                                                </ul>
+                                    </div>
+                                    <div class="col-6 col-xl-3 order-2 order-xl-3">
+                                        <ul class="list">
+                                                                                                    <li>
+                                                            <a title="جولة ولي العهد" href="https://www.almowaten.net/category/%d8%ac%d9%88%d9%84%d8%a9-%d9%88%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d9%87%d8%af/">
+                                                                جولة ولي العهد                                                            </a>
+                                                        </li>
+                                                                                                </ul>
+                                    </div>
+                                    <div class="col-6 col-xl-3 order-4 order-xl-4">
+                                        <ul class="list">
+                                                                                    </ul>
+                                    </div>
+                                                        </div>
+                    </div>
+                    <div class="col-lg-5 text-right">
+                        <div class="row">
+                            <div class="col-5">
+                                                                        <ul class="mt-3 mt-lg-0">
+                                                                                                <li>
+                                                        <a title="أعلن معنا" href="https://almowaten.net/%d8%a3%d8%b9%d9%84%d9%86-%d9%85%d8%b9%d9%86%d8%a7/">
+                                                            <h3>
+                                                                أعلن معنا                                                            </h3>
+                                                        </a>
+                                                        <div class="line"></div>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a title="اتصل بنا" href="https://www.almowaten.net/%d8%a5%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/">
+                                                            <h3>
+                                                                اتصل بنا                                                            </h3>
+                                                        </a>
+                                                        <div class="line"></div>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a title="من نحن" href="https://www.almowaten.net/%d9%85%d9%86-%d9%86%d8%ad%d9%86/">
+                                                            <h3>
+                                                                من نحن                                                            </h3>
+                                                        </a>
+                                                        <div class="line"></div>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a title="سياسة الخصوصية" href="https://almowaten.net/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9/">
+                                                            <h3>
+                                                                سياسة الخصوصية                                                            </h3>
+                                                        </a>
+                                                        <div class="line"></div>
+                                                    </li>
+                                                                                            </ul>
+                                                                    </div>
+                            <div class="col-7">
+                                <h3 class="mt-3 mt-lg-0">
+                                    تابعنا
+                                </h3>
+                                <div class="line"></div>
+                                <ul class="socialmedia">
+                                    <li>
+                                        <a title='Facebook' href="https://www.facebook.com/almowaten" target="_blank" rel="noopener"><i class="fa-brands fa-facebook-f"></i></a>
+                                    </li>
+                                    <li>
+                                        <a title='Twitter' href="https://twitter.com/almowatennet" target="_blank" rel="noopener"><i><img width="43" height="16" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/tweeter.webp" alt="twitter" ></i></a>
+                                    </li>
+                                    <li>
+                                        <a title='Instagram' href="https://www.instagram.com/almowaten/" target="_blank" rel="noopener"><i class="fa-brands fa-instagram"></i></a>
+                                    </li>
+                                    <li>
+                                        <a title='YouTube' href="https://www.youtube.com/channel/UCnHG3RFOKieO-zW7b8vwhxg" target="_blank" rel="noopener"><i class="fa-brands fa-youtube"></i></a>
+                                    </li>
+                                    <li>
+                                        <a title='Snapchat' href="https://www.snapchat.com/add/almowaten" target="_blank" rel="noopener"><i class="fa-brands fa-snapchat"></i></a>
+                                    </li>
+                                    <li>
+                                        <a title='Threads' href="https://www.threads.net/@almowaten1" target="_blank" rel="noopener"><i><img width="18" height="21" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/threads.svg"></i></a>
+                                    </li>
+                                </ul>
+                                <p>
+                                    المشاركات والتعليقات المنشورة بأسماء أصحابها أو بأسماء مستعارة لاتمثل الرأي الرسمي لصحيفة (المواطن) الإلكترونية بل تمثل وجهة نظر كاتبها
+                                </p>
+                                <div class="d-none d-sm-block">   
+                                    <span>
+                                        © 2022 جميع الحقوق محفوظة لصحيفة المواطن الإلكترونية
+                                    </span>
+                                    <span>
+                                        تصميم وتطوير
+                                    </span>
+                                    <a title="TriangleMena" href="https://trianglemena.com/" target="_blank" rel="noopener">
+                                        <img width="111" height="35" class="img-fluid mt-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/triangle.svg" alt="Triangle Mena">
+                                    </a>
+                                </div>  
+                            </div>
+                            <div class="col-5"></div>
+                            <div class="col-12 col-sm-7 text-center text-sm-right">
+                                <div class="d-block d-sm-none">   
+                                    <span>
+                                        © 2022 جميع الحقوق محفوظة لصحيفة المواطن الإلكترونية
+                                    </span>
+                                    <span>
+                                        تصميم وتطوير
+                                    </span>
+                                    <a title="TriangleMena" href="https://trianglemena.com/" target="_blank" rel="noopener">
+                                        <img width="111" height="35" class="img-fluid mt-2" src="https://www.almowaten.net/wp-content/themes/TriTheme/assets/images/triangle.svg" alt="Triangle Mena">
+                                    </a>
+                                </div>  
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/TriTheme\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/wp-content/plugins/cbxwpbookmark/assets/js/cbxwpbookmark-events.js?ver=1766880001" id="cbxwpbookmark-events-js"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/wp-content/plugins/cbxwpbookmark/assets/vendors/awesome-notifications/script.js?ver=1766880001" id="awesome-notifications-js"></script>
+<script type="text/javascript" id="cbxwpbookmarkpublicjs-js-extra">
+/* <![CDATA[ */
+var cbxwpbookmark = {"ajaxurl":"https:\/\/www.almowaten.net\/wp-admin\/admin-ajax.php","nonce":"46b0e202e4","cat_template":"\"\"","category_delete_success":"Category deleted successfully","category_delete_error":"Unable to delete the category","are_you_sure_global":"Are you sure?","are_you_sure_delete_desc":"Once you delete, it's gone forever. You can not revert it back.","areyousuretodeletecat":"Are you sure you want to delete this Bookmark Category?","areyousuretodeletebookmark":"Are you sure you want to delete this Bookmark?","bookmark_failed":"Failed to Bookmark","bookmark_removed":"Bookmark Removed","bookmark_removed_empty":"All Bookmarks Removed","bookmark_removed_failed":"Bookmark Removed Failed","error_msg":"Error loading data. Response code = ","category_name_empty":"Category name can not be empty","add_to_head_default":"Click Category to Bookmark","add_to_head_cat_list":"Click to Edit Category","add_to_head_cat_edit":"Edit Category","add_to_head_cat_create":"Create Category","no_cats_found":"No category found","add_to_head_max_cat":"Maximum category limit reached","max_cat_limit":"0","max_cat_limit_error":"Sorry, you reached the maximum category limit and to create one one, please delete unnecessary categories first","user_current_cat_count":"0","user_current_cats":"","user_can_create_cat":"1","bookmark_mode":"no_cat","bookmark_not_found":"No bookmarks found","load_more":"Load More ...","category_default_status":"1","delete_all_bookmarks_by_user_confirm":"Are you sure to delete all of your bookmarks? This process can not be undone.","awn_options":{"tip":"Tip","info":"Info","success":"Success","warning":"Attention","alert":"Error","async":"Loading","confirm":"Confirmation","confirmOk":"OK","confirmCancel":"Cancel"},"shareurl_html":"<div class=\"shareurl_modal\"><h3>Copy and Share Url<\/h3><div class=\"shareurl_copy\"><input readonly class=\"shareurl_copy_input\" name=\"shareurl_copy_input\" type=\"text\" value=\"##share_url##\" \/><button data-url=\"##share_url##\" class=\"shareurl_copy_btn\">Copy<\/button><\/div><\/div>","shareurl_trans":{"copy":"Copy","copied":"Copied"}};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/wp-content/plugins/cbxwpbookmark/assets/js/cbxwpbookmark-public.js?ver=1766880001" id="cbxwpbookmarkpublicjs-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="google-invisible-recaptcha-js-before">
+/* <![CDATA[ */
+var renderInvisibleReCaptcha = function() {
+
+    for (var i = 0; i < document.forms.length; ++i) {
+        var form = document.forms[i];
+        var holder = form.querySelector('.inv-recaptcha-holder');
+
+        if (null === holder) continue;
+		holder.innerHTML = '';
+
+         (function(frm){
+			var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+            var holderId = grecaptcha.render(holder,{
+                'sitekey': '6Ldkk1AiAAAAAP69-1z58-8tsrwYiTTNAdJgpnhg', 'size': 'invisible', 'badge' : 'bottomright',
+                'callback' : function (recaptchaToken) {
+					if((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}
+					 HTMLFormElement.prototype.submit.call(frm);
+                },
+                'expired-callback' : function(){grecaptcha.reset(holderId);}
+            });
+
+			if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
+				jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){
+					clickEvt.preventDefault();
+					grecaptcha.execute(holderId);
+				});
+			}
+			else
+			{
+				frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
+			}
+
+
+        })(form);
+    }
+};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" async defer data-rocket-src="https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&amp;render=explicit" id="google-invisible-recaptcha-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/%d8%a7%d8%b1%d8%b3%d9%84-%d8%a8%d8%b1%d9%82%d9%8a%d8%a9\/|\/ads.txt|\/(.*)sitemap(.*).xml|\/(.*)sitemap.xsl|\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/www.almowaten.net","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/themes/TriTheme/src/libraries/bootstrap/popper.min.js?ver=4.0.0" id="alm-popper-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/themes/TriTheme/src/libraries/bootstrap/bootstrap.min.js?ver=4.0.0" id="alm-bootstrap-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/themes/TriTheme/src/libraries/swiper/swiper.min.js?ver=8.0.6" id="alm-swiper-js"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/wp-content/themes/TriTheme/src/libraries/aos/aos.js?ver=1766880001" id="alm-aos-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/themes/TriTheme/src/libraries/jquery.visible.min.js?ver=1.0" id="alm-jquery-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/themes/TriTheme/src/libraries/jquery.marquee.min.js?ver=1.0" id="alm-marquee-js"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/wp-content/themes/TriTheme/src/libraries/jscroll/jscroll.js?ver=1766880001" id="alm-jscroll-js"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/wp-content/themes/TriTheme/src/libraries/number/js/intlTelInput.js?ver=1766880002" id="alm-intlTelInputmin-js"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/wp-content/themes/TriTheme/src/libraries/number/js/utils.js?ver=1766880002" id="alm-intlTelInputmin-util-js"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/wp-content/themes/TriTheme/assets/scripts.js?ver=1766880002" id="alm-theme-script-js"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/sdks/web/v16/OneSignalSDK.page.js?ver=1766880002" id="remote_sdk-js" defer="defer" data-wp-strategy="defer"></script>
+    
+        <script type="rocketlazyloadscript">
+        var s, r = false;
+        s = document.createElement('script');
+        s.src = "https://cdn.ideanetwork.site/js/AdScript/almowaten/Init.js?" + new Date().toJSON().slice(0, 13);
+        document.getElementsByTagName('body')[0].appendChild(s);
+</script>
+       <!--  <div id="add-box" class="fixed-bottom text-center pb-3 pt-3 bg-white">
+            <button type="button" class="close close-ads-footer mt-1 mr-1" aria-label="Close" on>
+              <span aria-hidden="true">&times;</span>
+            </button>
+            <script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.almowaten.net/wp-content/cache/min/1/widget/js/speakol-widget-v2.js?ver=1766880001"></script>
+            <div class="speakol-widget" id="sp-wi-6387">
+                <script type="rocketlazyloadscript">(spksdk = window.spksdk || []).push({widget_id: "wi-6387",element: "sp-wi-6387"});</script>
+            </div>
+            <script type="rocketlazyloadscript">
+                const box = document.getElementById("add-box");
+                box.addEventListener("click", function handleClick(event) {
+                  box.remove();
+                });
+            </script>
+        </div> -->
+    
+        </div> <!-- site-body -->
+            <script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://tpx.tesseradigital.com/dist/bundle.js" async="true"></script>
+                <script type="rocketlazyloadscript" data-rocket-type="text/javascript" class="teads" data-rocket-src="//a.teads.tv/page/203855/tag" async="true"></script>
+    </body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
