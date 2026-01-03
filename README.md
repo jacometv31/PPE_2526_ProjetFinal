@@ -43,5 +43,11 @@ La génération du nuage de mots via le script generer_wordcloud.py m'a permis d
 
 Linguistiquement, ce résultat démontre que l'espoir dans le web arabophone est perçu comme une force vitale indissociable de la foi et de l'action (العمل). Le nuage de mots sert ainsi de preuve visuelle pour conclure que le terme dépasse la simple émotion pour devenir un moteur de résilience face aux difficultés.
 
+# Analyse Textométrique avec iTrameur :
+
+L'importation de mon corpus dans iTrameur a permis de valider une base de données solide de 96 269 occurrences et 25 897 formes uniques. L'examen du dictionnaire a révélé la place centrale du mot pivot الأمل (l'espoir) avec 1 429 occurrences, tout en mettant en lumière une grande richesse morphologique à travers ses variantes préfixées comme والأمل ou بالأمل. Cette étape confirme que le concept d'espoir est au cœur de structures syntaxiques variées dans le web arabophone.
+
+L'étude des cooccurrences et du réseau sémantique a ensuite démontré un lien statistique très fort entre l'espoir et l'optimisme (والتفاؤل), ainsi qu'une proximité avec les concepts de vie (الحياة) et de foi (بالله). Ces associations, validées par un retour direct au texte via le concordancier, montrent que l'espoir est systématiquement intégré à une dynamique positive. Enfin, l'analyse de la ventilation a révélé que, bien que la première section soit la plus fournie, c'est la section s6 qui présente l'indice de spécificité le plus élevé, désignant cette source comme la plus thématique pour mon étude.
+
 
 
