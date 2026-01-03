@@ -37,4 +37,11 @@ Une fois les données préparées, j'ai utilisé l'outil cooccurrents.py pour ef
 
 Le résultat obtenu sous forme de tableau TSV (Tab-Separated Values) m'a permis d'identifier les termes les plus significatifs associés à l'espoir. Par exemple, le calcul de l'indice de spécificité a mis en avant des cooccurrents forts, révélant la richesse sémantique du mot dans le web arabophone. Cette étape technique, bien que chronophage, a été indispensable pour passer d'une simple lecture de textes à une véritable analyse scientifique de l'environnement lexical de mon mot cible.
 
+# Synthèse Visuelle et Analyse Sémantique (Wordcloud):
+
+La génération du nuage de mots via le script generer_wordcloud.py m'a permis de transformer mes données textuelles en une synthèse graphique immédiate. Ce n'est pas seulement une image, mais une véritable carte sémantique qui valide mes calculs de spécificité : la taille des mots confirme que pour le concept أمل (espoir), les thématiques de la vie (الحياة) et de la spiritualité (الله, الإيمان) sont statistiquement les plus dominantes dans mon corpus.
+
+Linguistiquement, ce résultat démontre que l'espoir dans le web arabophone est perçu comme une force vitale indissociable de la foi et de l'action (العمل). Le nuage de mots sert ainsi de preuve visuelle pour conclure que le terme dépasse la simple émotion pour devenir un moteur de résilience face aux difficultés.
+
+
 
