@@ -1,0 +1,254 @@
+
+   (BUTTON) サイドバーに移動 (BUTTON) 非表示
+     * [28]ページ先頭
+     * [29]1 幸福の期待
+       (BUTTON) 幸福の期待サブセクションを切り替えます
+          + [30]1.1 反応期待
+     * [31]2 期待が信念に与える影響
+     * [32]3 期待の誘出
+     * [33]4 出典
+     * [34]5 関連項目
+     * [35]6 外部リンク
+
+   [ ] 目次の表示・非表示を切り替え
+
+期待
+
+   [ ] 18 個の言語版
+     * [36]العربية
+   表示
+   (BUTTON) サイドバーに移動 (BUTTON) 非表示
+   出典: フリー百科事典『ウィキペディア（Wikipedia）』
+   [75]曖昧さ回避 この項目では、心理としての期待について説明しています。[76]アルノルト・シェーンベルクのオペラについては「[77]期待
+   (オペラ)」を、[78]確率論における見込みについては「[79]期待値」をご覧ください。
+   [80][250px-Dalsgaard%2C_Christen-%22Mon_han_dog_ikke_skulle_komme%3F%22
+   .jpg] 『彼は来ないのかしら？(1879)』。[81]クレステン・ダルスゴーによる絵画。デンマークの[82]ヒアシュプロング美術館より。
+
+   [83]不確実性がある場合、期待（きたい、[84]英:
+   Expectation）とは、最も起こりそうだと考えられることである。期待は[85]未来に焦点を当てた[86]信念であり、現実的であるかどうか
+   は問わない。望ましくない結果は[87]失望（[88]英語版）という[89]感情を引き起こす。まったく予期していなかったことが起きた場合、それは
+   [90]驚きである。他者の行動や成果に関する期待をその人に表明することは、強い要請や命令の性質を持つことがあり、このような期待は[91]社会規
+   範と呼ばれる。何かが真であると期待される度合いは[92]ファジィ論理を用いて表現できる。[93]予期（[94]英語版）は期待に対応する感情であ
+   る。
+
+幸福の期待
+
+   [[95]編集]
+
+   [96]リチャード・ラザルスは、人々は肯定的または否定的な生活経験に慣れることで、現在および近い将来の状況に対して好ましいまたは好ましくない期
+   待を抱くようになると主張している。ラザルスは広く受け入れられている哲学的原則として、「幸福は人の心理的背景状態に依存しており...その人の期待
+   を参照せずに予測することはできない」と述べている^[97][1]。
+
+   幸福または不幸に関して、ラザルスは「客観的な生活条件が困難や剥奪である人々が、しばしば自分の幸福について肯定的な評価をする」一方で、「客観的に
+   恵まれている人々が...しばしば自分の幸福について否定的な評価をする」と指摘している。ラザルスはこの明らかなパラドックスの「最も合理的な説明は
+   、人々が...好ましいまたは好ましくない『期待』を発展させる」ことであると論じている^[98][1]。
+
+反応期待
+
+   [[99]編集]
+
+   著名な心理学研究者であるアーヴィング・カーシュは、「反応期待」について書いており、これは非[100]意志的（[101]英語版）な反応についての
+   期待である。例えば、科学は一般的に新薬をテストする際に被験者の薬に対する期待との関連で「[102]プラセボ効果」を考慮する：例えば、うつ病に効
+   く可能性のある薬を受け取ると期待し、それを服用した後に気分が良くなったが、その薬が実際には塩錠（より一般的には[103]プラセボとして知られる
+   ）だった場合、気分が良くなるという利益（つまり非意志的反応）は、プラセボ（塩錠）の特性ではなく、あなたの期待に基づいているだろう^[104][
+   2]。
+
+期待が信念に与える影響
+
+   [[105]編集]
+
+   社会学者の[106]ロバート・K・マートンは、人の期待は[107]自己成就的予言に直接関連していると述べている。そのような期待が真実であるかど
+   うかは、結果にほとんどまたはまったく影響を与えない。ある人が自分が言われたことを信じるか、または自分自身にその事実を納得させれば、その人は期待
+   を避けられない結論まで見届ける可能性が高い。この種のレッテル付けには、特に教育者にとって固有の危険性がある。子どもたちは特に親や教師のような権
+   威者から言われると特定の信条を簡単に信じるため、教えられたことが事実に基づいていなくても信じる可能性がある。学生や子どもが虚偽の情報に基づいて
+   行動すれば、特定の肯定的または否定的な[108]意図せざる結果が生じる可能性がある。過度に肯定的または高められた期待が人の[109]自己イメー
+   ジ（[110]英語版）を描写または操作するために使用され、実行が期待に達しない場合、結果はその人の[111]自信の完全な逆転になる可能性がある
+   。[112]因果関係または原因と結果の観点から考えると、期待が高く実行が低いほど、欲求不満のレベルは高くなる可能性がある。これが今度は努力の完
+   全な停止を引き起こし、その人に諦めるよう動機付ける可能性がある^[[113]要出典]。
+
+期待の誘出
+
+   [[114]編集]
+
+   期待は経済学における価値計算の中心的な部分である。例えば、結果の[115]主観的期待効用（[116]英語版）を計算するには、結果の価値とその発
+   生確率の両方を知る必要がある。個人の期待を誘出（または測定）する研究者は、標準的な確率の代わりにこれらの信念をモデルに入力することができる。個
+   人の期待を誘出する戦略は現在、米国の[117]健康退職研究（[118]英語版）を含む多くの国際調査に組み込まれている。
+
+   期待の誘出は生存や教育の成果など多くの領域で使用されているが、金融分野で最も顕著かもしれない。期待は理論的に、すべての情報が市場に組み込まれる
+   べきであるという[119]効率的市場仮説のようなモデルや、投資家はより高いリスクレベルに対してより高い（期待される）リターンで補償されなければ
+   ならないという[120]現代ポートフォリオ理論にとって重要である。これらのモデルに従い、実証研究では、株式市場の見通しがより楽観的な消費者はよ
+   りリスクの高い資産を保有する可能性が高く^[121][3]、近い将来に株式を取得する傾向がある^[122][4]ことが見出された。これらの有望
+   な知見を踏まえ、心理学におけるより最近の研究では、株式市場の期待を形成する際に何が思い浮かぶかを探ることで、消費者の期待を駆動する要因を探求し
+   始めている^[123][5]。
+
+出典
+
+   [[154]編集]
+     * [155]ピグマリオン効果
+     * [156]期待理論
+     * [157]不安（期待と対比されることがある概念、心理状態）
+
+外部リンク
+
+   [[158]編集]
+   [159]ウィクショナリーに関連の辞書項目があります。
+   [160]期待
+   [161]典拠管理データベース [162]ウィキデータを編集
+   国立図書館
+     * [163]ドイツ
+     * [166]公文書館（アメリカ）
+     * [167]Yale LUX
+
+   「[168]https://ja.wikipedia.org/w/index.php?title=期待&oldid=105005271」から取
+   得
+   [169]カテゴリ:
+     * [170]認識論の概念
+   (BUTTON) 検索
+
+   [ ] 目次の表示・非表示を切り替え
+   期待
+   (BUTTON) 18 個の言語版 [190]話題を追加
+
+Références
+
+   Liens visibles :
+   1. https://ja.wikipedia.org/w/index.php?title=期待&action=edit
+   2. https://ja.wikipedia.org/w/rest.php/v1/search
+   3. https://ja.wikipedia.org/w/index.php?title=特別:最近の更新&feed=atom
+   4. https://ja.wikipedia.org/wiki/期待#bodyContent
+   5. https://ja.wikipedia.org/wiki/メインページ
+   6. https://ja.wikipedia.org/wiki/Wikipedia:コミュニティ・ポータル
+   7. https://ja.wikipedia.org/wiki/Portal:最近の出来事
+  20. https://ja.wikipedia.org/wiki/メインページ
+  21. https://ja.wikipedia.org/wiki/特別:検索
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=ja.wikipedia.org&uselang=ja
+  23. https://ja.wikipedia.org/w/index.php?title=特別:アカウント作成&returnto=期待
+  24. https://ja.wikipedia.org/w/index.php?title=特別:ログイン&returnto=期待
+  25. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=ja.wikipedia.org&uselang=ja
+  26. https://ja.wikipedia.org/w/index.php?title=特別:アカウント作成&returnto=期待
+  27. https://ja.wikipedia.org/w/index.php?title=特別:ログイン&returnto=期待
+  28. https://ja.wikipedia.org/wiki/期待
+  29. https://ja.wikipedia.org/wiki/期待#幸福の期待
+  30. https://ja.wikipedia.org/wiki/期待#反応期待
+  31. https://ja.wikipedia.org/wiki/期待#期待が信念に与える影響
+  32. https://ja.wikipedia.org/wiki/期待#期待の誘出
+  33. https://ja.wikipedia.org/wiki/期待#出典
+  34. https://ja.wikipedia.org/wiki/期待#関連項目
+  35. https://ja.wikipedia.org/wiki/期待#外部リンク
+  36. https://ar.wikipedia.org/wiki/توقع_(عاطفة)
+  37. https://ca.wikipedia.org/wiki/Expectativa
+  38. https://cv.wikipedia.org/wiki/Кĕтев
+  52. https://tr.wikipedia.org/wiki/Beklenti_(epistemoloji)
+  53. https://uk.wikipedia.org/wiki/Сподівання
+  54. https://www.wikidata.org/wiki/Special:EntityPage/Q1362683#sitelinks-wikipedia
+  55. https://ja.wikipedia.org/wiki/期待
+  56. https://ja.wikipedia.org/w/index.php?title=ノート:期待&action=edit&redlink=1
+  57. https://ja.wikipedia.org/wiki/期待
+  58. https://ja.wikipedia.org/w/index.php?title=期待&action=edit
+  59. https://ja.wikipedia.org/w/index.php?title=期待&action=history
+  60. https://ja.wikipedia.org/wiki/期待
+  61. https://ja.wikipedia.org/w/index.php?title=期待&action=edit
+  62. https://ja.wikipedia.org/w/index.php?title=期待&action=history
+  63. https://ja.wikipedia.org/wiki/特別:リンク元/期待
+  64. https://ja.wikipedia.org/wiki/特別:関連ページの更新状況/期待
+  65. https://ja.wikipedia.org/wiki/Wikipedia:ファイルのアップロード
+  66. https://ja.wikipedia.org/w/index.php?title=期待&oldid=105005271
+  67. https://ja.wikipedia.org/w/index.php?title=期待&action=info
+  68. https://ja.wikipedia.org/w/index.php?title=特別:このページを引用&page=期待&id=105005271&wpFormIdentifier=titleform
+  69. https://ja.wikipedia.org/w/index.php?title=特別:UrlShortener&url=https://ja.wikipedia.org/wiki/%E6%9C%9F%E5%BE%85
+  70. https://ja.wikipedia.org/w/index.php?title=特別:QrCode&url=https://ja.wikipedia.org/wiki/%E6%9C%9F%E5%BE%85
+  71. https://ja.wikipedia.org/w/index.php?title=特別:ブック&bookcmd=book_creator&referer=期待
+  72. https://ja.wikipedia.org/w/index.php?title=特別:DownloadAsPdf&page=期待&action=show-download-screen
+  73. https://ja.wikipedia.org/w/index.php?title=期待&printable=yes
+  74. https://www.wikidata.org/wiki/Special:EntityPage/Q1362683
+  75. https://ja.wikipedia.org/wiki/ファイル:Disambig_gray.svg
+  76. https://ja.wikipedia.org/wiki/アルノルト・シェーンベルク
+  77. https://ja.wikipedia.org/wiki/期待_(オペラ)
+  78. https://ja.wikipedia.org/wiki/確率論
+  79. https://ja.wikipedia.org/wiki/期待値
+  80. https://ja.wikipedia.org/wiki/ファイル:Dalsgaard,_Christen-"Mon_han_dog_ikke_skulle_komme?".jpg
+  81. https://ja.wikipedia.org/wiki/クレステン・ダルスゴー
+  82. https://ja.wikipedia.org/wiki/ヒアシュプロング美術館
+  92. https://ja.wikipedia.org/wiki/ファジィ論理
+  93. https://ja.wikipedia.org/w/index.php?title=予期&action=edit&redlink=1
+  94. https://en.wikipedia.org/wiki/Anticipation
+  95. https://ja.wikipedia.org/w/index.php?title=期待&action=edit&section=1
+  96. https://ja.wikipedia.org/wiki/リチャード・ラザルス
+  97. https://ja.wikipedia.org/wiki/期待#cite_note-Lazarus-1
+  98. https://ja.wikipedia.org/wiki/期待#cite_note-Lazarus-1
+  99. https://ja.wikipedia.org/w/index.php?title=期待&action=edit&section=2
+ 100. https://ja.wikipedia.org/w/index.php?title=意志的反応&action=edit&redlink=1
+ 101. https://en.wikipedia.org/wiki/volition_(psychology)
+ 102. https://ja.wikipedia.org/wiki/偽薬
+ 103. https://ja.wikipedia.org/wiki/偽薬
+ 104. https://ja.wikipedia.org/wiki/期待#cite_note-2
+ 105. https://ja.wikipedia.org/w/index.php?title=期待&action=edit&section=3
+ 106. https://ja.wikipedia.org/wiki/ロバート・キング・マートン
+ 107. https://ja.wikipedia.org/wiki/予言の自己成就
+ 108. https://ja.wikipedia.org/wiki/意図せざる結果
+ 111. https://ja.wikipedia.org/wiki/自信
+ 112. https://ja.wikipedia.org/wiki/因果性
+ 113. https://ja.wikipedia.org/wiki/Wikipedia:「要出典」をクリックされた方へ
+ 114. https://ja.wikipedia.org/w/index.php?title=期待&action=edit&section=4
+ 115. https://ja.wikipedia.org/w/index.php?title=主観的期待効用&action=edit&redlink=1
+ 116. https://en.wikipedia.org/wiki/Subjective_expected_utility
+ 117. https://ja.wikipedia.org/w/index.php?title=健康退職研究&action=edit&redlink=1
+ 118. https://en.wikipedia.org/wiki/Health_and_Retirement_Study
+ 119. https://ja.wikipedia.org/wiki/効率的市場仮説
+ 120. https://ja.wikipedia.org/wiki/現代ポートフォリオ理論
+ 121. https://ja.wikipedia.org/wiki/期待#cite_note-3
+ 122. https://ja.wikipedia.org/wiki/期待#cite_note-4
+ 123. https://ja.wikipedia.org/wiki/期待#cite_note-5
+ 124. https://ja.wikipedia.org/w/index.php?title=期待&action=edit&section=5
+ 125. https://ja.wikipedia.org/wiki/期待#cite_ref-Lazarus_1-0
+ 126. https://ja.wikipedia.org/wiki/期待#cite_ref-Lazarus_1-1
+ 127. https://ja.wikipedia.org/wiki/ISBN
+ 128. https://ja.wikipedia.org/wiki/特別:文献資料/978-0-19-506994-5
+ 129. https://ja.wikipedia.org/wiki/期待#cite_ref-2
+ 130. https://ja.wikipedia.org/wiki/期待#cite_ref-3
+ 131. https://web.archive.org/web/20170113084934/http://faculty.haas.berkeley.edu/vissing/vissing_nberma_article.pdf
+ 132. https://ja.wikipedia.org/wiki/Doi_(識別子)
+ 133. https://doi.org/10.1086/ma.18.3585252
+ 134. http://faculty.haas.berkeley.edu/vissing/vissing_nberma_article.pdf
+ 135. https://web.archive.org/web/20170113084934/http://faculty.haas.berkeley.edu/vissing/vissing_nberma_article.pdf
+ 136. https://ja.wikipedia.org/wiki/期待#cite_ref-4
+ 137. https://pmc.ncbi.nlm.nih.gov/articles/PMC3755777/
+ 138. https://ja.wikipedia.org/wiki/Doi_(識別子)
+ 139. https://doi.org/10.1002/jae.1242
+ 144. https://ja.wikipedia.org/wiki/PMID_(識別子)
+ 145. https://pubmed.ncbi.nlm.nih.gov/23997423/
+ 146. https://pmc.ncbi.nlm.nih.gov/articles/PMC3755777/
+ 147. https://ja.wikipedia.org/wiki/期待#cite_ref-5
+ 148. https://zenodo.org/record/894592
+ 149. https://ja.wikipedia.org/wiki/Doi_(識別子)
+ 150. https://doi.org/10.1111/joca.12110
+ 151. https://ja.wikipedia.org/wiki/ISSN
+ 152. https://search.worldcat.org/ja/search?fq=x0:jrnl&q=n2:1745-6606
+ 153. https://zenodo.org/record/894592
+ 154. https://ja.wikipedia.org/w/index.php?title=期待&action=edit&section=6
+ 155. https://ja.wikipedia.org/wiki/ピグマリオン効果
+ 156. https://ja.wikipedia.org/wiki/期待理論
+ 157. https://ja.wikipedia.org/wiki/不安
+ 158. https://ja.wikipedia.org/w/index.php?title=期待&action=edit&section=7
+ 159. https://ja.wikipedia.org/wiki/ウィクショナリー
+ 160. https://ja.wiktionary.org/wiki/Special:Search/期待
+ 161. https://ja.wikipedia.org/wiki/Help:典拠管理
+ 162. https://www.wikidata.org/wiki/Q1362683#identifiers
+ 163. https://d-nb.info/gnd/4015434-8
+ 165. https://www.nli.org.il/en/authorities/987007562816305171
+ 166. https://catalog.archives.gov/id/10637247
+ 167. https://lux.collections.yale.edu/view/concept/1d7f3a04-0c77-4e22-89e9-2be3dddd53b7
+ 168. https://ja.wikipedia.org/w/index.php?title=期待&oldid=105005271
+ 169. https://ja.wikipedia.org/wiki/特別:カテゴリ
+ 170. https://ja.wikipedia.org/wiki/Category:認識論の概念
+ 171. https://ja.wikipedia.org/wiki/Category:思考
+ 184. https://developer.wikimedia.org/
+ 185. https://stats.wikimedia.org/#/ja.wikipedia.org
+ 186. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 187. https://ja.wikipedia.org/w/index.php?title=期待&mobileaction=toggle_view_mobile
+ 188. https://www.wikimedia.org/
+ 189. https://www.mediawiki.org/
+ 190. https://ja.wikipedia.org/wiki/期待
+
+   Liens cachés :
+ 192. https://ja.wikipedia.org/wiki/%E6%9C%9F%E5%BE%85

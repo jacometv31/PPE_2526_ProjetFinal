@@ -1,308 +1,465 @@
-   当サイトではJavaScriptを使用しています。
-   ブラウザの設定でJavaScriptの使用を無効にしている場合、一部の機能が正確に動作しない恐れがあります。
-   当サイトをご覧の際はJavaScriptの使用を有効にしてください。
+   #[1]alternate
 
-   [1]メインメニューへ移動 [2]メインメニューをスキップして本文へ移動 [3]フッターへ移動します
+   [2]新着
+   業界
+   [3]製造業 [4]銀行・証券・金融
+   [5]保険 [6]建設・不動産
+   [7]コンサル・士業 [8]商社
+   [9]運輸・物流 [10]IT・通信
+   [11]AI・テクノロジー [12]エネルギー
+   [13]医療・製薬 [14]食品・農業
+   [15]小売・外食 [16]サービス・エンタメ
+   [17]メディア・広告 [18]スタートアップ・新規事業
+   [19]教育 [20]財閥・学閥
+   [21]予測・分析
+   学び
+   [22]経営・戦略 [23]マネジメント
+   [24]ビジネス課題 [25]ビジネススキル
+   [26]営業・マーケティング [27]マネー・投資
+   [28]相続・節税 [29]年金
+   [30]キャリア・働き方 [31]受験・子育て
+   [32]教養
+   [33]特集 [34]書籍
 
-   [4]さいたま市のロゴ
-     * [5]Language
-     * [6]ふりがな
-     * [7]音声読み上げ
+   [ ]
+   ____________________ Submit
+   [35]ログイン [36]会員登録
 
-   文字サイズ
-          [8]標準 [9]拡大
+他人に「期待する人」と「期待しない人」の人生の差とは？【奥田民生が教える】
 
-   背景色
-          [10]黒 [11]白 [12]黄
+   [37]キャリア・働き方[38]59-60 奥田民生の 仕事/友達/遊びと金/健康/メンタル
 
-   メインメニューです。
-   ____________________
-   Submit
-   [13]お問合せ
-   (BUTTON) さがす
-   キーワード検索
-   ____________________
-   検索
+   2024年12月31日 4:15
 
-   [14]情報の探し方
+   [ ]
+   記事をクリップ
+   URLをコピー
+   記事を印刷
+   Xでシェア
+   Facebookでシェア
+   はてなブックマークでシェア
+   LINEでシェア
+   noteでシェア
 
-   よく利用されるキーワード
-     * [15]ごみ分別
-     * [16]ごみ持ち込み
-     * [17]休日窓口
-     * [18]新型コロナ
-     * [19]コロナワクチン
-     * [20]マイナンバー
-     * [21]戸籍
-     * [22]請求書
-     * [23]市報
-     * [24]例規集
-     * [25]入札
-     * [26]人口
-     * [27]採用
-     * [28]税金
-     * [29]ハザードマップ
-     * [30]公共施設予約
-     * [31]休日急患
-     * [32]転入
-     * [33]予算
+   自分は将来どうなるだろう……。そんな不安を持つ人は少なくないのではないだろうか。「いつまで第一線でいられるか」「いつまで他人と競えばいいのか」
+   「いまいる友達は60歳になっても友達か」「気力体力はどうなるか」「お金は？」「いまのうちにやるべきことは？」など疑問がつきない。そこで本連載で
+   は、2025年に60歳を迎える奥田民生の10年ぶりの本[39]『59-60
+   奥田民生の仕事/友達/遊びと金/健康/メンタル』の中から、民生流の「心の持ち方、生きるヒント」を紹介する。「力まず自然体でカッコいい大人」代表
+   の奥田民生は、これまでどのように考え、どのように働き、どのように周りとの関係を築いてきたのか。その言葉を見ていこう。（構成／ダイヤモンド社・石
+   塚理恵子）
 
-     * [34]よくある質問
-     * [35]ライフシーンから探す
-     * [36]イベントを探す
-     * [37]施設を探す・予約する
+   他人に「期待する人」と「期待しない人」の人生の差とは？【奥田民生が教える】
+   Photo by Takahiro Otsuji
 
-   (BUTTON) 閉じる
-   (BUTTON) メニュー
-     * (BUTTON) 暮らし・手続き
-          + [38]安全・防災・消防
-          + [39]戸籍・住民票・印鑑登録
-          + [40]保険・年金・税金
-          + [41]就職・仕事
-          + [42]上下水道・ごみ
-          + [43]住まい・暮らし・相談
-          + [44]環境保全
-          + [45]まちづくり・交通
-          + [46]コミュニティ・市民活動
-          + [47]オンライン申請・申請書等ダウンロード
-     * (BUTTON) 健康・医療・福祉
-          + [48]健康・医療
-          + [49]食品・衛生
-          + [50]福祉・介護
-     * (BUTTON) 子育て・教育
-          + [51]育児・保育
-          + [52]教育
-          + [53]生涯学習
-     * (BUTTON) 観光・スポーツ・文化
-          + [54]観光
-          + [55]文化・芸術
-          + [56]スポーツ・公園・余暇
-     * (BUTTON) 事業者向けの情報
-          + [57]届出・手続き
-          + [58]環境・産業・企業立地
-          + [59]まちづくり・交通・建設
-          + [60]税金
-          + [61]保険・雇用・労働
-          + [62]消防
-     * (BUTTON) 市政情報
-          + [63]さいたま市プロフィール
-          + [64]市の組織・各課の紹介
-          + [65]人口・統計
-          + [66]政策・財政
-          + [67]例規集・告示情報
-          + [68]広報・報道
-          + [69]広聴・市民参加・アンケート
-          + [70]情報公開の総合的な推進
-          + [71]適正な公務の執行
-          + [72]平和・人権政策・男女共同参画
-          + [73]選挙
-          + [74]さいたま市の人事
-          + [75]募集
-          + [76]市長の部屋
+腹が立ったらどうするか？
 
-   (BUTTON) 閉じる
-     * [77]トップページ  >
-     * [78]市政情報 >
-     * [79]さいたま市プロフィール >
-     * [80]市について >
-     * [81]さいたま市の紹介 >
-     * さいたま市の歌「希望（ゆめ）のまち」
-         ______________________________________________________________
+   　若い頃は腹が立ったら友達にでも「ここは男らしくバシッと言ってやらなきゃ」と思うことがあった。
 
-       ページの本文です。
-       [82]一つ前に見ていたページに戻る
-       更新日付：2024年8月27日 / ページ番号：C008846
+   　でも最近は「俺が言ってやらなくちゃ」なんて思うことはほとんどない。
 
-さいたま市の歌「希望（ゆめ）のまち」
-       [83]このページを印刷する
-       政令指定都市移行記念として新しい都市イメージづくりを進めるため、市の歌を制作しました。
-       歌詞は一般公募を行い、全国から880点もの作品が寄せられ、東京都羽村市の福原くにこさんの作品が最優秀作品に選ばれました。
-       また、さいたま市出身のミュージシャンであるタケカワユキヒデさんの補作詞、作曲を経て、平成15年4月に市の歌「希望（ゆめ）のまち」が完成
-       しました。
-       現在はJR大宮駅、さいたま新都心駅、与野駅、北浦和駅、浦和駅の京浜東北線ホームの発車メロディにも活用されています。
-       そして平成29年度には、新たにヒップホップバージョンが加わりました。
-       市内の図書館、各区役所コミュニティ課では、音楽CDやダンスDVD「ゆめダンス」の貸出しを行っています。
-       上記貸出しのほか、音楽データや楽譜については、当ページ下部の「関連ダウンロードファイル」からダウンロードしていただくことができます。
-       また、「ゆめダンス」動画については、YouTubeから御視聴いただけます。
-       広がり続ける「希望（ゆめ）のまち」の魅力をお楽しみください。
+気まずい思いをするのが面倒
 
-希望（ゆめ）のまち
-       作詞 福原くにこ
-       補作詞・作曲 タケカワユキヒデ
-       オーオーオー さいたま さいたま カモン カモン
-       オーオーオー さいたま さいたま カモン カモン
-       まち並は四季の姿
-       美しく変えてゆく Memory
-       大切なあなたと
-       いつまでも
-       このまちを歩いてゆく
-       まち並は四季を超えて
-       しなやかに歴史（とき）創る Memory
-       またひとつ未来に
-       桜草（はな）の咲く
-       このまちを歩いてゆく
-       優しさにふれ合えた
-       その瞬間（とき）からすべてが
-       新鮮に感じられ
-       彩（いろ）あざやかに生まれる
-       雨上がりのキラリ光る虹
-       心うるおすように
-       まち並に四季の歌が
-       軽やかに響いてる Melody
-       またひとつ流れて
-       ぬくもりと
-       希望（ゆめ）のまち歩いてゆく
-       豊かさにふれ合える
-       その瞬間（とき）からすべてが
-       愛おしく感じられ
-       彩（いろ）あざやかに聴こえる
-       朝の露にキラリ溶けた水
-       大地うるおすように
-       まち並は四季の姿
-       美しく変えてゆく Memory
-       大切なあなたと
-       いつまでも
-       このまちを歩いてゆく
-       まち並は四季を超えて
-       しなやかに歴史（とき）創る Memory
-       またひとつ未来に
-       桜草（はな）の咲く
-       このまちを歩いてゆく
-       オーオーオー さいたま さいたま カモン カモン
-       ヘイ ヘイ ヘイ ヘイ（チャチャチャ）
-       ヘイ ヘイ ヘイ ヘイ（チャチャチャ）
+   　昔は友達だからこそ「こういう風にした方がいいんじゃないか？」「なんでこうしないのか」ということを怒りと共にぶつけていたけど、この歳になると他
+   人に意見をすることで気まずい雰囲気になるのが面倒だし、自然と「これだけは許せない」というものもなくなってくる。
 
-関連ダウンロードファイル
-          + [84]楽譜_ボーカルのみ（エール有り）（PDF形式 277キロバイト）
-          + [85]楽譜_合唱用ピアノ伴奏（エール無し）（PDF形式 3,330キロバイト）
-          + [86]楽譜_合唱用コンダクター譜、ソプラノ譜、メゾソプラノ譜、アルト譜（エール無し）（PDF形式 4,459キロバイト）
-          + [87]市の歌「希望（ゆめ）のまち」オリジナルバージョン（MP3形式 7,222キロバイト）
-          + [88]市の歌「希望（ゆめ）のまち」コーラスバージョン（MP3形式 5,149キロバイト）
-          + [89]市の歌「希望（ゆめ）のまち」カラオケバージョン（音楽ファイル形式 5,880キロバイト）
-          + [90]市の歌「希望(ゆめ)のまち」ヒップホップバージョン（MP3形式 3,033キロバイト）
-       [91]GET ADOBE READER
-       PDFファイルの閲覧にはAdobe
-       Reader（無償）が必要です。同ソフトがインストールされていない場合には、[92]Adobe社のサイトからAdobe
-       Readerをダウンロードしてください。
+はじめから苦言は言わない
 
-この記事についてのお問い合わせ
-       都市戦略本部/都市経営戦略部　シティセールス担当
-       電話番号：048-829-1034 ファックス：048-829-1997
-       [93]お問い合わせフォーム
-       フッターです。
-       [94]上部へ戻る
-       [95]サイトマップ
-       [96]当サイトについて
-       [97]ご利用ガイド
-       [98]アクセシビリティポリシー
-       さいたま市役所
-       住所：〒330-9588 さいたま市浦和区常盤六丁目4番4号電話：048-829-1111（代表）
-       ※さいたまコールセンターにつながります。
-       [99]アクセスマップ [100]窓口案内
-       開庁時間：8時30分から17時15分（土曜日、日曜日、祝日、休日、年末年始を除く）
-       ※一部、開庁時間が異なる組織、施設があります。
-       法人番号 2000020111007
-       Copyright (c) Saitama City, All rights reserved.
+   「こいつのこういう態度がダメ」とか、「こういう言い方がダメ」なんてことを言い始めると、どうやってそれを正せばいいかを考えないといけなくなるから
+   それも面倒。
+
+   　だったらはじめから苦言は言わない。
+
+日常を平和に過ごすには？
+
+   「あいつのあの態度はいつものことだからしょうがない」「言い方はまあ人それぞれだからね」。
+
+   　そんな感じで相手の状況を受け入れられると、日常はすごく平和になる。
+
+自分に過剰期待をしない
+
+   　歳を重ねると、自分のダメなところもどんどんわかる。
+
+   　運動神経にしたって、中学生の頃は「ひょっとしたら俺は150キロの球が投げられるかもしれん」ってどこかで思っていたと思うけど、大人になったら「
+   やっぱり俺はそんな球は投げられない」とわかってくる。
+
+自分にも他人にも期待しない
+
+   　若いときにはわからなかったことや無理なことが大人になってわかってくると、できることよりできないことが多いことにも気づいてくる。
+
+   　そうやって人はだんだん自分に過剰な期待をしなくなる。
+
+   　自分に期待をしないのだから、他人にも期待なんてしてはいけない。
+
+お互い「大目に見よう」がちょうどいい
+
+   　自分が他人に期待をしたら、他人も自分に期待する。
+
+   　俺が友達のいろいろを許すのは、「だから俺のことも大目に見てね」の先払いのようなものだと思う。
+
+   （本稿は奥田民生[40]『59-60 奥田民生の仕事/友達/遊びと金/健康/メンタル』からの抜粋記事です。）
+
+   他人に「期待する人」と「期待しない人」の人生の差とは？【奥田民生が教える】
+
+■人生をどう生きるべきか？
+
+   ◎Amazon総合第1位！（2024年8月20日）
+   ◎奥田民生がおくる“働くすべての人”に刺さる本
+   ◎「仕事」「友達」「遊びと金」「健康」「メンタル」、5つのテーマを奥田民生が語り尽くす
+   ◎奥田民生ソロ30周年記念企画　10年ぶり、待望の新刊！
+
+   仕事はどこを目指すべきか？ 20代、30代、40代、50代でやるべきことは？ 他人の目が気になったら？ 親友は必要か？
+   クヨクヨしたらどうするか？ 大人の男の酒の飲み方 いくら稼げば幸せか？　
+   人生に疲れた人、人生の後半をどう生きるか迷いのある人は一度読んでみてください。
+
+   【本書の内容】
+   第1章　仕事
+   　仕事なんて「8位」くらいがちょうどいい
+   　発想に「マーケティング」はいらない
+   　「運」がいい人がしていること
+   　20代、30代、40代、50代でやるべきこと
+
+   第2章　友達
+   　「親友」なんていなくていい
+   　「仕事仲間」は友達か？
+   　友達関係に「勝ち組」「負け組」を持ち込まない
+   　「ケンカしたあと仲良くなる」は本当か？
+
+   第3章　遊びと金
+   　ゴルフで自分の「心」を試す
+   　服は「いいものを少し」がいい
+   　「ひとりBARデビュー」のすすめ
+   　人はいくら稼げば幸せか？
+
+   第4章　健康
+   　覚えられないことは忘れていいこと
+   　奥田民生の食生活
+   　「酒」は必ず割って飲め
+
+   第5章　メンタル
+   　「体力」より「気力」が大事
+   　「できたらラッキー」くらいがちょうどいい
+   　いくつになってもクヨクヨしていい
+   　民生流「飽き」との付き合い方
+   　人には運気の波がある
+   奥田 民生（おくだ・たみお）
+   他人に「期待する人」と「期待しない人」の人生の差とは？【奥田民生が教える】
+   1965年5月12日、広島県生まれ。2025年に60歳を迎える。87年、ロックバンド「ユニコーン」でデビュー。「大迷惑」「働く男」「すばらしい
+   日々」など、数々のヒット曲を世に送り出す。93年に解散。その後、94年からソロ活動を本格的に開始。以降、ソロ活動で数多くのヒット曲をリリースす
+   る他、PUFFY、木村カエラのプロデュースや、井上陽水とのユニット「井上陽水奥田民生」をはじめとした様々なミュージシャンとのコラボレーションな
+   ど、多方面で活動。2009年、ユニコーン再始動。ソロとしては2024年10月に活動30周年となる。
+
+   [41]59-60
+   [42]59-60
+   奥田民生 著
+   ＜内容紹介＞
+
+   仕事はどこを目指すべきか？ 20代、30代、40代、50代でやるべきことは？ 他人の目が気になったら？ 親友は必要か？
+   クヨクヨしたらどうするか？ 大人の男の酒の飲み方 いくら稼げば幸せか？
+   人はなぜ生きるのか？……人生後半もいい感じに生きる奥田民生が語る、仕事・友達・遊びと金・健康・メンタル
+   [43]amazonで購入する [44]kinokuniya書店で購入する [45]書店で購入する
+
+   記事をクリップ
+   URLをコピー
+   記事を印刷
+   Xでシェア
+   Facebookでシェア
+   はてなブックマークでシェア
+   LINEでシェア
+   noteでシェア
+
+   関連記事
+   [46]
+   奥田民生が「ちょっとイヤな仕事」をするときしているたった1つの工夫とは
+   奥田民生が「ちょっとイヤな仕事」をするときしているたった1つの工夫とは
+   [47]
+   【いつも仕事がギリギリになる人】が自動的に変わる「締切解像度」のマジック
+   木下勝寿
+   【いつも仕事がギリギリになる人】が自動的に変わる「締切解像度」のマジック
+   [48]
+   奥田民生に「運に味方してもらう方法」を聞いたらすごい答えが返ってきた
+   奥田民生に「運に味方してもらう方法」を聞いたらすごい答えが返ってきた
+   [49]
+   【奥田民生が教える】ユニコーンのボーカルが奥田民生だけじゃない理由
+   【奥田民生が教える】ユニコーンのボーカルが奥田民生だけじゃない理由
+
+   [50]愛読者クラブ
+
+   書籍オンライン 記事ランキング
+   (*) 最新
+   ( ) 昨日
+   ( ) 週間
+   ( ) いいね
+   [51]ランキング一覧
+
+   [52]書籍オンライン
+
+   書籍 週間ランキング
+   [53]
+   DIE WITH ZERO　人生が豊かになりすぎる究極のルール
+   ビル・パーキンス 著/児島 修 訳
+   [54]
+   やりたいことが見つかる 世界の果てのカフェ
+   ジョン・ストレルキー 著/鹿田昌美 訳
+   [55]
+   ウォード博士の驚異の「動物行動学入門」 動物のひみつ
+   アシュリー・ウォード 著/夏目 大 訳
+   [56]
+   アート・オブ・スペンディングマネー
+   モーガン・ハウセル 著/児島 修 訳
+   [57]
+   嫌われる勇気
+   岸見一郎 著/古賀史健 著
+   [58]
+   頭のいい人が話す前に考えていること
+   安達裕哉 著
+   [59]
+   大人も知らない みのまわりの謎大全
+   ネルノダイスキ 著
+   [60]
+   いのちをまもる図鑑
+   池上 彰 監修/今泉忠明 監修/国崎信江 監修/西 竜一 監修/滝乃みわこ 著
+   [61]
+   頭のいい人だけが解ける論理的思考問題
+   野村裕之 著
+   [62]
+   THE WEALTH LADDER 富の階段
+   ニック・マジューリ 著/児島 修 訳
+   (POSデータ調べ、12/14～12/20)
+
+   特集
+   [63]
+   総予測2026
+   [64]
+   みずほ安井のHELP!アメリカ政治経済
+   [65]
+   マンション羅針盤 管理＆売買
+   [66]
+   製薬フロンティア
+
+   あなたにおすすめ
+
+   トレンドウォッチ
+   [67]【丸亀製麺】顧客からの「おほめ」が25％増。新経営モデルの威力 [68]【成長企業で安定企業】ITサービスで進化し続ける人財尊重企業
+   [69]過去最高の分配金！物流施設に特化した国内最大級のJリート [70]AI事業と人材育成を加速。インド名門大学卒のインド人70人を採用
+   [71]【NEC】経営危機→V字回復の舞台裏！「人の力を最大化する」変革
+   [72]一覧を見る
+
+   最新記事
+   [73]
+   総予測2026
+   なぜ「鳥貴族」は居酒屋市場が縮んでいるのに好調なのか？大倉社長の答えは明快「理由は串カツ田中と同じ」
+   [74]
+   みずほ安井のHELP!アメリカ政治経済
+   26年の米政治は「AI規制」が争点に？トランプ政権の規制緩和に州政府・MAGA派が反発
+   [75]
+   今だからこそ読みたい！注目特集
+   【内部資料入手】BCGがアパレル大手TSIに提示した極秘「リストラ手順書」の全貌、社員を「エース人材」や「業務遂行に不要な人材」に選別《再配信
+   》
+   [76]
+   明日なに着てく？
+   「何回もリピート中」無印良品の“2990円パンツ”がデニムなのに動きやすい！「体型カバーができる」「太ももが綺麗に収まります」
+   [77]
+   ＤＯＬ特別レポート
+   「社長、それは完全にブラック企業です」新日本プロレス棚橋弘至が社員にツッコまれた「会社の貼り紙」
+   [78]最新記事一覧
+
+   [79]DIAMOND SPECIAL一覧 [80]広告企画一覧
+
+   [X] ダイヤモンド・オンラインについて
+   [81]このサイトについて [82]ダイヤモンド・プレミアムについて [83]ダイヤモンド・プレミアム活用ガイド [84]サイト利用規約
+   [85]特定商取引に関する法律に基づく表示 [86]プライバシーポリシー・著作権 [87]よくある質問 [88]広告掲載 [89]お問い合わせ
+   [90]法人導入について
+   [ ] ダイヤモンド社のサイト
+   [91]Diamond Online(English) [92]週刊ダイヤモンド [93]DIAMONDハーバード・ビジネス・レビュー
+   [94]書籍オンライン [95]ザイ・オンライン [96]ザイFX！ [97]ダイヤモンド不動産研究所 [98]DIAMOND
+   Quarterly [99]The Salon [100]HRオンライン [101]クリプトインサイト [102]ダイヤモンド教育ラボ
+   [ ] ダイヤモンド社について
+   [103]ダイヤモンド社TOP [104]会社概要 [105]採用情報 [106]お知らせ
+
+   © DIAMOND, INC.
+
+   ____________________ Submit
+
+   [107]新着記事 [108]特集 [109]書籍 [110]週刊ダイヤモンド [111]ランキング [112]動画
+
+   ジャンル
+   [ ] 業界
+   [113]製造業 [114]銀行・証券・金融 [115]保険 [116]建設・不動産 [117]コンサル・士業 [118]商社
+   [119]運輸・物流 [120]IT・通信 [121]AI・テクノロジー [122]エネルギー [123]医療・製薬 [124]食品・農業
+   [125]小売・外食 [126]サービス・エンタメ [127]メディア・広告 [128]スタートアップ・新規事業 [129]教育
+   [130]財閥・学閥 [131]予測・分析
+   [ ] 学び
+   [132]経営・戦略 [133]マネジメント [134]ビジネス課題 [135]ビジネススキル [136]営業・マーケティング
+   [137]マネー・投資 [138]相続・節税 [139]年金 [140]キャリア・働き方 [141]受験・子育て [142]教養
+   [ ] ライフ
+   [143]社会 [144]健康 [145]福祉・介護 [146]ライフスタイル
+   [ ] 国際・政治・市況
+   [147]国際 [148]政治 [149]マーケットラボ
+
+   [150]ウォール・ストリート・ ジャーナル [151]主要企業一覧
+     __________________________________________________________________
+
+   [152]法人プランの導入
 
 Références
 
-   1. https://www.city.saitama.lg.jp/006/012/001/007/p008846.html#speak_menu
-   2. https://www.city.saitama.lg.jp/006/012/001/007/p008846.html#content_area
-   3. https://www.city.saitama.lg.jp/006/012/001/007/p008846.html#speak_footer
-   4. https://www.city.saitama.lg.jp/
-   5. https://www.city.saitama.jp/language/index.html
-   6. javascript:KanaboWeb.execCommand('toggle')
-   7. javascript:KanaboVoice.embedVoice('content_area','embedPlayer')
-   8. javascript:void(0);
-   9. javascript:void(0);
-  10. javascript:void(0);
-  11. javascript:void(0);
-  12. https://www.city.saitama.lg.jp/006/012/001/007/p008846.html
-  13. https://www.city.saitama.lg.jp/faq/index.html#callcenter01
-  14. https://www.city.saitama.lg.jp/006/014/007/p051161.html
-  15. https://www.city.saitama.lg.jp/001/006/010/003/p042612.html
-  16. https://www.city.saitama.lg.jp/001/006/010/003/p051434.html
-  17. https://www.city.saitama.lg.jp/001/001/007/p016829.html
-  18. https://www.city.saitama.lg.jp/002/001/008/006/index.html
-  19. https://www.city.saitama.lg.jp/002/001/014/006/002/p100824.html
-  20. https://www.city.saitama.lg.jp/001/001/008/index.html
-  21. https://www.city.saitama.lg.jp/001/001/005/p001367.html
-  22. https://www.city.saitama.lg.jp/005/001/017/001/p002138.html
-  23. https://www.city.saitama.lg.jp/006/014/010/001/index.html
-  24. https://www1.g-reiki.net/saitama/reiki.html
-  25. https://www.city.saitama.lg.jp/005/001/017/index.html
-  26. https://www.city.saitama.lg.jp/006/013/005/001/p112062.html
-  27. https://www.city.saitama.lg.jp/006/001/001/index.html
-  28. https://www.city.saitama.lg.jp/001/153/004/index.html
-  29. https://www.city.saitama.lg.jp/001/011/015/002/003/index.html
-  30. https://saitama.rsv.ws-scs.jp/web/
-  31. https://www.city.saitama.lg.jp/003/001/011/p008245.html
-  32. https://www.city.saitama.lg.jp/006/014/020/index.html
-  33. https://www.city.saitama.lg.jp/006/007/011/001/index.html
-  34. https://www.city.saitama.lg.jp/faq/index.html
-  35. https://www.city.saitama.lg.jp/007/index.html
-  36. https://www.city.saitama.lg.jp/004/001/002/005/index.html
-  37. https://www.city.saitama.lg.jp/008/index.html
-  38. https://www.city.saitama.lg.jp/001/011/index.html
-  39. https://www.city.saitama.lg.jp/001/001/index.html
-  40. https://www.city.saitama.lg.jp/001/153/index.html
-  41. https://www.city.saitama.lg.jp/001/005/index.html
-  42. https://www.city.saitama.lg.jp/001/006/index.html
-  43. https://www.city.saitama.lg.jp/001/154/index.html
-  44. https://www.city.saitama.lg.jp/001/009/index.html
-  45. https://www.city.saitama.lg.jp/001/010/index.html
-  46. https://www.city.saitama.lg.jp/001/013/index.html
-  47. https://www.city.saitama.lg.jp/001/915/index.html
-  48. https://www.city.saitama.lg.jp/002/001/index.html
-  49. https://www.city.saitama.lg.jp/002/002/index.html
-  50. https://www.city.saitama.lg.jp/002/003/index.html
-  51. https://www.city.saitama.lg.jp/003/001/index.html
-  52. https://www.city.saitama.lg.jp/003/002/index.html
-  53. https://www.city.saitama.lg.jp/003/003/index.html
-  54. https://www.city.saitama.lg.jp/004/001/index.html
-  55. https://www.city.saitama.lg.jp/004/005/index.html
-  56. https://www.city.saitama.lg.jp/004/006/index.html
-  57. https://www.city.saitama.lg.jp/005/001/index.html
-  58. https://www.city.saitama.lg.jp/005/002/index.html
-  59. https://www.city.saitama.lg.jp/005/003/index.html
-  60. https://www.city.saitama.lg.jp/005/004/index.html
-  61. https://www.city.saitama.lg.jp/005/005/index.html
-  62. https://www.city.saitama.lg.jp/005/006/index.html
-  63. https://www.city.saitama.lg.jp/006/012/index.html
-  64. https://www.city.saitama.lg.jp/006/015/index.html
-  65. https://www.city.saitama.lg.jp/006/013/index.html
-  66. https://www.city.saitama.lg.jp/006/007/index.html
-  67. https://www.city.saitama.lg.jp/006/011/index.html
-  68. https://www.city.saitama.lg.jp/006/014/index.html
-  69. https://www.city.saitama.lg.jp/006/002/index.html
-  70. https://www.city.saitama.lg.jp/006/008/index.html
-  71. https://www.city.saitama.lg.jp/006/006/index.html
-  72. https://www.city.saitama.lg.jp/006/010/index.html
-  73. https://www.city.saitama.lg.jp/006/009/index.html
-  74. https://www.city.saitama.lg.jp/006/005/index.html
-  75. https://www.city.saitama.lg.jp/006/001/index.html
-  76. https://www.city.saitama.lg.jp/006/003/index.html
-  77. https://www.city.saitama.lg.jp/index.html
-  78. https://www.city.saitama.lg.jp/006/index.html
-  79. https://www.city.saitama.lg.jp/006/012/index.html
-  80. https://www.city.saitama.lg.jp/006/012/001/index.html
-  81. https://www.city.saitama.lg.jp/006/012/001/007/index.html
-  82. javascript:history.back();
-  83. javascript:window.print();
-  84. https://www.city.saitama.lg.jp/006/012/001/007/p008846_d/fil/gakufu.pdf
-  85. https://www.city.saitama.lg.jp/006/012/001/007/p008846_d/fil/gakufu_piano.pdf
-  86. https://www.city.saitama.lg.jp/006/012/001/007/p008846_d/fil/gakuhu_conducter.pdf
-  87. https://www.city.saitama.lg.jp/006/012/001/007/p008846_d/fil/yumenomachi_original.mp3
-  88. https://www.city.saitama.lg.jp/006/012/001/007/p008846_d/fil/yumenomachi_chorus.mp3
-  89. https://www.city.saitama.lg.jp/006/012/001/007/p008846_d/fil/yumenomachi_karaoke.wma
-  90. https://www.city.saitama.lg.jp/006/012/001/007/p008846_d/fil/hiphop.mp3
-  91. http://get.adobe.com/jp/reader/
-  92. http://get.adobe.com/jp/reader/
-  93. https://www.city.saitama.lg.jp/inquiry/mailform0010105.html?PAGE_NO=8846
-  94. https://www.city.saitama.lg.jp/006/012/001/007/p008846.html#pagetop
-  95. https://www.city.saitama.lg.jp/sitemap.html
-  96. https://www.city.saitama.lg.jp/006/014/007/p032557.html
-  97. https://www.city.saitama.lg.jp/006/014/007/p032344.html
-  98. https://www.city.saitama.lg.jp/006/014/007/p021857.html
-  99. https://www.google.co.jp/maps/place/さいたま市役所/@35.8611712,139.6460584,17.26z/data=!4m15!1m8!3m7!1s0x6018c1d43e069691:0x19f3b9ab97ccd248!2z44CSMzMwLTAwNjEg5Z-8546J55yM44GV44GE44Gf44G-5biC5rWm5ZKM5Yy65bi455uk77yW5LiB55uu77yR4oiS77yU!3b1!8m2!3d35.8612034!4d139.6461829!16s/g/11ggzdyn4j!3m5!1s0x6018c1d40392f437:0x2ecb55398cf67a72!8m2!3d35.8614528!4d139.6453245!16s/g/122c65s9?entry=ttu
- 100. https://www.city.saitama.lg.jp/006/012/001/007/p032903.html
+   Liens visibles :
+   1. https://diamond.jp/list/feed/rss/dol
+   2. https://diamond.jp/list/latest
+   3. https://diamond.jp/list/theme/製造業
+   4. https://diamond.jp/list/theme/銀行・証券・金融
+   5. https://diamond.jp/list/theme/保険
+   6. https://diamond.jp/list/theme/建設・不動産
+   7. https://diamond.jp/list/theme/コンサル・士業
+   8. https://diamond.jp/list/theme/商社
+   9. https://diamond.jp/list/theme/運輸・物流
+  10. https://diamond.jp/list/theme/IT・通信
+  11. https://diamond.jp/list/theme/AI・テクノロジー
+  12. https://diamond.jp/list/theme/エネルギー
+  13. https://diamond.jp/list/theme/医療・製薬
+  14. https://diamond.jp/list/theme/食品・農業
+  15. https://diamond.jp/list/theme/小売・外食
+  16. https://diamond.jp/list/theme/サービス・エンタメ
+  17. https://diamond.jp/list/theme/メディア・広告
+  18. https://diamond.jp/list/theme/スタートアップ・新規事業
+  19. https://diamond.jp/list/theme/教育
+  20. https://diamond.jp/list/theme/財閥・学閥
+  21. https://diamond.jp/list/theme/予測・分析
+  22. https://diamond.jp/list/management
+  23. https://diamond.jp/list/theme/マネジメント
+  24. https://diamond.jp/list/business-issue
+  25. https://diamond.jp/list/theme/ビジネススキル
+  26. https://diamond.jp/list/theme/営業・マーケティング
+  27. https://diamond.jp/list/theme/マネー・投資
+  28. https://diamond.jp/list/theme/相続・節税
+  29. https://diamond.jp/list/theme/年金
+  30. https://diamond.jp/list/theme/キャリア・働き方
+  31. https://diamond.jp/list/theme/受験・子育て
+  32. https://diamond.jp/list/theme/教養
+  33. https://diamond.jp/list/feature
+  34. https://diamond.jp/list/dolbook
+  35. https://diamond.jp/auth/login
+  36. https://promo.diamond.jp/dol/premium/
+  37. https://diamond.jp/list/theme/キャリア・働き方
+  38. https://diamond.jp/category/s-tamio
+  39. https://www.amazon.co.jp/o/ASIN/4478119457/diamondinc-22/
+  40. https://www.amazon.co.jp/o/ASIN/4478119457/diamondinc-22/
+  41. https://www.amazon.co.jp/o/ASIN/4478119457/booksonlinea-22/
+  42. https://www.amazon.co.jp/o/ASIN/4478119457/booksonlinea-22/
+  43. https://www.amazon.co.jp/o/ASIN/4478119457/booksonlinea-22/
+  44. https://www.kinokuniya.co.jp/f/dsg-01-9784478119457
+  45. https://www.amazon.co.jp/o/ASIN/B0D52DTRS4/booksonlinea-22/
+  46. https://diamond.jp/articles/-/353730
+  47. https://diamond.jp/articles/-/339099
+  48. https://diamond.jp/articles/-/352989
+  49. https://diamond.jp/articles/-/354110
+  50. https://rd.diamond.jp/book-member
+  51. https://diamond.jp/list/ranking
+  52. https://rd.diamond.jp/list-books
+  53. https://www.diamond.co.jp/book/9784478109687.html
+  54. https://www.diamond.co.jp/book/9784478122549.html
+  55. https://www.diamond.co.jp/book/9784478116289.html
+  56. https://www.diamond.co.jp/book/9784478123140.html
+  57. https://www.diamond.co.jp/book/9784478025819.html
+  58. https://www.diamond.co.jp/book/9784478116692.html
+  59. https://www.diamond.co.jp/book/9784478117675.html
+  60. https://www.diamond.co.jp/book/9784478119389.html
+  61. https://www.diamond.co.jp/book/9784478119044.html
+  62. https://www.diamond.co.jp/book/9784478121368.html
+  63. https://diamond.jp/list/feature/p-prediction2026
+  64. https://diamond.jp/list/feature/s-helpamerica
+  65. https://diamond.jp/list/feature/p-mansioncompass
+  66. https://diamond.jp/list/feature/p-pharmaceuticalfrontier
+  67. https://dhbr.diamond.jp/articles/-/13185
+  68. https://diamond.jp/articles/-/376289
+  69. https://diamond.jp/articles/-/379096
+  70. https://diamond.jp/articles/-/375432
+  71. https://diamond.jp/articles/-/377676
+  72. https://diamond.jp/category/plus-cross-media-sub
+  73. https://diamond.jp/articles/-/377876
+  74. https://diamond.jp/articles/-/380598
+  75. https://diamond.jp/articles/-/380461
+  76. https://diamond.jp/articles/-/379953
+  77. https://diamond.jp/articles/-/380865
+  78. https://diamond.jp/list/latest
+  79. https://diamond.jp/category/plus-cross-media
+  80. https://diamond.jp/category/plus-cross-media-sub
+  81. https://diamond.jp/list/info/about
+  82. https://promo.diamond.jp/dol/premium/
+  83. https://promo.diamond.jp/dol/guide/
+  84. https://www.diamond.co.jp/tos/dol.html
+  85. https://www.diamond.co.jp/legal/subscript.html
+  86. https://www.diamond.co.jp/legal/
+  87. https://diamond.jp/list/faq/
+  88. https://adinfo.diamond.jp/
+  89. https://item.diamond.co.jp/contact/#category/D/20/500/form
+  90. https://promo.diamond.jp/houjin/dol/
+  91. https://diamond.jp/list/en
+  92. https://promo.diamond.jp/teikikoudoku/
+  93. https://dhbr.diamond.jp/
+  94. https://diamond.jp/list/books
+  95. https://diamond.jp/zai/
+  96. https://zai.diamond.jp/
+  97. https://diamond-fudosan.jp/
+  98. https://diamond.jp/list/quarterly
+  99. https://www.diamond.co.jp/go/salon/
+ 100. https://diamond.jp/list/sp/jinzai
+ 101. https://diamond.jp/crypto/
+ 102. https://diamond.jp/educate/
+ 103. https://diamond.co.jp/
+ 104. https://www.diamond.co.jp/company/
+ 105. https://www.diamond.co.jp/recruit/
+ 106. https://www.diamond.co.jp/information/index.html
+ 107. https://diamond.jp/list/latest
+ 108. https://diamond.jp/list/feature
+ 109. https://diamond.jp/list/dolbook
+ 110. https://diamond.jp/list/dw
+ 111. https://diamond.jp/list/ranking
+ 112. https://diamond.jp/list/movie
+ 113. https://diamond.jp/list/theme/製造業
+ 114. https://diamond.jp/list/theme/銀行・証券・金融
+ 115. https://diamond.jp/list/theme/保険
+ 116. https://diamond.jp/list/theme/建設・不動産
+ 117. https://diamond.jp/list/theme/コンサル・士業
+ 118. https://diamond.jp/list/theme/商社
+ 119. https://diamond.jp/list/theme/運輸・物流
+ 120. https://diamond.jp/list/theme/IT・通信
+ 121. https://diamond.jp/list/theme/AI・テクノロジー
+ 122. https://diamond.jp/list/theme/エネルギー
+ 123. https://diamond.jp/list/theme/医療・製薬
+ 124. https://diamond.jp/list/theme/食品・農業
+ 125. https://diamond.jp/list/theme/小売・外食
+ 126. https://diamond.jp/list/theme/サービス・エンタメ
+ 127. https://diamond.jp/list/theme/メディア・広告
+ 128. https://diamond.jp/list/theme/スタートアップ・新規事業
+ 129. https://diamond.jp/list/theme/教育
+ 130. https://diamond.jp/list/theme/財閥・学閥
+ 131. https://diamond.jp/list/theme/予測・分析
+ 132. https://diamond.jp/list/management
+ 133. https://diamond.jp/list/theme/マネジメント
+ 134. https://diamond.jp/list/business-issue
+ 135. https://diamond.jp/list/theme/ビジネススキル
+ 136. https://diamond.jp/list/theme/営業・マーケティング
+ 137. https://diamond.jp/list/theme/マネー・投資
+ 138. https://diamond.jp/list/theme/相続・節税
+ 139. https://diamond.jp/list/theme/年金
+ 140. https://diamond.jp/list/theme/キャリア・働き方
+ 141. https://diamond.jp/list/theme/受験・子育て
+ 142. https://diamond.jp/list/theme/教養
+ 143. https://diamond.jp/list/theme/社会
+ 144. https://diamond.jp/list/health
+ 145. https://diamond.jp/list/theme/福祉・介護
+ 146. https://diamond.jp/list/theme/ライフスタイル
+ 147. https://diamond.jp/list/theme/国際
+ 148. https://diamond.jp/list/theme/政治
+ 149. https://diamond.jp/list/market
+ 150. https://diamond.jp/list/wsj
+ 151. https://diamond.jp/list/companies
+ 152. https://promo.diamond.jp/houjin/dol/
+
+   Liens cachés :
+ 154. https://diamond.jp/
+ 155. https://hb.afl.rakuten.co.jp/hgc/g00q0729.5mrxmd78.g00q0729.5mrxn13e/?pc=https%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F17974689%2F
+ 156. https://x.com/dol_editors
+ 157. https://www.facebook.com/DiamondOnline2007
+ 158. https://diamond.jp/list/feed/rss/dol

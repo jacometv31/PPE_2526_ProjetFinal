@@ -32,6 +32,7 @@ echo "<!DOCTYPE html>
 <th>Nombre d'occurrences</th>
 <th>HTML Brut</th>
 <th>DUMP Textuel</th>
+<th>Contexte</th>
 <th>Concordancier HTML</th>
 
 </tr>" > "$OUTPUT_FILE" #permet de créer le tableau
@@ -44,6 +45,17 @@ while read -r line; do
     occurrence=$(curl -s "$line" | grep -o -i "希望" | wc -l)
     lynx -source "$line" > "../html_brut/mot1/page_$i.html"
     lynx -dump "$line" > "../dump/mot1/dump_$i.txt"
+
+
+    if [ ! -s "../dump/mot1/dump_$i.txt" ]; then
+    echo "ERREUR: dump_$i.txt non créé (URL = '$line')" >&2
+    continue
+    fi
+
+    grep -C 3 --no-group-separator "希望" \
+    "../dump/mot1/dump_$i.txt" \
+    > "../contexte/mot1/contexte_$i.txt"
+
     CONCORD_FILE="../concordances/mot1/concord_$i.html"
 
     echo "<!DOCTYPE html>
@@ -85,6 +97,7 @@ while read -r line; do
 <td>${occurrence}</td>
 <td> <a href="../html_brut/mot1/page_$i.html">Voir le html</a> </td>
 <td> <a href="../dump/mot1/dump_$i.txt">Voir le dump</a> </td>
+<td> <a href="../contexte/mot1/contexte_$i.txt">Voir le contexte</a> </td>
 <td><a href="../concordances/mot1/concord_$i.html">Voir concordancier</a></td>
 
 </tr>" >> "$OUTPUT_FILE" #permet de rajouter des lignes dans le tableau

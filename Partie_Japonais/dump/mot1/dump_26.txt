@@ -1,223 +1,486 @@
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+   #[1]alternate
 
-   (BUTTON) (BUTTON)
+   [2]新着
+   業界
+   [3]製造業 [4]銀行・証券・金融
+   [5]保険 [6]建設・不動産
+   [7]コンサル・士業 [8]商社
+   [9]運輸・物流 [10]IT・通信
+   [11]AI・テクノロジー [12]エネルギー
+   [13]医療・製薬 [14]食品・農業
+   [15]小売・外食 [16]サービス・エンタメ
+   [17]メディア・広告 [18]スタートアップ・新規事業
+   [19]教育 [20]財閥・学閥
+   [21]予測・分析
+   学び
+   [22]経営・戦略 [23]マネジメント
+   [24]ビジネス課題 [25]ビジネススキル
+   [26]営業・マーケティング [27]マネー・投資
+   [28]相続・節税 [29]年金
+   [30]キャリア・働き方 [31]受験・子育て
+   [32]教養
+   [33]特集 [34]書籍
 
-     * [6]機能
-     * [7]料金プラン
-     * ニュース
-          + [8]音楽ニュース
-          + [9]ランキング
-          + [10]Music Awards
-     * サポート
-          + [11]お支払い
-          + [12]マイページ
-          + [13]FAQ
-          + [14]KKBOX サービス利用規約
-     * 会社情報
-          + [15]KKCompany について
-          + [16]会社概要
-          + [17]プレスリリース
-          + [18]採用情報
-          + [19]お問い合わせ
-     * 検索
-     * [20]ダウンロード
+   [ ]
+   ____________________ Submit
+   [35]ログイン [36]会員登録
 
-     * [21]機能
-     * [22]料金プラン
-     * ニュース
-          + [23]音楽ニュース
-          + [24]ランキング
-          + [25]Music Awards
-     * サポート
-          + [26]お支払い
-          + [27]マイページ
-          + [28]FAQ
-          + [29]KKBOX サービス利用規約
-     * 会社情報
-          + [30]KKCompany について
-          + [31]会社概要
-          + [32]プレスリリース
-          + [33]採用情報
-          + [34]お問い合わせ
+                 期待値を制する者は人生を制する
 
-   (BUTTON) ____________________
+   [37]加地太祐: 経営者、陽明学者
 
-   [35]希望について[type-A 通常盤]
-   楽曲
+   [38]成功する人の考え方
 
-希望について
+   2016年1月7日 5:03
 
-   [36]NO NAME NO NAME
-   [play-7fb5bbc884.1.svg] [pause-3b8362ca9d.1.svg] 試聴する フル再生
-   [share-7920216b46.black.svg]
+   [ ]
+   記事をクリップ
+   URLをコピー
+   記事を印刷
+   Xでシェア
+   Facebookでシェア
+   はてなブックマークでシェア
+   LINEでシェア
+   noteでシェア
 
-   作詞：秋元康　     作曲：川浦正大
+   新年を迎えて「今年こそは人生を変えたい」「夢を実現したい」と思う人は多い。しかし、一体どれだけの人がその実現に向け努力しているだろうか。現役の
+   経営者で陽明学者の加地太祐氏は、「成功するためには、何より実践が大事」と説く。本連載では、そんな加地氏の初の著書『[39]成功する人の考え方』
+   （ダイヤモンド社より1月16日に発売予定）の内容をベースに、これまでの人生を変えて、成功をたぐり寄せるためのポイントをお伝えしていく。一生懸命
+   やってもなかなか成果が上がらない、認めてもらえないという人は、一度、上司の期待値について考えてみよう。
 
-   その手 伸ばしても
-   今は(今は)届かないよ
-   僕たちの夢は
-   もっと(もっと)遠くにあるんだ
-   夜空の星だって
-   何億光年の彼方
-   暗闇の先に
-   輝くもの
-   希望について
-   僕は語ろう
-   名もなき詩人のように(ように)
-   熱く(熱く)
-   君が涙に
-   暮れているなら
-   慰めよりも
-   やがて(やがて)白む(白む)
-   空を語ろうか?
-   愛を探しても
-   すぐに(すぐに)見つからないよ
-   自分の方から
-   誰か(誰か)愛してみるんだ
-   こんな広い世界
-   運命に導かれて
-   たった一つだけの
-   光を見た
-   希望について
-   僕は語ろう
-   年老いた水夫のように(ように)
-   深く(深く)
-   君が何かに
-   傷ついたなら
-   手当するより
-   昇る(昇る)朝陽(朝陽)
-   僕は指差そう
-   人は誰もみんな
-   あきらめて楽になるよ
-   だけど夢はいつも
-   背を向けない
-   希望について
-   僕は語ろう
-   名もなき詩人のように(ように)
-   熱く(熱く)
-   君が答えに
-   迷ってるなら
-   立ち止まらずに
-   歩き(歩き)ながら(ながら)
-   希望について
-   僕は語ろう
-   名もなき戦士のように(ように)
-   いつか(いつか)
-   夢を糧(かて)にして…
+相手の期待値を考えているか？
 
-収録アルバム
+    どんなことでも相手の期待値を超える働きができれば、成功する人としてのチケットを手に入れたのも同然だ。
 
-   [37]
-   希望について[type-A 通常盤]
-   希望について[type-A 通常盤]
-   2012/08/01
+    それはお客様や上司だけではなく、家族や子ども達に対しても同様で、常に期待値を意識し、期待を越えることが重要だ。
 
-楽曲一覧
+    そんな考え方を、僕らは持つ必要がある。
 
-   [38]収録曲を見る
+    世間を見渡してみると、一生懸命努力しているのになぜか成果が上がらないという人も沢山いるが、僕の友人もそのひとりだった。
 
-収録プレイリスト
+    彼は広告代理店に就職し、勤務態度も真面目だったが、ある悩みを抱えていた。
 
-   Explore KKBOX
-   [39]機能
-   [40]ダウンロード
-   ニュース
-   [41]音楽ニュース
-   [42]ランキング
-   [43]Music Awards
-   サポート
-   [44]お支払い
-   [45]マイページ
-   [46]FAQ
-   [47]KKBOX サービス利用規約
-   会社情報
-   [48]KKCompany について
-   [49]会社概要
-   [50]プレスリリース
-   [51]採用情報
-   [52]お問い合わせ
+    それは「いつも上司に叱られる」という悩みだった。
 
-   [日本語本語]日本語
-   (BUTTON) 日本語
-   [53]English
-   [日本____________....]日本
-   (BUTTON) 日本
-   [54]台湾[55]香港[56]シンガポール[57]マレーシア
-   © KKBOX All Rights Reserved.
-   [58]プライバシーポリシー
-   [59]知的財産権
-   [60]特定商取引法
+    彼は相談に来た際に、こんなことを言っていた。
+
+   「どれだけ一生懸命やっても仕事の成果が上がらなくて叱られてしまいます。僕は上司に嫌われているのでしょうか？」
+
+    詳しく聞いてみると、彼は上司から営業先へのプレゼン資料の作成を頼まれたようだった。
+
+   「僕は一生懸命努力して資料を提出したんです。でも、上司は全然喜んでくれなかった」
+
+    彼の仕事に対する熱意は確かに本物だった。しかし、ある視点が欠如していることに彼は気がつかなかった。
+
+    それは「上司が期待する値」だった。
+
+    彼の努力は本当だ。
+
+    しかし、上司が望む期待値を一切考えず、自分の物差しで仕事に取り組んでいたのだ。
+
+期待値は未来に大きく影響する
+
+    例えば、キミが大好きな彼女とデートするとしよう。
+
+    彼女は、必ずキミに何かを期待しているはずだ。
+
+   「どんなレストランに連れて行ってくれるのかな？」
+   「どんな話で盛り上げてくれるのかしら？」
+
+    彼女の心の中は、キミに対する期待で一杯なのだ。
+
+    もちろん、高価なプレゼントをしないさいと言っているのではない。
+
+    大切なことは「彼女の期待を越える」ということなのだ。
+
+    キミがどれだけ努力しても彼女の期待を下回ればガッカリされるし、上回れば2人はとても幸せな時間を過ごせるだろう。
+
+    期待値とは、それほど未来に影響を与えるのだ。
+
+この世界はすべて期待値で動いている
+
+    今回の話は、僕らに違う側面でも学びを与えてくれる。
+
+    それは上司の叱り方である。
+
+    どんな人間でも部下のつくるプレゼン内容が自分の期待以下だった場合、叱りたくもなるだろう。
+
+    しかし、期待値の説明を一切せずに叱ってはいけない。
+
+    成功する上司は部下を叱責するとき、必ず自分の期待値がどうであったかを伝える。
+
+    なぜなら期待値を理解してない部下は、努力したのに叱られたと思うからだ。
+
+    僕らの世界は、すべて期待値によって動いていると言っても過言ではない。
+
+    恋愛や仕事、お客様の心に至るまで、すべて期待値によって形成されている。
+
+    成功する人とは、相手の期待値を理解し、自分の期待値を相手に伝えられる人のことだ。
+
+   加地太祐（かじ・たいすけ）
+   1976年大阪生まれ。株式会社ａｉｍ代表取締役。
+   阪南大学高等学校中退後、溶接工に。その後、サラリーマンになり英会話スクールに通うが、1年後の2004年に通っていた英会話スクールが倒産。当時の
+   従業員に「給料を数ヵ月もらわぬままオーナーが失踪したので助けてください！」と生徒なのに相談される。月商18万円で家賃支払いが23万円と大赤字な
+   のにもかかわらず、「可哀想だから」と400万円を借金して援助し、サラリーマンを続けながら思いがけずオーナー経営者になる。
+   しかし、3ヶ月で資金がなくなり、助けてと言った従業員も退職。その後、英会話スクールの経営を実弟にまかせるが、1年後に病死する。この人生のどん底
+   のときに安定したサラリーマンを辞め、給料の出ない英会話スクール経営1本に絞る。その後、NOVAが倒産し英会話教師だった外国人失業者があふれた。
+   彼らを黙って見過ごせないと、生徒が増えたわけでもないのに日払いで外国人を雇う。この行動が新聞に紹介され、それがもとで生徒数が飛躍的に増え、以後
+   、順調に業績を伸ばす。
+   2015年2月6日、交通事故に合い5日間意識不明に。6日目に目覚めたとき、「このまま死んだら僕はこの世界に何も残していないことになる」と愕然と
+   する。
+   それがきっかけで、スタッフや愛する娘たちに残せるのは「言葉しかないのだ」と悟り「成功する人の考え方」の連載をスタート。純粋に言葉の力を試すため
+   に
+   名前をふせたままスタートするも幸運にも支持を得て開始8ヶ月で3万いいね！を突破。月間リーチ数250万人の人気ウェブサイトに成長する。年間100
+   0人以上の経営者と対話し、会社経営を行う傍ら、1人でも多くの成功者を世に出したいと、日夜、記事の執筆に精力を注いでいる。山田方谷を学ぶ実践塾「
+   方谷塾」塾頭、陽明学者。
+   所属団体 
+   ・盛和塾＜大阪＞ 世話人。稲盛和夫の経営者塾世話人
+   ・EO Osaka＜Entrepreneur Organization＞
+   理事。アメリカに母体を持つ経営者団体。年商100万ドル以上の経営者が集まる団体
+   成功する人の考え方HP http://ekusia.com/
+   フェイスブックページ  https://www.facebook.com/seikousuru/
+
+
+   ※次回は、1月8日（金）に掲載します。
+
+     __________________________________________________________________
+
+   いますぐ人生を変えたいあなたへ――。
+
+   [40]『成功する人の考え方』
+   絶賛発売中！
+
+   フェイスブックで月間リーチ数250万の人気コラムが書籍になった!
+   ◎人生は平等ではない
+   ◎未来から逆算していまを生きる
+   ◎継続するだけで道は開ける
+   ◎期待値を制する者は人生を制する
+   ◎最大の協力者はキミの内側にいる
+   ◎相手の時間を盗まない
+   etc.
+
+   いますぐ人生を変える45のヒント！
+   四六判並製・208ページ・本体1512円（税込）
+
+   ご購入はこちらから！→ [41]［Amazon.co.jp］ [42]［紀伊國屋書店BookWeb］ [43]［楽天ブックス］
+
+   [44]成功する人の考え方
+   [45]成功する人の考え方
+   加地太祐 著
+   ＜内容紹介＞
+
+   ◎不幸も幸福も、常に自分の心が決める、◎目的から逆算して生きる、◎継続するだけで道は開ける、◎人は、いくつになってもなりたい自分になれる、◎「
+   天地自然の法則」を利用するetc.　今すぐ人生を変える４６のヒント
+   [46]amazonで購入する [47]紀伊國屋書店で購入する [48]書店で購入する
+
+   記事をクリップ
+   URLをコピー
+   記事を印刷
+   Xでシェア
+   Facebookでシェア
+   はてなブックマークでシェア
+   LINEでシェア
+   noteでシェア
+
+   関連記事
+   [49]
+   継続するだけで道はひらける
+   加地太祐
+   継続するだけで道はひらける
+   [50]
+   未来から逆算して今を生きる
+   加地太祐
+   未来から逆算して今を生きる
+   [51]
+   成功する人は、不平等の中に自分の価値を見出す
+   加地太祐
+   成功する人は、不平等の中に自分の価値を見出す
+   [52]
+   失敗がもたらす4つの「効能」
+   出井伸之
+   失敗がもたらす4つの「効能」
+
+   [53]愛読者クラブ
+
+   書籍オンライン 記事ランキング
+   (*) 最新
+   ( ) 昨日
+   ( ) 週間
+   ( ) いいね
+   [54]ランキング一覧
+
+   [55]書籍オンライン
+
+   書籍 週間ランキング
+   [56]
+   DIE WITH ZERO　人生が豊かになりすぎる究極のルール
+   ビル・パーキンス 著/児島 修 訳
+   [57]
+   やりたいことが見つかる 世界の果てのカフェ
+   ジョン・ストレルキー 著/鹿田昌美 訳
+   [58]
+   ウォード博士の驚異の「動物行動学入門」 動物のひみつ
+   アシュリー・ウォード 著/夏目 大 訳
+   [59]
+   アート・オブ・スペンディングマネー
+   モーガン・ハウセル 著/児島 修 訳
+   [60]
+   嫌われる勇気
+   岸見一郎 著/古賀史健 著
+   [61]
+   頭のいい人が話す前に考えていること
+   安達裕哉 著
+   [62]
+   大人も知らない みのまわりの謎大全
+   ネルノダイスキ 著
+   [63]
+   いのちをまもる図鑑
+   池上 彰 監修/今泉忠明 監修/国崎信江 監修/西 竜一 監修/滝乃みわこ 著
+   [64]
+   頭のいい人だけが解ける論理的思考問題
+   野村裕之 著
+   [65]
+   THE WEALTH LADDER 富の階段
+   ニック・マジューリ 著/児島 修 訳
+   (POSデータ調べ、12/14～12/20)
+
+   特集
+   [66]
+   総予測2026
+   [67]
+   みずほ安井のHELP!アメリカ政治経済
+   [68]
+   マンション羅針盤 管理＆売買
+   [69]
+   製薬フロンティア
+
+   あなたにおすすめ
+
+   トレンドウォッチ
+   [70]【丸亀製麺】顧客からの「おほめ」が25％増。新経営モデルの威力 [71]【成長企業で安定企業】ITサービスで進化し続ける人財尊重企業
+   [72]過去最高の分配金！物流施設に特化した国内最大級のJリート [73]AI事業と人材育成を加速。インド名門大学卒のインド人70人を採用
+   [74]【NEC】経営危機→V字回復の舞台裏！「人の力を最大化する」変革
+   [75]一覧を見る
+
+   最新記事
+   [76]
+   総予測2026
+   なぜ「鳥貴族」は居酒屋市場が縮んでいるのに好調なのか？大倉社長の答えは明快「理由は串カツ田中と同じ」
+   [77]
+   みずほ安井のHELP!アメリカ政治経済
+   26年の米政治は「AI規制」が争点に？トランプ政権の規制緩和に州政府・MAGA派が反発
+   [78]
+   今だからこそ読みたい！注目特集
+   【内部資料入手】BCGがアパレル大手TSIに提示した極秘「リストラ手順書」の全貌、社員を「エース人材」や「業務遂行に不要な人材」に選別《再配信
+   》
+   [79]
+   明日なに着てく？
+   「何回もリピート中」無印良品の“2990円パンツ”がデニムなのに動きやすい！「体型カバーができる」「太ももが綺麗に収まります」
+   [80]
+   ＤＯＬ特別レポート
+   「社長、それは完全にブラック企業です」新日本プロレス棚橋弘至が社員にツッコまれた「会社の貼り紙」
+   [81]最新記事一覧
+
+   [82]DIAMOND SPECIAL一覧 [83]広告企画一覧
+
+   [X] ダイヤモンド・オンラインについて
+   [84]このサイトについて [85]ダイヤモンド・プレミアムについて [86]ダイヤモンド・プレミアム活用ガイド [87]サイト利用規約
+   [88]特定商取引に関する法律に基づく表示 [89]プライバシーポリシー・著作権 [90]よくある質問 [91]広告掲載 [92]お問い合わせ
+   [93]法人導入について
+   [ ] ダイヤモンド社のサイト
+   [94]Diamond Online(English) [95]週刊ダイヤモンド [96]DIAMONDハーバード・ビジネス・レビュー
+   [97]書籍オンライン [98]ザイ・オンライン [99]ザイFX！ [100]ダイヤモンド不動産研究所 [101]DIAMOND
+   Quarterly [102]The Salon [103]HRオンライン [104]クリプトインサイト [105]ダイヤモンド教育ラボ
+   [ ] ダイヤモンド社について
+   [106]ダイヤモンド社TOP [107]会社概要 [108]採用情報 [109]お知らせ
+
+   © DIAMOND, INC.
+
+   ____________________ Submit
+
+   [110]新着記事 [111]特集 [112]書籍 [113]週刊ダイヤモンド [114]ランキング [115]動画
+
+   ジャンル
+   [ ] 業界
+   [116]製造業 [117]銀行・証券・金融 [118]保険 [119]建設・不動産 [120]コンサル・士業 [121]商社
+   [122]運輸・物流 [123]IT・通信 [124]AI・テクノロジー [125]エネルギー [126]医療・製薬 [127]食品・農業
+   [128]小売・外食 [129]サービス・エンタメ [130]メディア・広告 [131]スタートアップ・新規事業 [132]教育
+   [133]財閥・学閥 [134]予測・分析
+   [ ] 学び
+   [135]経営・戦略 [136]マネジメント [137]ビジネス課題 [138]ビジネススキル [139]営業・マーケティング
+   [140]マネー・投資 [141]相続・節税 [142]年金 [143]キャリア・働き方 [144]受験・子育て [145]教養
+   [ ] ライフ
+   [146]社会 [147]健康 [148]福祉・介護 [149]ライフスタイル
+   [ ] 国際・政治・市況
+   [150]国際 [151]政治 [152]マーケットラボ
+
+   [153]ウォール・ストリート・ ジャーナル [154]主要企業一覧
+     __________________________________________________________________
+
+   [155]法人プランの導入
 
 Références
 
    Liens visibles :
-   1. https://www.kkbox.com/jp/en/song/5XpfsvA_ELRufbCUz-
-   2. android-app://com.skysoft.kkbox.android/https/www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-
-   3. ios-app://tw.com.skysoft.iphone/https/www.kkbox.com/jp/ja/song/5XpfsvA_ELRufbCUz-
-   4. android-app://com.skysoft.kkbox.android/kkbox/song/11600917?e=0#play
-   5. ios-app://tw.com.skysoft.iphone/kkbox/song/11600917?e=0#play
-   6. https://www.kkbox.com/jp/ja/feature
-   7. https://ssl.kkbox.com/billing/index.php
-   8. https://www.kkbox.com/jp/ja/info/
-   9. https://kma.kkbox.com/charts/?terr=jp&lang=ja
-  10. https://kma.kkbox.com/awards/
-  11. https://ssl.kkbox.com/billing.php
-  12. https://mykkid.kkbox.com/
-  13. https://help.kkbox.com/jp/ja?p=kkbox
-  14. https://www.kkbox.com/about/jp/ja/terms
-  15. https://www.kkcompany.com/ja-jp/about/
-  16. https://www.kkbox.com/about/jp/ja/
-  17. https://www.kkbox.com/about/jp/ja/news
-  18. https://careers.kkcompany.com/#kkbox
-  19. https://www.kkbox.com/about/jp/ja/contact
-  20. https://www.kkbox.com/jp/ja/download
-  21. https://www.kkbox.com/jp/ja/feature
-  22. https://ssl.kkbox.com/billing/index.php
-  23. https://www.kkbox.com/jp/ja/info/
-  24. https://kma.kkbox.com/charts/?terr=jp&lang=ja
-  25. https://kma.kkbox.com/awards/
-  26. https://ssl.kkbox.com/billing.php
-  27. https://mykkid.kkbox.com/
-  28. https://help.kkbox.com/jp/ja?p=kkbox
-  29. https://www.kkbox.com/about/jp/ja/terms
-  30. https://www.kkcompany.com/ja-jp/about/
-  31. https://www.kkbox.com/about/jp/ja/
-  32. https://www.kkbox.com/about/jp/ja/news
-  33. https://careers.kkcompany.com/#kkbox
-  34. https://www.kkbox.com/about/jp/ja/contact
-  35. https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t
-  36. https://www.kkbox.com/jp/ja/artist/-tYGG-TrdRktDOh4g3
-  37. https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t
-  38. https://www.kkbox.com/jp/ja/album/4ob0VppRVgY_blgu-t
-  39. https://www.kkbox.com/jp/ja/feature
-  40. https://www.kkbox.com/jp/ja/download
-  41. https://www.kkbox.com/jp/ja/info/
-  42. https://kma.kkbox.com/charts/?terr=jp&lang=ja
-  43. https://kma.kkbox.com/awards/
-  44. https://ssl.kkbox.com/billing.php
-  45. https://mykkid.kkbox.com/
-  46. https://help.kkbox.com/jp/ja?p=kkbox
-  47. https://www.kkbox.com/about/jp/ja/terms
-  48. https://www.kkcompany.com/ja-jp/about/
-  49. https://www.kkbox.com/about/jp/ja/
-  50. https://www.kkbox.com/about/jp/ja/news
-  51. https://careers.kkcompany.com/#kkbox
-  52. https://www.kkbox.com/about/jp/ja/contact
-  53. javascript:window.location=window.location.href.replace(/\/jp\/(ja)\//,(m,p)=>m.replace(p,'en'))
-  54. https://www.kkbox.com/tw/tc/
-  55. https://www.kkbox.com/hk/tc/
-  56. https://www.kkbox.com/sg/en/
-  57. https://www.kkbox.com/my/en/
-  58. https://www.kkbox.com/about/jp/ja/privacy
-  59. https://www.kkbox.com/about/jp/ja/ipr
-  60. https://www.kkbox.com/about/jp/ja/specified_law
+   1. https://diamond.jp/list/feed/rss/dol
+   2. https://diamond.jp/list/latest
+   3. https://diamond.jp/list/theme/製造業
+   4. https://diamond.jp/list/theme/銀行・証券・金融
+   5. https://diamond.jp/list/theme/保険
+   6. https://diamond.jp/list/theme/建設・不動産
+   7. https://diamond.jp/list/theme/コンサル・士業
+   8. https://diamond.jp/list/theme/商社
+   9. https://diamond.jp/list/theme/運輸・物流
+  10. https://diamond.jp/list/theme/IT・通信
+  11. https://diamond.jp/list/theme/AI・テクノロジー
+  12. https://diamond.jp/list/theme/エネルギー
+  13. https://diamond.jp/list/theme/医療・製薬
+  14. https://diamond.jp/list/theme/食品・農業
+  15. https://diamond.jp/list/theme/小売・外食
+  16. https://diamond.jp/list/theme/サービス・エンタメ
+  17. https://diamond.jp/list/theme/メディア・広告
+  18. https://diamond.jp/list/theme/スタートアップ・新規事業
+  19. https://diamond.jp/list/theme/教育
+  20. https://diamond.jp/list/theme/財閥・学閥
+  21. https://diamond.jp/list/theme/予測・分析
+  22. https://diamond.jp/list/management
+  23. https://diamond.jp/list/theme/マネジメント
+  24. https://diamond.jp/list/business-issue
+  25. https://diamond.jp/list/theme/ビジネススキル
+  26. https://diamond.jp/list/theme/営業・マーケティング
+  27. https://diamond.jp/list/theme/マネー・投資
+  28. https://diamond.jp/list/theme/相続・節税
+  29. https://diamond.jp/list/theme/年金
+  30. https://diamond.jp/list/theme/キャリア・働き方
+  31. https://diamond.jp/list/theme/受験・子育て
+  32. https://diamond.jp/list/theme/教養
+  33. https://diamond.jp/list/feature
+  34. https://diamond.jp/list/dolbook
+  35. https://diamond.jp/auth/login
+  36. https://promo.diamond.jp/dol/premium/
+  37. https://diamond.jp/ud/authors/58abbd717765611bd0920400
+  38. https://diamond.jp/category/s-seikousuruhitonokangaekata
+  39. http://www.amazon.co.jp/o/ASIN/4478068348/diamondinc-22/
+  40. http://www.amazon.co.jp/o/ASIN/4478068348/diamondinc-22/
+  41. http://www.amazon.co.jp/o/ASIN/4478068348/diamondinc-22/
+  42. https://www.kinokuniya.co.jp/f/dsg-01-9784478068342
+  43. http://books.rakuten.co.jp/rb/13525178/
+  44. https://www.amazon.co.jp/o/ASIN/4478068348/booksonlinea-22/
+  45. https://www.amazon.co.jp/o/ASIN/4478068348/booksonlinea-22/
+  46. https://www.amazon.co.jp/o/ASIN/4478068348/booksonlinea-22/
+  47. https://www.kinokuniya.co.jp/f/dsg-01-9784478068342
+  48. https://www.amazon.co.jp/o/ASIN/B01AHEL6VK/booksonlinea-22/
+  49. https://diamond.jp/articles/-/83899
+  50. https://diamond.jp/articles/-/83895
+  51. https://diamond.jp/articles/-/83875
+  52. https://diamond.jp/articles/-/83525
+  53. https://rd.diamond.jp/book-member
+  54. https://diamond.jp/list/ranking
+  55. https://rd.diamond.jp/list-books
+  56. https://www.diamond.co.jp/book/9784478109687.html
+  57. https://www.diamond.co.jp/book/9784478122549.html
+  58. https://www.diamond.co.jp/book/9784478116289.html
+  59. https://www.diamond.co.jp/book/9784478123140.html
+  60. https://www.diamond.co.jp/book/9784478025819.html
+  61. https://www.diamond.co.jp/book/9784478116692.html
+  62. https://www.diamond.co.jp/book/9784478117675.html
+  63. https://www.diamond.co.jp/book/9784478119389.html
+  64. https://www.diamond.co.jp/book/9784478119044.html
+  65. https://www.diamond.co.jp/book/9784478121368.html
+  66. https://diamond.jp/list/feature/p-prediction2026
+  67. https://diamond.jp/list/feature/s-helpamerica
+  68. https://diamond.jp/list/feature/p-mansioncompass
+  69. https://diamond.jp/list/feature/p-pharmaceuticalfrontier
+  70. https://dhbr.diamond.jp/articles/-/13185
+  71. https://diamond.jp/articles/-/376289
+  72. https://diamond.jp/articles/-/379096
+  73. https://diamond.jp/articles/-/375432
+  74. https://diamond.jp/articles/-/377676
+  75. https://diamond.jp/category/plus-cross-media-sub
+  76. https://diamond.jp/articles/-/377876
+  77. https://diamond.jp/articles/-/380598
+  78. https://diamond.jp/articles/-/380461
+  79. https://diamond.jp/articles/-/379953
+  80. https://diamond.jp/articles/-/380865
+  81. https://diamond.jp/list/latest
+  82. https://diamond.jp/category/plus-cross-media
+  83. https://diamond.jp/category/plus-cross-media-sub
+  84. https://diamond.jp/list/info/about
+  85. https://promo.diamond.jp/dol/premium/
+  86. https://promo.diamond.jp/dol/guide/
+  87. https://www.diamond.co.jp/tos/dol.html
+  88. https://www.diamond.co.jp/legal/subscript.html
+  89. https://www.diamond.co.jp/legal/
+  90. https://diamond.jp/list/faq/
+  91. https://adinfo.diamond.jp/
+  92. https://item.diamond.co.jp/contact/#category/D/20/500/form
+  93. https://promo.diamond.jp/houjin/dol/
+  94. https://diamond.jp/list/en
+  95. https://promo.diamond.jp/teikikoudoku/
+  96. https://dhbr.diamond.jp/
+  97. https://diamond.jp/list/books
+  98. https://diamond.jp/zai/
+  99. https://zai.diamond.jp/
+ 100. https://diamond-fudosan.jp/
+ 101. https://diamond.jp/list/quarterly
+ 102. https://www.diamond.co.jp/go/salon/
+ 103. https://diamond.jp/list/sp/jinzai
+ 104. https://diamond.jp/crypto/
+ 105. https://diamond.jp/educate/
+ 106. https://diamond.co.jp/
+ 107. https://www.diamond.co.jp/company/
+ 108. https://www.diamond.co.jp/recruit/
+ 109. https://www.diamond.co.jp/information/index.html
+ 110. https://diamond.jp/list/latest
+ 111. https://diamond.jp/list/feature
+ 112. https://diamond.jp/list/dolbook
+ 113. https://diamond.jp/list/dw
+ 114. https://diamond.jp/list/ranking
+ 115. https://diamond.jp/list/movie
+ 116. https://diamond.jp/list/theme/製造業
+ 117. https://diamond.jp/list/theme/銀行・証券・金融
+ 118. https://diamond.jp/list/theme/保険
+ 119. https://diamond.jp/list/theme/建設・不動産
+ 120. https://diamond.jp/list/theme/コンサル・士業
+ 121. https://diamond.jp/list/theme/商社
+ 122. https://diamond.jp/list/theme/運輸・物流
+ 123. https://diamond.jp/list/theme/IT・通信
+ 124. https://diamond.jp/list/theme/AI・テクノロジー
+ 125. https://diamond.jp/list/theme/エネルギー
+ 126. https://diamond.jp/list/theme/医療・製薬
+ 127. https://diamond.jp/list/theme/食品・農業
+ 128. https://diamond.jp/list/theme/小売・外食
+ 129. https://diamond.jp/list/theme/サービス・エンタメ
+ 130. https://diamond.jp/list/theme/メディア・広告
+ 131. https://diamond.jp/list/theme/スタートアップ・新規事業
+ 132. https://diamond.jp/list/theme/教育
+ 133. https://diamond.jp/list/theme/財閥・学閥
+ 134. https://diamond.jp/list/theme/予測・分析
+ 135. https://diamond.jp/list/management
+ 136. https://diamond.jp/list/theme/マネジメント
+ 137. https://diamond.jp/list/business-issue
+ 138. https://diamond.jp/list/theme/ビジネススキル
+ 139. https://diamond.jp/list/theme/営業・マーケティング
+ 140. https://diamond.jp/list/theme/マネー・投資
+ 141. https://diamond.jp/list/theme/相続・節税
+ 142. https://diamond.jp/list/theme/年金
+ 143. https://diamond.jp/list/theme/キャリア・働き方
+ 144. https://diamond.jp/list/theme/受験・子育て
+ 145. https://diamond.jp/list/theme/教養
+ 146. https://diamond.jp/list/theme/社会
+ 147. https://diamond.jp/list/health
+ 148. https://diamond.jp/list/theme/福祉・介護
+ 149. https://diamond.jp/list/theme/ライフスタイル
+ 150. https://diamond.jp/list/theme/国際
+ 151. https://diamond.jp/list/theme/政治
+ 152. https://diamond.jp/list/market
+ 153. https://diamond.jp/list/wsj
+ 154. https://diamond.jp/list/companies
+ 155. https://promo.diamond.jp/houjin/dol/
 
    Liens cachés :
-  62. https://www.kkbox.com/jp/ja/
-  63. https://www.kkbox.com/jp/ja/
-  64. https://www.facebook.com/KKBOXJP
-  65. https://twitter.com/KKBOX_JP
-  66. https://www.youtube.com/user/KKBOXJP
-  67. https://www.facebook.com/KKBOXJP
-  68. https://twitter.com/KKBOX_JP
-  69. https://www.youtube.com/user/KKBOXJP
+ 157. https://diamond.jp/
+ 158. https://hb.afl.rakuten.co.jp/hgc/g00q0729.5mrxmd78.g00q0729.5mrxn13e/?pc=https%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13525178%2F
+ 159. https://x.com/dol_editors
+ 160. https://www.facebook.com/DiamondOnline2007
+ 161. https://diamond.jp/list/feed/rss/dol

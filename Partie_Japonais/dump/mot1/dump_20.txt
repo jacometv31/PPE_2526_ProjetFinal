@@ -1,521 +1,237 @@
-   #[1]JSON [2]oEmbed (JSON) [3]oEmbed (XML)
+[1]TBS CROSS DIG with Bloomberg
 
-   [4]宮崎日日新聞
-   2025年12月30日(火)
-   [5]X
-   [6]Faceboox
-   [7]Instagram
-   [8]LINE
-   [9]YouTube
-   ログイン
-   サイト内検索
-   [10]紙面購読申込
+   ____________________ (BUTTON)
+     * [2]トップ
+     * ニュース
+     * [3]番組
+     * [4]オピニオン
+     * [5]アカデミー
 
-   ____________________
-   (BUTTON) 検索
+     * [6]総合
+     * [7]新着
+     * [8]Bloomberg
+     * [9]経済
+     * [10]政治
+     * [11]社会
+     * [12]国際
+     * [13]金融
+     * [14]投資・資産
+     * [15]テクノロジー
+     * [16]企業・IR
+     * [17]ライフ・キャリア
 
-     * [11]県内ニュース
-     * [12]地域の話題
-     * [13]みやビズ
-     * [14]みやスポ
-     * [15]特集・連載
-     * [16]コラム
-     * [17]くらし・グルメ
-     * [18]毎日脳トレ
-     * [19]お知らせ・ご案内
+【日本市況】株式が続伸、業績や政策期待でAI関連に買い－円は下落
 
-     * [20]ホーム
-     * [21]オリコンニュース
-     * 『レコ大』新浜レオン「感謝を乗せて、希望･･･
+   堤健太郎 山中英典 日高正裕
+   2025.12.26 09:35
+   【日本市況】株式が続伸、業績や政策期待でAI関連に買い－円は下落
+   カテゴリ
+   [18]経済 [19]金融 [20]投資・資産 [21]企業・IR
 
-『レコ大』新浜レオン「感謝を乗せて、希望にあふれるステージを」　本番へ意気込み
+   （ブルームバーグ）：26日の日本市場では株式が続伸。堅調な企業業績や高市早苗政権の政策期待などを背景に主力株で買いが優勢だった。12月の東京都
+   区部消費者物価指数（CPI）の伸びが予想を下回り、円は対ドルで156円台前半に下落。債券は超長期債を中心に上昇（金利は低下）した。
 
-   2025.12.27 12:30
-   [20251226_144152_size640wh_40152450.jpg]
-   新浜レオン＝『第67回　輝く！日本レコード大賞』（C）TBS
+   前日の米欧主要市場がクリスマスの祝日休場で海外投資家の参加が少ない中、株式はソフトバンクグループやアドバンテストといった人工知能（AI）関連や
+   ファーストリテイリングなど時価総額が大きい銘柄への買いが目立った。東証株価指数（TOPIX）は取引時間中の最高値を更新した。
 
-   年末恒例の『第67回輝く！日本レコード大賞』で優秀作品賞を受賞した新浜レオンからコメントが到着した。
+   三井住友DSアセットマネジメントの市川雅浩チーフマーケットストラテジストは「ここ数年の賃金・物価の上昇は株価にとって良いマクロ環境で、企業の資
+   本効率改善というミクロ面の追い風も吹いている」とし、高市政権下の成長投資なども含めて日本株への支援材料は来年も続くとの見通しを示した。
 
-   [22]【写真】豪華…！受賞アーティストたちを紹介
+株式　　
 
-   　『第67回輝く！日本レコード大賞』は12月30日午後5時半～10時まで4時間半にわたってTBSで生放送される。番組の総合司会は、安住紳一郎ア
-   ナウンサーと俳優の川口春奈が務める。
+   株式は情報・通信や電機、小売りなどの業種が上昇。きょうは12月決算期企業の期末配当や株主優待の権利付き最終売買日で、権利取りを狙った個人投資家
+   などの買いが入りやすい面もあった。
 
-   ――今年の総括をお願いします。
-   本当に、2025年はとにかく休みなく走ってきて、この『Fun! Fun!
-   Fun!』という作品で、全国、そして全世界…日本を超えて初めてマレーシアに行かせていただいたりして、みんなでこの振り付けを踊ったというのが、今
-   年の思い出ですね。
-   言葉はもちろん通じないんですけど、音楽を通じてこうやって心が繋がるんだっていう新たな感覚になって、もっともっと行きたいなという気持ちになりまし
-   た。
+   しんきんアセットマネジメント投信の藤原直樹シニアファンドマネジャーは「個人投資家による節税を目的とした損益通算の売りはある程度一巡した」と指摘
+   。米国で年末年始の株高を見込むサンタクロース・ラリーへの期待や国内金利の落ち着き、為替がやや円安に振れたことも支援材料と述べた。
 
-   ――どこか行きたい国はありますか？
-   ハンガリーですね。
-   学生時代にハンガリーのホームステイの生徒の方が我が家に来たことがありまして、すごく日本を愛してくれていたんですよ。
-   アニメが大好きで、日本食が好きでということで、今度は自分が行って、歌手になった今、ハンガリーの皆さんに日本の文化を改めて伝えたいなと思います。
+   個別ではカカクコムが急騰。アクティビスト（物言う株主）として知られる香港のオアシス･マネジメントが同社株を5.23%保有していることが明らかに
+   なった。
 
-   ――意識している受賞者は？
-   もう皆さんをリスペクトしているんですけれど、純烈さんは本当にいろんなところでご一緒させてもらって、いつも「レオン」と温かく声をかけていただいて
-   るので、すごく感謝しています。純烈さんは3名いらっしゃって、僕は1人なので、3名に1人で向かっていかなきゃいけないという気持ちは、この演歌歌謡
-   のジャンルの中ですごくあるんです。
-   でも、この間、酒井さんからクオカードもらっちゃったんで、ちょっとライバルとは言えないですね。
-   純烈さんをはじめ、演歌歌謡の先輩方に本当によくしていただいて、たくさんご指導していただいたんで、少しでもその恩返しの気持ちを込めて当日は歌いた
-   いなと思っています。
+為替
 
-   ――放送当日◯◯やります！宣言
-   僕の『Fun! Fun! Fun!』という楽曲には、みんなで踊るWAKI WAKI
-   ダンスというダンスがありまして、右手と左手を縦に振るダンスです。会場の皆さんと、そしてテレビの前の皆さんと、日々生きていたら嫌なこととか少なか
-   らずあると思うんですけど、みんなでこの時間だけは、1回忘れて。「ヤな事は 忘れちゃって、好きなんだ
-   しょ～がないじゃん」っていう歌詞のメッセージを大切にみんなで笑顔の時間にできたらという気持ちです。
+   円は対ドルで156円台前半に下落。東京CPIの発表後に売りが優勢となった。
 
-   ――最後に、楽曲に込めた想いを教えてください
-   レビューして6年、日本レコード大賞の新人賞をいただいて、次は優秀作品賞を！という気持ちでこの6年間やってきました。このステージに立てるのは本当
-   にファンの皆さん、スタッフ関係者の皆さんのおかげですので、その感謝を乗せて、そしてこれからがスタートだという、希望にあふれるステージを『Fun
-   ! Fun! Fun!』で届けていきたいと思います。
-   当日は日本レコード大賞で、もりあが～レオン！
+   SBI
+   FXトレードの上田真理人取締役は、ドル・円は上値の重い展開が続いたが、下値は堅くドルが買い戻されていると指摘。「東京CPIは弱く、日本銀行の利
+   上げを後押しする材料にならなかったことで、円売りのきっかけになっている」と話した。
 
-   [23]【一覧】『第76回NHK紅白歌合戦』出場者　これまでの出場回数も
-   [24]【写真】2023年の大賞は…紙吹雪が舞い散る中…深々と頭を下げたMrs.GREEN APPLE
-   [25]【写真】2022年の大賞は…セカオワがクセ強ダンスの「Habit」で初受賞
-   [26]【集合ショット】『第76回NHK紅白歌合戦』&TEAM、M!LK、HANAら初出場歌手が勢ぞろい
-   [27]【写真】めちゃくちゃ“ビジュイイじゃん！”なM!LK
-     * [28]乃木坂46、五百城茉央が座長「アンダードキュメンタリー」放送決定　終演後に語った未来への言葉とは
-       乃木坂46、五百城茉央が座長「アンダードキュメンタリー」放送決定　終演後に語った未来への言葉とは
-       2025.12.29｜オリコンニュース
-     * [29]【今年イチバン聴いた歌】小室哲哉＆氷川きよし、地上波初コラボに反響　アウトロでは粋なサプライズも
-       【今年イチバン聴いた歌】小室哲哉＆氷川きよし、地上波初コラボに反響　アウトロでは粋なサプライズも
-       2025.12.29｜オリコンニュース
-     * [30]M!LK佐野勇斗、佐野アワードを直筆で発表「朝の4時まで書いておりました」　驚きの声相次ぐ「達筆だねー！」「寝てください」
-       M!LK佐野勇斗、佐野アワードを直筆で発表「朝の4時まで書いておりました」　驚きの声相次ぐ「達筆だねー！」「寝てください」
-       2025.12.29｜オリコンニュース
-     * [31]成田悠輔、日テレMC番組を自ら降板「単に飽きたからです」　らしさ全開の報告
-       成田悠輔、日テレMC番組を自ら降板「単に飽きたからです」　らしさ全開の報告
-       2025.12.29｜オリコンニュース
-     * [32]【RIZIN】冨澤大智「篠塚にリベンジして第1章が終わらせる」忘れたことがない2年前の雪辱を果たす
-       【RIZIN】冨澤大智「篠塚にリベンジして第1章が終わらせる」忘れたことがない2年前の雪辱を果たす
-       2025.12.29｜オリコンニュース
+   12月の東京コアCPIは前年同月比2.3%上昇と前月から伸びが縮小した。市場予想は2.5%上昇だった。
 
-   [33]紙面購読申込
-   [34]会員登録
-   [35]Wキャンペーン
-   [36]トムとジェリー展
-   [37]宮崎県就職ナビ
-   [38]防災企画２０２５
-   速報一覧
-     * [39]米ロ首脳、ウクライナ巡り電話会談 国内外
-     * [40]東京・新宿の女性刺傷、中国籍の男を確保 国内外
-     * [41]ソフトバンクＧ、米投資会社を買収 国内外
-     * [42]尖閣周辺での中国船航行、年間最多更新 国内外
-     * [43]埼玉の農場で鳥インフル疑い 国内外
-     * [44]ＮＹ株、続落して始まる 国内外
-     * [45]ＮＹ円、１５６円２２〜３２銭 国内外
-     * [46]軍事演習で台湾便の利用客１０万人に影響へ 国内外
-     * [47]フィギュアのロ連盟、選手流出「５００人」 国内外
-     * [48]中国の空母は参加せずと台湾国防部 国内外
+債券
 
-   記事アクセスランキング
-   1日
-   1週間
-   1ヶ月
-    1. [49]宮崎県内で金属盗難急増　高騰続き換金目的か
-       宮崎県内で金属盗難急増　高騰続き換金目的か
-    2. [50]スタジアム改修に寄付を　テゲバＪ２参戦で新富町、椅子席５０００増
-       スタジアム改修に寄付を　テゲバＪ２参戦で新富町、椅子席５０００増
-    3. [51]えびのイルミネーション１０周年　「竹取物語」テーマ
-       えびのイルミネーション１０周年　「竹取物語」テーマ
-    4. [52]宮崎県庁で仕事納め式　働き方改革で１日前倒し
-       宮崎県庁で仕事納め式　働き方改革で１日前倒し
-    5. [53]防衛省予算案　新田原Ｆ３５Ｂ垂直着陸パッド増設
-       防衛省予算案　新田原Ｆ３５Ｂ垂直着陸パッド増設
+   債券は超長期債を中心に上昇。来年度国債発行計画で超長期債が減額されたことを受けて買いが優勢だった。
 
-    1. [54]宮崎県庁で仕事納め式　働き方改革で１日前倒し
-       宮崎県庁で仕事納め式　働き方改革で１日前倒し
-    2. [55]宮崎県内で金属盗難急増　高騰続き換金目的か
-       宮崎県内で金属盗難急増　高騰続き換金目的か
-    3. [56]ご神木を彫った竜、宮崎・東霧島神社に奉納
-       ご神木を彫った竜、宮崎・東霧島神社に奉納
-    4. [57]シラスウナギ漁解禁　宮崎市の大淀川で川面に光り
-       シラスウナギ漁解禁　宮崎市の大淀川で川面に光り
-    5. [58]スタジアム改修に寄付を　テゲバＪ２参戦で新富町、椅子席５０００増
-       スタジアム改修に寄付を　テゲバＪ２参戦で新富町、椅子席５０００増
+   アクサ・インベストメント・マネージャーズの木村龍太郎シニア債券ストラテジストは「超長期債が全ての年限で減額されたのは大きい」と語る。年明け以降
+   に大口の機関投資家が戻ってきて流動性が回復すれば、改めて減額を評価した買いが入ると予想する。
 
-    1. [59]「お舟出の湯」日向市再開断念　用途転換、宮崎県と協議へ
-       「お舟出の湯」日向市再開断念　用途転換、宮崎県と協議へ
-    2. [60]宮崎県キャリア形成プログラム　研修医４人が不同意
-       宮崎県キャリア形成プログラム　研修医４人が不同意
-    3. [61]宮崎県庁で仕事納め式　働き方改革で１日前倒し
-       宮崎県庁で仕事納め式　働き方改革で１日前倒し
-    4. [62]「漁協食堂とのうら」オープン 　日南の「旬」味わって
-       「漁協食堂とのうら」オープン 　日南の「旬」味わって
-    5. [63]公営住宅に外国人労働者　宮崎県内受け入れ広がる
-       公営住宅に外国人労働者　宮崎県内受け入れ広がる
+   一方、中長期金利には「円安への警戒を強めている高市政権が日銀の利上げ継続を容認するとの見方から上昇圧力がかかりやすい」と指摘。利回り曲線はフラ
+   ット（平たん）化に向かうとみている。
 
-     * [64]脳トレ
-     * [65]みやにちフォトコンテスト
-     * [66]きゅんと
-     * [67]みやにち写真館
-     * [68]Miyanichi TV
-     * [69]母校のメロディー
-     * [70]フォトメッセージ
-     * [71]テゲバジャーロ宮崎
-     * [72]グレイス
-       グレイス
-     * [73]みやざき就職ナビ
-       みやざき就職ナビ
-     * [74]宮日ネットリサーチ
-       宮日ネットリサーチ
+   新発国債利回り（午後3時時点）
 
-   IFRAME:
-   [75]//ad.jp.ap.valuecommerce.com/servlet/htmlbanner?sid=2759708&pid=882
-   454284
-   [76][gifbanner?sid=2759708&pid=882454284]
+   この記事は一部にブルームバーグ・オートメーションを利用しています。
 
-     * [77]宮日データベースサービス
-     * [78]宮日母子福祉事業団
-     * [79]お誕生日記念日新聞
-     * [80]出前授業
-     * [81]宮崎県NIE推進協議会
-     * [82]47news
-     * [83]宮日会館のご利用
-     * [84]投稿案内
-     * [85]事業後援申請
+   もっと読むにはこちら [22]bloomberg.com/jp
 
-   [86]ソラシド +
-   [87]トランビ +
-   [88]大学入学共通テスト特集
+   ©2025 Bloomberg L.P.
 
-   ニュース
-          [89]県内ニュース
-          [90]みやビズ
-          [91]みやスポ
-          [92]地域の話題
-          [93]国内外ニュース
-          [94]速報
+関連記事
 
-   [95]特集・連載
-          [96]主催事業
-          [97]こども新聞
-          [98]ビジュアルニュース
-          [99]毎日脳トレ
-          [100]人事異動
-          [101]ことば巡礼
-          [102]シリーズ自分史
-          [103]紙面特集
-          [104]連載小説
-          [105]読書
-          [106]みやにちフォトコンテスト
+   [23]
+   トランプ大統領、ベネズエラ政権移行までは米国が「統治」へ| TBS CROSS DIG with Bloomberg
+   3時間前
+   トランプ大統領、ベネズエラ政権移行までは米国が「統治」へ
+   [24]
+   ベネズエラ大統領夫妻をニューヨークで起訴－ボンディ米司法長官| TBS CROSS DIG with Bloomberg
+   7時間前
+   ベネズエラ大統領夫妻をニューヨークで起訴－ボンディ米司法長官
+   [25]
+   米国、ベネズエラに空爆実施－マドゥロ大統領夫妻を拘束・起訴| TBS CROSS DIG with Bloomberg
+   14時間前
+   米国、ベネズエラに空爆実施－マドゥロ大統領夫妻を拘束・起訴
+   [26]
+   クオンツ投資波乱の2025年、米AQRのマルチ戦略ファンド19.6%リターン| TBS CROSS DIG with Bloomberg
+   14時間前
+   クオンツ投資波乱の2025年、米AQRのマルチ戦略ファンド19.6%リターン
+   [27]
+   【ＡＩは万能？からだは、答えを知ってる】新春スペシャル！２０２６年のキーワードを書初めで発表！／竹下は「ＡＩ担」、三宅は「体」…その心は？／そ
+   して春にはPage Turners公開収録をついに開催！| TBS CROSS DIG with Bloomberg
+   16時間前
+   【ＡＩは万能？からだは、答えを知ってる】新春スペシャル！２０２６年のキーワードを書初めで発表！／竹下は「ＡＩ担」、三宅は「体」…その心は？／そ
+   して春にはPage Turners公開収録をついに開催！
+   [28]
+   ベネズエラ回避する石油タンカー増える－トランプ米政権が拿捕警告| TBS CROSS DIG with Bloomberg
+   17時間前
+   ベネズエラ回避する石油タンカー増える－トランプ米政権が拿捕警告
 
-   [107]コラム
-          [108]くろしお
-          [109]社説
-          [110]ひと
+アクセスランキング
 
-   [111]くらし・グルメ
-          [112]グルメ
-          [113]医療・健康
-          [114]訃報
-          [115]おくやみ広告
-          [116]休日在宅医
-          [117]不動産ネット
+   [29]
+   テスラ特需で巨額の富、はしご外され資産8億ドルが泡と消えるまで| TBS CROSS DIG with Bloomberg
+   2026.01.01
+   テスラ特需で巨額の富、はしご外され資産8億ドルが泡と消えるまで
+   [30]
+   米政府、中国の企業とタンカーに制裁－ベネズエラへの圧力強化| TBS CROSS DIG with Bloomberg
+   2026.01.01
+   米政府、中国の企業とタンカーに制裁－ベネズエラへの圧力強化
+   [31]
+   当初案とは異なる？「年収の壁」178万円　2026年度・税制改正大綱のポイント| TBS CROSS DIG with Bloomberg
+   2025.12.27
+   当初案とは異なる？「年収の壁」178万円　2026年度・税制改正大綱のポイント
+   [32]
+   ベネズエラ回避する石油タンカー増える－トランプ米政権が拿捕警告| TBS CROSS DIG with Bloomberg
+   17時間前
+   ベネズエラ回避する石油タンカー増える－トランプ米政権が拿捕警告
+   [33]
+   実質賃金が伸びない日本と伸び続ける米国　財インフレ・生産性格差・高齢化が生む“構造的な賃金の壁”| TBS CROSS DIG with
+   Bloomberg
+   21時間前
+   実質賃金が伸びない日本と伸び続ける米国　財インフレ・生産性格差・高齢化が生む“構造的な賃金の壁”
 
-   [118]プレスリリース
-          [119]PRTIMES
-          [120]共同Prwire
-          [121]ドリームニュース
+新着記事一覧
 
-   その他
-          [122]ゲーム
-          [123]オリコンニュース
-          [124]県内の天気
-          [125]警報・注意報
+   [34]
+   イラン最高指導者ハメネイ師「暴徒たちは然るべき場所に追いやられるべき」拡大する抗議デモめぐり演説 強硬姿勢| TBS CROSS DIG
+   with Bloomberg
+   1時間前
+   イラン最高指導者ハメネイ師「暴徒たちは然るべき場所に追いやられるべき」拡大する抗議デモめぐり演説 強硬姿勢
+   [35]
+   「完全に『侵略行為』に該当」ベネズエラ友好国イラン アメリカの大規模攻撃受け| TBS CROSS DIG with Bloomberg
+   1時間前
+   「完全に『侵略行為』に該当」ベネズエラ友好国イラン アメリカの大規模攻撃受け
+   [36]
+   ノーベル平和賞受賞のベネズエラの野党指導者マリア・コリナ・マチャド氏「自由が到来した」マドゥロ大統領の拘束受け| TBS CROSS DIG
+   with Bloomberg
+   1時間前
+   ノーベル平和賞受賞のベネズエラの野党指導者マリア・コリナ・マチャド氏「自由が到来した」マドゥロ大統領の拘束受け
+   [37]
+   「一部地域で治安情勢が不安定」在日本中国大使館が渡航自粛を再度呼びかけ　春節の大型連休前に徹底はかる狙いも| TBS CROSS DIG
+   with Bloomberg
+   3時間前
+   「一部地域で治安情勢が不安定」在日本中国大使館が渡航自粛を再度呼びかけ　春節の大型連休前に徹底はかる狙いも
+   [38]
+   トランプ大統領、ベネズエラ政権移行までは米国が「統治」へ| TBS CROSS DIG with Bloomberg
+   3時間前
+   トランプ大統領、ベネズエラ政権移行までは米国が「統治」へ
+    1. [39]トップページ
+    2. [40]経済
+    3. [41]【日本市況】株式が続伸、業績や政策期待でAI関連に買い－円は下落
 
-   [126]お知らせ・ご案内
-          [127]紙面購読申し込み
-          [128]投稿案内
-          [129]会社案内
-          [130]採用案内
-          [131]販売所一覧
-          [132]事業後援申請
-          [133]宮日会館のご利用
-          [134]休刊日
-          [135]朝刊広告料金表
-          [136]よくある質問
+   [42]トップ
+     * [43]ニュース
+     * [44]番組
+     * [45]オピニオン
+     * [46]アカデミー
 
-   宮崎日日新聞
-     * [137]トップページ
-     * [138]ご利用規約
-     * [139]プライバシーポリシー
-     * [140]著作権について
-     * [141]よくある質問
-     * [142]お問い合わせ
-     * [143]退会について
+     * [47]お問い合わせ
+     * [48]プライバシーポリシー
+     * [49]サイトポリシー
+     * [50]Cookieポリシー
+     * [51]利用規約
+     * [52]運営会社・連絡先
 
-   「宮崎日日新聞DIGITAL」に掲載の記事、写真、音楽等の著作権は宮崎日日新聞社または、各情報提供者らにあります。無断掲載、無断使用を禁じます
-   。
-   2000-2025 Miyazaki Nichinichi Shimbun. All Rights Reserved.
-
-   ____________________
-   (BUTTON) 検索
-   [144]X
-   [145]Faceboox
-   [146]Instagram
-   [147]LINE
-   [148]YouTube
-   ニュース
-     * [149]県内ニュース
-     * [150]みやビズ
-     * [151]みやスポ
-     * [152]地域の話題
-     * [153]国内外ニュース
-     * [154]速報
-
-   [155]特集・連載
-     * [156]主催事業
-     * [157]こども新聞
-     * [158]ビジュアルニュース
-     * [159]毎日脳トレ
-     * [160]人事異動
-     * [161]ことば巡礼
-     * [162]シリーズ自分史
-     * [163]県内特集
-     * [164]連載小説
-     * [165]読書
-     * [166]みやにちフォトコンテスト
-
-   [167]コラム
-     * [168]くろしお
-     * [169]社説
-     * [170]ひと
-
-   [171]くらし・グルメ
-     * [172]グルメ
-     * [173]医療健康
-     * [174]訃報
-     * [175]おくやみ広告
-     * [176]休日在宅医
-     * [177]不動産ネット
-
-   [178]プレスリリース
-     * [179]PRTIMES
-     * [180]共同Prwire
-     * [181]ドリームニュース
-
-   その他
-     * [182]ゲーム
-     * [183]オリコンニュース
-     * [184]県内の天気
-     * [185]警報・注意報
-
-   [186]お知らせ・ご案内
-     * [187]紙面購読申し込み
-     * [188]投稿案内
-     * [189]会社案内
-     * [190]販売所一覧
-     * [191]事業後援申請
-     * [192]宮日会館のご利用
-     * [193]休刊日
-     * [194]朝刊広告料金表
-     * [195]よくある質問
+   TBS CROSS DIG with Bloomberg
+   Copyright© Tokyo Broadcasting System Television, Inc. All Rights
+   Reserved.
 
 Références
 
    Liens visibles :
-   1. https://www.the-miyanichi.co.jp/wp-json/wp/v2/posts/463013
-   2. https://www.the-miyanichi.co.jp/wp-json/oembed/1.0/embed?url=https://www.the-miyanichi.co.jp/oricon/463013.html
-   3. https://www.the-miyanichi.co.jp/wp-json/oembed/1.0/embed?url=https://www.the-miyanichi.co.jp/oricon/463013.html&format=xml
-   4. https://www.the-miyanichi.co.jp/
-   5. https://x.com/miyanichi
-   6. https://www.facebook.com/miyanichi/
-   7. https://www.instagram.com/miyanichi_epress/
-   8. https://line.me/R/ti/p/@oa-miyazaki
-   9. https://www.youtube.com/@MiyanichiTV
-  10. https://www.the-miyanichi.co.jp/koudoku
-  11. https://www.the-miyanichi.co.jp/today
-  12. https://www.the-miyanichi.co.jp/local
-  13. https://www.the-miyanichi.co.jp/miyabiz
-  14. https://www.the-miyanichi.co.jp/miyaspo
-  15. https://www.the-miyanichi.co.jp/tokushu
-  16. https://www.the-miyanichi.co.jp/column
-  17. https://www.the-miyanichi.co.jp/life-gourmet
-  18. https://www.the-miyanichi.co.jp/notore
-  19. https://www.the-miyanichi.co.jp/info
-  20. https://www.the-miyanichi.co.jp/
-  21. https://www.the-miyanichi.co.jp/oricon
-  22. https://www.oricon.co.jp/news/2427635/photo/2/?anc=013
-  23. https://www.oricon.co.jp/special/73137/1/?anc=013#link1
-  24. https://www.oricon.co.jp/news/2308965/photo/68/?anc=013
-  25. https://www.oricon.co.jp/news/2262804/photo/5/?anc=013
-  26. https://www.oricon.co.jp/news/2413441/photo/1/?anc=013
-  27. https://www.oricon.co.jp/news/2377773/photo/4/?anc=013
-  28. https://www.the-miyanichi.co.jp/oricon/466652.html
-  29. https://www.the-miyanichi.co.jp/oricon/466616.html
-  30. https://www.the-miyanichi.co.jp/oricon/466595.html
-  31. https://www.the-miyanichi.co.jp/oricon/466529.html
-  32. https://www.the-miyanichi.co.jp/oricon/466526.html
-  33. https://www.the-miyanichi.co.jp/koudoku
-  34. https://www.the-miyanichi.co.jp/request/
-  35. https://www.the-miyanichi.co.jp/special/koudoku_cp/85/
-  36. https://www.the-miyanichi.co.jp/special/tomandjerry_miyazaki/
-  37. https://miya-navi.com/2027/
-  38. https://www.the-miyanichi.co.jp/special/bousaiKikaku/2025/
-  39. https://www.the-miyanichi.co.jp/national/national-flash/466685.html
-  40. https://www.the-miyanichi.co.jp/national/national-flash/466682.html
-  41. https://www.the-miyanichi.co.jp/national/national-flash/466679.html
-  42. https://www.the-miyanichi.co.jp/national/national-flash/466667.html
-  43. https://www.the-miyanichi.co.jp/national/national-flash/466664.html
-  44. https://www.the-miyanichi.co.jp/national/national-flash/466661.html
-  45. https://www.the-miyanichi.co.jp/national/national-flash/466631.html
-  46. https://www.the-miyanichi.co.jp/national/national-flash/466619.html
-  47. https://www.the-miyanichi.co.jp/national/national-flash/466421.html
-  48. https://www.the-miyanichi.co.jp/national/national-flash/466409.html
-  49. https://www.the-miyanichi.co.jp/today/kennaiippan/463925.html
-  50. https://www.the-miyanichi.co.jp/today/kennaiippan/462524.html
-  51. https://www.the-miyanichi.co.jp/today/chiiki/461006.html
-  52. https://www.the-miyanichi.co.jp/today/topic/459224.html
-  53. https://www.the-miyanichi.co.jp/today/kennaiippan/462245.html
-  54. https://www.the-miyanichi.co.jp/today/topic/459224.html
-  55. https://www.the-miyanichi.co.jp/today/kennaiippan/463925.html
-  56. https://www.the-miyanichi.co.jp/today/dekigoto/444107.html
-  57. https://www.the-miyanichi.co.jp/today/kennaiippan/452600.html
-  58. https://www.the-miyanichi.co.jp/today/kennaiippan/462524.html
-  59. https://www.the-miyanichi.co.jp/today/kennaiippan/399524.html
-  60. https://www.the-miyanichi.co.jp/today/kennaiippan/435869.html
-  61. https://www.the-miyanichi.co.jp/today/topic/459224.html
-  62. https://www.the-miyanichi.co.jp/today/dekigoto/446171.html
-  63. https://www.the-miyanichi.co.jp/today/topic/406571.html
-  64. https://www.the-miyanichi.co.jp/notore
-  65. https://www.the-miyanichi.co.jp/paper/photocon
-  66. https://www.the-miyanichi.co.jp/special/quntto/
-  67. https://miyanichi.epitas.com/provider
-  68. https://www.youtube.com/@MiyanichiTV
-  69. https://www.the-miyanichi.co.jp/school-songs
-  70. https://www.the-miyanichi.co.jp/photo-message
-  71. https://www.the-miyanichi.co.jp/special/tegevajaro/
-  72. https://www.the-miyanichi.co.jp/special/grace/2025/
-  73. https://miya-navi.com/2027/
-  74. https://research.the-miyanichi.co.jp/
-  75. https://ad.jp.ap.valuecommerce.com/servlet/htmlbanner?sid=2759708&pid=882454284
-  76. https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2759708&pid=882454284
-  77. https://www.the-miyanichi.co.jp/special/DBS/
-  78. https://www.the-miyanichi.co.jp/special/boshif_mp/
-  79. https://www.the-miyanichi.co.jp/special/gift/
-  80. https://www.the-miyanichi.co.jp/special/gakkou/
-  81. http://www.miyazaki-nie.org/
-  82. https://www.47news.jp/
-  83. https://www.the-miyanichi.co.jp/miyanichikaikan
-  84. https://www.the-miyanichi.co.jp/toukou
-  85. https://www.the-miyanichi.co.jp/kouen
-  86. https://www.solaseedair.jp/tour/
-  87. https://www.tranbi.com/buy/list/prefecture/45/?utm_source=MZKAMP&utm_medium=web&utm_campaign=api&utm_term=&utm_content=&code=3523ba9bbf071669352dddc3cfb643ad
-  88. https://www.47news.jp/culture/education/kyotsu-exam/2026
-  89. https://www.the-miyanichi.co.jp/today
-  90. https://www.the-miyanichi.co.jp/miyabiz
-  91. https://www.the-miyanichi.co.jp/miyaspo
-  92. https://www.the-miyanichi.co.jp/chiiki-2
-  93. https://www.the-miyanichi.co.jp/national
-  94. https://www.the-miyanichi.co.jp/today/sokuhou
-  95. https://www.the-miyanichi.co.jp/tokushu
-  96. https://www.the-miyanichi.co.jp/paper/syusai
-  97. https://www.the-miyanichi.co.jp/paper/kodomo
-  98. https://www.the-miyanichi.co.jp/paper/visualnews
-  99. https://www.the-miyanichi.co.jp/notore
- 100. https://www.the-miyanichi.co.jp/jinji
- 101. https://www.the-miyanichi.co.jp/paper/kotobajunrei
- 102. https://www.the-miyanichi.co.jp/paper/myhistory
- 103. https://www.the-miyanichi.co.jp/paper/kennaitokushu
- 104. https://www.the-miyanichi.co.jp/paper/shousetsu
- 105. https://www.the-miyanichi.co.jp/paper/dokusho
- 106. https://www.the-miyanichi.co.jp/paper/photocon
- 107. https://www.the-miyanichi.co.jp/column
- 108. https://www.the-miyanichi.co.jp/column/kuroshio
- 109. https://www.the-miyanichi.co.jp/column/syasetsu
- 110. https://www.the-miyanichi.co.jp/column/hito
- 111. https://www.the-miyanichi.co.jp/life-gourmet
- 112. https://www.the-miyanichi.co.jp/gourmet
- 113. https://www.the-miyanichi.co.jp/health
- 114. https://www.the-miyanichi.co.jp/fuhou
- 115. https://www.the-miyanichi.co.jp/okuyami
- 116. https://www.the-miyanichi.co.jp/zaitaku
- 117. https://www.the-miyanichi.co.jp/fudosan
- 118. https://www.the-miyanichi.co.jp/pressrelease
- 119. https://www.the-miyanichi.co.jp/pressrelease/prtimes
- 120. https://www.the-miyanichi.co.jp/pressrelease/prwire
- 121. https://www.the-miyanichi.co.jp/pressrelease/dreamnews
- 122. https://www.the-miyanichi.co.jp/game
- 123. https://www.the-miyanichi.co.jp/oricon
- 124. https://www.the-miyanichi.co.jp/tenki
- 125. https://www.the-miyanichi.co.jp/bousai
- 126. https://www.the-miyanichi.co.jp/info
- 127. https://www.the-miyanichi.co.jp/koudoku
- 128. https://www.the-miyanichi.co.jp/toukou
- 129. https://www.the-miyanichi.co.jp/company_information
- 130. https://www.the-miyanichi.co.jp/saiyou
- 131. https://www.the-miyanichi.co.jp/shoplist
- 132. https://www.the-miyanichi.co.jp/kouen
- 133. https://www.the-miyanichi.co.jp/miyanichikaikan
- 134. https://www.the-miyanichi.co.jp/kyukanbi
- 135. https://www.the-miyanichi.co.jp/adprice
- 136. https://www.the-miyanichi.co.jp/qa
- 137. https://www.the-miyanichi.co.jp/
- 138. https://www.the-miyanichi.co.jp/kiyaku
- 139. https://www.the-miyanichi.co.jp/privacy
- 140. https://www.the-miyanichi.co.jp/copyright
- 141. https://www.the-miyanichi.co.jp/qa
- 142. https://www.the-miyanichi.co.jp/contact
- 143. https://www.the-miyanichi.co.jp/withdraw/
- 144. https://x.com/miyanichi
- 145. https://www.facebook.com/miyanichi/
- 146. https://www.instagram.com/miyanichi_epress/
- 147. https://line.me/R/ti/p/@oa-miyazaki
- 148. https://www.youtube.com/@MiyanichiTV
- 149. https://www.the-miyanichi.co.jp/today
- 150. https://www.the-miyanichi.co.jp/miyabiz
- 151. https://www.the-miyanichi.co.jp/miyaspo
- 152. https://www.the-miyanichi.co.jp/chiiki-2
- 153. https://www.the-miyanichi.co.jp/national
- 154. https://www.the-miyanichi.co.jp/today/sokuhou
- 155. https://www.the-miyanichi.co.jp/tokushu
- 156. https://www.the-miyanichi.co.jp/paper/syusai
- 157. https://www.the-miyanichi.co.jp/paper/kodomo
- 158. https://www.the-miyanichi.co.jp/paper/visualnews
- 159. https://www.the-miyanichi.co.jp/notore
- 160. https://www.the-miyanichi.co.jp/jinji
- 161. https://www.the-miyanichi.co.jp/paper/kotobajunrei
- 162. https://www.the-miyanichi.co.jp/paper/myhistory
- 163. https://www.the-miyanichi.co.jp/paper/kennaitokushu
- 164. https://www.the-miyanichi.co.jp/paper/shousetsu
- 165. https://www.the-miyanichi.co.jp/paper/dokusho
- 166. https://www.the-miyanichi.co.jp/paper/photocon
- 167. https://www.the-miyanichi.co.jp/column
- 168. https://www.the-miyanichi.co.jp/column/kuroshio
- 169. https://www.the-miyanichi.co.jp/column/syasetsu
- 170. https://www.the-miyanichi.co.jp/column/hito
- 171. https://www.the-miyanichi.co.jp/life-gourmet
- 172. https://www.the-miyanichi.co.jp/gourmet
- 173. https://www.the-miyanichi.co.jp/health
- 174. https://www.the-miyanichi.co.jp/fuhou
- 175. https://www.the-miyanichi.co.jp/okuyami
- 176. https://www.the-miyanichi.co.jp/zaitaku
- 177. https://www.the-miyanichi.co.jp/fudosan
- 178. https://www.the-miyanichi.co.jp/pressrelease
- 179. https://www.the-miyanichi.co.jp/pressrelease/prtimes
- 180. https://www.the-miyanichi.co.jp/pressrelease/prwire
- 181. https://www.the-miyanichi.co.jp/pressrelease/dreamnews
- 182. https://www.the-miyanichi.co.jp/game
- 183. https://www.the-miyanichi.co.jp/oricon
- 184. https://www.the-miyanichi.co.jp/tenki
- 185. https://www.the-miyanichi.co.jp/bousai
- 186. https://www.the-miyanichi.co.jp/info
- 187. https://www.the-miyanichi.co.jp/koudoku
- 188. https://www.the-miyanichi.co.jp/toukou
- 189. https://www.the-miyanichi.co.jp/company_information
- 190. https://www.the-miyanichi.co.jp/shoplist
- 191. https://www.the-miyanichi.co.jp/kouen
- 192. https://www.the-miyanichi.co.jp/miyanichikaikan
- 193. https://www.the-miyanichi.co.jp/kyukanbi
- 194. https://www.the-miyanichi.co.jp/adprice
- 195. https://www.the-miyanichi.co.jp/qa
+   1. https://newsdig.tbs.co.jp/list/withbloomberg
+   2. https://newsdig.tbs.co.jp/list/withbloomberg
+   3. https://newsdig.tbs.co.jp/list/withbloomberg/movie
+   4. https://newsdig.tbs.co.jp/list/withbloomberg/opinion
+   5. https://newsdig.tbs.co.jp/list/withbloomberg/academy
+   6. https://newsdig.tbs.co.jp/list/withbloomberg/news
+   7. https://newsdig.tbs.co.jp/list/withbloomberg/news/latest
+   8. https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg
+   9. https://newsdig.tbs.co.jp/list/withbloomberg/news/経済
+  10. https://newsdig.tbs.co.jp/list/withbloomberg/news/政治
+  11. https://newsdig.tbs.co.jp/list/withbloomberg/news/社会
+  12. https://newsdig.tbs.co.jp/list/withbloomberg/news/国際
+  13. https://newsdig.tbs.co.jp/list/withbloomberg/news/金融
+  14. https://newsdig.tbs.co.jp/list/withbloomberg/news/投資・資産
+  15. https://newsdig.tbs.co.jp/list/withbloomberg/news/テクノロジー
+  16. https://newsdig.tbs.co.jp/list/withbloomberg/news/企業・IR
+  17. https://newsdig.tbs.co.jp/list/withbloomberg/news/ライフ・キャリア
+  18. https://newsdig.tbs.co.jp/list/withbloomberg/news/経済
+  19. https://newsdig.tbs.co.jp/list/withbloomberg/news/金融
+  20. https://newsdig.tbs.co.jp/list/withbloomberg/news/投資・資産
+  21. https://newsdig.tbs.co.jp/list/withbloomberg/news/企業・IR
+  22. https://www.bloomberg.com/jp
+  23. https://newsdig.tbs.co.jp/articles/withbloomberg/2380225?display=1
+  24. https://newsdig.tbs.co.jp/articles/withbloomberg/2380231?display=1
+  25. https://newsdig.tbs.co.jp/articles/withbloomberg/2380082?display=1
+  26. https://newsdig.tbs.co.jp/articles/withbloomberg/2380103?display=1
+  27. https://newsdig.tbs.co.jp/articles/withbloomberg/2377177?display=1
+  28. https://newsdig.tbs.co.jp/articles/withbloomberg/2380083?display=1
+  29. https://newsdig.tbs.co.jp/articles/withbloomberg/2378556?display=1
+  30. https://newsdig.tbs.co.jp/articles/withbloomberg/2378336?display=1
+  31. https://newsdig.tbs.co.jp/articles/withbloomberg/2365782?display=1
+  32. https://newsdig.tbs.co.jp/articles/withbloomberg/2380083?display=1
+  33. https://newsdig.tbs.co.jp/articles/withbloomberg/2326424?display=1
+  34. https://newsdig.tbs.co.jp/articles/withbloomberg/2380228?display=1
+  35. https://newsdig.tbs.co.jp/articles/withbloomberg/2380227?display=1
+  36. https://newsdig.tbs.co.jp/articles/withbloomberg/2380226?display=1
+  37. https://newsdig.tbs.co.jp/articles/withbloomberg/2380223?display=1
+  38. https://newsdig.tbs.co.jp/articles/withbloomberg/2380225?display=1
+  39. https://newsdig.tbs.co.jp/list/withbloomberg
+  40. https://newsdig.tbs.co.jp/list/withbloomberg/news/経済
+  41. https://newsdig.tbs.co.jp/articles/withbloomberg/2372272
+  42. https://newsdig.tbs.co.jp/list/withbloomberg
+  43. https://newsdig.tbs.co.jp/list/withbloomberg/news
+  44. https://newsdig.tbs.co.jp/list/withbloomberg/movie
+  45. https://newsdig.tbs.co.jp/list/withbloomberg/opinion
+  46. https://newsdig.tbs.co.jp/list/withbloomberg/academy
+  47. https://www.tbs.co.jp/contact/
+  48. https://www.tbsholdings.co.jp/tbstv/privacy/policy.html
+  49. https://www.tbs.co.jp/sitepolicy/
+  50. https://newsdig.tbs.co.jp/list/withbloomberg/cookiepolicy
+  51. https://newsdig.tbs.co.jp/list/withbloomberg/rights
+  52. https://www.tbsholdings.co.jp/tbstv/corporate/
 
    Liens cachés :
- 197. https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.the-miyanichi.co.jp%2Foricon%2F463013.html&linkname=%E3%80%8E%E3%83%AC%E3%82%B3%E5%A4%A7%E3%80%8F%E6%96%B0%E6%B5%9C%E3%83%AC%E3%82%AA%E3%83%B3%E3%80%8C%E6%84%9F%E8%AC%9D%E3%82%92%E4%B9%97%E3%81%9B%E3%81%A6%E3%80%81%E5%B8%8C%E6%9C%9B%E3%81%AB%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%82%92%E3%80%8D%E3%80%80%E6%9C%AC%E7%95%AA%E3%81%B8%E6%84%8F%E6%B0%97%E8%BE%BC%E3%81%BF
- 198. https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fwww.the-miyanichi.co.jp%2Foricon%2F463013.html&linkname=%E3%80%8E%E3%83%AC%E3%82%B3%E5%A4%A7%E3%80%8F%E6%96%B0%E6%B5%9C%E3%83%AC%E3%82%AA%E3%83%B3%E3%80%8C%E6%84%9F%E8%AC%9D%E3%82%92%E4%B9%97%E3%81%9B%E3%81%A6%E3%80%81%E5%B8%8C%E6%9C%9B%E3%81%AB%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%82%92%E3%80%8D%E3%80%80%E6%9C%AC%E7%95%AA%E3%81%B8%E6%84%8F%E6%B0%97%E8%BE%BC%E3%81%BF
- 199. https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.the-miyanichi.co.jp%2Foricon%2F463013.html&linkname=%E3%80%8E%E3%83%AC%E3%82%B3%E5%A4%A7%E3%80%8F%E6%96%B0%E6%B5%9C%E3%83%AC%E3%82%AA%E3%83%B3%E3%80%8C%E6%84%9F%E8%AC%9D%E3%82%92%E4%B9%97%E3%81%9B%E3%81%A6%E3%80%81%E5%B8%8C%E6%9C%9B%E3%81%AB%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%82%92%E3%80%8D%E3%80%80%E6%9C%AC%E7%95%AA%E3%81%B8%E6%84%8F%E6%B0%97%E8%BE%BC%E3%81%BF
+  54. https://x.com/intent/tweet?url=https://newsdig.tbs.co.jp/articles/withbloomberg/2372272&text=%E3%80%90%E6%97%A5%E6%9C%AC%E5%B8%82%E6%B3%81%E3%80%91%E6%A0%AA%E5%BC%8F%E3%81%8C%E7%B6%9A%E4%BC%B8%E3%80%81%E6%A5%AD%E7%B8%BE%E3%82%84%E6%94%BF%E7%AD%96%E6%9C%9F%E5%BE%85%E3%81%A7AI%E9%96%A2%E9%80%A3%E3%81%AB%E8%B2%B7%E3%81%84%EF%BC%8D%E5%86%86%E3%81%AF%E4%B8%8B%E8%90%BD
+  55. https://social-plugins.line.me/lineit/share?url=https://newsdig.tbs.co.jp/articles/withbloomberg/2372272
+  56. https://www.facebook.com/sharer/sharer.php?u=https://newsdig.tbs.co.jp/articles/withbloomberg/2372272

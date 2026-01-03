@@ -1,777 +1,444 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-PXGD4T
-
-   重要なお知らせ
-   2025年12月26日
-   [2]ABEMA『ラッパー、井戸を掘る。』をご覧の方へ
-
-   [3]World Vision この子を救う。未来を救う。
-     * [4]お問い合わせ
-     * [5]よくあるご質問
-     * [6]ご支援者ページ
-
-   ____________________
-   検索
-     * [7]ワールド・ビジョンとは
-       ワールド・ビジョンとはトップ
-       [8]詳しく見る
-          + [9]基本理念・ビジョン/ミッション
-          + [10]役員・親善大使
-          + [11]団体概要・アクセス
-          + [12]支援企業・団体
-          + [13]数字で見るワールド・ビジョン・ジャパン
-          + [14]ワールド・ビジョンの歴史
-          + [15]スタッフ紹介
-       [16]基本理念・
-       ビジョン/ミッション
-       [17]ワールド・ビジョンの歴史
-     * [18]支援・参加方法
-       支援・参加方法トップ
-       [19]詳しく見る
-          + [20]チャイルド・スポンサーシップ
-          + [21]法人として
-          + [22]プロジェクト・サポーター
-          + [23]学校として
-          + [24]水と食糧のための募金
-          + [25]ボランティアとして
-          + [26]難民支援のための募金
-          + [27]活動を伝える/広める
-          + [28]危機にある子どもたちのための募金
-          + [29]イベント情報
-          + [30]児童保護募金
-          + [31]寄付金控除/領収書
-          + [32]緊急援助募金
-          + [33]遺贈による寄付
-          + [34]国内子ども支援募金
-          + [35]マイルストーン・プロジェクト
-          + [36]はじめての方へ
-       [37]チャイルド・
-       スポンサーシップ
-       [38]どうやって貧困を
-       解決するの？
-       [39]プロジェクト・
-       サポーター
-       [40]はじめての方へ
-     * [41]活動内容
-       活動内容トップ
-       [42]詳しく見る
-          + [43]開発援助
-          +
-          + [44]緊急援助
-          +
-          + [45]アドボカシー活動
-          +
-          + [46]国連等との連携
-     * [47]刊行物・報告書
-       刊行物・報告書トップ
-       [48]詳しく見る
-          + [49]ニュース
-          +
-          + [50]プレスリリース
-          +
-          + [51]活動報告
-          +
-          + [52]年次報告書
-       [53]年次報告書
-     * [54]世界の問題と子どもたち
-       世界の問題と子どもたち トップ
-       [55]詳しく見る
-          + [56]貧困と世界の子どもたち
-          + [57]児童労働と世界の子どもたち
-          + [58]教育と子どもたち
-          + [59]支援者の声
-          + [60]水衛生と子どもたち
-          + [61]レポート
-          + [62]世界の難民危機と子どもたち
-          + [63]スタッフブログ
-          + [64]人身売買
-       [65]世界の難民危機と子どもたち
-       [66]貧困と世界の子どもたち
-       [67]支援者の声
-       [68]スタッフブログ
-
-   [69]今すぐ寄付をする (BUTTON)
-
-   MENU
-
-   [70]ワールド・ビジョンとは [71]支援・参加方法
-
-     * ワールド・ビジョンとは
-       [72]ワールド・ビジョンとは　TOPへ
-          + [73]基本理念・ビジョン/ミッション
-          + [74]団体概要・アクセス
-          + [75]数字で見るワールド・ビジョン・ジャパン
-          + [76]スタッフ紹介
-          + [77]役員・親善大使
-          + [78]協賛企業・団体
-          + [79]ワールド・ビジョンの歴史
-       [80]基本理念・
-       ビジョン/ミッション
-       [81]ワールド・ビジョンの歴史
-     * 支援・参加方法
-       [82]支援・参加方法　TOPへ
-          + [83]チャイルド・スポンサーシップ
-          + [84]プロジェクト・サポーター
-          + [85]水と食糧のための募金
-          + [86]難民支援のための募金
-          + [87]危機にある子どもたちのための募金
-          + [88]児童保護募金
-          + [89]緊急援助募金
-          + [90]国内子ども支援募金
-          + [91]はじめての方へ
-          + [92]法人として
-          + [93]学校として
-          + [94]ボランティアとして
-          + [95]活動を伝える/広める
-          + [96]イベント情報
-          + [97]寄付金控除/領収書
-          + [98]遺贈による寄付
-          + [99]マイルストーン・プロジェクト
-       [100]チャイルド・
-       スポンサーシップ
-       [101]どうやって貧困を
-       解決するの？
-       [102]プロジェクト・
-       サポーター
-       [103]はじめての方へ
-     * 活動内容
-       [104]活動内容　TOPへ
-          + [105]開発援助
-          + [106]緊急援助
-          + [107]アドボカシー活動
-          + [108]国連等との連携
-     * 刊行物・報告書
-       [109]刊行物・報告書　TOPへ
-          + [110]ニュース
-          + [111]プレスリリース
-          + [112]活動報告
-          + [113]年次報告書
-       [114]年次報告書
-     * 世界の問題と子どもたち
-       [115]世界の問題と子どもたち　TOPへ
-          + [116]貧困と世界の子どもたち
-          + [117]教育と子どもたち
-          + [118]水衛生と子どもたち
-          + [119]世界の難民危機と子どもたち
-          + [120]人身売買
-          + [121]児童労働と世界の子どもたち
-          + [122]支援者の声
-          + [123]レポート
-          + [124]スタッフブログ
-       [125]世界の難民危機と子どもたち
-       [126]貧困と世界の子どもたち
-       [127]支援者の声
-       [128]スタッフブログ
-
-     * [129]お問い合わせ
-     * [130]よくあるご質問
-     * [131]ご支援者ページ
-
-   公式SNS
-     * [132]LINE
-     * [133]FaceBook
-     * [134]instagram
-     * [135]X
-     * [136]youtube
-
-   ____________________
-   検索
-
-   [137]Top/[138]ニュース/世界の子どもたちに希望をー「The Light of the World
-   ワールド・ビジョン　クリスマスチャリティーコンサート｣開催報告
-
-世界の子どもたちに希望をー「The Light of the World ワールド・ビジョン　クリスマスチャリティーコンサート｣開催報告
-
-   投稿日｜2025年12月17日
-
-     * 活動ニュース
-
-   ｜
-     * ＃フィリピン
-
-   世界の子どもたちに希望をー「The Light of the World ワールド・ビジョン　クリスマスチャリティーコンサート｣開催報告
-
-   世界の子どもを支援する国際NGOワールド・ビジョン・ジャパンは、12月6日（土）、東京・ウェスレアン・ホーリネス教団　淀橋教会にて、「The
-   Light of the World　～世界の子どもたちに希望を～」と題したクリスマスチャリティーコンサートを開催しました。
-
-   270名を超える方がお越しくださる中、“希望”をテーマに、クリスマスシーズンにふさわしい美しい音楽の演奏に始まり、食糧支援最前線の報告、そして
-   、俳優でワールド・ビジョン・ジャパン親善大使の酒井美紀さんをお迎えし、フィリピンでのチャイルド・スポンサーシップによる活動についての対談などを
-   お届けしました。フィナーレではご来場くださった皆さまとキャンドルを灯し、一つ一つの光が集まって大きな輝きとなるように、お一人お一人のあたたかい
-   お気持ちをお寄せいただき、世界の子どもたちに希望を届けていきたい、と、支援へのご協力を呼びかけました。
-
-   「希望を、贈ろう。」クリスマスキャンペーンを実施中
-   ～12月25日まで
-   [139]詳細はこちら
-
-   開会にあたって、10月に着任した中島みぎわ事務局長が挨拶し、今年8月に訪れたフィリピンで支援が現地の力となっていることを目の当たりにしたことに
-   触れ、支援者の皆さまへの感謝を伝えました｡会場では、チャイルド・スポンサーを待つフィリピンや世界各地の子どもたちの姿も紹介されました。
-   中島みぎわ事務局長 中島みぎわ事務局長
-   淀橋教会 淀橋教会
-
-“希望”の調べを胸に
-
-   前半の音楽の部は、まずは東京藝術大学音楽学部附属音楽高等学校の生徒有志の皆さんが登場し、ヴァイオリン、ヴィオラ、チェロ、フルートの四重奏で、ク
-   ラシックの名曲から季節感あふれるクリスマス曲まで、優雅で心温まる調べを奏でてくださいました。
-     * フルート四重奏 第一番ニ長調  第一楽章 アレグロ/モーツァルト
-     * くるみ割り人形演奏会用組曲/チャイコフスキー
-     * クリスマスソングメドレー
-
-   写真右より、チェロ・池田虎之介さん、ヴィオラ・伊藤理子さん、ヴァイオリン・川瀬眞子さん、フルート・和久井美里さん。編曲で矢口晴さんも参加。
-   写真右より、チェロ・池田虎之介さん、ヴィオラ・伊藤理子さん、ヴァイオリン・川瀬眞子さん、フルート・和久井美里さん。編曲で矢口晴さんも参加。
-
-   次に、世界で活躍するマリンバ奏者塩浜智子さん＆玲子さん姉妹とパーカッションの赤羽一則さんによる情熱的なパフォーマンスで、色とりどりの楽曲が続き
-   、未来に向けた願いを高めるかのように、会場に豊かな音の世界が広がりました。
-     * そりすべり  /R.アンダーソン
-     * 剣の舞  /A.ハチャトゥリアン
-     * カヴァレリア・ルスティカーナより間奏曲  /P.マスカーニ
-     * アフリカン・ブルース  /W.ロッケンカンプ
-     * サウンド オブ ミュージック メドレー
-     * 〈アンコール〉情熱大陸
-
-   塩浜玲子さん（写真左）、赤羽一則さん（同中央）、塩浜智子さん（同右） 塩浜玲子さん（写真左）、赤羽一則さん（同中央）、塩浜智子さん（同右）
-
-命をつなぐ“希望”の食糧支援報告
-
-   後半は、支援の最前線の現場からの報告が行われました。過去最悪の干ばつが発生しているソマリランドを9月に訪問し、支援活動に従事した支援事業第1部
-   松岡拓也スタッフから、緊迫した食糧危機の状況が共有されました。各国政府や国連機関などからの人道支援活動資金の削減が進む昨今、最も弱い立場にある
-   子どもたちに、その影響が及んでいます。2022年以降、干ばつにより7万人以上が命を落とし、その4割が子どもと推計されます。ある母親は、「子ども
-   たちに食べさせるものがなく、おなかが空いたと訴える子どもたちには、水を沸かしてご飯をつくっているように見せている」と言います。
-   報告する松岡スタッフ 報告する松岡スタッフ
-
-   上腕の太さを測る「命のメジャー」で子どもたちの栄養状態を確認すると、重度の栄養不良を示す赤のゲージになる子どもたちが多くいます。これは周囲11
-   センチ、ペットボトルの蓋の円周くらいの細さです。栄養不良によって免疫機能が弱まると、本来なら防げるはずの病気にかかりやすくなります。栄養不良と
-   診断された子どもたちには、栄養補助食を提供しており、「食糧支援は命をつなぐ最後の手段」だと松岡スタッフは訴えました。
-   栄養状態を確認する「命のメジャー」 栄養状態を確認する「命のメジャー」
-   ソマリランドの保健センターで子どもたちと松岡スタッフ ソマリランドの保健センターで子どもたちと松岡スタッフ
-
-   松岡スタッフは、最後にワールド・ビジョン・ソマリアの事務局長、ケビン・マッケイのメッセージを紹介し、どれだけ遠くとも、食糧を届ける決意を語り、
-   改めて支援の重要性を強調しました。
-
-   「支援がなければ状況はさらに悪化します。ワールド・ビジョンは現地で支援を拡大する準備ができています。世界の皆様、今すぐ行動し、ソマリアの苦しみ
-   に目を背けないよう、お願いいたします。」
-   [140]クリスマス募金（水・食糧支援）
-   に協力する
-
-支援によって生まれた“希望”の物語
-
-   最後に、長年の支援から生まれた希望の変化について、特別ゲストとして、ワールド・ビジョン・ジャパン親善大使で俳優の酒井美紀さんをお迎えし、フィリ
-   ピンのチャイルド・スポンサーシップ事業を担当する野本理恵スタッフも交え、対談を行いました。
-   酒井美紀さん（写真中央）、野本スタッフ（同右）、徳永スタッフ（同左／司会）
-   酒井美紀さん（写真中央）、野本スタッフ（同右）、徳永スタッフ（同左／司会）
-
-   酒井さんは、20代で番組の撮影で訪れたフィリピンで、ゴミ捨て場で働くひとりの少女に出会います。厳しい現実と懸命に生きる子どもの姿に胸を打たれ、
-   帰国後、「何かできることはないか」と、チャイルド・スポンサーに、そして、WVJ親善大使に。それから20年間、ワールド・ビジョンの活動を見守り続
-   けてくださいました。
-
-   2017年には、台風で壊滅的被害を受けたフィリピンのワールド・ビジョンの支援地域を訪問。酒井さんからは、訪問の際の現地の様子が紹介され、復興に
-   立ち上がる人々の苦労や、子どもたちとの出会いもお伝えいただきました。また、その際の訪問では、ご自身の支援チャイルドとも対面。恥ずかしがり屋だっ
-   た6歳の男の子が、今年お手元に届いた「成長報告」ではたくましく成長し、ビデオメッセージに映る掃除をして家族を手伝う姿には、「成長を実感して嬉し
-   かったです」と、わが子の成長を喜ぶように話してくださいました。
-   酒井美紀さん
-
-   野本スタッフは、都市部との経済格差が大きいレイテ島やサマール島における課題と、その改善に向けた取り組みを報告しました。有機農業や養鶏事業、貯蓄
-   グループづくりなど、貧困から脱するための活動が進められ、農業事業によって子どもたちが栄養のある食事をとれるようになり、卵を販売して収入が向上し
-   ていること、また貯蓄グループの設置によって、危機への備えや未来への投資が可能となり、自立やコミュニティの結束を促していることなどが紹介されまし
-   た。
-
-   さらに、子どもたちの読解力を伸ばすための読書コーナーが設置され人気を集めていること、安全な水を確保するための給水場は12年を経た今も大切に維持
-   管理されていることなど、支援から生まれた動きが持続的な変化につながっている点についても触れられました。
-
-   チャイルド・スポンサーシップ事業が開始されて16年目を迎えるこの地域は、いま自立への希望が見えており、支援の終了も近づいています。
-   有機農業事業での豊かな実り 有機農業事業での豊かな実り
-   読書コーナーの子どもたちと野本スタッフ 読書コーナーの子どもたちと野本スタッフ
-
-   酒井さんは、2017年には訪問した地域の家庭では芋のツルを料理していたのに対し、今年受け取られた写真では支援チャイルドが手にしているカゴに野菜
-   が詰まっていたことに触れて、「この有機農業の活動があったからですね」とコメント。また地域のボランティアが積極的に子どもたちを見守るようになった
-   姿など、長年の支援によって生まれた希望の変化を知る喜びを、真摯に語ってくださいました。
-
-   「きょう支援の成果の写真を見ただけで、これほどまでに変化できるのだと胸が熱くなりました。そして、2011年の東日本大震災の時は、フィリピンから
-   も私たちは助けられたことを忘れてはいけないと改めて思いました。お互いに大変な時は助け合いながら生きていく、そういう世界が広がるといいなと思って
-   います」（酒井美紀さん）
-
-未来を切り開いた少女からの感謝の手紙を朗読
-
-   イベントの最後には、日本から15年間の支援を受け、大学を優秀な成績で卒業したフィリピンの女の子からの手紙が紹介されました。
-   日本のチャイルド・スポンサーに宛てた感謝の思いにあふれたメッセージを酒井さんに朗読いただき、会場は温かな空気に包まれました。
-
-     親愛なるチャイルド・スポンサーさまへ。
-
-     私の人生の半分は、ワールド・ビジョンの支援プログラムとともにありました。
-     どんな言葉をもってしても、この感謝を言い尽くすことはできません。 私の成長を支え、形づくり、育ててくれたその歩みは、
-     まさに人生を照らす光でした。
-
-     15年もの長い年月、惜しみなく支えてくださり本当にありがとうございました。 あなたが私に示してくださった愛と優しさ、
-     そして人生の一部を共有してくださったことに、心の底から感謝しています。
-
-     いただいた贈り物も、お手紙も、 あなたがたとの出会いの思い出も、 これからもずっと私の心の中で生き続けます。
-     どうか、私の成長を誇りに思っていただけますように。 私はこれからも家族を支え、前を向いて歩んでいきます。
-     あなたの人生が、これからも祝福で満たされますように。 健康と幸せを心からお祈りしています。 そして、何度でも伝えさせてください。
-     本当に、本当に、本当にありがとうございました。
-
-     （※便箋4枚に渡るメッセージから一部抜粋）
-
-   クリスマスまでに1000人の女の子に希望を
-   [141]チャイルド・スポンサーに参加する
-
-   一人ひとりの希望の光が、誰かの未来を照らすようにとの願いを込めて、キャンドルが点灯され、イベントは幕を閉じました。
-   キャンドル点灯
-
-参加された方の声を一部ご紹介します
-
-   「心が洗われるような素晴らしい演奏でした」
-   「世界で何が起きていて、そこに自分はどう関わっているか知ることができて良かったです」
-   「会場に喜び、温かい思いがいっぱい広がっている感じがしました」
-   「酒井美紀さんのお手紙代読で、支援から自立、そして自立した方が創っていく未来について、明るい気持ちになって会場を後にしました」
-
-   会場でもクリスマス募金へのご協力やチャイルド・スポンサーシップへのお申し込みをいただきました。深く感謝申し上げます。
-   会場のお申し込みブース
-
-   12月25日までクリスマスキャンペーンとして、
-   命をつなぐ水・食糧を届ける「クリスマス募金」、1000人の少女のチャイルド・スポンサーを募集する「1000 GIRLS
-   プロジェクト」を展開しています。希望の変化を世界に広げていく力に加わってください。
-   [142]詳細はこちら
-
-   SHARE
-
-   この記事が気に入ったらシェアをお願いします
-   [143]X [144]Facebook [145]LINE
-
-   [146]前の記事に進む
-   【ABEMA放送】ラッパー般若さんがカンボジアの支援地域を訪問｜『ラッパー、井戸を掘る。』12/30 無料放映
-   [147]次の記事に進む
-   2025年12月27日～2026年1月4日 事務局お休みのお知らせ
-
-   アーカイブ｜
-     * [148]2025年12月 (10)
-     * [149]2025年11月 (10)
-     * [150]2025年10月 (3)
-     * [151]2025年9月 (1)
-     * [152]2025年8月 (1)
-     * [153]2025年7月 (3)
-     * [154]2025年6月 (5)
-     * [155]2025年5月 (2)
-     * [156]2025年4月 (11)
-     * [157]2025年3月 (6)
-     * [158]2024年10月 (1)
-     * [159]2024年9月 (1)
-     * [160]2024年8月 (1)
-     * [161]2024年6月 (2)
-     * [162]2024年5月 (1)
-     * [163]2024年4月 (3)
-     * [164]2024年3月 (1)
-     * [165]2024年2月 (3)
-     * [166]2024年1月 (6)
-     * [167]2023年8月 (1)
-     * [168]2023年5月 (1)
-     * [169]2023年4月 (1)
-     * [170]2023年3月 (1)
-     * [171]2021年7月 (1)
-     * [172]2020年10月 (1)
-     * [173]2019年8月 (2)
-     * [174]2019年4月 (1)
-     * [175]2016年10月 (1)
-     * [176]2015年12月 (1)
-     * [177]2015年10月 (2)
-     * [178]2012年3月 (1)
-
-   (BUTTON) アーカイブ一覧を見る
-
-関連記事Related Articles
-
-     * [179]【シリア】北西部地域で実施している教育事業（3期目）が終了しました！
-       【シリア】北西部地域で実施している教育事業（3期目）が終了しました！
-       長年にわたる紛争や自然災害により、シリア北西部では多くの学校が使用できなくなりました。一方で、国内避難民の流入により子どもたちの数は増
-       え、教育へのアクセスが不十分です。 地域の教育を支える行政機関には十分な資金もなく、子 […]
-       2025年12月26日
-          + 活動ニュース
-     * [180]タイ-カンボジア国境紛争 避難民への緊急支援を行っています
-       タイ-カンボジア国境紛争 避難民への緊急支援を行っています
-       タイとカンボジアの国境地域において、12月7日以降、武力衝突が再燃し、数十万人が避難を余儀なくされています。7月に武力衝突が発生し、1
-       0月に和平宣言がなされたものの緊張状態が続き、11月に再び衝突が発生、12月に入り戦闘 […]
-       2025年12月23日
-          + 活動ニュース
-     * [181]国内子ども支援 WVJ全国入学お祝い金＜2025(令和7)年度入学対象＞ ～お祝い金を贈呈し、体験イベントを開催しました～
-       国内子ども支援 WVJ全国入学お祝い金＜2025(令和7)年度入学対象＞ ～お祝い金を贈呈し、体験イベントを開催しました～
-       全国の220名の新中学生・新高校生（2025(令和7)年度入学）に入学お祝い金を贈呈しました
-       ワールド・ビジョン・ジャパンでは、厳しい社会経済環境のなか、進学や入学後の費用による家計の負担を少しでも軽減し、大切な学びの機 […]
-       2025年12月22日
-          + 活動ニュース
-     * [182]多文化共生を学ぼう！勉強会 第4回を開催しました
-       多文化共生を学ぼう！勉強会 第4回を開催しました
-       多文化共生を学ぶ勉強会を中野区内で実施しています
-       ワールド・ビジョン・ジャパンでは、国内支援活動の一環として、多文化共生について学ぶ勉強会を企画・実施しています。子ども支援に取り組む方
-       々とご一緒に多文化共生のあり方につい […]
-       2025年12月3日
-          + 活動ニュース
-
-   一緒に子どもたちの希望ある未来をカタチにしませんか？
-
-   ワールド・ビジョン・ジャパンをご支援くださっている方の数は、6万人を超えました。
-
-   しかし、世界ではまだ多くの子どもたちが過酷な環境で暮らしています。
-   1日150円、月々4,500円を支援することは決して簡単な決断ではありません。
-
-   もし、私たちの考えにご賛同いただけるようでしたら、
-   あなたからのご支援をお待ちしています。
-
-   チャイルド・スポンサーになってください。
-   [183]チャイルド・スポンサーシップに参加する
-
-   ワールド・ビジョンとは
-     * [184]ワールド・ビジョンとはトップ
-     * [185]基本理念・ビジョン/ミッション
-     * [186]団体概要・アクセス
-     * [187]数字で見るワールド・ビジョン・ジャパン
-     * [188]スタッフ紹介
-     * [189]役員・親善大使
-     * [190]支援企業・団体
-     * [191]ワールド・ビジョンの歴史
-
-   支援・参加方法
-     * [192]支援・参加方法トップ
-     * [193]はじめての方へ
-     * [194]法人として
-     * [195]学校として
-     * [196]ボランティアとして
-     * [197]チャイルド・スポンサーシップ
-     * [198]プロジェクト・サポーター
-     * [199]水と食糧のための募金
-     * [200]危機にある子どもたちのための募金
-     * [201]難民支援のための募金
-     * [202]児童保護募金
-     * [203]緊急援助募金
-     * [204]国内子ども支援募金
-     * [205]活動を伝える/広める
-     * [206]イベント情報
-     * [207]寄付金控除
-     * [208]マイルストーン・プロジェクト
-     * [209]遺贈による寄付
-
-   活動内容
-     * [210]活動内容トップ
-     * [211]開発援助活動
-     * [212]緊急援助
-     * [213]アドボカシー活動
-     * [214]国連等との連携
-
-   刊行物・報告書
-     * [215]刊行物・報告書トップ
-     * [216]ニュース
-     * [217]プレスリリース
-     * [218]活動報告
-     * [219]年次報告書
-
-   世界の問題と子どもたち
-     * [220]世界の問題と子どもたちトップ
-     * [221]貧困と世界の子どもたち
-     * [222]教育と子どもたち
-     * [223]水衛生と子どもたち
-     * [224]世界の難民危機と子どもたち
-     * [225]人身売買
-     * 児童労働と世界の子どもたち
-     * [226]支援者の声
-     * [227]レポート
-     * [228]スタッフブログ
-
-     * [229]TOPページ
-     * [230]よくある質問
-     * [231]お問い合わせ
-     * [232]ご支援者ページ
-     * [233]現地事務所住所
-     * [234]採用情報
-     * [235]WEB運用方針
-     * [236]個人情報保護方針
-     * [237]セーフガーディング・ポリシー
-
-     * [238]TOPページ
-     * [239]よくある質問
-     * [240]お問い合わせ
-     * [241]ご支援者ページ
-     * [242]現地事務所住所
-     * [243]採用情報
-     * [244]WEB運用方針
-     * [245]個人情報保護方針
-     * [246]セーフガーディング・ポリシー
-
-   [247]今すぐ寄付をする
-
-   LINE公式アカウント
-
-   活動のご報告などをメッセージでお届けします。
-   [248]友だち追加
-
-   公式SNS
-
-   世界の子どもたちの情報を
-   各種SNSでも発信。
-     * [249]LINE
-     * [250]FaceBook
-     * [251]instagram
-     * [252]X
-     * [253]youtube
-
-   資料請求
-   [254]今すぐ資料請求をする
-
-   国際協力NGO　ワールド・ビジョン・ジャパン
-
-   〒164-0012　東京都中野区本町1-32-2 ハーモニータワー3F
-   © World Vision Japan. All Rights Reserved.
-
-   27237
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+
+楽しみにする、期待するの違いは何でしょうか。使い分けを考えてみましょう。 |
+オンラインレッスンなら、日本語の勉強にJLPT受験や日常会話のための教材も豊富です。
+
+   [6]logo.JLS
+
+     * [7]ホーム
+     * [8]コンセプト
+         1. [9]オンラインレッスンの授業プラン
+         2. [10]日本語を勉強するってどうするの？
+         3. [11]生徒様の「声」を紹介します
+     * [12]サービス
+     * [13]メニュー
+     * [14]スケジュール
+     * [15]アクセス
+         1. [16]JLS/日本語専門の語学教室
+     * [17]ブログ
+     * [18]採用情報
+     * [19]emailレッスンの予約/お問い合わせ
+
+   [日本語____________......]
+   [ ] Menu
+
+     * [20]トップページ
+          + [21]コンセプト
+          + [22]サービス
+          + [23]メニュー
+          + [24]スケジュール
+          + [25]新着情報
+          + [26]アクセス
+               o [27]日本語ラーニングサポートについて
+          + [28]ブログ
+          + [29]特定商取引法に基づく表示
+          + [30]FAQ
+          + [31]お問い合わせ/体験レッスン予約・日本語クラスエントリー
+          + [32]プライバシーポリシー
+          + [33]サイトマップ
+          + [34]教師紹介
+          + [35]採用
+
+   LANGUAGE
+   [日本語____________......]
+
+     * [36]オンライン日本語レッスンならマンツーマン個別授業 / 合同会社日本語ラーニングサポート
+
+     [37]ブログ
+
+     楽しみにする、期待するの違いは何でしょうか。使い分けを考えてみましょう。
+
+     * [38]オンライン日本語レッスンならマンツーマン個別授業 / 合同会社日本語ラーニングサポート
+
+     [39]ブログ
+
+     楽しみにする、期待するの違いは何でしょうか。使い分けを考えてみましょう。
+
+楽しみにする、期待するの違いは何でしょうか。使い分けを考えてみましょう。
+
+   2023/11/15 ブログ
+   [40]著者：合同会社日本語ラーニングサポート
+
+   楽しみにする、期待するの違いは何でしょうか。
+
+   本日はこの2つの違いについて、考えてみましょう。
+
+
+   ■北海道旅行を楽しみにする。
+
+   ■新入社員に期待する。
+
+   どちらも、ドキドキしますね！ワクワクしますね！
+
+   とても似ていますが、、、
+
+   「楽しみにする」・・早く来てほしいですね、旅行の日！
+
+   「期待する」・・仕事を頑張ってほしいですね！
+
+   このような違いがあります。
+
+
+
+   では、例題で考えてみましょう。
+
+   来週のお花見、とても（　　　　　）。
+
+
+   上の文には「楽しみにしています」「期待しています」どちらを入れますか。
+
+   正解は「楽しみにしています」ですね。
+
+   どうして「期待」を入れられないのでしょうか。
+
+   特に中国母語話者の方は、この場面では「期待」という漢字を使って表現するので、不思議に思うかもしれませんね。
+
+
+   詳細に見ていきましょう。
+
+
+   【楽しみにする】
+
+   これから嬉しいこと、楽しいことが起こるとき、ウキウキ、ワクワクするときによくこの表現を使いますね。
+
+   また、嬉しいことか悲しいことかまだ分からない時にもこの表現を使いますね。
+
+
+   Sample1　来月、国から家族が来るので、とても楽しみです。
+
+   Sample2　子供の成長が楽しみです。
+
+   Sample3　A:今度の日曜日、カラオケに行きませんか。　B:はい！楽しみにしています。
+
+   Sample4　JLPT試験の結果が楽しみです。
+
+
+   この「楽しみ」は、名詞として「楽しみです」と使うこともできますし、動詞の「楽しみにします」という形でも使うことができます。
+
+   ですが、一般的には「～ています」をつけて、「楽しみにしています」の形で言うことが多いです。
+
+   下のような会話は少し不自然になるので気を付けましょう。
+
+
+   A：来週、みんなで釣りに行くんですけど、田中さんもどうですか。
+
+   B：いいですね！楽しみにします。（不自然）
+
+
+   「楽しみにします」と言うと、今はまだ楽しみにしていないけれど、これから楽しみにしますという意味になってしまいます。
+
+   でも、普通は、楽しい予定が決まった時には、もう「楽しみ」という気持ちがありますよね。
+
+   今、釣りの楽しい予定が決まったのに、明日から「楽しみ」という気持ちを始めるのは少しおかしいですよね。
+
+
+
+   【期待する】
+
+   これから起こることに予想以上のサプライズがあると思っているときや、希望や願望が実現するだろうと思っているときに使います。
+
+   「楽しみ」よりも強い希望を表します。
+
+
+   Sample1　部長:（新入社員に対して）君の活躍には期待しているよ。
+
+   Sample2　スポーツ選手:　ファンの皆さまの期待に応えられるように頑張ります。
+
+   Sample3　今期のボーナスには期待している。
+
+   Sample4　一泊20万円のホテルに泊まるから、部屋だけでなくサービスにも期待している。
+
+
+   どうでしょうか。
+
+   「楽しみ」よりも強い希望、願望が含まれていますね。
+
+   また、「期待」は sample1、sample2のように人に対して使うことが多いです。
+
+   「君の活躍を楽しみにしているよ」より、「君の活躍に期待しているよ」の方が、強い気持ちがあり、プレッシャーを与えている感じがありますね。
+
+
+   さて、このブログの一番最初に出した問題、
+
+   来週は、友達と遊園地に行きます。とても（　　　　　）です。
+
+   この文には「期待」が入れられない理由はわかりましたか。
+
+   「期待」は予想以上の素晴らしい出来事が起こると思っている時に使うので、日常の楽しいことにはあまり使いません。
+
+   上のsample3、sample4で見た文では、話し手が予想以上にボーナスが高い、予想以上にサービスが良いんじゃないかと思っているんですね。
+
+
+
+   ワンランクアップ表現【心待ちにする】
+
+   似ている意味で「心待ちにする」というのもあります。
+
+   楽しみに待っているという意味ですね。
+
+   「楽しみにしている」「期待している」よりも、心から何かを楽しみにしているという時に使うことが多いです。
+
+   より心がこもっているので、ビジネスシーンなどでもよく使われます。
+
+
+   Sample1　皆様のご参加を心待ちにしております。
+
+   Sample2　こちらフォームから、アンケートにお答えください。お客様の貴重なご意見を心待ちにしております。
+
+   Sample3　息子が今日やっと大学を卒業しました。この日が来るのを心待ちにしていたんです。
+
+   Sample4　田中様とお会いできることを心待ちにしています。
+
+
+   未来に起こるあるできごとを待っている状態で、「楽しみ」＋「待っている」というイメージですね。
+
+   メールや手紙などでもよく使用されています。
+
+
+   練習問題　（　　）に入る言葉を書きましょう。
+
+   答えは、一番下に書いてあります。
+
+
+   ①　あの新入部員、なかなか足が速いな。半年後にはうちのエースになっているかもしれない。かなり（　　　　　　）しているよ。
+
+   ②　来週、新しいパソコンが届くんだ！（　　　　　　）だな。
+
+   ③　山田様のお返事を（　　　　　　）にしております。
+
+   ④　花火大会、誘ってくれてありがとう！（　　　　　）しているよ！
+
+   ⑤　Ａ:あーあ、あの人なら私のこと全部理解してくれてるって思ってたのに…
+
+   Ｂ:あんまり人に（　　　　）しすぎるのは良くないよ。完璧な人はいないから。
+
+
+
+   いかがでしたか。
+
+   似ている意味の言葉ですが、このような使い分けがあるんですね。
+
+   今までなんとなく使っていたという方は、是非このブログで学習したことを日常会話に活かしてみてください。
+
+   また、JLSブログでは皆さんのお役にたつような知識や情報をいつも発信していますので、他のブログも参考にしながら、日本語学習に取り組んでみてくだ
+   さいね！
+
+
+
+   解答
+
+   ①　あの新入部員、なかなか足が速いな。半年後にはうちのエースになっているかもしれない。かなり（　期待　）しているよ。
+
+   ②　来週、新しいパソコンが届くんだ！（　楽しみ　）だな。
+
+   ③　山田様のお返事を（　心待ち　）にしております。
+
+   ④　花火大会、誘ってくれてありがとう！（　楽しみに　）しているよ！
+
+   ⑤　Ａ:あーあ、あの人なら私のこと全部理解してくれてるって思ってたのに…
+
+   Ｂ:あんまり人に（　期待　）しすぎるのは良くないよ。完璧な人はいないから。
+     * [41]オンライン日本語レッスンならマンツーマン個別授業 / 合同会社日本語ラーニングサポート
+     * [42]よくある質問　FAQ
+     * [43]お問い合わせ/体験レッスン予約・日本語クラスエントリー　Contact
+
+   [44]一覧に戻る
+
+NEW
+
+     *
+
+[45]日本語の個人オンラインレッスンにおける料金相場や講師選びとおすすめ教室比較ガイド
+       2025/12/30
+     *
+
+[46]日本語発音レッスンの基礎知識と効果的な矯正法｜人気教材とオンライン学習の選び方も解説
+       2025/12/24
+     *
+
+[47]日本語学校の個人レッスンの選び方と料金相場を徹底解説
+       2025/12/18
+
+CATEGORY
+
+     * [48]ブログ
+
+ARCHIVE
+
+     * [49]2025/126
+     * [50]2025/115
+     * [51]2025/108
+     * [52]2025/99
+     * [53]2025/810
+     * [54]2025/710
+     * [55]2025/62
+     * [56]2025/53
+     * [57]2025/42
+     * [58]2025/34
+     * [59]2025/24
+     * [60]2025/13
+
+   オンライン日本語レッスンをお探しでしたら合同会社日本語ラーニングサポートの個別授業にお任せください。私たちはプロの日本語教師によるチームであり
+   、日本語学習専門の語学教室です。年中無休にてプライベートレッスンを開講、海外からお越しの皆様からのご予約を常時受け付けいたします。はじめての日
+   本語にもJLPT他の試験に向けた受験勉強にも、又ビジネス日本語のスキルアップにも経験と実績あるプロの教師がマンツーマンであなたの言葉の上達をし
+   っかりとサポート致します。
+
+   土曜日や日曜日、祝日にも毎日変わらず下記のお時間帯にてスケジュールをご用意致しました。※日本時間
+
+   《 朝クラス 7:30am 〜 夜クラス毎晩 11:30pm まで 》
+
+   世界中いつでも何処にいらしても上質な日本語の学びをお届けすることが私たちの使命です。
+
+   ※時差が大きな地域からお申し込みの場合など、レッスンの受付時間は上記の限りではございませんので御相談ください。
+
+   日本語を頑張る皆様の夢の実現を支援していくことが私達プロ日本語教師の基本理念であり、あらゆる実用的な目標に向けた日本語学習とスキルアップに対し
+   て確実な成果を実現していただくこと又そのための妥協なき学習コースのデザインと実務提供が私たちの責務です。日本語を本格的に勉強してみようと思った
+   ら一度はプロの日本語教師の１対１授業をご検討ください。
+
+   お問い合わせはお電話もしくはContactフォーム（「レッスンのご予約」緑ボタン）よりお願いします。教師一同、皆様からのリクエストをお待ちして
+   おります。
+
+   日本語ラーニングサポートの提供するレッスンが皆様の素晴らしいキャリアアップとご活躍の一助となれば幸いでございます。
+
+
+   日本語が分かれば日本はきっと魅力的、
+
+   日本語が話せたら日本はきっともっと楽しい国になるでしょう。
+
+
+   私たちの日本語スクールにいらしてくださったことが素晴らしい価値ある学びの扉でありますように！
+
+   初回のご利用には無料のミーティングをご用意致しました。
+
+   体験レッスンでお目にかかる機会を教師一同楽しみにお待ちしております。
+
+              [61]合同会社日本語ラーニングサポート
+   [62]東京都新宿区新宿二丁目１２番１３号アントレサロンビル２階
+   03-6881-9842
+   [63]03-6881-9842
+   [64]レッスンの予約/お問い合わせ
+
+     * [65]ホーム
+     * [66]コンセプト
+     * [67]サービス
+     * [68]メニュー
+     * [69]スケジュール
+     * [70]アクセス
+     * [71]ブログ
+     * [72]新着情報
+     * [73]オンラインレッスンの授業プラン
+     * [74]日本語を勉強するってどうするの？
+     * [75]生徒様の「声」を紹介します
+     * [76]JLS/日本語専門の語学教室
+     * [77]お問い合わせ
+     * [78]プライバシーポリシー
+     * [79]特定商取引法に基づく表示
+     * [80]サイトマップ
+     * [81]よくあるご質問
+     * [82]教師紹介
+     * [83]採用情報
+
+   03-6881-9842
+   [84]03-6881-9842
+
+   9:00 〜 20:00 （通常営業時間 7:30 ～ 23:30）
+
+   [85]レッスンの予約/お問い合わせ
+
+   Copyright (c) [86]合同会社日本語ラーニングサポート All Rights Reserved.
 
 Références
 
-   1. https://www.googletagmanager.com/ns.html?id=GTM-PXGD4T
-   2. https://www.worldvision.jp/donate/202512-cambodia/
-   3. https://www.worldvision.jp/
-   4. https://www.worldvision.or.jp/form/inquiry/entry_input
-   5. https://www.worldvision.jp/faq/
-   6. https://www.worldvision.jp/mypage/
-   7. https://www.worldvision.jp/about/
-   8. https://www.worldvision.jp/about/
-   9. https://www.worldvision.jp/about/well-being/
-  10. https://www.worldvision.jp/about/members/
-  11. https://www.worldvision.jp/about/wvj-overview/
-  12. https://www.worldvision.jp/about/corporate/
-  13. https://www.worldvision.jp/about/wvj-numbers/
-  14. https://www.worldvision.jp/about/history/
-  15. https://www.worldvision.jp/about/staff/
-  16. https://www.worldvision.jp/about/well-being/
-  17. https://www.worldvision.jp/about/history/
-  18. https://www.worldvision.jp/donate/
-  19. https://www.worldvision.jp/donate/
-  20. https://www.worldvision.jp/donate/childsponsor/
-  21. https://www.worldvision.jp/donate/corporate/
-  22. https://www.worldvision.jp/donate/projectsupporter/
-  23. https://www.worldvision.jp/donate/school/
-  24. https://www.worldvision.jp/donate/food/
-  25. https://www.worldvision.jp/donate/volunteer/
-  26. https://www.worldvision.jp/donate/refugee/
-  27. https://www.worldvision.jp/donate/involve/
-  28. https://www.worldvision.jp/donate/health/
-  29. https://www.worldvision.jp/donate/event/
-  30. https://www.worldvision.or.jp/form/donation/entry_input?did=7&price=5000
-  31. https://www.worldvision.jp/donate/receipt/
-  32. https://www.worldvision.or.jp/form/donation/entry_input?did=9&price=5000
-  33. https://www.worldvision.jp/donate/testamentary/
-  34. https://www.worldvision.jp/donate/domestic/
-  35. https://www.worldvision.jp/donate/milestone/
-  36. https://www.worldvision.jp/donate/beginners/
-  37. https://www.worldvision.jp/donate/childsponsor/
-  38. https://www.worldvision.jp/donate/childsponsor/how/
-  39. https://www.worldvision.jp/donate/projectsupporter/
-  40. https://www.worldvision.jp/donate/beginners
-  41. https://www.worldvision.jp/activities/
-  42. https://www.worldvision.jp/activities/
-  43. https://www.worldvision.jp/activities/development/
-  44. https://www.worldvision.jp/activities/emergency-relief/
-  45. https://www.worldvision.jp/activities/advocacy/
-  46. https://www.worldvision.jp/activities/matching/
-  47. https://www.worldvision.jp/report/
-  48. https://www.worldvision.jp/report/
-  49. https://www.worldvision.jp/report/news/
-  50. https://www.worldvision.jp/report/press/
-  51. https://www.worldvision.jp/report/project-report/
-  52. https://www.worldvision.jp/report/annual-report/
-  53. https://www.worldvision.jp/report/annual-report/
-  54. https://www.worldvision.jp/children/
-  55. https://www.worldvision.jp/children/
-  56. https://www.worldvision.jp/children/poverty/
-  57. https://www.worldvision.jp/children/
-  58. https://www.worldvision.jp/children/education/
-  59. https://www.worldvision.jp/children/voice/
-  60. https://www.worldvision.jp/children/wash/
-  61. https://www.worldvision.jp/children/report/
-  62. https://www.worldvision.jp/children/refugee/
-  63. https://www.worldvision.jp/children/staff-blog/
-  64. https://www.worldvision.jp/children/trafficking/
-  65. https://www.worldvision.jp/children/refugee/
-  66. https://www.worldvision.jp/children/poverty/
-  67. https://www.worldvision.jp/children/voice/
-  68. https://www.worldvision.jp/children/staff-blog/
-  69. https://www.worldvision.jp/donate-now/
-  70. https://www.worldvision.jp/about/
-  71. https://www.worldvision.jp/donate/
-  72. https://www.worldvision.jp/about/
-  73. https://www.worldvision.jp/about/well-being/
-  74. https://www.worldvision.jp/about/wvj-overview/
-  75. https://www.worldvision.jp/about/wvj-numbers/
-  76. https://www.worldvision.jp/about/staff/
-  77. https://www.worldvision.jp/about/members/
-  78. https://www.worldvision.jp/about/corporate/
-  79. https://www.worldvision.jp/about/history
-  80. https://www.worldvision.jp/about/well-being/
-  81. https://www.worldvision.jp/about/history/
-  82. https://www.worldvision.jp/donate/
-  83. https://www.worldvision.jp/donate/childsponsor/
-  84. https://www.worldvision.jp/donate/projectsupporter/
-  85. https://www.worldvision.jp/donate/food/
-  86. https://www.worldvision.jp/donate/refugee/
-  87. https://www.worldvision.jp/donate/health/
-  88. https://www.worldvision.or.jp/form/donation/entry_input?did=7&price=5000
-  89. https://www.worldvision.or.jp/form/donation/entry_input?did=9&price=5000
-  90. https://www.worldvision.jp/donate/domestic/
-  91. https://www.worldvision.jp/donate/beginners/
-  92. https://www.worldvision.jp/donate/corporate/
-  93. https://www.worldvision.jp/donate/school/
-  94. https://www.worldvision.jp/donate/volunteer/
-  95. https://www.worldvision.jp/donate/involve/
-  96. https://www.worldvision.jp/donate/event/
-  97. https://www.worldvision.jp/donate/receipt/
-  98. https://www.worldvision.jp/donate/testamentary/
-  99. https://www.worldvision.jp/donate/milestone/
- 100. https://www.worldvision.jp/donate/childsponsor/
- 101. https://www.worldvision.jp/donate/childsponsor/how/
- 102. https://www.worldvision.jp/donate/projectsupporter/
- 103. https://www.worldvision.jp/donate/beginners
- 104. https://www.worldvision.jp/activities/
- 105. https://www.worldvision.jp/activities/development/
- 106. https://www.worldvision.jp/activities/emergency-relief/
- 107. https://www.worldvision.jp/activities/advocacy/
- 108. https://www.worldvision.jp/activities/matching/
- 109. https://www.worldvision.jp/report/
- 110. https://www.worldvision.jp/report/news/
- 111. https://www.worldvision.jp/report/press/
- 112. https://www.worldvision.jp/report/project-report/
- 113. https://www.worldvision.jp/report/annual-report/
- 114. https://www.worldvision.jp/report/annual-report/
- 115. https://www.worldvision.jp/report/news/20251217-27237/index.html
- 116. https://www.worldvision.jp/children/poverty/
- 117. https://www.worldvision.jp/children/education/
- 118. https://www.worldvision.jp/children/wash/
- 119. https://www.worldvision.jp/children/refugee/
- 120. https://www.worldvision.jp/children/trafficking/
- 121. https://www.worldvision.jp/children/
- 122. https://www.worldvision.jp/children/voice/
- 123. https://www.worldvision.jp/children/report/
- 124. https://www.worldvision.jp/children/staff-blog/
- 125. https://www.worldvision.jp/children/refugee/
- 126. https://www.worldvision.jp/children/poverty/
- 127. https://www.worldvision.jp/children/voice/
- 128. https://www.worldvision.jp/children/staff-blog/
- 129. https://www.worldvision.or.jp/form/inquiry/entry_input
- 130. https://www.worldvision.jp/faq/
- 131. https://www.worldvision.jp/mypage/
- 132. http://nav.cx/iBFy9PT
- 133. https://www.facebook.com/WorldVisionJapan
- 134. https://www.instagram.com/worldvisionjapan/
- 135. https://x.com/WorldVisionJPN
- 136. https://www.youtube.com/channel/UCq5OnOuvjA8w5NH7pAxPQJA
- 137. https://www.worldvision.jp/
- 138. https://www.worldvision.jp/report/news/
- 139. https://www.worldvision.jp/campaign/26_christmas/
- 140. https://www.worldvision.jp/donate/food/
- 141. https://www.worldvision.jp/donate/childsponsor/1000girls/
- 142. https://www.worldvision.jp/campaign/26_christmas/
- 143. https://twitter.com/share?url=https://www.worldvision.jp/report/news/20251217-27237/&text=世界の子どもたちに希望をー「The+Light+of+the+World+ワールド・ビジョン　クリスマスチャリティーコンサート｣開催報告
- 144. https://www.facebook.com/sharer/sharer.php?u=https://www.worldvision.jp/report/news/20251217-27237/
- 145. https://social-plugins.line.me/lineit/share?url=https://www.worldvision.jp/report/news/20251217-27237/
- 146. https://www.worldvision.jp/report/news/20251209-27052/
- 147. https://www.worldvision.jp/report/news/20251219-27333/
- 148. https://www.worldvision.jp/report/news/month/2025/12
- 149. https://www.worldvision.jp/report/news/month/2025/11
- 150. https://www.worldvision.jp/report/news/month/2025/10
- 151. https://www.worldvision.jp/report/news/month/2025/09
- 152. https://www.worldvision.jp/report/news/month/2025/08
- 153. https://www.worldvision.jp/report/news/month/2025/07
- 154. https://www.worldvision.jp/report/news/month/2025/06
- 155. https://www.worldvision.jp/report/news/month/2025/05
- 156. https://www.worldvision.jp/report/news/month/2025/04
- 157. https://www.worldvision.jp/report/news/month/2025/03
- 158. https://www.worldvision.jp/report/news/month/2024/10
- 159. https://www.worldvision.jp/report/news/month/2024/09
- 160. https://www.worldvision.jp/report/news/month/2024/08
- 161. https://www.worldvision.jp/report/news/month/2024/06
- 162. https://www.worldvision.jp/report/news/month/2024/05
- 163. https://www.worldvision.jp/report/news/month/2024/04
- 164. https://www.worldvision.jp/report/news/month/2024/03
- 165. https://www.worldvision.jp/report/news/month/2024/02
- 166. https://www.worldvision.jp/report/news/month/2024/01
- 167. https://www.worldvision.jp/report/news/month/2023/08
- 168. https://www.worldvision.jp/report/news/month/2023/05
- 169. https://www.worldvision.jp/report/news/month/2023/04
- 170. https://www.worldvision.jp/report/news/month/2023/03
- 171. https://www.worldvision.jp/report/news/month/2021/07
- 172. https://www.worldvision.jp/report/news/month/2020/10
- 173. https://www.worldvision.jp/report/news/month/2019/08
- 174. https://www.worldvision.jp/report/news/month/2019/04
- 175. https://www.worldvision.jp/report/news/month/2016/10
- 176. https://www.worldvision.jp/report/news/month/2015/12
- 177. https://www.worldvision.jp/report/news/month/2015/10
- 178. https://www.worldvision.jp/report/news/month/2012/03
- 179. https://www.worldvision.jp/report/news/20251226-27796/
- 180. https://www.worldvision.jp/report/news/20251223-27525/
- 181. https://www.worldvision.jp/report/news/20251222-6455/
- 182. https://www.worldvision.jp/report/news/20251202-6455/
- 183. https://www.worldvision.jp/donate/childsponsor
- 184. https://www.worldvision.jp/about
- 185. https://www.worldvision.jp/about/well-being
- 186. https://www.worldvision.jp/about/wvj-overview
- 187. https://www.worldvision.jp/about/wvj-numbers
- 188. https://www.worldvision.jp/about/staff
- 189. https://www.worldvision.jp/about/members
- 190. https://www.worldvision.jp/about/corporate
- 191. https://www.worldvision.jp/about/history
- 192. https://www.worldvision.jp/donate/
- 193. https://www.worldvision.jp/donate/beginners/
- 194. https://www.worldvision.jp/donate/corporate/
- 195. https://www.worldvision.jp/donate/school/
- 196. https://www.worldvision.jp/donate/volunteer/
- 197. https://www.worldvision.jp/donate/childsponsor/
- 198. https://www.worldvision.jp/donate/projectsupporter/
- 199. https://www.worldvision.jp/donate/food/
- 200. https://www.worldvision.jp/donate/health/
- 201. https://www.worldvision.jp/donate/refugee/
- 202. https://www.worldvision.or.jp/form/donation/entry_input?did=7&price=5000
- 203. https://www.worldvision.or.jp/form/donation/entry_input?did=9&price=5000
- 204. https://www.worldvision.jp/donate/domestic/
- 205. https://www.worldvision.jp/donate/involve/
- 206. https://www.worldvision.jp/donate/event/
- 207. https://www.worldvision.jp/donate/receipt/
- 208. https://www.worldvision.jp/donate/milestone/
- 209. https://www.worldvision.jp/donate/testamentary/
- 210. https://www.worldvision.jp/activities
- 211. https://www.worldvision.jp/activities/development
- 212. https://www.worldvision.jp/activities/emergency-relief
- 213. https://www.worldvision.jp/activities/advocacy
- 214. https://www.worldvision.jp/activities/matching
- 215. https://www.worldvision.jp/report/
- 216. https://www.worldvision.jp/report/news
- 217. https://www.worldvision.jp/report/press
- 218. https://www.worldvision.jp/report/project-report
- 219. https://www.worldvision.jp/report/annual-report
- 220. https://www.worldvision.jp/children
- 221. https://www.worldvision.jp/children/poverty/
- 222. https://www.worldvision.jp/children/education/
- 223. https://www.worldvision.jp/children/wash/
- 224. https://www.worldvision.jp/children/refugee/
- 225. https://www.worldvision.jp/children/trafficking/
- 226. https://www.worldvision.jp/children/voice/
- 227. https://www.worldvision.jp/children/report/
- 228. https://www.worldvision.jp/children/staff-blog/
- 229. https://www.worldvision.jp/
- 230. https://www.worldvision.jp/faq/
- 231. https://www.worldvision.or.jp/form/inquiry/entry_input
- 232. https://www.worldvision.jp/mypage/
- 233. https://www.worldvision.jp/office-address/
- 234. https://www.worldvision.jp/recruit/
- 235. https://www.worldvision.jp/web-policy/
- 236. https://www.worldvision.jp/privacy-policy/
- 237. https://www.worldvision.jp/protection-policy/
- 238. https://www.worldvision.jp/
- 239. https://www.worldvision.jp/faq/
- 240. https://www.worldvision.or.jp/form/inquiry/entry_input
- 241. https://www.worldvision.jp/mypage
- 242. https://www.worldvision.jp/office-address
- 243. https://www.worldvision.jp/recruit
- 244. https://www.worldvision.jp/web-policy
- 245. https://www.worldvision.jp/privacy-policy
- 246. https://www.worldvision.jp/protection-policy
- 247. https://www.worldvision.jp/donate-now
- 248. http://nav.cx/iBFy9PT
- 249. http://nav.cx/iBFy9PT
- 250. https://www.facebook.com/WorldVisionJapan
- 251. https://www.instagram.com/worldvisionjapan/
- 252. https://x.com/WorldVisionJPN
- 253. https://www.youtube.com/channel/UCq5OnOuvjA8w5NH7pAxPQJA
- 254. https://www.worldvision.or.jp/form/material/entry_input
+   Liens visibles :
+   1. https://nihongojikan.jp/.en/blog/20231115-4179/
+   2. https://nihongojikan.jp/.ko/blog/20231115-4179/
+   3. https://nihongojikan.jp/.zh-CN/blog/20231115-4179/
+   4. https://nihongojikan.jp/.zh-TW/blog/20231115-4179/
+   5. https://nihongojikan.jp/.th/blog/20231115-4179/
+   6. https://nihongojikan.jp/
+   7. https://nihongojikan.jp/
+   8. https://nihongojikan.jp/concept/
+   9. https://nihongojikan.jp/concept/reviews/
+  10. https://nihongojikan.jp/concept/reputation/
+  11. https://nihongojikan.jp/concept/voice/
+  12. https://nihongojikan.jp/service/
+  13. https://nihongojikan.jp/menu/
+  14. https://nihongojikan.jp/schedule/
+  15. https://nihongojikan.jp/access/
+  16. https://nihongojikan.jp/access/koharunihonngozimusyo/
+  17. https://nihongojikan.jp/blog/
+  18. https://nihongojikan.jp/recruit/career/
+  19. https://nihongojikan.jp/contact/
+  20. https://nihongojikan.jp/
+  21. https://nihongojikan.jp/concept/
+  22. https://nihongojikan.jp/service/
+  23. https://nihongojikan.jp/menu/
+  24. https://nihongojikan.jp/schedule/
+  25. https://nihongojikan.jp/news/
+  26. https://nihongojikan.jp/access/
+  27. https://nihongojikan.jp/access/koharunihonngozimusyo/
+  28. https://nihongojikan.jp/blog/
+  29. https://nihongojikan.jp/information/
+  30. https://nihongojikan.jp/faq/
+  31. https://nihongojikan.jp/contact/
+  32. https://nihongojikan.jp/privacy_policy/
+  33. https://nihongojikan.jp/sitemap/
+  34. https://nihongojikan.jp/teachers/
+  35. https://nihongojikan.jp/recruit/career/
+  36. https://nihongojikan.jp/
+  37. https://nihongojikan.jp/blog/
+  38. https://nihongojikan.jp/
+  39. https://nihongojikan.jp/blog/
+  40. https://nihongojikan.jp/access/
+  41. https://nihongojikan.jp/
+  42. https://nihongojikan.jp/faq/
+  43. https://nihongojikan.jp/contact/
+  44. https://nihongojikan.jp/blog/
+  45. https://nihongojikan.jp/blog/20251230/
+  46. https://nihongojikan.jp/blog/20251224/
+  47. https://nihongojikan.jp/blog/20251218/
+  48. https://nihongojikan.jp/blog/
+  49. https://nihongojikan.jp/blog/$/y/2025/m/12/
+  50. https://nihongojikan.jp/blog/$/y/2025/m/11/
+  51. https://nihongojikan.jp/blog/$/y/2025/m/10/
+  52. https://nihongojikan.jp/blog/$/y/2025/m/09/
+  53. https://nihongojikan.jp/blog/$/y/2025/m/08/
+  54. https://nihongojikan.jp/blog/$/y/2025/m/07/
+  55. https://nihongojikan.jp/blog/$/y/2025/m/06/
+  56. https://nihongojikan.jp/blog/$/y/2025/m/05/
+  57. https://nihongojikan.jp/blog/$/y/2025/m/04/
+  58. https://nihongojikan.jp/blog/$/y/2025/m/03/
+  59. https://nihongojikan.jp/blog/$/y/2025/m/02/
+  60. https://nihongojikan.jp/blog/$/y/2025/m/01/
+  61. https://nihongojikan.jp/
+  62. https://nihongojikan.jp/access/
+  63. tel:03-6881-9842
+  64. https://nihongojikan.jp/contact/
+  65. https://nihongojikan.jp/
+  66. https://nihongojikan.jp/concept/
+  67. https://nihongojikan.jp/service/
+  68. https://nihongojikan.jp/menu/
+  69. https://nihongojikan.jp/schedule/
+  70. https://nihongojikan.jp/access/
+  71. https://nihongojikan.jp/blog/
+  72. https://nihongojikan.jp/news/
+  73. https://nihongojikan.jp/concept/reviews/
+  74. https://nihongojikan.jp/concept/reputation/
+  75. https://nihongojikan.jp/concept/voice/
+  76. https://nihongojikan.jp/access/koharunihonngozimusyo/
+  77. https://nihongojikan.jp/contact/
+  78. https://nihongojikan.jp/privacy_policy/
+  79. https://nihongojikan.jp/information/
+  80. https://nihongojikan.jp/sitemap/
+  81. https://nihongojikan.jp/faq/
+  82. https://nihongojikan.jp/teachers/
+  83. https://nihongojikan.jp/recruit/career/
+  84. tel:03-6881-9842
+  85. https://nihongojikan.jp/contact/
+  86. https://nihongojikan.jp/
+
+   Liens cachés :
+  88. https://nihongojikan.jp/blog/20251230/
+  89. https://nihongojikan.jp/blog/20251224/
+  90. https://nihongojikan.jp/blog/20251218/
+  91. https://nihongojikan.jp/blog/20231115-4179/#container
