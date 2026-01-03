@@ -218,9 +218,38 @@
                     </div>
 
                     <div id="japonais" class="box p-6 tab-content">
-                        <h2 class="title is-4">Méthodologie - Japonais</h2>
                         <div class="content">
-                            <p>Contenu en cours de rédaction par l'équipe...</p>
+                            <div class="method-step">
+                                <div class="step-title"><span class="step-number">1</span>Création du corpus</div>
+                                <div class="sub-step">
+                                    <p>Pour ce corpus en langue japonaise, j'ai réaliser une sélection manuelle de 30 URLs pertinentes autour du mot <strong>希望</strong>(espoir dans le sens du souhait) ainsi que de 30 autres URLs pertinentes autour du mot <strong>期待</strong>(espoir dans le sens d'attente).</p>
+                                </div>
+                            </div>
+
+                            <div class="method-step">
+                                <div class="step-title"><span class="step-number">2</span> Développement des scripts pour les tableaux</div>
+                                <div class="sub-step">
+                                    <p>Tout d'abord, afin de nous prépaper pour travail, nous avions réaliser pendant les cours un script permettant à partir d'un fichier texte comprennant des URLs, d'afficher sur une page html, un tableau avec diverse colonnes. Ce tableau comprennait des colonnes indiquant pour chaque URL son numéro de ligne, son code HTTP, l'affichage de l'URL complète, son encodage ainsi que le nombre de mot présent sur la page web que renvoie l'URL.</p>
+                                    <p>J'ai donc récupérer et modifier ce script afin de réaliser mes deux tableaux. Pour ce travail, plusieurs colonnes était demandé pour le tableau. D'abord, les colonnes de numéro de ligne, de code HTTP, d'affichage de l'URL ainsi que l'encodage. Pour celle-ci, j'ai simplement utilisé le code de mon ancien script. Ensuite, de nouvelles colonnes était demandé: le nombre d'occurrence de notre mot, le HTML brut de la page web, le DUMP textuel, le contexte et pour finir, un concordancier HTML. </p>
+                                    <p>J'ai donc remplacer ma colonne qui indiquait le nombre de mot de la page web par le nombre d'occurrence du mot qui m'intéresse. J'ai donc utilisé la ligne de code suivante: <code>occurrence=$(curl -s "$line" | grep -o -i "希望" | wc -l)</code>. Ensuite, pour le HTML brut j'ai utilisé le code suivant: <code>lynx -source "$line" > "../html_brut/mot1/page_$i.html"</code>. Pour le DUMP textuel, j'ai utilisé ce code: <code>lynx -dump "$line" > "../dump/mot1/dump_$i.txt"</code>. Pour le contexte, j'ai rajouté la ligne suivante: <br><code>  grep -C 3 --no-group-separator "希望" \"../dump/mot1/dump_$i.txt" \ > "../contexte/mot1/contexte_$i.txt"</code>. Et enfin, pour réaliser le concordancier, j'ai utilisé le code suivant:<br> <code> sed -n " /希望/{ s/^\(.*\)\(希望\)\(.*\)$/<tr><td class=\"gauche\">\1<\/td><td class=\"mot\">\2<\/td><td class=\"droite\">\3<\/td><\/tr>/ p}" "../dump/mot1/dump_$i.txt"</code><br>(Les lignes de codes montrée ici sont celles utilisé pour le premier tableau. Pour le second tableau, les mêmes lignes de code ont été utilisé sauf que le mot "希望"(Kibō) à été remplacé par le mot "期待"(Kitai))</p>
+                                </div>
+                            </div>
+
+                            <div class="method-step">
+                                <div class="step-title"><span class="step-number">3</span> Analyse des tableaux</div>
+                                <div class="sub-step">
+                                    <p>Afin d'analyser les tableaux, j'ai d'abord réalisé un script nommé make_pals_corpus.sh qui m'a permis de rassembler ainsi que de tokéniser les fichiers de contexte présent dans mon tableau. J'ai bien entendu exécuté le script deux fois afin d'obtenir un fichier contexte_corpus.txt pour le premier tableau ainsi qu'un fichier contexte2_corpus.txt pour le second tableau.</p>
+                                    <p>Grâce à cela, ainsi qu'à l'aide de fichiers python nommé cooccurrents.py et partition.py fournis par les proffesseurs, j'ai pu obtenir 3 tableaux pour réaliser mon analyse. Un premier tableau pour les cooccurrences du mot "希望"(Kibō) dans le premier corpus, un second tableau pour les cooccurrences du mot "期待"(Kitai) dans le second corpus, ainsi qu'un dernier tableau pour comparer les deux corpus.</p>
+                                </div>
+                            </div>
+
+                            <div class="method-step">
+                                <div class="step-title"><span class="step-number">4</span>Création des nuages de mots</div>
+                                <div class="sub-step">
+                                    <p>Comme j'ai travailler avec deux mots différents, j'ai décidé de réaliser deux nuages de mots différents. Pour réaliser ces nuages de mots, j'ai d'abord installé le paquet wordcloud sur l'environnement virtuel de mon ordinateur qui me permet de créer des nuages de mots à l'aide d'un script python. Le script python et wordcloud me permettent de réaliser un nuage de mots à partir d'un fichier texte. C'est pourquoi, j'ai décidé d'utilisé les fichiers contexte_corpus.txt et contexte2_corpus.txt que j'avais réalisé précédemment. Toutefois, ces nuages de mots ne me satisfaisant pas car il y avait trop de ponctuations, de lettres et de chiffres. J'ai donc décidé de créer un nouveau script afin de nettoyer mes fichiers précédent pour qu'il ne reste plus que des caractères japonais. Avec ce script, j'ai donc obtenu deux nouveaux fichiers: contexte_nettoye.txt et contexte2_nettoye.txt, que j'ai utilisé pour réaliser mes nuages de mots</p>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
 
