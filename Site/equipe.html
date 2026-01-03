@@ -19,7 +19,6 @@
             font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
         }
 
-        /* Hero Section avec Dessin Abstrait 2 (Équipe) */
         .hero {
             background: transparent !important;
             position: relative;
@@ -27,7 +26,6 @@
             padding: 3rem 0;
         }
 
-        /* --- EFFET LUMINEUX ET FLOTTANT SUR LE TITRE --- */
         .hero .title {
             font-size: 5rem !important;
             letter-spacing: 10px;
@@ -36,9 +34,7 @@
             color: var(--accent-blue);
             position: relative;
             display: inline-block;
-            /* Lueur blanche derrière les lettres */
             text-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 0 0 40px rgba(59, 130, 246, 0.2);
-            /* Animation de respiration */
             animation: titleFloatTeam 4s ease-in-out infinite;
             z-index: 2;
         }
@@ -47,9 +43,7 @@
             0%, 100% { transform: translateY(0); letter-spacing: 10px; }
             50% { transform: translateY(-8px); letter-spacing: 13px; }
         }
-        /* ----------------------------------------------- */
 
-        /* Formes croisées - Symbole de collaboration */
         .hero::before, .hero::after {
             content: "";
             position: absolute;
@@ -159,19 +153,12 @@
             <a class="navbar-item" href="../index.html">Accueil</a>
             <a class="navbar-item is-active">Qui sommes-nous</a>
             <a class="navbar-item" href="methode.html">Méthode</a>
-            <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-link">Tableaux</a>
-              <div class="navbar-dropdown is-boxed">
-                <a class="navbar-item">Français</a>
-                <a class="navbar-item">Arabe</a>
-                <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Japonais</a>
-              </div>
-            </div>
+            
+            <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Tableaux</a>
+
             <a class="navbar-item" href="analyse.html">Analyse</a>
             <a class="navbar-item" href="nuages.html">Nuages de mots</a>
-            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">
-          <span>Conclusion</span>
-        </a>
+            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">Conclusion</a>
           </div>
         </div>
       </div>
@@ -198,7 +185,7 @@
                   <hr style="background-color: rgba(30, 58, 138, 0.1); height: 1px; margin: 1rem 0;">
                   <div class="content is-size-5">
                     <p>Diplômée d’une Licence en SDL et d’un Master de traduction et interprétation en Algérie, j’ai poursuivi mon parcours académique en France par une Licence en Sciences du Langage, avant d’intégrer le Master Traitement automatique des langues à l’Inalco.</p>
-                    <p>L’articulation entre le langage et le numérique représente pour moi un véritable défi intellectuel, que j’ai choisi de relever afin de combiner mes compétences en linguistique avec des notions de programmation. Polyglotte (arabe, français, anglais, kabyle et espagnol).</p>
+                    <p>L’articulation entre le langage et le numérique représente pour moi un véritable défi intellectuel, que j’ai choisi de relever afin de combiner mes compétences en linguistique avec des notions de programmation. Polyglotte (arabe, français, anglais, kabyle et espagnol),je mobilise ces connaissances pour aborder les défis de l'ingénierie linguistique avec une perspective multilingue.</p>
                   </div>
                   <div class="devise">
                     <strong>Ma devise :</strong> « Aimer sans distinguer, respecter sans juger » 
@@ -231,7 +218,7 @@
 
     <footer class="footer" style="background: transparent;">
         <div class="content has-text-centered">
-            <p style="color: var(--accent-blue); opacity: 0.7;"><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+            <p style="color: var(--accent-blue); opacity: 0.7;"><strong>Projet PPE</strong> - Master 1 TAL - 2025-2026</p>
         </div>
     </footer>
 

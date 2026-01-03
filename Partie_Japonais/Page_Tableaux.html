@@ -19,7 +19,6 @@
             font-family: 'Segoe UI', Roboto, sans-serif;
         }
 
-        /* --- EFFET BEAU DERRIERE ESPOIR --- */
         .hero {
             background: transparent !important;
             position: relative;
@@ -67,13 +66,11 @@
             50% { transform: translateY(-10px); }
         }
 
-        /* Navbar */
         .navbar.is-link {
             background-color: rgba(30, 58, 138, 0.9) !important;
             backdrop-filter: blur(10px);
         }
 
-        /* Boîtes et Cartes */
         .box {
             background: rgba(255, 255, 255, 0.6) !important;
             backdrop-filter: blur(12px);
@@ -90,12 +87,6 @@
         .lang-card:hover {
             transform: translateY(-5px);
             background: rgba(255, 255, 255, 0.9) !important;
-        }
-
-        .jp-link {
-            color: #dc2626;
-            font-weight: bold;
-            text-decoration: underline;
         }
 
         footer { padding: 4rem 0; }
@@ -121,19 +112,12 @@
             <a class="navbar-item" href="../index.html">Accueil</a>
             <a class="navbar-item" href="../Site/equipe.html">Qui sommes-nous</a>
             <a class="navbar-item" href="../Site/methode.html">Méthode</a>
-            <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-link">Tableaux</a>
-              <div class="navbar-dropdown is-boxed">
-                <a class="navbar-item">Français</a>
-                <a class="navbar-item">Arabe</a>
-                <a class="navbar-item">Japonais</a>
-              </div>
-            </div>
+            
+            <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Tableaux</a>
+
             <a class="navbar-item" href="../Site/analyse.html">Analyse</a>
             <a class="navbar-item" href="../Site/nuages.html">Nuages de mots</a>
-            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">
-          <span>Conclusion</span>
-        </a>
+            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">Conclusion</a>
           </div>
         </div>
       </div>
@@ -149,36 +133,37 @@
               <h3 class="title is-4">Français</h3>
               <p>Tableaux du corpus francophone.</p>
               <br>
-              <a href="#" class="button is-small is-link is-outlined">Accéder au tableau</a>
+              <a href="../Partie_Francais/Page_Tableaux.html" class="button is-small is-link is-outlined">Accéder au tableau</a>
             </div>
           </div>
 
           <div class="column is-4">
             <div class="box lang-card" style="border-top-color: #059669;">
               <h3 class="title is-4">Arabe (أمل)</h3>
-              <p>Tableaux du corpus arabe.</p>
-              <br>
-              <a href="#" class="button is-small is-link is-outlined">Accéder au tableau</a>
+              <p class="is-size-7 mb-3">Tableaux du corpus arabe et analyses automatiques.</p>
+              <div class="buttons">
+                <a href="../Partie_Arabe/tableaux/arabe.html" class="button is-small is-success is-outlined">Tableau Principal</a>
+                <a href="../Partie_Arabe/tableaux/tableau_arabe_robots.html" class="button is-small is-success is-outlined">Tableau Robots</a>
+              </div>
             </div>
           </div>
 
           <div class="column is-4">
             <div class="box lang-card" style="border-top-color: #dc2626;">
-              <h3 class="title is-4">Japonais (希望 / 期待)</h3>
-              <p class="is-size-7 mb-3">Nuances entre le désir (Kibō) et l'attente (Kitai).</p>
-              <div class="buttons">
-                <a href="tableaux/tableau-jp1.html" class="button is-small is-danger is-outlined">Tableau 希望</a>
-                <a href="tableaux/tableau-jp2.html" class="button is-small is-danger is-outlined">Tableau 期待</a>
-              </div>
+                <h3 class="title is-4">Japonais (希望 / 期待)</h3>
+                <p class="is-size-7 mb-3">Nuances entre le désir (Kibō) et l'attente (Kitai).</p>
+                <div class="buttons">
+                  <a href="../Partie_Japonais/tableaux/tableau-jp1.html" class="button is-small is-danger is-outlined">Tableau 希望</a>
+                  <a href="../Partie_Japonais/tableaux/tableau-jp2.html" class="button is-small is-danger is-outlined">Tableau 期待</a>
+                </div>
             </div>
           </div>
         </div>
-
       </div>
     </section>
 
     <footer class="footer has-text-centered">
-        <p style="color: var(--accent-blue); opacity: 0.7;"><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+        <p style="color: var(--accent-blue); opacity: 0.7;"><strong>Projet PPE</strong> - Master 1 TAL - 2025-2026</p>
     </footer>
 
 </body>

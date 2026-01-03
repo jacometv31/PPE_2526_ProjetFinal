@@ -1,28 +1,31 @@
 #!/usr/bin/env bash
 
-# Dossier de sortie pour iTrameur
-mkdir -p itrameur
+# On définit les chemins par rapport au dossier 'programmes'
+# On remonte d'un niveau (../) pour atteindre la racine de Partie_Arabe
+DUMP_DIR="../dumps-text"
+OUT_DIR="../itrameur"
+OUTPUT="$OUT_DIR/corpus_arabe.txt"
 
-# Fichier final
-OUTPUT="itrameur/corpus_arabe.txt"
+# Créer le dossier itrameur à côté de 'programmes', 'dumps-text', etc.
+mkdir -p "$OUT_DIR"
 
-# On commence le fichier avec la balise racine (optionnel mais propre)
+# Début du fichier avec la balise racine [cite: 19]
 echo "<lang=\"ar\">" > "$OUTPUT"
 
-# On boucle sur chaque dump textuel pour les fusionner
-for f in dumps-text/arabe-*.txt
+# Utilisation de 'ls -v' pour trier numériquement : 1, 2, ... 10
+for f in $(ls -v "$DUMP_DIR"/arabe-*.txt)
 do
+    # Vérifier si le fichier existe pour éviter les erreurs de boucle
     [ -e "$f" ] || continue
     
-    # On récupère le numéro pour l'identifiant de la page
+    # Extraire le numéro pour la balise page
     num=$(echo "$f" | grep -oP '\d+')
     
-    # On ajoute les balises XML attendues par iTrameur
+    # Ajouter les balises attendues par iTrameur [cite: 19, 133]
     echo "<page=\"arabe-$num\">" >> "$OUTPUT"
     echo "<text>" >> "$OUTPUT"
     
-    # On insère le contenu du dump en nettoyant les caractères spéciaux HTML si besoin
-    # On utilise 'cat' pour lire le fichier
+    # Insérer le contenu du dump textuel [cite: 133]
     cat "$f" >> "$OUTPUT"
     
     echo "</text>" >> "$OUTPUT"
@@ -31,4 +34,4 @@ done
 
 echo "</lang>" >> "$OUTPUT"
 
-echo "Fichier iTrameur généré : $OUTPUT"
+echo "Fichier iTrameur généré avec succès dans : $OUTPUT"

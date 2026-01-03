@@ -9,26 +9,19 @@
         :root {
             --accent-blue: #1e3a8a;
             --soft-blue: #3b82f6;
-            --algeria-green: #006233;
-            --japan-red: #bc002d;
         }
 
         body {
-            /* Image d'oiseaux (mouettes) dans le ciel bleu sans éléments parasites */
             background: url('https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=2000&auto=format&fit=crop') no-repeat center center fixed;
             background-size: cover;
             min-height: 100vh;
             font-family: 'Segoe UI', Roboto, sans-serif;
         }
 
-        /* Voile pour la lisibilité */
         body::before {
             content: "";
             position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
+            top: 0; left: 0; width: 100%; height: 100%;
             background: rgba(255, 255, 255, 0.15);
             z-index: -1;
         }
@@ -47,11 +40,9 @@
         .title-container::before {
             content: "";
             position: absolute;
-            top: 50%;
-            left: 50%;
+            top: 50%; left: 50%;
             transform: translate(-50%, -50%);
-            width: 150%;
-            height: 150%;
+            width: 150%; height: 150%;
             background: radial-gradient(circle, rgba(255,255,255,0.9) 0%, rgba(59, 130, 246, 0.4) 40%, transparent 70%);
             filter: blur(25px);
             z-index: 1;
@@ -73,22 +64,34 @@
         }
 
         .conclusion-box {
-            background: rgba(255, 255, 255, 0.75) !important;
+            background: rgba(255, 255, 255, 0.8) !important;
             backdrop-filter: blur(12px);
-            border-radius: 20px;
-            border: 1px solid rgba(255, 255, 255, 0.4);
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            padding: 2.5rem;
-            margin-bottom: 2rem;
+            border-radius: 24px;
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+            padding: 3.5rem;
+            margin-bottom: 3rem;
+            border-top: 8px solid var(--accent-blue);
         }
 
-        .lang-title {
+        .main-title {
             font-weight: 800;
             color: var(--accent-blue);
             border-bottom: 3px solid var(--soft-blue);
             display: inline-block;
+            margin-bottom: 2rem;
+            font-size: 2.5rem;
+        }
+
+        .content p {
             margin-bottom: 1.5rem;
-            font-size: 2rem;
+            text-align: justify;
+            line-height: 1.8;
+        }
+
+        .highlight {
+            color: var(--accent-blue);
+            font-weight: bold;
         }
 
         footer {
@@ -106,7 +109,7 @@
             <p class="title">ESPOIR</p>
         </div>
         <p class="subtitle is-4 mt-4" style="color: var(--accent-blue) !important; font-weight: 600;">
-            Conclusion finale du projet
+            Bilan et Perspectives Finales
         </p>
       </div>
     </section>
@@ -118,17 +121,10 @@
             <a class="navbar-item" href="../index.html">Accueil</a>
             <a class="navbar-item" href="equipe.html">Qui sommes-nous</a>
             <a class="navbar-item" href="methode.html">Méthode</a>
-            <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-link">Tableaux</a>
-              <div class="navbar-dropdown is-boxed">
-                <a class="navbar-item">Français</a>
-                <a class="navbar-item">Arabe</a>
-                <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Japonais</a>
-              </div>
-            </div>
+            <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Tableaux</a>
             <a class="navbar-item" href="analyse.html">Analyse</a>
             <a class="navbar-item" href="nuages.html">Nuages de mots</a>
-            <a class="navbar-item is-active" href="conclusion.html">Conclusion</a>
+            <a class="navbar-item is-active">Conclusion</a>
           </div>
         </div>
       </div>
@@ -136,38 +132,34 @@
 
     <section class="section">
       <div class="container">
-        <div class="columns is-centered is-multiline">
-          
-          <div class="column is-10">
+        <div class="columns is-centered">
+          <div class="column is-9">
+            
             <div class="box conclusion-box">
-              <h2 class="lang-title">🇫🇷 Français</h2>
+              <h2 class="main-title">Perspectives finales</h2>
+              
               <div class="content is-size-5">
-                </div>
-            </div>
-          </div>
+                  <p>
+                      En conclusion, ce projet démontre que <span class="highlight">l'ingénierie linguistique</span> est un outil puissant pour décrypter les représentations du monde véhiculées par le langage. 
+                  </p>
+                  
+                  <p>
+                      Au-delà des chiffres, le projet <span class="highlight">ESPOIR</span> nous montre comment, d'une culture à l'autre, l'aspiration à un avenir meilleur se traduit par des mots, des contextes et des émotions variés, mais toujours essentiels. 
+                  </p>
 
-          <div class="column is-10">
-            <div class="box conclusion-box" style="border-left: 10px solid var(--algeria-green);">
-              <h2 class="lang-title" style="border-bottom-color: var(--algeria-green);">🇩🇿 Arabe</h2>
-              <div class="content is-size-5">
-                </div>
+                  <p>
+                      Ce travail constitue une base solide pour de futures explorations en <span class="highlight">linguistique comparée</span> et souligne l'importance des outils de <span class="highlight">TAL</span> (Traitement Automatique des Langues) dans l'analyse des grands corpus multilingues.
+                  </p>
+              </div>
             </div>
-          </div>
 
-          <div class="column is-10">
-            <div class="box conclusion-box" style="border-left: 10px solid var(--japan-red);">
-              <h2 class="lang-title" style="border-bottom-color: var(--japan-red);">🇯🇵 Japonais</h2>
-              <div class="content is-size-5">
-                </div>
-            </div>
           </div>
-
         </div>
       </div>
     </section>
 
     <footer class="footer has-text-centered">
-        <p style="color: var(--accent-blue);"><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+        <p style="color: var(--accent-blue);"><strong>Projet PPE</strong> - Master 1 TAL - 2025-2026</p>
     </footer>
 
 </body>

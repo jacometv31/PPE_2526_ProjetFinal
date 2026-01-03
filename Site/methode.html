@@ -19,7 +19,6 @@
             font-family: 'Segoe UI', Roboto, sans-serif;
         }
 
-        /* Hero Section avec Dessin Abstrait 3 (Structure/Grille) */
         .hero {
             background: transparent !important;
             position: relative;
@@ -27,7 +26,6 @@
             padding: 3rem 0;
         }
 
-        /* Le motif de grille pour le côté scientifique/méthode */
         .hero::before {
             content: "";
             position: absolute;
@@ -56,16 +54,12 @@
             50% { transform: translateY(-8px); letter-spacing: 15px; }
         }
 
-        .hero-body { position: relative; z-index: 1; }
-
-        /* Navbar Glassmorphism */
         .navbar.is-link {
             background-color: rgba(30, 58, 138, 0.9) !important;
             backdrop-filter: blur(10px);
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
 
-        /* Conteneur de contenu */
         .box {
             background: rgba(255, 255, 255, 0.6) !important;
             backdrop-filter: blur(12px);
@@ -73,7 +67,6 @@
             border: 1px solid rgba(255, 255, 255, 0.4);
             border-left: 8px solid var(--soft-blue);
             box-shadow: 0 10px 30px rgba(0,0,0,0.03);
-            transition: transform 0.3s ease;
         }
 
         .section-title {
@@ -82,6 +75,32 @@
             text-align: center;
             margin-bottom: 2rem;
         }
+
+        .method-step { margin-bottom: 2.5rem; }
+        .step-number {
+            background: var(--accent-blue);
+            color: white;
+            padding: 5px 15px;
+            border-radius: 50px;
+            font-size: 1rem;
+            margin-right: 15px;
+        }
+        .step-title {
+            color: var(--accent-blue);
+            font-weight: bold;
+            font-size: 1.4rem;
+            display: flex;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        .sub-step {
+            margin-left: 2rem;
+            border-left: 2px solid var(--soft-blue);
+            padding-left: 1.5rem;
+        }
+
+        .tab-content { display: none; }
+        .tab-content.is-active { display: block; }
 
         footer {
             padding: 2rem 0;
@@ -114,21 +133,12 @@
             <div id="navbarMain" class="navbar-menu">
                 <div class="navbar-start">
                     <a class="navbar-item" href="../index.html">Accueil</a>
-                    <a class="navbar-item" href="equipe.html">Qui sommes nous</a>
+                    <a class="navbar-item" href="equipe.html">Qui sommes-nous</a>
                     <a class="navbar-item is-active">Méthode</a>
-                    <div class="navbar-item has-dropdown is-hoverable">
-                        <a class="navbar-link">Tableaux</a>
-                        <div class="navbar-dropdown is-boxed">
-                            <a class="navbar-item">Français</a>
-                            <a class="navbar-item">Arabe</a>
-                            <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Japonais</a>
-                        </div>
-                    </div>
+                    <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Tableaux</a>
                     <a class="navbar-item" href="analyse.html">Analyse</a>
                     <a class="navbar-item" href="nuages.html">Nuages de mots</a>
-                    <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">
-          <span>Conclusion</span>
-        </a>
+                    <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">Conclusion</a>
                 </div>
             </div>
         </div>
@@ -136,28 +146,96 @@
 
     <section class="section">
         <div class="container">
+            <h1 class="title section-title">Étapes de réalisation par langue</h1>
+
+            <div class="tabs is-centered is-boxed is-medium">
+                <ul>
+                    <li class="is-active" data-tab="arabe"><a>Arabe</a></li>
+                    <li data-tab="francais"><a>Français</a></li>
+                    <li data-tab="japonais"><a>Japonais</a></li>
+                </ul>
+            </div>
+
             <div class="columns is-centered">
-                <div class="column is-two-thirds">
-                    <h1 class="title is-2 section-title">Étapes de création des tableaux</h1>
+                <div class="column is-four-fifths">
                     
-                    <div class="box p-6">
-                        <div class="content is-size-5">
-                            <p class="has-text-centered has-text-grey-dark">
-                                <em>Contenu de la méthodologie à insérer ici (Collecte du corpus, scripts Bash/Python, outils d'analyse...).</em>
-                            </p>
+                    <div id="arabe" class="box p-6 tab-content is-active">
+                        <div class="content">
+                            <div class="method-step">
+                                <div class="step-title"><span class="step-number">1</span> Constitution du corpus initial</div>
+                                <div class="sub-step">
+                                    <p><strong>Sélection ciblée :</strong> Recherche et sélection manuelle de 50 URLs pertinentes en langue arabe autour du mot pôle <strong>أمل</strong> (espoir).</p>
+                                </div>
+                            </div>
+
+                            <div class="method-step">
+                                <div class="step-title"><span class="step-number">2</span> Développement du script principal et structuration</div>
+                                <div class="sub-step">
+                                    <p><strong>Automatisation du tableau :</strong> Écriture d'un script Bash pour générer dynamiquement un tableau HTML de bord.</p>
+                                    <p><strong>Chaîne de traitement :</strong> Mise en place d'une boucle d'aspiration avec <code>curl</code>, conversion des pages en texte brut via <code>lynx</code> et extraction automatisée des contextes avec <code>grep</code>.</p>
+                                    <p><strong>Gestion de l'arborescence :</strong> Création automatique des dossiers de stockage (aspirations, dumps-text, contextes,etc...) pour une organisation rigoureuse des données.</p>
+                                </div>
+                            </div>
+
+                            <div class="method-step">
+                                <div class="step-title"><span class="step-number">3</span> Analyse Quantitative (PALS)</div>
+                                <div class="sub-step">
+                                    <p><strong>Préparation des données :</strong> Utilisation du script make_pals_corpus.sh pour la mise en forme du texte (tokenisation) afin de générer les fichiers consolidés des contextes et des dumps.</p>
+                                    <p><strong>Exploration statistique :</strong> Application des outils PALS pour calculer les indices de spécificité et identifier les termes les plus significatifs associés au mot pôle.</p>
+                                </div>
+                            </div>
+
+                            <div class="method-step">
+                                <div class="step-title"><span class="step-number">4</span> Visualisation (Wordcloud)</div>
+                                <div class="sub-step">
+                                    <p><strong>Synthèse graphique :</strong> Génération d'un nuage de mots basé sur les fréquences pour identifier visuellement les thématiques sémantiques majeures liées au mot <strong>أمل</strong>.</p>
+                                </div>
+                            </div>
+
+                            <div class="method-step">
+                                <div class="step-title"><span class="step-number">5</span> Analyse Qualitative (iTrameur)</div>
+                                <div class="sub-step">
+                                    <p><strong>Focus sémantique :</strong> Importation du fichier de <strong>contextes arabes uniquement</strong> dans l'outil iTrameur.</p>
+                                    <p><strong>Étude textométrique :</strong> Analyse approfondie des concordances pour observer le comportement réel du mot pôle dans son environnement textuel.</p>
+                                </div>
+                            </div>
+
+                            <div class="method-step">
+                                <div class="step-title"><span class="step-number">6</span> Éthique et Conformité (Robots.txt)</div>
+                                <div class="sub-step">
+                                    <p><strong>Respect de la courtoisie :</strong> Développement d’un script d’analyse des fichiers <code>robots.txt</code> pour vérifier les autorisations de moissonnage des serveurs.</p>
+                                    <p><strong>Séparation des tableaux :</strong> Utilisation d'une blacklist et génération d'un <strong>second tableau de contrôle indépendant</strong> pour séparer clairement les URLs autorisées des URLs interdites.</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
+
+                    <div id="francais" class="box p-6 tab-content">
+                        <h2 class="title is-4">Méthodologie - Français</h2>
+                        <div class="content">
+                            <p>Contenu en cours de rédaction par l'équipe...</p>
+                        </div>
+                    </div>
+
+                    <div id="japonais" class="box p-6 tab-content">
+                        <h2 class="title is-4">Méthodologie - Japonais</h2>
+                        <div class="content">
+                            <p>Contenu en cours de rédaction par l'équipe...</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
     </section>
 
     <footer class="has-text-centered">
-        <p><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+        <p><strong>Projet PPE</strong> - Master 1 TAL - 2025-2026</p>
     </footer>
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
+            // Menu Burger Mobile
             const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
             $navbarBurgers.forEach( el => {
                 el.addEventListener('click', () => {
@@ -165,6 +243,25 @@
                     const $target = document.getElementById(target);
                     el.classList.toggle('is-active');
                     $target.classList.toggle('is-active');
+                });
+            });
+
+            // Gestion des Onglets
+            const tabs = document.querySelectorAll('.tabs li');
+            const contents = document.querySelectorAll('.tab-content');
+
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    tabs.forEach(t => t.classList.remove('is-active'));
+                    tab.classList.add('is-active');
+
+                    const target = tab.dataset.tab;
+                    contents.forEach(content => {
+                        content.classList.remove('is-active');
+                        if (content.id === target) {
+                            content.classList.add('is-active');
+                        }
+                    });
                 });
             });
         });

@@ -10,7 +10,7 @@
             --bg-gradient: linear-gradient(135deg, #e0f2fe 0%, #dbeafe 50%, #f0f9ff 100%);
             --accent-blue: #1e3a8a;
             --soft-blue: #3b82f6;
-            --algeria-green: #006233; /* Vert officiel du drapeau algérien */
+            --algeria-green: #006233;
         }
 
         body {
@@ -20,7 +20,6 @@
             font-family: 'Segoe UI', Roboto, sans-serif;
         }
 
-        /* --- EFFET HALO DERRIÈRE ESPOIR --- */
         .hero {
             background: transparent !important;
             position: relative;
@@ -68,13 +67,11 @@
             50% { transform: translateY(-10px); }
         }
 
-        /* Navbar Glassmorphism */
         .navbar.is-link {
             background-color: rgba(30, 58, 138, 0.9) !important;
             backdrop-filter: blur(10px);
         }
 
-        /* Boîtes d'analyse */
         .box {
             background: rgba(255, 255, 255, 0.6) !important;
             backdrop-filter: blur(12px);
@@ -95,6 +92,21 @@
             border-bottom: 3px solid var(--soft-blue);
             display: inline-block;
             margin-bottom: 1.5rem;
+        }
+
+        .analysis-step {
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px dashed rgba(0,0,0,0.1);
+        }
+
+        .analysis-step:last-child { border-bottom: none; }
+
+        .itrameur-img {
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            margin: 1.5rem 0;
+            max-width: 100%;
         }
 
         .footer {
@@ -123,19 +135,10 @@
             <a class="navbar-item" href="../index.html">Accueil</a>
             <a class="navbar-item" href="equipe.html">Qui sommes-nous</a>
             <a class="navbar-item" href="methode.html">Méthode</a>
-            <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-link">Tableaux</a>
-              <div class="navbar-dropdown is-boxed">
-                <a class="navbar-item">Français</a>
-                <a class="navbar-item">Arabe</a>
-                <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Japonais</a>
-              </div>
-            </div>
+            <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Tableaux</a>
             <a class="navbar-item is-active">Analyse</a>
             <a class="navbar-item" href="nuages.html">Nuages de mots</a>
-            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">
-          <span>Conclusion</span>
-        </a>
+            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">Conclusion</a>
           </div>
         </div>
       </div>
@@ -146,6 +149,7 @@
         <h1 class="title is-2 has-text-centered mb-6" style="color: var(--accent-blue); font-weight: 800;">Analyse des différents corpus</h1>
 
         <div class="columns is-centered is-multiline">
+          
           <div class="column is-10">
             <div class="box p-6">
               <h3 class="title is-3 lang-title">🇫🇷 Analyse du Français</h3>
@@ -158,9 +162,53 @@
           <div class="column is-10">
             <div class="box p-6" style="border-right: 8px solid var(--algeria-green);">
               <h3 class="title is-3 lang-title" style="border-bottom-color: var(--algeria-green);">🇩🇿 Analyse de l'Arabe (أمل)</h3>
-              <p class="is-size-5 has-text-grey">
-                <em>Insérez ici l'analyse du corpus arabe portant sur le mot "Amal".</em>
-              </p>
+              
+              <div class="analysis-step">
+                <h4 class="title is-4">1. Préparation et structuration du corpus</h4>
+                <img src="../Partie_Arabe/itrameur/Chargement du corpus.png" alt="Chargement iTrameur" class="itrameur-img">
+                <p class="is-size-5 has-text-dark">
+                    Pour débuter mon analyse textométrique, j'ai importé mon fichier <strong>corpus_arabe.txt</strong> dans l'outil iTrameur. Cette étape me permet de valider la structure de mes données : mon corpus contient <strong>96 269 occurrences</strong> pour <strong>25 897 formes</strong> uniques. J'ai également vérifié que mon balisage (comme la balise <strong>LANG=AR</strong>) était bien reconnu, ce qui garantit que le logiciel segmente correctement mes 50 pages web pour les calculs à venir.
+                </p>
+              </div>
+
+              <div class="analysis-step">
+                <h4 class="title is-4">2. Étude des fréquences</h4>
+                <img src="../Partie_Arabe/itrameur/Le Dictionnaire.png" alt="Dictionnaire iTrameur" class="itrameur-img">
+                <p class="is-size-5 has-text-dark">
+                    Dans l'onglet Dictionnaire, j'ai isolé mon mot pivot "<strong>الأمل</strong>" (l'espoir) pour observer son poids réel dans mes textes. J'ai constaté que la forme simple apparaît <strong>1 429 fois</strong>, mais mon analyse montre aussi une grande richesse morphologique. En effet, j'ai identifié plusieurs variantes fréquentes avec préfixes, comme "<strong>والأمل</strong>" (126 fois) ou "<strong>بالأمل</strong>" (80 fois), ce qui prouve que ce concept est au cœur de nombreuses structures syntaxiques dans mon corpus arabe.
+                </p>
+              </div>
+
+              <div class="analysis-step">
+                <h4 class="title is-4">3. Analyse de la sémantique lexicale</h4>
+                <div class="columns">
+                    <div class="column"><img src="../Partie_Arabe/itrameur/Cooccurrences.png" alt="Cooccurrences" class="itrameur-img"></div>
+                    <div class="column"><img src="../Partie_Arabe/itrameur/Réseau.png" alt="Réseau sémantique" class="itrameur-img"></div>
+                </div>
+                <p class="is-size-5 has-text-dark">
+                    J'ai ensuite cherché à comprendre quels mots sont statistiquement liés à l'espoir dans mes données. Le tableau des cooccurrences révèle un lien indéniable (marqué par des étoiles rouges) avec le terme "<strong>والتفاؤل</strong>" (l'optimisme). En générant le graphe de réseau (pôle), j'ai pu visualiser cette "galaxie" sémantique : mon mot pivot est entouré de concepts comme la vie (<strong>الحياة</strong>) ou la foi (<strong>بالله</strong>). Cela confirme mon hypothèse : sur le web arabe, l'espoir est quasi systématiquement associé à une dynamique positive et à l'optimisme.
+                </p>
+              </div>
+
+              <div class="analysis-step">
+                <h4 class="title is-4">4. Vérification contextuelle</h4>
+                <img src="../Partie_Arabe/itrameur/Le Concordancier.png" alt="Concordancier" class="itrameur-img">
+                <p class="is-size-5 has-text-dark">
+                    Pour valider ces résultats statistiques, j'ai utilisé le concordancier afin de revenir au texte brut. En parcourant les <strong>1 429 lignes</strong>, j'ai pu observer des expressions concrètes comme "<em>L'espoir et l'optimisme sont la fleur de la vie</em>". Cette étape me permet de confirmer que les associations de mots trouvées précédemment ne sont pas le fruit du hasard, mais correspondent à des collocations réelles et répétées dans mes sources.
+                </p>
+              </div>
+
+              <div class="analysis-step">
+                <h4 class="title is-4">5. Analyse de la répartition</h4>
+                <div class="columns">
+                    <div class="column"><img src="../Partie_Arabe/itrameur/Ventilation et Spécificité1.png" alt="Ventilation 1" class="itrameur-img"></div>
+                    <div class="column"><img src="../Partie_Arabe/itrameur/Ventilation et Spécificité2.png" alt="Ventilation 2" class="itrameur-img"></div>
+                </div>
+                <p class="is-size-5 has-text-dark">
+                    Enfin, j'ai étudié comment mon mot pivot est réparti entre mes différentes sources via les graphiques de ventilation. Si la section <strong>s1</strong> regroupe le plus grand nombre de mentions, c'est la section <strong>s6</strong> qui présente l'indice de spécificité le plus fort. Cela m'indique que la source <strong>s6</strong> est la plus thématique et la plus pertinente pour étudier précisément le concept de l'espoir dans mon travail.
+                </p>
+              </div>
+
             </div>
           </div>
 
@@ -172,12 +220,13 @@
               </p>
             </div>
           </div>
+
         </div>
       </div>
     </section>
 
     <footer class="footer has-text-centered">
-        <p style="color: var(--accent-blue); opacity: 0.7;"><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+        <p style="color: var(--accent-blue); opacity: 0.7;"><strong>Projet PPE</strong> - Master 1 TAL - 2025-2026</p>
     </footer>
 
 </body>

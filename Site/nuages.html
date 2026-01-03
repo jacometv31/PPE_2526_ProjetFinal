@@ -13,44 +13,18 @@
         }
 
         body {
-            /* Arrière-plan avec une image de vrais nuages */
             background: url('https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?q=80&w=2000&auto=format&fit=crop') no-repeat center center fixed;
             background-size: cover;
             min-height: 100vh;
             font-family: 'Segoe UI', Roboto, sans-serif;
         }
 
-        /* --- EFFET HALO DERRIÈRE ESPOIR --- */
         .hero {
-            background: rgba(255, 255, 255, 0.1) !important; /* Léger voile pour la lisibilité */
+            background: rgba(255, 255, 255, 0.1) !important;
             backdrop-filter: blur(3px);
             position: relative;
             overflow: hidden;
             padding: 4rem 0;
-        }
-
-        .title-container {
-            position: relative;
-            display: inline-block;
-        }
-
-        .title-container::before {
-            content: "";
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 150%;
-            height: 150%;
-            background: radial-gradient(circle, rgba(255,255,255,0.9) 0%, rgba(59, 130, 246, 0.4) 40%, transparent 70%);
-            filter: blur(25px);
-            z-index: 1;
-            animation: glowPulse 5s infinite ease-in-out;
-        }
-
-        @keyframes glowPulse {
-            0%, 100% { opacity: 0.5; transform: translate(-50%, -50%) scale(1); }
-            50% { opacity: 1; transform: translate(-50%, -50%) scale(1.1); }
         }
 
         .hero .title {
@@ -59,23 +33,14 @@
             text-transform: uppercase;
             font-weight: 900;
             color: var(--accent-blue);
-            position: relative;
-            z-index: 2;
-            animation: titleFloat 4s ease-in-out infinite;
+            text-align: center;
         }
 
-        @keyframes titleFloat {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-        }
-
-        /* Navbar Glassmorphism */
         .navbar.is-link {
             background-color: rgba(30, 58, 138, 0.85) !important;
             backdrop-filter: blur(10px);
         }
 
-        /* Boîtes pour les nuages de mots */
         .box {
             background: rgba(255, 255, 255, 0.75) !important;
             backdrop-filter: blur(10px);
@@ -84,10 +49,13 @@
             box-shadow: 0 10px 30px rgba(0,0,0,0.1);
             text-align: center;
             transition: transform 0.3s ease;
+            height: 100%;
+            cursor: pointer;
         }
 
         .box:hover {
             transform: scale(1.02);
+            background: rgba(255, 255, 255, 0.9) !important;
         }
 
         .cloud-img {
@@ -96,7 +64,7 @@
             background: white;
             padding: 10px;
             margin-top: 1rem;
-            max-height: 300px;
+            max-height: 250px;
             width: auto;
         }
 
@@ -117,37 +85,28 @@
 </head>
 <body>
 
-    <section class="hero is-link">
+    <section class="hero">
       <div class="hero-body has-text-centered">
-        <div class="title-container">
-            <p class="title">ESPOIR</p>
-        </div>
-        <p class="subtitle is-4 mt-4" style="color: var(--accent-blue) !important; font-weight: 600;">
+        <p class="title">ESPOIR</p>
+        <p class="subtitle is-4" style="color: var(--accent-blue); font-weight: 600;">
             Visualisation par Nuages de Mots
         </p>
       </div>
     </section>
 
-    <nav class="navbar is-link" role="navigation" aria-label="main navigation">
+    <nav class="navbar is-link">
       <div class="container">
-        <div class="navbar-menu is-active" style="background: transparent; box-shadow: none;">
+        <div class="navbar-menu is-active" style="background: transparent;">
           <div class="navbar-start">
             <a class="navbar-item" href="../index.html">Accueil</a>
             <a class="navbar-item" href="equipe.html">Qui sommes-nous</a>
             <a class="navbar-item" href="methode.html">Méthode</a>
-            <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-link">Tableaux</a>
-              <div class="navbar-dropdown is-boxed">
-                <a class="navbar-item">Français</a>
-                <a class="navbar-item">Arabe</a>
-                <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Japonais</a>
-              </div>
-            </div>
+            
+            <a class="navbar-item" href="../Partie_Japonais/Page_Tableaux.html">Tableaux</a>
+
             <a class="navbar-item" href="analyse.html">Analyse</a>
             <a class="navbar-item is-active">Nuages de mots</a>
-            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">
-          <span>Conclusion</span>
-        </a>
+            <a class="navbar-item" href="conclusion.html" style="font-weight: bold;">Conclusion</a>
           </div>
         </div>
       </div>
@@ -155,40 +114,47 @@
 
     <section class="section">
       <div class="container">
-        <h1 class="title is-2 has-text-centered mb-6" style="color: var(--accent-blue); text-shadow: 1px 1px 2px white;">
-            Les différents nuages de mots
-        </h1>
+        <h1 class="title is-2 has-text-centered mb-6" style="color: var(--accent-blue);">Les différents nuages de mots</h1>
 
-        <div class="columns is-multiline">
+        <div class="columns is-centered">
+          
           <div class="column is-4">
-            <div class="box">
-              <span class="lang-label">🇫🇷 Français</span>
-              <p>Mots les plus fréquents associés à "Espoir".</p>
-              <img src="chemin_vers_ton_image_fr.png" alt="Nuage Français" class="cloud-img" onerror="this.src='https://via.placeholder.com/300x200?text=Nuage+Français'">
-            </div>
+            <a href="nuage_fr.png" target="_blank">
+                <div class="box">
+                  <span class="lang-label">🇫🇷 Français</span>
+                  <p>Mots fréquents associés à "Espoir".</p>
+                  <img src="nuage_fr.png" alt="Nuage FR" class="cloud-img" onerror="this.src='https://via.placeholder.com/300x200?text=Nuage+FR'">
+                </div>
+            </a>
           </div>
 
           <div class="column is-4">
-            <div class="box" style="border-bottom: 5px solid var(--algeria-green);">
-              <span class="lang-label">🇩🇿 Arabe</span>
-              <p>Mots les plus fréquents associés à "أمل".</p>
-              <img src="chemin_vers_ton_image_ar.png" alt="Nuage Arabe" class="cloud-img" onerror="this.src='https://via.placeholder.com/300x200?text=Nuage+Arabe'">
-            </div>
+            <a href="../Partie_Arabe/pals/wordcloud/arabe.png" target="_blank" title="Cliquez pour voir en grand">
+                <div class="box" style="border-bottom: 5px solid var(--algeria-green);">
+                  <span class="lang-label">🇩🇿 Arabe</span>
+                  <p>Mots fréquents associés à "أمل".</p>
+                  <p class="is-size-7 has-text-info">(Cliquez pour agrandir)</p>
+                  <img src="../Partie_Arabe/pals/wordcloud/arabe.png" alt="Nuage Arabe" class="cloud-img" onerror="this.src='https://via.placeholder.com/300x200?text=Nuage+AR'">
+                </div>
+            </a>
           </div>
 
           <div class="column is-4">
-            <div class="box" style="border-bottom: 5px solid #dc2626;">
-              <span class="lang-label">🇯🇵 Japonais</span>
-              <p>Mots associés à "希望" et "期待".</p>
-              <img src="chemin_vers_ton_image_jp.png" alt="Nuage Japonais" class="cloud-img" onerror="this.src='https://via.placeholder.com/300x200?text=Nuage+Japonais'">
-            </div>
+            <a href="nuage_jp.png" target="_blank">
+                <div class="box" style="border-bottom: 5px solid #dc2626;">
+                  <span class="lang-label">🇯🇵 Japonais</span>
+                  <p>Mots associés à "希望" et "期待".</p>
+                  <img src="nuage_jp.png" alt="Nuage JP" class="cloud-img" onerror="this.src='https://via.placeholder.com/300x200?text=Nuage+JP'">
+                </div>
+            </a>
           </div>
+
         </div>
       </div>
     </section>
 
     <footer class="footer has-text-centered">
-        <p style="color: var(--accent-blue);"><strong>Projet PPE</strong> - Master 1 TAL - 2024-2025</p>
+        <p><strong>Projet PPE</strong> - Master 1 TAL - 2025-2026</p>
     </footer>
 
 </body>
