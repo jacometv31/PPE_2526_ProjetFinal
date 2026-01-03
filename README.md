@@ -9,3 +9,16 @@ pour la langue japonaise.(Vianney)
 J'y ai intégré les tableaux pour la langue japonaise.
 
 #J'ai déployé le site via GitHub pour voir si tout fonctionne correctement.
+
+#  Partie Arabe (ABDERRAHMANE Kaouther):
+
+#  Construction du Corpus Arabe (Mot : أمل - Espoir)
+
+Ma démarche a débuté par une phase de recherche intensive pour sélectionner des URLs arabes pertinentes (50) traitant du concept de l'espoir (أمل). En m'appuyant sur la méthodologie du projet, j'ai conçu un premier script Bash (script_arabe.sh)destiné à automatiser la génération d'un tableau HTML. Ce script devait initialement regrouper les métadonnées essentielles, comme le code HTTP et l'encodage, tout en effectuant les premiers traitements textuels tels que le comptage des occurrences et l'extraction de contextes.
+
+Cependant, les premiers tests ont révélé des erreurs critiques qui empêchaient le bon fonctionnement du processus. Le tableau généré affichait systématiquement des messages de type No such file or directory ainsi que des codes HTTP 000. Après analyse, j'ai compris que ces échecs provenaient de deux lacunes majeures : d'une part, l'absence de création automatique de l'arborescence des dossiers (aspirations/, dumps-text/, etc.) directement dans le script, et d'autre part, le blocage des requêtes curl par certains serveurs. Ces derniers refusaient l'accès car ma commande ne précisait pas d'identifiant de navigateur (User-Agent), rendant toute aspiration ou analyse ultérieure impossible.
+
+Pour stabiliser le traitement et fiabiliser les résultats, j'ai apporté des modifications structurelles importantes à mon script. J'ai d'abord intégré la commande mkdir -p pour garantir que l'environnement de travail et tous les répertoires nécessaires soient prêts avant le lancement de l'aspiration. Ensuite, j'ai configuré curl avec un User-Agent (Mozilla/5.0) afin de simuler une navigation humaine, ce qui a permis de transformer les erreurs en succès (codes 200) pour la quasi-totalité de mon corpus. Enfin, j'ai mis en place un traitement conditionnel pour que les outils linguistiques comme lynx ou grep ne s'exécutent que si le fichier a été correctement téléchargé, évitant ainsi de polluer le tableau avec des messages d'erreur.
+
+Grâce à ces optimisations, j'ai obtenu un tableau final structuré et parfaitement fonctionnel "arabe.html ". Il se compose de 9 colonnes (N°, URL, Code HTTP, Encodage, Occurrences, Aspiration, Dump, Contexte et Concordancier), respectant ainsi scrupuleusement les consignes du projet tout en offrant une interface de navigation fluide pour l'analyse linguistique du mot "espoir" dans le web arabophone.
+
