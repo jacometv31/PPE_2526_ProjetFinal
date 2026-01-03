@@ -22,3 +22,19 @@ Pour stabiliser le traitement et fiabiliser les résultats, j'ai apporté des mo
 
 Grâce à ces optimisations, j'ai obtenu un tableau final structuré et parfaitement fonctionnel "arabe.html ". Il se compose de 9 colonnes (N°, URL, Code HTTP, Encodage, Occurrences, Aspiration, Dump, Contexte et Concordancier), respectant ainsi scrupuleusement les consignes du projet tout en offrant une interface de navigation fluide pour l'analyse linguistique du mot "espoir" dans le web arabophone.
 
+ # Analyse Quantitative et Textométrie (Scripts PALS):
+ 
+#  Préparation du corpus pour PALS
+
+Pour passer à l'analyse statistique, j'ai dû reformater l'ensemble de mon corpus (dumps et contextes) afin de le rendre lisible par les scripts PALS (Python Autonomous Lafon Specificity). J'ai conçu le script make_pals_corpus.sh qui automatise deux tâches essentielles :
+
+L'unification des données: Le script itère sur chaque fichier (1 par URL) pour créer un fichier consolidé unique par langue dans le dossier pals.
+
+La tokenisation : Conformément au format attendu par l'outil, j'ai programmé une segmentation du texte pour obtenir un mot par ligne, tout en nettoyant la ponctuation pour ne pas fausser les calculs de fréquence.
+Exploration statistique et spécificité
+
+Une fois les données préparées, j'ai utilisé l'outil cooccurrents.py pour effectuer une analyse de spécificité de Lafon. Cette méthode mesure la fréquence d'apparition d'un terme dans les contextes du mot pôle (أمل) par rapport à sa fréquence dans le corpus global.
+
+Le résultat obtenu sous forme de tableau TSV (Tab-Separated Values) m'a permis d'identifier les termes les plus significatifs associés à l'espoir. Par exemple, le calcul de l'indice de spécificité a mis en avant des cooccurrents forts, révélant la richesse sémantique du mot dans le web arabophone. Cette étape technique, bien que chronophage, a été indispensable pour passer d'une simple lecture de textes à une véritable analyse scientifique de l'environnement lexical de mon mot cible.
+
+
