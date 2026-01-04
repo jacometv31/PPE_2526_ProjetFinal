@@ -1,147 +1,422 @@
+   #[1]PR TIMES Feed
+
+   [2]プレスリリース・ニュースリリース配信サービスのPR TIMES
+
+   [3]プレスリリースを受信[4]企業登録申請
    (BUTTON)
-   [1]
-   ログイン
-   [2]
-   会員登録
-   見出し画像
-
-エッセイ | 人に期待しないのは悪なのか？
-
-   (BUTTON) (BUTTON) 84
-   [3]やまだくにあき
-   [4]やまだくにあき
-   2025年12月30日 14:18
-
-   人と働くのが本当に向いてない。
-   正確に言うと、特定の目的に向かって短気でやり切るという文化祭みたいな働き方はできる。まだ、できる。けど、じゃあそれを長期間にわたってどこかに向
-   かうのかってのはできない。何度も挑戦したけどこれはもうできない。
-
-   で、もちろん僕だってこのままじゃ嫌だから何度も何度も自問自答と実験をくり返えした。そのうち一つの大きな原因がわかって、それは「人に期待してしま
-   う」だった。彼ならここまでできるだろう、その期待が大きい。いや、大きいと言うよりもむしろ、ここまでできてほしいっていう願いが期待に置き換わって
-   いる。そして願いが叶わないことに疲弊して、チームを作ることを諦める。
-
-   考えてみたらこれは自分と一緒に仕事するときにしてほしい仕事の仕方を設計しているのかもしれない。僕は別にプレイヤーとして優秀ではない。誰かの決め
-   た枠組みの中で仕事をするのが本当に苦手。だからこそ他の人もそうだと思って、大きめの箱庭を作ってそこで遊んでくれと仕事を渡す。そしてうまくいかな
-   い。そんなことの繰り返し。
-
-   これは別に僕がすごいとかではなくて、どういう場面で人が能力を発揮しやすいかってだけの話。わかってる。わかってるけど、できない。
-
-   今の暮らしの中で会う人は、起業家だったりフリーランスだったりと自分で何かを決めて動かしている人たちが多い。こういう人たちと大きめの箱庭でわちゃ
-   わちゃ自分達のおもちゃを持ってきて遊ぶのがとても楽しい。とてもワークする。文化祭。しかもなんかエースが揃った文化祭。至る所で自分の想像もしてな
-   かったものが出来上がってる。楽しい。この楽しさを知ってしまうと、しっかりと道筋を示して、最初の一歩を準備するのがだるくなる。いや、それだけなら
-   まだいい。というかよく考えたらそれはそんなに嫌じゃない。みんながはじめの一歩でつまづくなら、それを退けたいとさえ思う。いやなのは、「一緒にやろ
-   う！」って千の言葉を使って火をつけること。
-
-   火だけついてたらあとは簡単。どんどん薪をくべればいい。勝手に大きくなる。いい人に会ってもらうだけで、チャレンジングな仕事を見せるだけで、リスク
-   を半分持って上げるだけで、いい。勝手にすごくなる。
-
-   おそらく「火をつける」のが上手い人もいるんだろう。その人がいるだけで周りが勝手に発火するようなパイロキネシスばりの熱源が。でも僕はそうじゃない
-   。元々少ない自分の中の火を分け与えて、それが無惨にも消えていくことに心がもう耐えられない。つらい。いやだ。だったら..、である。
-
-   そうして出来上がっているのが2025年のぼく。
-   こうして[5]文章だけで暮らし、その他の仕事はプロジェクトベースで短気的におもしろいことに取り組み続ける。最高だ。それぞれにプロジェクトですご
-   い人に出会い、新しいことを知り、自分の中に変化が起こる。他に望むことは何もない。もう一度言う、最高だ、と。
-
-   ただ…。
-   本当に満足はしているんだけど、どうもそのあたりになんとなく次の考えるべきことがあるような気がしているのでこんなことを改めて書いている。
-
-   最近色々と内省する中で、チームとか組織みたいなものを気にしている自分がいることに気がついた。ある種、痛みからの逃げとしてチームを避けている説。
-   こことかが深掘りするポイント。おそらくこれは当たっているんだろう。小学校のサッカーチームから、マイルドなヤンキーの集まり、編入の友達、大学院、
-   シェアハウス、弁護士時代、アカツキIPO時、西粟倉、このてinc.、瀬戸内VC、それぞれで僕はいろんな痛みを自覚し、味わうことなく刹那に思考の
-   外に追い出し、自己防衛のために蓋をしてきた。この痛みの部分。そりゃあるだろう。はじめて会社をつくったとき、その創業メンバーが全員辞めたのだって
-   、「そりゃそうだよな」って頭ではわかっていても心は苦しかったんだと思う。
-
-   いま改めてこの辺りの痛みを味わうことで、チームとか仲間、みたいなものとの付き合い方が変わるかもしれない。これは期待しないってことじゃない。願い
-   を持たないってことじゃない。存在として、排斥しないって意図決定することが先にある。そのあとどうなるかはまだわからない。
-
-   ビジョンやミッションがあることで組織やチームが作りやすいことはよくわかってる。だからそれらを道具のように利用して仲間集めをするのもまたいいかも
-   しれない。考えなくて良くなると言うのはとても簡単なことだから。
-
-   でも、いまちょっと朧げながら見えてるのは、「場」。物理じゃなくて、概念としての「場」。もしかしたらそれはメディアかもしれない。違うかもしれない
-   。でもなんかそういうもの。「場」に集まることで、ほっとして、少し元気になって、何か生まれて、何か消えて、そういうことが起こる。自然に。
-
-   チームとか組織っていうと、マネジメントって概念の話になりがちだけど、そうじゃなくて、そういう「場」をつぶさに観察するってこと。敬意を持って存在
-   をかけて。そういうチーム作り。2026年はそういうことにこっそりチャレンジするかもしれない。どうなるかわかんないけど。
    (BUTTON)
+     * [5]Top
+     * [6]テクノロジー
+     * [7]モバイル
+     * [8]アプリ
+     * [9]エンタメ
+     * [10]ビューティー
+     * [11]ファッション
+     * [12]ライフスタイル
+     * [13]ビジネス
+     * [14]グルメ
+     * [15]スポーツ
+     * (BUTTON) …
+
+   [16]
+
+   PR TIMESのご利用について
+
+   資料をダウンロード
+   (BUTTON)
+
+   [17]株式会社エフ・ディ・シィ・プロダクツ
+   [18]会社概要
+   (BUTTON) フォロー
+
+新たな希望と喜びに溢れ、輝かしい新年にふさわしい4℃の「2026 New Year Collection」が登場
+
+2025年12月26日（金）より全国の４℃店舗および公式オンラインショップにて販売
+
+   [19]
+
+   株式会社エフ・ディ・シィ・プロダクツ
+   2025年12月26日 10時00分
+   (BUTTON) いいね！数を読み込み中です
+   (BUTTON) (BUTTON)
+   (BUTTON)
+
+
+   　株式会社エフ・ディ・シィ・プロダクツ(所在：東京都品川区
+   代表取締役社長：岡藤一朗)が展開するジュエリーブランド「4℃」は、新しい年のはじまりに、輝きを願う「2026 New Year
+   Collection」を2025年12月26日(金)より全国の４℃店舗および公式オンラインショップにて販売を開始いたします。
+   [19046-423-648fa3a1165c0c0f92b5e44fb9b8c2f7-2000x1300.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+
+   　朝日がゆっくりと地平を照らしはじめる瞬間、希望を抱きながら、新しい一歩を踏み出します。“努力が実を結ぶ”とされるガーネットと、“幸運を呼ぶ”
+   とされる馬蹄モチーフに願いを託したジュエリー。
+
+   　一年のはじまりにふさわしい、気品とあたたかみを備えたデザインは、そっと身に着ける人の背中を押し、日常の中に静かな決意を灯します。大切な人への
+   贈りものとしても、自分自身への新たな誓いとしても、2026年の幕開けに寄り添う特別なコレクションです。選ぶ時間も、身につける時間も、誰かに見せ
+   たくなるような「新しい自分」と出会えるひとときを。
+
+
+   ■新しい年に、希望の色を纏って
+   [19046-423-e84ebb291146faae1be38a9edf5f9b4a-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-8674fd2fa360ce5363a1813c58fc1ce4-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-8b24fcff6c5d9438fa9fe3d9f3fb719f-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+
+   [19046-423-414822bfe1bd0f33ad7e19747a7df02b-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-6a127044ddfb9d18d29b0e7362ca8e18-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-5e21c08c789aac754f28605687ccd879-850x498.jpg?width=1950&amp;
+   height=1350&amp;quality=85&amp;format=jpeg&amp;auto=webp&amp;fit=bounds
+   &amp;bg-color=fff]
+
+   From Left
+
+   SV950(PGc) Necklace / Garnet / Topaz \26,400
+
+   K10PG Necklace / Topaz / Garnet \33,000
+
+   SV950(PGc) Necklace / Topaz / Garnet \17,600
+
+   SV950(PGc) Bracelet / Garnet / Topaz \17,600
+
+   SV950(PGc) Ring Set / Garnet / Topaz \29,700
+
+   　1月の朝焼けのように澄んだ光をまとった、限定ジュエリーコレクション。年のはじめ、願いや抱負を心に灯すように、シンボリックな「ガーネット」と「
+   馬蹄の石座」をモチーフにしたデザインが寄り添います。ガーネットは“実り”や“前進”を象徴する石。新たな挑戦に向かう人の背中をそっと押す、お守り
+   のような存在です。さりげなく添えられた“馬蹄”の石座は幸運を招くといわれるモチーフ。これからの自分を見守る優しさが込められています。年末年始と
+   いう特別な節目だからこそ、大切な人への贈り物にも、自分自身へのご褒美にもぴったり。気持ち新たに、一歩踏み出す“あなたらしい一年”の始まりに、そ
+   っと寄り添うジュエリーです。
+
+
+   ■振り返るたび、優しさが宿る
+   [19046-423-23d0378d37180363eeb5d4a0b3187a02-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-802e740de2df1fd2d67d4362d5b8f3eb-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+
+   From Left
+
+   K10PG Necklace / Rhodolite Garnet \39,600
+
+   K10PG Pierced Earrings / Rhodolite Garnet \26,400
+
+   　年の瀬が近づくと、ふと立ち止まりたくなる。たくさんの出来事が過ぎていった日々を胸の奥でゆっくり撫でるように、新しい年にそっと願いを託したくな
+   る––そんな季節に寄り添うコレクションです。ロードライトガーネットのほのかな赤みは、寒空の下でも心をあたためてくれるような、どこか懐かしくてや
+   さしい色。その深い輝きに“実り”や“希望”の意味を宿して、歩いてきた道を祝福し、これからの時間へと背中を押してくれます。新年の扉を開くその瞬間
+   、あなたの手元や胸もとに、そっと寄り添う願いがありますように。
+
+
+   ■水の流れが運んでくれる願い
+
+   [19046-423-41ecc89253a057e6405b7b00688bc1e2-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-b5bf2119fd6b82a93fc7cf661ef52342-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-4d8fe49bd916ef645fe724491190928c-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-10e8c1697b1ec1328111f91698b4c7af-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-1de5474eb83d16884d0287834511f9fb-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-88f247568052350f532942d8d6903867-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+
+   From Left
+
+   SV950(PTc) Necklace / Topaz \27,500
+
+   K10PG Necklace / Diamond \39,600
+
+   SV950(PTc) Pierced Earrings / Topaz \25,300
+
+   SV950(PTc) Pierced Earrings / Topaz \27,500
+
+   SV950(PTc) Ear Cuff / Topaz \16,500
+
+   SV950(PTc) Ring / Topaz \25,300
+
+   　一年のはじまり。それは、新しい風が胸に吹き込むような、不思議な静けさと決意が混じり合う瞬間。そんな一歩目にそっと寄り添うのが、このコレクショ
+   ンです。水のカーブを描くような、しなやかで瑞々しいフォルム。馬蹄のモチーフに“水”のエッセンスを重ね、心の波紋をかたちにしたような優雅な曲線が
+   、穏やかな祈りと希望を映し出します。まるで未来の光を、そっと胸もとに受けとめるようなデザインは、日々を前向きに過ごすためのお守りのよう。ほんの
+   少しの“縁起”を大切にしたくなる新年のはじまりに、あなたらしいしなやかさと凛とした美しさをまとって。
+
+
+   ■静かに贈る、新年のきらめき
+   [19046-423-436a9fc84f3275c8154db27229f1d940-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-dab4a802cf0c04ce513d989c757d7962-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+   [19046-423-f1036b5f91feffee89c3a7ef60907ff2-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+
+   From Left
+
+   K10WG Necklace / Topaz \33,000　※オンラインショップ限定
+
+   SV950(PTc) Necklace / Topaz \17,600　※オンラインショップ限定
+
+   SV950(PTc) Bracelet / Topaz \17,600　※オンラインショップ限定
+
+   　ふと目にとまる、小さなきらめき。人気モデルの形はそのままに素材や配色をひとさじ変えた、EC限定の特別なアレンジアイテムたち。小ぶりながらも確
+   かな存在感が、心の奥の“ときめき”をそっと呼び覚まします。店頭では手に入らない、あなただけの静かなご褒美に。
+
+   ■限定ケース
+   [19046-423-452b7d11aeb9686cc5f54969c37cc7e5-1200x1200.jpg?width=1950&am
+   p;height=1350&amp;quality=85%2C65&amp;format=jpeg&amp;auto=webp&amp;fit
+   =bounds&amp;bg-color=fff]
+
+   　新しい年を迎えるその瞬間に、少しだけ背筋が伸びるような、凛とした気持ちをくれるジュエリーケース。馬具をイメージしたモチーフには、豊かさ・守護
+   ・旅立ちといった意味が宿ります。それはまるでこれからの歩みをそっと見守る、お守りのような存在。手元にもしっくりなじむ、柔らかなマットベージュと
+   ローズカラーの金具が織りなす落ち着いた美しさ。そっと蓋をあければ、深みのある赤茶色が品よくきらめき、お気に入りのジュエリーが、特別な時間へと導
+   いてくれます。新しい年に、大切な人へ、または自分自身へ。この特別なパッケージとともに、想いをこめた贈り物を。
+
+   ※数量限定の為、なくなり次第終了とさせていただきます。
+
+   【４℃公式サイト】
+
+   [20]https://www.fdcp.co.jp/4c-jewelry/special/newyear/?bid=4c-jewelry
+
+   このプレスリリースには、メディア関係者向けの情報があります
+   [21]メディアユーザーログイン既に登録済みの方はこちら
+   [22]メディアユーザー新規登録無料
+
+   メディアユーザー登録を行うと、企業担当者の連絡先や、イベント・記者会見の情報など様々な特記情報を閲覧できます。※内容はプレスリリースにより異な
+   ります。
+
+   すべての画像
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+
+   (BUTTON)
+     __________________________________________________________________
+
+   種類
+          [23]商品サービス
+
+   ビジネスカテゴリ
+          [24]ジュエリー・アクセサリー[25]レディースファッション
+
+   キーワード
+          [26]４℃[27]干支[28]ジュエリー[29]新年[30]New Year
+          Collection[31]リング[32]イヤリング[33]エフ・ディ・シィ・プロダクツ[34]ネックレス[35]ピアス
+
+   位置情報
+          [36]東京都品川区[37]（本社・支社）
+
+   関連リンク
+          [38]https://www.fdcp.co.jp/4c-jewelry/special/newyear/?bid=4c-je
+          welry
+
    ダウンロード
-   (BUTTON)
-   copy
+          [39]プレスリリース添付資料.pdf
 
-いいなと思ったら応援しよう！
+          [40]プレスリリース素材
 
-   やまだくにあき ここまで見てくださるなんて...ありがとうございます！！ ながら聴き用のPodcastはじめました！
-   「かくじかん」で検索してみてください。
-   (BUTTON)
-   チップで応援する
+          このプレスリリース内で使われている画像ファイルがダウンロードできます
 
-この記事が参加している募集
+    1. [41]トップ
+    2. [42]プレスリリース
+    3. [43]株式会社エフ・ディ・シィ・プロダクツ
+    4. 新たな希望と喜びに溢れ、輝かしい新年にふさわしい4℃の「2026 New Year Collection」が登場
 
-   [6]
-   #ウェルビーイングな時間
+会社概要
 
-   6,160件
+   [44]株式会社エフ・ディ・シィ・プロダクツ
 
-   1月23日まで
-     * [7]#エッセイ
-     * [8]#ウェルビーイングな時間
+   18フォロワー
+   (BUTTON) フォロー[45]RSS
 
-   (BUTTON) (BUTTON) 84
-   (BUTTON)
-   (BUTTON)
-   [9]やまだくにあき
-   [10]やまだくにあき
-   (BUTTON)
-   フォロー
-   クリエイターと起業家が好きで、一緒に飛躍できる道をいつも探してます。
-     *
-     *
-     *
-     *
-     *
+   URL
+          [46]http://www.fdcp.co.jp/
 
-     * [11]noteプレミアム
-     * [12]note pro
-     * [13]よくある質問・noteの使い方
-     * [14]プライバシー
-     * [15]クリエイターへのお問い合わせ
-     * [16]フィードバック
-     * [17]ご利用規約
-     * [18]通常ポイント利用特約
-     * [19]加盟店規約
-     * [20]資⾦決済法に基づく表⽰
-     * [21]特商法表記
-     * [22]投資情報の免責事項
+   業種
+          商業（卸売業、小売業）
+
+   本社所在地
+          東京都品川区上大崎2-19-10
+
+   電話番号
+          03-5719-3266
+
+   代表者名
+          岡藤一朗
+
+   上場
+          東証1部
+
+   資本金
+          -
+
+   設立
+          1986年04月
+
+   [47]トレンド情報をイチ早くお届けPR TIMESを友達に追加[48]PR TIMESのご利用について資料をダウンロード
+
+     * [49]会社概要
+     * [50]プライバシーポリシー
+     * [51]利用規約
+
+     * [52]報道関係者からのお問い合わせ
+     * [53]企業様からのお問い合わせ
+     * [54]一般の皆様からのお問い合わせ
+
+   Copyright © PR TIMES Corporation All Rights Reserved.
+
+ニュースリリース配信サービス
+
+     * [55]PR TIMESとは
+     * [56]料金・プラン
+     * [57]プレスリリースを受信したい方へ
+     * [58]プレスリリースを配信したい方へ
+
+レコメンドサービス
+
+     * [59]PR TIMES STORY
+     * [60]動画制作・動画PRならPR TIMES TV
+     * [61]記者発表・イベント配信ならPR TIMES LIVE
+     * [62]PR TIMES MAGAZINE
+     * [63]広報PRの効果測定はWebクリッピング
+     * [64]PR Editor
+     * [65]タスク・プロジェクト管理ならJooto
+     * [66]無料フォーム・FAQならTayori
+     * [67]PR事例ならPR EDGE
+
+PR TIMES公式SNS
+
+     * [68]公式Facebookページ
+     * (BUTTON) Facebookカテゴリ
+     * [69]公式Xページ
+     * (BUTTON) Xカテゴリ
+
+     * [70]会社概要
+     * [71]プライバシーポリシー
+     * [72]コンテンツ基準
+     * [73]利用規約
+     * [74]報道関係者様からのお問い合わせ
+     * [75]企業様からのお問い合わせ
+     * [76]一般の皆様からのお問い合わせ
+
+   Copyright © PR TIMES Corporation All Rights Reserved.
 
 Références
 
    Liens visibles :
-   1. https://note.com/login?redirectPath=
-   2. https://note.com/signup
-   3. https://note.com/kun1aki
-   4. https://note.com/kun1aki
-   5. https://note.com/kun1aki/n/nc910c42a55c6
-   6. https://note.com/contest/ウェルビーイングな時間?f=popular
-   7. https://note.com/hashtag/エッセイ
-   8. https://note.com/hashtag/ウェルビーイングな時間
-   9. https://note.com/kun1aki
-  10. https://note.com/kun1aki
-  11. https://premium.lp-note.com/
-  12. https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
-  13. https://help-note.com/hc/ja
-  14. https://terms.help-note.com/hc/ja/articles/44948981050649
-  15. https://note.com/kun1aki/message
-  16. https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
-  17. https://terms.help-note.com/hc/ja/articles/44943817565465
-  18. https://note.com/terms/paid_point
-  19. https://note.com/terms/seller_creators
-  20. https://note.com/terms/payment_service_act
-  21. https://note.com/kun1aki/terms/specified
-  22. https://note.com/terms/investment_disclaimer
+   1. https://prtimes.jp/index.rdf
+   2. https://prtimes.jp/
+   3. https://prtimes.jp/user_info
+   4. https://prtimes.jp/main/registcorp/form
+   5. https://prtimes.jp/
+   6. https://prtimes.jp/technology/
+   7. https://prtimes.jp/mobile/
+   8. https://prtimes.jp/app/
+   9. https://prtimes.jp/entertainment/
+  10. https://prtimes.jp/beauty/
+  11. https://prtimes.jp/fashion/
+  12. https://prtimes.jp/lifestyle/
+  13. https://prtimes.jp/business/
+  14. https://prtimes.jp/gourmet/
+  15. https://prtimes.jp/sports/
+  16. https://prtimes.jp/common/file/service_guide.pdf
+  17. https://prtimes.jp/main/html/searchrlp/company_id/19046
+  18. https://prtimes.jp/main/html/rd/p/000000423.000019046.html#js-company-information
+  19. https://prtimes.jp/main/html/searchrlp/company_id/19046
+  20. https://www.fdcp.co.jp/4c-jewelry/special/newyear/?bid=4c-jewelry
+  21. https://prtimes.jp/main/action.php?run=html&page=medialogin&company_id=19046&release_id=423&message=releasemediaonly&uri=
+  22. https://prtimes.jp/main/registmedia/form
+  23. https://prtimes.jp/main/html/searchrlp/release_type_id/01/
+  24. https://prtimes.jp/main/html/searchbiscate/busi_cate_id/012/lv2/39/
+  25. https://prtimes.jp/main/html/searchbiscate/busi_cate_id/012/lv2/36/
+  26. https://prtimes.jp/topics/keywords/４℃
+  27. https://prtimes.jp/topics/keywords/干支
+  28. https://prtimes.jp/topics/keywords/ジュエリー
+  29. https://prtimes.jp/topics/keywords/新年
+  30. https://prtimes.jp/topics/keywords/New Year Collection
+  31. https://prtimes.jp/topics/keywords/リング
+  32. https://prtimes.jp/topics/keywords/イヤリング
+  33. https://prtimes.jp/topics/keywords/エフ・ディ・シィ・プロダクツ
+  34. https://prtimes.jp/topics/keywords/ネックレス
+  35. https://prtimes.jp/topics/keywords/ピアス
+  36. https://prtimes.jp/main/html/searchcity/pref_id/13/city_id/13109/
+  37. https://prtimes.jp/main/html/searchloccate/location_cate_id/1/
+  38. https://www.fdcp.co.jp/4c-jewelry/special/newyear/?bid=4c-jewelry
+  39. https://prtimes.jp/a/?c=19046&r=423&f=d19046-423-c7a4392e604f7058636961b95e4df872.pdf
+  40. https://prtimes.jp/im/action.php?run=html&page=releaseimage&company_id=19046&release_id=423
+  41. https://prtimes.jp/
+  42. https://prtimes.jp/main/html/index/pagenum/1
+  43. https://prtimes.jp/main/html/searchrlp/company_id/19046
+  44. https://prtimes.jp/main/html/searchrlp/company_id/19046
+  45. https://prtimes.jp/companyrdf.php?company_id=19046
+  46. http://www.fdcp.co.jp/
+  47. https://line.me/ti/p/@prtimes
+  48. https://prtimes.jp/common/file/service_guide.pdf
+  49. https://prtimes.jp/main/html/company
+  50. https://prtimes.co.jp/policy
+  51. https://prtimes.jp/main/html/kiyaku
+  52. https://tayori.com/form/536e9f54c53fb0fa255e36237e66a8c50e2cd625
+  53. https://tayori.com/form/c5788940efb74672cc13bd2cb1d8587b3f20fcb8
+  54. https://tayori.com/form/81416340de36e393af7b2d7e6e707112d77c06d4
+  55. https://prtimes.jp/service
+  56. https://prtimes.jp/price
+  57. https://prtimes.jp/user_info
+  58. https://prtimes.jp/main/registcorp/form
+  59. https://prtimes.jp/story
+  60. https://prtimes.jp/tv/info_tv?utm_source=prtimes&utm_medium=footer
+  61. https://prtimes.jp/tv/info_live?utm_source=prtimes&utm_medium=footer
+  62. https://prtimes.jp/magazine
+  63. https://prtimes.jp/webclipping/service/
+  64. https://preditor.prtimes.com/?utm_source=prtimes&utm_medium=referral&utm_campaign=240606_prtimes_footer
+  65. https://www.jooto.com/
+  66. https://tayori.com/feature/faq
+  67. https://predge.jp/
+  68. https://www.facebook.com/prtimes.jp
+  69. https://twitter.com/PRTIMES_JP
+  70. https://prtimes.jp/main/html/company
+  71. https://prtimes.co.jp/policy/
+  72. https://tayori.com/faq/89b604344ebb744dbba41f73d4134560c997a743
+  73. https://prtimes.jp/main/html/kiyaku
+  74. https://tayori.com/form/c5788940efb74672cc13bd2cb1d8587b3f20fcb8
+  75. https://tayori.com/form/536e9f54c53fb0fa255e36237e66a8c50e2cd625
+  76. https://tayori.com/form/81416340de36e393af7b2d7e6e707112d77c06d4
 
    Liens cachés :
-  24. https://note.com/
-  25. https://twitter.com/kun1aki
-  26. https://www.facebook.com/kuniaki.yamada
-  27. https://instagram.com/kun1aki
-  28. https://www.youtube.com/@SetouchiStartup
-  29. https://note.com/kun1aki/rss
+  78. https://twitter.com/intent/tweet?text=%E6%96%B0%E3%81%9F%E3%81%AA%E5%B8%8C%E6%9C%9B%E3%81%A8%E5%96%9C%E3%81%B3%E3%81%AB%E6%BA%A2%E3%82%8C%E3%80%81%E8%BC%9D%E3%81%8B%E3%81%97%E3%81%84%E6%96%B0%E5%B9%B4%E3%81%AB%E3%81%B5%E3%81%95%E3%82%8F%E3%81%97%E3%81%844%E2%84%83%E3%81%AE%E3%80%8C2026%20New%20Year%20Collection%E3%80%8D%E3%81%8C%E7%99%BB%E5%A0%B4&url=https%3A%2F%2Fprtimes.jp%2Fmain%2Fhtml%2Frd%2Fp%2F000000423.000019046.html&via=PRTIMES_JP
+  79. https://prtimes.jp/im/action.php?run=html&page=releaseimage&company_id=19046&release_id=423
+  80. https://prtimes.jp/main/html/searchrlp/company_id/19046

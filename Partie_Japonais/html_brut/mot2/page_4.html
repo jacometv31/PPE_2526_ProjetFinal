@@ -151,7 +151,104 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 }
 </style>
 <!-- END: WP Social Bookmarking Light HEAD -->
-    <script src="https://www.idear.co.jp/wp/wp-content/themes/idea_new/js/smartRollover.js"></script>
+		<style type="text/css" id="wp-custom-css">
+			/* --- ここからコピー --- */
+
+/* 画面幅いっぱいに広げるための外枠 */
+.access-sns-full-width {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    background-color: #111111;  /* 背景色：黒 */
+    margin-bottom: -50px;
+    padding: 40px 0;
+    
+    /* 以下を追加：中身を縦並びにして中央に寄せる */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;                  /* SNSとコピーライトの間隔 */
+}
+
+/* SNSエリア（横並び） */
+.access-sns-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* "Follow Us" テキスト */
+.access-sns-label {
+    margin: 0;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1;
+}
+
+/* アイコンリスト */
+.access-sns-list {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+/* アイコン画像 */
+.access-sns-list a img {
+    width: 32px !important;
+    height: 32px !important;
+    object-fit: contain;
+    display: block;
+    margin: 0;
+    border-radius: 4px;
+}
+
+/* コピーライトの文字設定 */
+.access-sns-copyright {
+    margin: 0;                  /* 余白リセット */
+    color: #ffffff;             /* 文字色：少し薄いグレー（白より上品に見えます） */
+    font-size: 11px;            /* 文字サイズ：少し小さめ */
+    font-family: Arial, sans-serif; /* 英語がきれいに見えるフォント */
+    text-align: center;         /* スマホで改行された時用に中央揃え */
+}
+
+/* ID: 165946 のページ（ココロゴトカフェ）のみ、横スクロールを禁止 */
+body.page-id-165946 {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+/* =========================================
+   カフェ青山店ページ（ID: 165946）限定設定
+   ========================================= */
+
+/* 1. レイアウト調整（中央寄せ・幅制限） */
+body.page-id-165946 .booking-calendar-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+/* ↓ 前回のコードでXXXXのままだった箇所を修正しました */
+body.page-id-165946 .reservation-lead {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+body.page-id-165946 .reservation-lead .note {
+    font-size: 0.85rem;
+    color: #888;
+    margin-top: 5px;
+}
+
+		</style>
+		    <script src="https://www.idear.co.jp/wp/wp-content/themes/idea_new/js/smartRollover.js"></script>
     <script src="https://www.idear.co.jp/wp/wp-content/themes/idea_new/js/jquery-1.8.2.min.js"></script>
     <script src="https://www.idear.co.jp/wp/wp-content/themes/idea_new/js/jquery.carouFredSel-6.2.1-packed.js"></script>
         

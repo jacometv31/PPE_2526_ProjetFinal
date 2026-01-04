@@ -1,248 +1,487 @@
-   #[1]新しい思考へ [2]しゃがんでみて見えるもの [3]alternate [4]alternate
+   #[1]alternate
 
-[5]特定非営利活動法人 豊心会
+   [2]新着
+   業界
+   [3]製造業 [4]銀行・証券・金融
+   [5]保険 [6]建設・不動産
+   [7]コンサル・士業 [8]商社
+   [9]運輸・物流 [10]IT・通信
+   [11]AI・テクノロジー [12]エネルギー
+   [13]医療・製薬 [14]食品・農業
+   [15]小売・外食 [16]サービス・エンタメ
+   [17]メディア・広告 [18]スタートアップ・新規事業
+   [19]教育 [20]財閥・学閥
+   [21]予測・分析
+   学び
+   [22]経営・戦略 [23]マネジメント
+   [24]ビジネス課題 [25]ビジネススキル
+   [26]営業・マーケティング [27]マネー・投資
+   [28]相続・節税 [29]年金
+   [30]キャリア・働き方 [31]受験・子育て
+   [32]教養
+   [33]特集 [34]書籍
 
-     *
-     * _______________________________ 検索
-     * [6]お問い合わせ
+   [ ]
+   ____________________ Submit
+   [35]ログイン [36]会員登録
 
-     * [7]私たちについて
-          + [8]ごあいさつ
-          + [9]法人概要
-          + [10]沿革
-          + [11]未来への伝言
-     * [12]事業案内
-     * [13]事業所案内
-          + [14]つくし居宅介護支援事業所
-          + [15]つくしホームヘルプサービス
-          + [16]つくしデイサービス
-          + [17]つくしデイサービス歩
-          + [18]つくしデイサービス紡
-          + [19]グループホームすずらん
-          + [20]グループホームすずらん日向
-          + [21]グループホームすずらん紡
-          + [22]グループホームすずらんあかり
-     * [23]豊心会の取り組み
-          + [24]地域・社会と共に
-          + [25]海外での教育機関設立
-          + [26]これまでの取り組み
-     * [27]採用情報
-          + [28]メッセージ
-          + [29]インタビュー
-          + [30]人材育成
-          + [31]募集要項
-     * [32]お知らせ
+                 期待値を制する者は人生を制する
 
-     *
+   [37]加地太祐: 経営者、陽明学者
 
-        私たちについて
+   [38]成功する人の考え方
 
-               o [33]私たちについてINDEX
-               o [34]ごあいさつ
-               o [35]法人概要
-               o [36]沿革
-               o [37]未来への伝言
+   2016年1月7日 5:03
 
-     * [38]事業案内
-     *
+   [ ]
+   記事をクリップ
+   URLをコピー
+   記事を印刷
+   Xでシェア
+   Facebookでシェア
+   はてなブックマークでシェア
+   LINEでシェア
+   noteでシェア
 
-        事業所案内
+   新年を迎えて「今年こそは人生を変えたい」「夢を実現したい」と思う人は多い。しかし、一体どれだけの人がその実現に向け努力しているだろうか。現役の
+   経営者で陽明学者の加地太祐氏は、「成功するためには、何より実践が大事」と説く。本連載では、そんな加地氏の初の著書『[39]成功する人の考え方』
+   （ダイヤモンド社より1月16日に発売予定）の内容をベースに、これまでの人生を変えて、成功をたぐり寄せるためのポイントをお伝えしていく。一生懸命
+   やってもなかなか成果が上がらない、認めてもらえないという人は、一度、上司の期待値について考えてみよう。
 
-               o [39]事業所案内INDEX
-               o [40]つくし居宅介護支援事業所
-               o [41]つくしホームヘルプサービス
-               o [42]つくしデイサービス
-               o [43]つくしデイサービス歩
-               o [44]つくしデイサービス紡
-               o [45]グループホームすずらん
-               o [46]グループホームすずらん日向
-               o [47]グループホームすずらん紡
-               o [48]グループホームすずらんあかり
+相手の期待値を考えているか？
 
-     *
+    どんなことでも相手の期待値を超える働きができれば、成功する人としてのチケットを手に入れたのも同然だ。
 
-        豊心会の取り組み
+    それはお客様や上司だけではなく、家族や子ども達に対しても同様で、常に期待値を意識し、期待を越えることが重要だ。
 
-               o [49]豊心会の取り組みINDEX
-               o [50]地域・社会と共に
-               o [51]海外での教育機関設立
-               o [52]これまでの取り組み
+    そんな考え方を、僕らは持つ必要がある。
 
-     *
+    世間を見渡してみると、一生懸命努力しているのになぜか成果が上がらないという人も沢山いるが、僕の友人もそのひとりだった。
 
-        採用情報
+    彼は広告代理店に就職し、勤務態度も真面目だったが、ある悩みを抱えていた。
 
-               o [53]採用情報INDEX
-               o [54]メッセージ
-               o [55]インタビュー
-               o [56]人材育成
-               o [57]募集要項
+    それは「いつも上司に叱られる」という悩みだった。
 
-     * [58]お知らせ
-     * [59]お問い合わせ
+    彼は相談に来た際に、こんなことを言っていた。
 
-   _______________________________ Submit
+   「どれだけ一生懸命やっても仕事の成果が上がらなくて叱られてしまいます。僕は上司に嫌われているのでしょうか？」
 
-   メニュー
+    詳しく聞いてみると、彼は上司から営業先へのプレゼン資料の作成を頼まれたようだった。
 
-     *
-     * [60]私たちについて
-     * [61]未来への伝言～統括のまちぽい話～
-     * 期待と信頼
+   「僕は一生懸命努力して資料を提出したんです。でも、上司は全然喜んでくれなかった」
 
-Blog未来への伝言～統括のまちぽい話～
+    彼の仕事に対する熱意は確かに本物だった。しかし、ある視点が欠如していることに彼は気がつかなかった。
 
-          2021.05.04
+    それは「上司が期待する値」だった。
 
-期待と信頼
+    彼の努力は本当だ。
 
-   5月になり、当法人も人事異動や新採用職員採用で慌ただしい日々を過ごしています。新型コロナという感染症とも対峙しなくてはならなく、この仕事の役割
-   を考える日々が多くなります。人がいて成り立つ仕事、人の成長がサービスに直結する仕事と考えると職員には、期待と信頼を常に持ち合わせなければならな
-   いと思います。しかし、この期待と信頼を自分のような不器用な人は、職員に過度なものを背負わせてしまうのだろうと思う時があります。
+    しかし、上司が望む期待値を一切考えず、自分の物差しで仕事に取り組んでいたのだ。
 
-   期待をするから、よりよくを追求する色々言ってしまう。そうすると期待されているではなく、否定されていると感じ取ってしまう。信頼して任せた時に、結
-   果が共わなかった時には、アドバイスが少ないと不信が生まれてしまう時がある。そうすれば、ボタンの掛け違いが大きくなり、元に戻れない時があると思う
-   。
+期待値は未来に大きく影響する
 
-   今は、その時の話しか、聞かずに目の前のことをクリアするという気持ち強くなり、小言のようになってしまったり、放任していたほうが楽だというこちら側
-   の気持ちが強くなってしまう時もあると思う。
+    例えば、キミが大好きな彼女とデートするとしよう。
 
-   よりよくを追求する未来への前進、一方でよりよくではなく、今一生懸命やっているんだからいいだろうという現在の確認、どちらも正しいとは思うが、この
-   考える仕事としての価値を続けていきたいとは思う。
+    彼女は、必ずキミに何かを期待しているはずだ。
 
-   今を認めて、先に進むことなのか、今はわからないけど、先に進んで結果を実感するのか。多分、今は、前者なのだと思う。しかし、この仕事の結果は、亡く
-   なったた時、自分たちのサービスから利用者が離れていった時に、結果は見えるのだと思う。そして、謙虚に振り返ることができるのだろうと思う。ずっと利
-   用者の関係も続き、今、考えなくても後からで、いいかでは、利用者の生活は待ってくれないと思う。
+   「どんなレストランに連れて行ってくれるのかな？」
+   「どんな話で盛り上げてくれるのかしら？」
 
-   「期待するからごせやける」相田みつをの言葉の意味を深さを考え、期待するなという事ではなく、その人の今の姿をしっかりと見つめてあげなさいという意
-   味と解釈すると、その人を見ずに、こちらの言い分ばかりを押し付けていたのかもしれないと思う今日この頃でした。
-     *
-     *
-     *
+    彼女の心の中は、キミに対する期待で一杯なのだ。
 
-   [62]一覧に戻る
+    もちろん、高価なプレゼントをしないさいと言っているのではない。
 
-カテゴリー
+    大切なことは「彼女の期待を越える」ということなのだ。
 
-     * [63]お知らせ (1)
-     * [64]コミュニケーション (1)
-     * [65]学び (10)
-     * [66]気づき (13)
+    キミがどれだけ努力しても彼女の期待を下回ればガッカリされるし、上回れば2人はとても幸せな時間を過ごせるだろう。
 
-月別アーカイブ
+    期待値とは、それほど未来に影響を与えるのだ。
 
-   [月別アーカイブを選択��カイブを選択]
+この世界はすべて期待値で動いている
 
-記事検索
+    今回の話は、僕らに違う側面でも学びを与えてくれる。
 
-   _______________________________ Submit
+    それは上司の叱り方である。
 
-PROFILE
+    どんな人間でも部下のつくるプレゼン内容が自分の期待以下だった場合、叱りたくもなるだろう。
 
-   Hashimoto Yoshihiro
-          長年介護の現場に立ち、多くの介護者・サポーターを育成してきた副理事長 橋本が、介護の仕事や日々の気づきを発信します。
+    しかし、期待値の説明を一切せずに叱ってはいけない。
 
-          〒962-0822 福島県須賀川市東作18-3
-          特定非営利活動法人 豊心会
-          TEL：0248-72-0301　FAX：0248-72-0309
+    成功する上司は部下を叱責するとき、必ず自分の期待値がどうであったかを伝える。
 
-     *
+    なぜなら期待値を理解してない部下は、努力したのに叱られたと思うからだ。
 
-     * [67]私たちについて
-     * [68]事業案内
-     * [69]事業所案内
-     * [70]豊心会の取り組み
+    僕らの世界は、すべて期待値によって動いていると言っても過言ではない。
 
-     * [71]採用情報
-     * [72]お問い合わせ
-     * [73]豊心会からのお知らせ
+    恋愛や仕事、お客様の心に至るまで、すべて期待値によって形成されている。
 
-     * [74]個人情報保護方針
-     * [75]サイトマップ
-     * Copyright © HOUSHINKAI, All rights reserved.
+    成功する人とは、相手の期待値を理解し、自分の期待値を相手に伝えられる人のことだ。
+
+   加地太祐（かじ・たいすけ）
+   1976年大阪生まれ。株式会社ａｉｍ代表取締役。
+   阪南大学高等学校中退後、溶接工に。その後、サラリーマンになり英会話スクールに通うが、1年後の2004年に通っていた英会話スクールが倒産。当時の
+   従業員に「給料を数ヵ月もらわぬままオーナーが失踪したので助けてください！」と生徒なのに相談される。月商18万円で家賃支払いが23万円と大赤字な
+   のにもかかわらず、「可哀想だから」と400万円を借金して援助し、サラリーマンを続けながら思いがけずオーナー経営者になる。
+   しかし、3ヶ月で資金がなくなり、助けてと言った従業員も退職。その後、英会話スクールの経営を実弟にまかせるが、1年後に病死する。この人生のどん底
+   のときに安定したサラリーマンを辞め、給料の出ない英会話スクール経営1本に絞る。その後、NOVAが倒産し英会話教師だった外国人失業者があふれた。
+   彼らを黙って見過ごせないと、生徒が増えたわけでもないのに日払いで外国人を雇う。この行動が新聞に紹介され、それがもとで生徒数が飛躍的に増え、以後
+   、順調に業績を伸ばす。
+   2015年2月6日、交通事故に合い5日間意識不明に。6日目に目覚めたとき、「このまま死んだら僕はこの世界に何も残していないことになる」と愕然と
+   する。
+   それがきっかけで、スタッフや愛する娘たちに残せるのは「言葉しかないのだ」と悟り「成功する人の考え方」の連載をスタート。純粋に言葉の力を試すため
+   に
+   名前をふせたままスタートするも幸運にも支持を得て開始8ヶ月で3万いいね！を突破。月間リーチ数250万人の人気ウェブサイトに成長する。年間100
+   0人以上の経営者と対話し、会社経営を行う傍ら、1人でも多くの成功者を世に出したいと、日夜、記事の執筆に精力を注いでいる。山田方谷を学ぶ実践塾「
+   方谷塾」塾頭、陽明学者。
+   所属団体 
+   ・盛和塾＜大阪＞ 世話人。稲盛和夫の経営者塾世話人
+   ・EO Osaka＜Entrepreneur Organization＞
+   理事。アメリカに母体を持つ経営者団体。年商100万ドル以上の経営者が集まる団体
+   成功する人の考え方HP http://ekusia.com/
+   フェイスブックページ  https://www.facebook.com/seikousuru/
+
+
+   ※次回は、1月8日（金）に掲載します。
+
+     __________________________________________________________________
+
+   いますぐ人生を変えたいあなたへ――。
+
+   [40]『成功する人の考え方』
+   絶賛発売中！
+
+   フェイスブックで月間リーチ数250万の人気コラムが書籍になった!
+   ◎人生は平等ではない
+   ◎未来から逆算していまを生きる
+   ◎継続するだけで道は開ける
+   ◎期待値を制する者は人生を制する
+   ◎最大の協力者はキミの内側にいる
+   ◎相手の時間を盗まない
+   etc.
+
+   いますぐ人生を変える45のヒント！
+   四六判並製・208ページ・本体1512円（税込）
+
+   ご購入はこちらから！→ [41]［Amazon.co.jp］ [42]［紀伊國屋書店BookWeb］ [43]［楽天ブックス］
+
+   [44]成功する人の考え方
+   [45]成功する人の考え方
+   加地太祐 著
+   ＜内容紹介＞
+
+   ◎不幸も幸福も、常に自分の心が決める、◎目的から逆算して生きる、◎継続するだけで道は開ける、◎人は、いくつになってもなりたい自分になれる、◎「
+   天地自然の法則」を利用するetc.　今すぐ人生を変える４６のヒント
+   [46]amazonで購入する [47]紀伊國屋書店で購入する [48]書店で購入する
+
+   記事をクリップ
+   URLをコピー
+   記事を印刷
+   Xでシェア
+   Facebookでシェア
+   はてなブックマークでシェア
+   LINEでシェア
+   noteでシェア
+
+   関連記事
+   [49]
+   継続するだけで道はひらける
+   加地太祐
+   継続するだけで道はひらける
+   [50]
+   未来から逆算して今を生きる
+   加地太祐
+   未来から逆算して今を生きる
+   [51]
+   成功する人は、不平等の中に自分の価値を見出す
+   加地太祐
+   成功する人は、不平等の中に自分の価値を見出す
+   [52]
+   失敗がもたらす4つの「効能」
+   出井伸之
+   失敗がもたらす4つの「効能」
+
+   [53]愛読者クラブ
+
+   書籍オンライン 記事ランキング
+   (*) 最新
+   ( ) 昨日
+   ( ) 週間
+   ( ) いいね
+   [54]ランキング一覧
+
+   [55]書籍オンライン
+
+   書籍 週間ランキング
+   [56]
+   DIE WITH ZERO　人生が豊かになりすぎる究極のルール
+   ビル・パーキンス 著/児島 修 訳
+   [57]
+   やりたいことが見つかる 世界の果てのカフェ
+   ジョン・ストレルキー 著/鹿田昌美 訳
+   [58]
+   ウォード博士の驚異の「動物行動学入門」 動物のひみつ
+   アシュリー・ウォード 著/夏目 大 訳
+   [59]
+   アート・オブ・スペンディングマネー
+   モーガン・ハウセル 著/児島 修 訳
+   [60]
+   嫌われる勇気
+   岸見一郎 著/古賀史健 著
+   [61]
+   頭のいい人が話す前に考えていること
+   安達裕哉 著
+   [62]
+   大人も知らない みのまわりの謎大全
+   ネルノダイスキ 著
+   [63]
+   いのちをまもる図鑑
+   池上 彰 監修/今泉忠明 監修/国崎信江 監修/西 竜一 監修/滝乃みわこ 著
+   [64]
+   頭のいい人だけが解ける論理的思考問題
+   野村裕之 著
+   [65]
+   THE WEALTH LADDER 富の階段
+   ニック・マジューリ 著/児島 修 訳
+   (POSデータ調べ、12/14～12/20)
+
+   特集
+   [66]
+   総予測2026
+   [67]
+   みずほ安井のHELP!アメリカ政治経済
+   [68]
+   マンション羅針盤 管理＆売買
+   [69]
+   製薬フロンティア
+
+   あなたにおすすめ
+
+   トレンドウォッチ
+   [70]日本初の火薬製造。化薬技術を起点に【世界的隙間発想】で挑む [71]なぜ低コストでタレントを起用ができる？成功事例5社の戦略とは
+   [72]年間6500円の配当に加え優待制度を拡充した東証上場の優先出資 [73]【内定辞退させない】企業ぐるみで「面接力」を高める秘訣を公開
+   [74]GDPに4855億円貢献！ 知らないと取り残される「TikTok」の現在地
+   [75]一覧を見る
+
+   最新記事
+   [76]
+   ブラックジャックによろしく
+   「未承認の薬は使えないんですか？」日本の薬の“限界”知れば作り笑いしかできないワケ【マンガ】
+   [77]
+   もう悩まない！職場・未解決問題
+   「職場の人間関係が悪化」したとき、二流は「アイツが嫌い」とぼやく…では一流は？
+   [78]
+   これ、買ってよかった！
+   「他のバッグは全く使わなくなりました」無印良品の“めちゃ軽ショルダー”が理想的すぎる！「すごく軽いし、長財布も入る」「スマホをサッと入れられて
+   便利」
+   [79]
+   「超一流」の流儀
+   「クロネコヤマトを創った男」の人を育てる会話術、相手を全て受け入れ"ちょい足し"するすごい作法とは
+   [80]
+   明日なに着てく？
+   「大好きすぎて3本目買いました」ユニクロの“ぽかぽかパンツ”くるぶしまで暖かくて感動した！「冬のテーマパークでも防寒バッチリ」「シルエットが細
+   身で綺麗」
+   [81]最新記事一覧
+
+   [82]DIAMOND SPECIAL一覧 [83]広告企画一覧
+
+   [X] ダイヤモンド・オンラインについて
+   [84]このサイトについて [85]ダイヤモンド・プレミアムについて [86]ダイヤモンド・プレミアム活用ガイド [87]サイト利用規約
+   [88]特定商取引に関する法律に基づく表示 [89]プライバシーポリシー・著作権 [90]よくある質問 [91]広告掲載 [92]お問い合わせ
+   [93]法人導入について
+   [ ] ダイヤモンド社のサイト
+   [94]Diamond Online(English) [95]週刊ダイヤモンド [96]DIAMONDハーバード・ビジネス・レビュー
+   [97]書籍オンライン [98]ザイ・オンライン [99]ザイFX！ [100]ダイヤモンド不動産研究所 [101]DIAMOND
+   Quarterly [102]The Salon [103]HRオンライン [104]クリプトインサイト [105]ダイヤモンド教育ラボ
+   [ ] ダイヤモンド社について
+   [106]ダイヤモンド社TOP [107]会社概要 [108]採用情報 [109]お知らせ
+
+   © DIAMOND, INC.
+
+   ____________________ Submit
+
+   [110]新着記事 [111]特集 [112]書籍 [113]週刊ダイヤモンド [114]ランキング [115]動画
+
+   ジャンル
+   [ ] 業界
+   [116]製造業 [117]銀行・証券・金融 [118]保険 [119]建設・不動産 [120]コンサル・士業 [121]商社
+   [122]運輸・物流 [123]IT・通信 [124]AI・テクノロジー [125]エネルギー [126]医療・製薬 [127]食品・農業
+   [128]小売・外食 [129]サービス・エンタメ [130]メディア・広告 [131]スタートアップ・新規事業 [132]教育
+   [133]財閥・学閥 [134]予測・分析
+   [ ] 学び
+   [135]経営・戦略 [136]マネジメント [137]ビジネス課題 [138]ビジネススキル [139]営業・マーケティング
+   [140]マネー・投資 [141]相続・節税 [142]年金 [143]キャリア・働き方 [144]受験・子育て [145]教養
+   [ ] ライフ
+   [146]社会 [147]健康 [148]福祉・介護 [149]ライフスタイル
+   [ ] 国際・政治・市況
+   [150]国際 [151]政治 [152]マーケットラボ
+
+   [153]ウォール・ストリート・ ジャーナル [154]主要企業一覧
+     __________________________________________________________________
+
+   [155]法人プランの導入
 
 Références
 
    Liens visibles :
-   1. http://houshinkai.jp/blog/94/
-   2. http://houshinkai.jp/blog/99/
-   3. http://houshinkai.jp/wp-json/oembed/1.0/embed?url=http://houshinkai.jp/blog/96/
-   4. http://houshinkai.jp/wp-json/oembed/1.0/embed?url=http://houshinkai.jp/blog/96/&format=xml
-   5. http://houshinkai.jp/
-   6. http://houshinkai.jp/contact/
-   7. http://houshinkai.jp/aboutus/
-   8. http://houshinkai.jp/aboutus/greeting/
-   9. http://houshinkai.jp/aboutus/outline/
-  10. http://houshinkai.jp/aboutus/history/
-  11. http://houshinkai.jp/blog/
-  12. http://houshinkai.jp/service/
-  13. http://houshinkai.jp/office/
-  14. http://houshinkai.jp/office/tsukushi-care/
-  15. http://houshinkai.jp/office/tsukushi-home/
-  16. http://houshinkai.jp/office/tsukushi-ds/
-  17. http://houshinkai.jp/office/tsukushi-ayumi/
-  18. http://houshinkai.jp/office/tsukushi-tsumugi/
-  19. http://houshinkai.jp/office/suzuran/
-  20. http://houshinkai.jp/office/suzuran-hinata/
-  21. http://houshinkai.jp/office/suzuran-tsumugi/
-  22. http://houshinkai.jp/office/suzuran-akari/
-  23. http://houshinkai.jp/effort/
-  24. http://houshinkai.jp/effort/community/
-  25. http://houshinkai.jp/effort/education/
-  26. http://houshinkai.jp/effort/past/
-  27. http://houshinkai.jp/recruit/
-  28. http://houshinkai.jp/recruit/message/
-  29. http://houshinkai.jp/recruit/interview/
-  30. http://houshinkai.jp/recruit/training/
-  31. http://houshinkai.jp/recruit/guideline/
-  32. http://houshinkai.jp/news/
-  33. http://houshinkai.jp/aboutus/
-  34. http://houshinkai.jp/aboutus/greeting/
-  35. http://houshinkai.jp/aboutus/outline/
-  36. http://houshinkai.jp/aboutus/history/
-  37. http://houshinkai.jp/blog/
-  38. http://houshinkai.jp/service/
-  39. http://houshinkai.jp/office/
-  40. http://houshinkai.jp/office/tsukushi-care/
-  41. http://houshinkai.jp/office/tsukushi-home/
-  42. http://houshinkai.jp/office/tsukushi-ds/
-  43. http://houshinkai.jp/office/tsukushi-ayumi/
-  44. http://houshinkai.jp/office/tsukushi-tsumugi/
-  45. http://houshinkai.jp/office/suzuran/
-  46. http://houshinkai.jp/office/suzuran-hinata/
-  47. http://houshinkai.jp/office/suzuran-tsumugi/
-  48. http://houshinkai.jp/office/suzuran-akari/
-  49. http://houshinkai.jp/effort/
-  50. http://houshinkai.jp/effort/community/
-  51. http://houshinkai.jp/effort/education/
-  52. http://houshinkai.jp/effort/past/
-  53. http://houshinkai.jp/recruit/
-  54. http://houshinkai.jp/recruit/message/
-  55. http://houshinkai.jp/recruit/interview/
-  56. http://houshinkai.jp/recruit/training/
-  57. http://houshinkai.jp/recruit/guideline/
-  58. http://houshinkai.jp/news/
-  59. http://houshinkai.jp/contact/
-  60. http://houshinkai.jp/aboutus/
-  61. http://houshinkai.jp/blog/
-  62. http://houshinkai.jp/blog/
-  63. http://houshinkai.jp/blog/class/news/
-  64. http://houshinkai.jp/blog/class/communication/
-  65. http://houshinkai.jp/blog/class/learn/
-  66. http://houshinkai.jp/blog/class/notice/
-  67. http://houshinkai.jp/aboutus/
-  68. http://houshinkai.jp/service/
-  69. http://houshinkai.jp/office/
-  70. http://houshinkai.jp/effort/
-  71. http://houshinkai.jp/recruit/
-  72. http://houshinkai.jp/contact/
-  73. http://houshinkai.jp/news/
-  74. http://houshinkai.jp/privacy/
-  75. http://houshinkai.jp/sitemap/
+   1. https://diamond.jp/list/feed/rss/dol
+   2. https://diamond.jp/list/latest
+   3. https://diamond.jp/list/theme/製造業
+   4. https://diamond.jp/list/theme/銀行・証券・金融
+   5. https://diamond.jp/list/theme/保険
+   6. https://diamond.jp/list/theme/建設・不動産
+   7. https://diamond.jp/list/theme/コンサル・士業
+   8. https://diamond.jp/list/theme/商社
+   9. https://diamond.jp/list/theme/運輸・物流
+  10. https://diamond.jp/list/theme/IT・通信
+  11. https://diamond.jp/list/theme/AI・テクノロジー
+  12. https://diamond.jp/list/theme/エネルギー
+  13. https://diamond.jp/list/theme/医療・製薬
+  14. https://diamond.jp/list/theme/食品・農業
+  15. https://diamond.jp/list/theme/小売・外食
+  16. https://diamond.jp/list/theme/サービス・エンタメ
+  17. https://diamond.jp/list/theme/メディア・広告
+  18. https://diamond.jp/list/theme/スタートアップ・新規事業
+  19. https://diamond.jp/list/theme/教育
+  20. https://diamond.jp/list/theme/財閥・学閥
+  21. https://diamond.jp/list/theme/予測・分析
+  22. https://diamond.jp/list/management
+  23. https://diamond.jp/list/theme/マネジメント
+  24. https://diamond.jp/list/business-issue
+  25. https://diamond.jp/list/theme/ビジネススキル
+  26. https://diamond.jp/list/theme/営業・マーケティング
+  27. https://diamond.jp/list/theme/マネー・投資
+  28. https://diamond.jp/list/theme/相続・節税
+  29. https://diamond.jp/list/theme/年金
+  30. https://diamond.jp/list/theme/キャリア・働き方
+  31. https://diamond.jp/list/theme/受験・子育て
+  32. https://diamond.jp/list/theme/教養
+  33. https://diamond.jp/list/feature
+  34. https://diamond.jp/list/dolbook
+  35. https://diamond.jp/auth/login
+  36. https://promo.diamond.jp/dol/premium/
+  37. https://diamond.jp/ud/authors/58abbd717765611bd0920400
+  38. https://diamond.jp/category/s-seikousuruhitonokangaekata
+  39. http://www.amazon.co.jp/o/ASIN/4478068348/diamondinc-22/
+  40. http://www.amazon.co.jp/o/ASIN/4478068348/diamondinc-22/
+  41. http://www.amazon.co.jp/o/ASIN/4478068348/diamondinc-22/
+  42. https://www.kinokuniya.co.jp/f/dsg-01-9784478068342
+  43. http://books.rakuten.co.jp/rb/13525178/
+  44. https://www.amazon.co.jp/o/ASIN/4478068348/booksonlinea-22/
+  45. https://www.amazon.co.jp/o/ASIN/4478068348/booksonlinea-22/
+  46. https://www.amazon.co.jp/o/ASIN/4478068348/booksonlinea-22/
+  47. https://www.kinokuniya.co.jp/f/dsg-01-9784478068342
+  48. https://www.amazon.co.jp/o/ASIN/B01AHEL6VK/booksonlinea-22/
+  49. https://diamond.jp/articles/-/83899
+  50. https://diamond.jp/articles/-/83895
+  51. https://diamond.jp/articles/-/83875
+  52. https://diamond.jp/articles/-/83525
+  53. https://rd.diamond.jp/book-member
+  54. https://diamond.jp/list/ranking
+  55. https://rd.diamond.jp/list-books
+  56. https://www.diamond.co.jp/book/9784478109687.html
+  57. https://www.diamond.co.jp/book/9784478122549.html
+  58. https://www.diamond.co.jp/book/9784478116289.html
+  59. https://www.diamond.co.jp/book/9784478123140.html
+  60. https://www.diamond.co.jp/book/9784478025819.html
+  61. https://www.diamond.co.jp/book/9784478116692.html
+  62. https://www.diamond.co.jp/book/9784478117675.html
+  63. https://www.diamond.co.jp/book/9784478119389.html
+  64. https://www.diamond.co.jp/book/9784478119044.html
+  65. https://www.diamond.co.jp/book/9784478121368.html
+  66. https://diamond.jp/list/feature/p-prediction2026
+  67. https://diamond.jp/list/feature/s-helpamerica
+  68. https://diamond.jp/list/feature/p-mansioncompass
+  69. https://diamond.jp/list/feature/p-pharmaceuticalfrontier
+  70. https://diamond.jp/articles/-/375272
+  71. https://diamond.jp/articles/-/378822
+  72. https://diamond.jp/articles/-/379131
+  73. https://diamond.jp/articles/-/367370
+  74. https://diamond.jp/articles/-/378311
+  75. https://diamond.jp/category/plus-cross-media-sub
+  76. https://diamond.jp/articles/-/380050
+  77. https://diamond.jp/articles/-/380669
+  78. https://diamond.jp/articles/-/380489
+  79. https://diamond.jp/articles/-/380740
+  80. https://diamond.jp/articles/-/380752
+  81. https://diamond.jp/list/latest
+  82. https://diamond.jp/category/plus-cross-media
+  83. https://diamond.jp/category/plus-cross-media-sub
+  84. https://diamond.jp/list/info/about
+  85. https://promo.diamond.jp/dol/premium/
+  86. https://promo.diamond.jp/dol/guide/
+  87. https://www.diamond.co.jp/tos/dol.html
+  88. https://www.diamond.co.jp/legal/subscript.html
+  89. https://www.diamond.co.jp/legal/
+  90. https://diamond.jp/list/faq/
+  91. https://adinfo.diamond.jp/
+  92. https://item.diamond.co.jp/contact/#category/D/20/500/form
+  93. https://promo.diamond.jp/houjin/dol/
+  94. https://diamond.jp/list/en
+  95. https://promo.diamond.jp/teikikoudoku/
+  96. https://dhbr.diamond.jp/
+  97. https://diamond.jp/list/books
+  98. https://diamond.jp/zai/
+  99. https://zai.diamond.jp/
+ 100. https://diamond-fudosan.jp/
+ 101. https://diamond.jp/list/quarterly
+ 102. https://www.diamond.co.jp/go/salon/
+ 103. https://diamond.jp/list/sp/jinzai
+ 104. https://diamond.jp/crypto/
+ 105. https://diamond.jp/educate/
+ 106. https://diamond.co.jp/
+ 107. https://www.diamond.co.jp/company/
+ 108. https://www.diamond.co.jp/recruit/
+ 109. https://www.diamond.co.jp/information/index.html
+ 110. https://diamond.jp/list/latest
+ 111. https://diamond.jp/list/feature
+ 112. https://diamond.jp/list/dolbook
+ 113. https://diamond.jp/list/dw
+ 114. https://diamond.jp/list/ranking
+ 115. https://diamond.jp/list/movie
+ 116. https://diamond.jp/list/theme/製造業
+ 117. https://diamond.jp/list/theme/銀行・証券・金融
+ 118. https://diamond.jp/list/theme/保険
+ 119. https://diamond.jp/list/theme/建設・不動産
+ 120. https://diamond.jp/list/theme/コンサル・士業
+ 121. https://diamond.jp/list/theme/商社
+ 122. https://diamond.jp/list/theme/運輸・物流
+ 123. https://diamond.jp/list/theme/IT・通信
+ 124. https://diamond.jp/list/theme/AI・テクノロジー
+ 125. https://diamond.jp/list/theme/エネルギー
+ 126. https://diamond.jp/list/theme/医療・製薬
+ 127. https://diamond.jp/list/theme/食品・農業
+ 128. https://diamond.jp/list/theme/小売・外食
+ 129. https://diamond.jp/list/theme/サービス・エンタメ
+ 130. https://diamond.jp/list/theme/メディア・広告
+ 131. https://diamond.jp/list/theme/スタートアップ・新規事業
+ 132. https://diamond.jp/list/theme/教育
+ 133. https://diamond.jp/list/theme/財閥・学閥
+ 134. https://diamond.jp/list/theme/予測・分析
+ 135. https://diamond.jp/list/management
+ 136. https://diamond.jp/list/theme/マネジメント
+ 137. https://diamond.jp/list/business-issue
+ 138. https://diamond.jp/list/theme/ビジネススキル
+ 139. https://diamond.jp/list/theme/営業・マーケティング
+ 140. https://diamond.jp/list/theme/マネー・投資
+ 141. https://diamond.jp/list/theme/相続・節税
+ 142. https://diamond.jp/list/theme/年金
+ 143. https://diamond.jp/list/theme/キャリア・働き方
+ 144. https://diamond.jp/list/theme/受験・子育て
+ 145. https://diamond.jp/list/theme/教養
+ 146. https://diamond.jp/list/theme/社会
+ 147. https://diamond.jp/list/health
+ 148. https://diamond.jp/list/theme/福祉・介護
+ 149. https://diamond.jp/list/theme/ライフスタイル
+ 150. https://diamond.jp/list/theme/国際
+ 151. https://diamond.jp/list/theme/政治
+ 152. https://diamond.jp/list/market
+ 153. https://diamond.jp/list/wsj
+ 154. https://diamond.jp/list/companies
+ 155. https://promo.diamond.jp/houjin/dol/
 
    Liens cachés :
-  77. http://houshinkai.jp/
-  78. http://www.facebook.com/share.php?u=http://houshinkai.jp/blog/96/
-  79. https://twitter.com/share?url=http://houshinkai.jp/blog/96/&text=%E6%9C%9F%E5%BE%85%E3%81%A8%E4%BF%A1%E9%A0%BC
-  80. https://timeline.line.me/social-plugin/share?url=http://houshinkai.jp/blog/96/
-  81. https://www.facebook.com/houshinkai.jp/
+ 157. https://diamond.jp/
+ 158. https://hb.afl.rakuten.co.jp/hgc/g00q0729.5mrxmd78.g00q0729.5mrxn13e/?pc=https%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13525178%2F
+ 159. https://x.com/dol_editors
+ 160. https://www.facebook.com/DiamondOnline2007
+ 161. https://diamond.jp/list/feed/rss/dol

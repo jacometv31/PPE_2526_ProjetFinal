@@ -1,147 +1,626 @@
-   (BUTTON)
-   [1]
-   ログイン
-   [2]
-   会員登録
-   見出し画像
+   #[1]JSON [2]oEmbed (JSON) [3]oEmbed (XML)
 
-「期待」はしないが、「希望」は持つ
+   [tr?id=478317419873904&ev=PageView&noscript=1]
 
-   (BUTTON) (BUTTON) 49
-   [3]しおうらりょうた
-   [4]しおうらりょうた
-   2020年6月18日 15:25
+   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-N48HHBN
 
-   私がメモしているノートを振り返ってみていたら、数か月前に書いたメモとしてこんな言葉が書かれていた。
+   MENU
 
-     「期待」はするな、「希望」は持て
+     * [5]x
+     * [6]x
+     * [7]facebook
+     * [8]松本山雅Instagram
+     * [9]kissayamaga
+     * [10]松本山雅公式tictok
+     * [11]youtube
+     * [12]line
+     * [13]note
+     * [14]公式オンラインショップ
+     * [15]チケット
 
-   おそらく、何かの記事を見て印象に残ったから書いたのだろう。
-   今回はこの言葉について考えていきたい。
+     * [16]喫茶山雅
+     * [17]ENGLISH
 
-言葉の定義
+   ____________________
+   (BUTTON) 検索
 
-   そもそも「期待」「希望」のそれぞれの意味はどういったものだろうか。
+サイト内メニュー
 
-     「期待」
-     ［名］(スル)あることが実現するだろうと望みをかけて待ち受けること。当てにして心待ちにすること。
-     「希望」
-     ［名］(スル)
-     １ あることの実現をのぞみ願うこと。また、その願い。「みんなの希望を入れる」「入社を希望する」
-     ２ 将来に対する期待。また、明るい見通し。「希望に燃える」「希望を見失う」
-     ３ 文法で、1の意を表す言い方。動詞に、文語では助動詞「たし」「まほし」、口語では助動詞「たい」などを付けて言い表す。
-     　　　　　　　　　　　　　　　　　　　　　　　　　　goo国語辞書より
+     * [18]NEWS
+     * [19]試合・スケジュール
+          + [20]試合日程・結果
+          + [21]スケジュール
+          + [22]トレーニング観戦ルール
+          + [23]順位表
+          + [24]マッチデープログラム
+          + [25]フォトギャラリー
+          + [26]エプソン 松本山雅FC月間MVP
+     * [27]観戦・チケット
+          + [28]シーズンパス
+          + [29]2025チケット情報
+          + [30]企画チケット
+          + [31]シーズンパス席変更サービス
+          + [32]リセール・譲渡
+          + [33]スタジアムガイド
+          + [34]交通アクセス
+          + [35]バスサポ
+          + [36]スタジアムグルメ
+          + [37]観戦マナー＆ルール
+          + [38]入場・待機列ルール
+          + [39]車イスでご来場の方、障害者手帳をお持ちの方
+          + [40]アウェイサポーターの皆様へ
+          + [41]DAZNで観戦
+          + [42]よくあるご質問（試合観戦について）￼
+          + [43]公式アウェイツアー
+     * [44]クラブ情報
+          + [45]選手・スタッフ
+          + [46]背番号系譜
+          + [47]クラブ概要
+          + [48]年度別入場者数
+          + [49]会社概要
+          + [50]松本山雅ドリームビジョン
+     * [51]グッズ
+          + [52]オンラインショップ
+          + [53]オフィシャルショップ・サテライトショップ
+          + [54]Ｊリーグオンラインストア
+          + [55]ユニフォーム
+     * [56]会員
+          + [57]クラブガンズ会員
+          + [58]育成サポート会員組織「RAZUSO」
+          + [59]山雅後援会
+          + [60]TEAM VAMOS
+          + [61]サポートショップ
+     * [62]ユースアカデミー
+          + [63]ユースアカデミー
+          + [64]サッカークリニック・イベント情報￼
+          + [65]U-18
+          + [66]U-15
+          + [67]レディース
+          + [68]U-15上伊那
+          + [69]U-12
+          + [70]過去の試合日程・結果
+          + [71]セレクション情報
+          + [72]スタッフ紹介
+          + [73]U-18卒業生進路先一覧
+          + [74]各種お手続き
+          + [75]ユースアカデミーお問い合わせ
+     * [76]スクール
+          + [77]サッカースクール
+          + [78]初めての方向けご案内ページ
+          + [79]参加者募集中のサッカークリニック・イベント情報
+          + [80]スペシャルクラス
+          + [81]試合コース
+          + [82]松本校　クラス案内
+          + [83]諏訪校　クラス案内
+          + [84]安曇野校　クラス案内
+          + [85]南信州校　クラス案内
+          + [86]上田校　クラス案内
+          + [87]東信校　クラス案内
+          + [88]塩尻校　クラス案内
+          + [89]上伊那校　クラス案内
+          + [90]松本西校　クラス案内
+          + [91]小坂田校　クラス案内
+          + [92]スクールスタッフ
+          + [93]ウェアについて
+          + [94]スクール費用のご案内
+          + [95]お申込み・各種手続きについて
+          + [96]よくあるご質問
+          + [97]無料体験スクールお問い合わせ
+     * [98]スポーツクラブ
+          + [99]スポーツクラブ
+          + [100]サッカークリニック・イベント情報
+          + [101]スポーツクラブ講師一覧
+          + [102]各種手続きについて
+          + [103]スポーツクラブお問い合わせ
+          + [104]松本山雅 B.F.C.｜ブラインドサッカー
+     * [105]ホームタウン活動
+          + [106]ホームタウン活動
+          + [107]SDGs特設ページ
+          + [108]One Soul, One Heart 特設サイト
+          + [109]「ママサポ」プロジェクト
+          + [110]山雅の気候アクション
+     * [111]パートナー
+          + [112]パートナー 一覧
+          + [113]オフィシャルパートナー募集
+          + [114]サポーティングカンパニー募集
+          + [115]松本山雅支援持株会
+          + [116]松本山雅FC 応援マット
+          + [117]松本山雅FC 支援自動販売機
 
-   「希望」の説明に「期待」と入っているため、ややこしい部分はあるが、私の中では、期待は「する」もので、希望は「持つ」ものだと思っている。
+     * [118]喫茶山雅
+          + [119]喫茶山雅
+          + [120]喫茶山雅本店 営業カレンダー
+          + [121]アクセス
+          + [122]グッズ
+          + [123]喫茶山雅 飯田店
+          + [124]喫茶山雅飯田店 営業カレンダー
+     * [125]お問い合わせ
+          + [126]お問い合わせ
+          + [127]ファンレター
 
-   期待はどちらかというと受動的で他人頼り、希望は能動的で自分次第。
+     * [128]x
+     * [129]x
+     * [130]facebook
+     * [131]松本山雅Instagram
+     * [132]kissayamaga
+     * [133]松本山雅公式tictok
+     * [134]youtube
+     * [135]line
+     * [136]note
+     * [137]公式オンラインショップ
+     * [138]チケット
 
-私のスタンス
+   [139]ENGLISH
 
-   私自身、前まではいい意味で相手に期待する傾向があった。ただ期待した結果、それを裏切られた時の反動が大きいということを実感した。期待を裏切られる
-   のって、相当メンタルがやられるものだ。赤の他人に裏切られるのとはわけが違う。
+                                  ニュース
 
-   そこから少しずつどこか不信になり、全部自分でやった方がいいのではないか、信じられるのは自分だけ、そんなとこまで陥ることもあった。
+   NEWS
 
-   ただそれでは自分がつぶれてしまうことも知った。
+12/20（土）山雅ミュージアム2025「グッズ購入希望者待機列抽選」実施について
 
-   そこから「期待」はしないが、相手に「希望」を持つようになった。
-   相手が何ができるかを考えお願いし、もし思い通りの結果が返ってこなくてもそれは自分の伝え方が悪かっただけ。その分、気持ちは楽になった。
+   2025.12.15
+   クラブ
 
-     「まあ、最後は自分がカバーすればいいか」　
+   12月20日（土）に開催いたします「山雅ミュージアム2025」において、コミュニケーションアプリLINEを利用した「グッズ購入希望者待機列抽選
+   」を実施いたしますので、ご案内いたします。
 
-選択の一つ
+   昨年の山雅ミュージアムに引き続き、真冬の寒空の下で長時間お待ちいただかずともお気軽にご来場いただけるように、事前に入場待機列抽選を実施させてい
+   ただきます。
+   グッズ購入をご希望の方は、下記概要をご確認いただきますよう、よろしくお願いいたします。
+   [140]「山雅ミュージアム2025」の詳細について
 
-   コントローラブルに目を向ける。その選択の一つとして相手に期待をしない、というものがあると思っている。ただ心のどこかで希望は持ち続ける。
+山雅ミュージアム2025「グッズ購入希望者待機列抽選」
 
-   期待しないって、一見ひどい言い方かもしれない。だが直接相手には伝えず、自分のポリシーとして心に置いておくことで、相手も自分も傷つけない結果に落
-   ち着くのではないかと思っている。
+抽選対象者
 
-   だって勝手にこっちが期待して、期待通りじゃなかったから相手を嫌いになるって自分も嫌な気持ちになるし、相手も「いや、知らんし」ってなるから。
-   (BUTTON)
-   ダウンロード
-   (BUTTON)
-   copy
+   12月20日（土）山雅ミュージアム2025 グッズ購入希望者
+     * グッズ購入希望者待機列抽選に参加されない方、待機列整理時間に間に合わなかった方は、予備待機列に順次お並びください。
+     * ひとつの抽選番号で、最大2名様まで一緒にお並びいただけます。
+     * グッズ購入を希望の方は、待機列形成後、前から順に販売所へご案内いたします
 
-いいなと思ったら応援しよう！
+スケジュール
 
-   しおうらりょうた 今後の記事の質向上のための資金として使わせていただきます！
-   (BUTTON)
-   チップで応援する
+1. 「待機列抽選」申込期間
 
-この記事が参加している募集
+   12月16日（火）12:00～12月18日（木）18:00
 
-   [5]
-   #
+2. 抽選番号通知（LINE）
 
-   スキしてみて
+   12月19日（金）12:00以降（予定）
 
-   728,861件
-     * [6]#毎日note
-     * [7]#スキしてみて
-     * [8]#人間関係
-     * [9]#社会
-     * [10]#マインド
-     * [11]#期待
+3. 入場待機列整理
 
-   (BUTTON) (BUTTON) 49
-   (BUTTON)
-   (BUTTON)
-   (BUTTON)
-   [12]しおうらりょうた
-   [13]しおうらりょうた
-   (BUTTON)
-   フォロー
-   1998｜ 柏崎-金沢-東京 | 広報、マーケ、クリエイティブデザインなどなど｜
-   思ったことやこれまでを、ありのままで。｜溜まった言葉の置きどころ。
+   12月20日（土）9:30　＜10:00入場開始＞
+
+お申込方法
+
+   松本山雅FC公式LINEのトーク画面よりご利用可能です。
+   下記より、公式LINEにご登録ください。
+   [141]友だち追加
+
+ご利用方法
+
+    1. トーク画面下部のグッズ購入希望者待機列抽選をタップ
+       （表記が無い場合、メニュー▼をタップすると表記されます）
+    2. 「抽選券を発行する」をタップ
+       申込完了（「申込ありがとうございます」の表示）
+    3. 「抽選券を確認する」をタップ
+       ※12月19日（金）12:00以降（予定）に確認が可能です
+    4. 待機列整理時に順番待ち抽選番号をスタッフに見せる
+       ※（待機列整理）12月20日（土）9:30
+
+待機列整理時
+
+     * 抽選番号順で係員がお呼びしますので、番号が呼ばれましたら指示に従いお並びください。
+     * 抽選番号をお持ちの方を含み最大2名様までお並びいただくことができます。
+     * 列形成終了後は、入場まで列に並んでお待ちください。
+
+待機列整理時の注意事項
+
+     * 列形成時間に間に合わなかった方は、入場予備待機列に順次お並びください。
+     * 列整理時に抽選番号をお呼びして名乗り出ない場合は、欠番と判断させていただき、次の番号をお呼びします。
+     * 後から名乗り出た場合、早い番号のくじをお持ちでも入場待機列の最後尾にお並びいただく場合がございます。
+     * 列形成後に横入りや、知り合いの方を待機列に呼び込み列に並ばせる行為は禁止です。
+     * 上記に記載のない行為でも、不正行為と係員に判断される、またはその疑いがもたれる行為も禁止いたします。
+
+   皆様のモラルある行動をよろしくお願いいたします。
+
+入場待機列抽選システムについて
+
+   「山雅ミュージアム2025入場待機列抽選」は「Lテイクアウト＆オーダー」を利用しております。
+
+   Lテイクアウト＆オーダーは合同会社Oblivionが提供するサービスであり、LINE株式会社およびLINE
+   Pay株式会社のAPIを活用したサービスです。
+
+   Lテイクアウト&オーダー サービスページ
+   [142]https://www.canaly-takeout.com/lp
+
+   合同会社Oblivionホームページ
+   [143]https://www.oblivion.jp/
+     * [144]「箕輪町サッカー協会主催 もみじカップフットサル大会」に出場しました【報告】
      *
-     *
-     *
+     * [145]12/20（土）- 21（日）「山雅ミュージアム2025」の詳細について
 
-     * [14]noteプレミアム
-     * [15]note pro
-     * [16]よくある質問・noteの使い方
-     * [17]プライバシー
-     * [18]クリエイターへのお問い合わせ
-     * [19]フィードバック
-     * [20]ご利用規約
-     * [21]通常ポイント利用特約
-     * [22]加盟店規約
-     * [23]資⾦決済法に基づく表⽰
-     * [24]特商法表記
-     * [25]投資情報の免責事項
+   (BUTTON)
+
+     * [146]試合・スケジュール
+          + [147]試合日程・結果
+          + [148]スケジュール
+          + [149]トレーニング観戦ルール
+          + [150]順位表
+          + [151]マッチデープログラム
+          + [152]フォトギャラリー
+          + [153]エプソン 松本山雅FC月間MVP
+     * [154]観戦・チケット
+          + [155]シーズンパス
+          + [156]2025チケット情報
+          + [157]企画チケット
+          + [158]シーズンパス席変更サービス
+          + [159]リセール・譲渡
+          + [160]スタジアムガイド
+          + [161]交通アクセス
+          + [162]バスサポ
+          + [163]スタジアムグルメ
+          + [164]観戦マナー＆ルール
+          + [165]入場・待機列ルール
+          + [166]車イスでご来場の方、障害者手帳をお持ちの方
+          + [167]アウェイサポーターの皆様へ
+          + [168]DAZNで観戦
+          + [169]よくあるご質問（試合観戦について）￼
+          + [170]公式アウェイツアー
+
+     * [171]クラブ情報
+          + [172]選手・スタッフ
+          + [173]背番号系譜
+          + [174]クラブ概要
+          + [175]年度別入場者数
+          + [176]会社概要
+          + [177]松本山雅ドリームビジョン
+     * [178]グッズ
+          + [179]オンラインショップ
+          + [180]オフィシャルショップ・サテライトショップ
+          + [181]Ｊリーグオンラインストア
+          + [182]ユニフォーム
+     * [183]会員
+          + [184]クラブガンズ会員
+          + [185]育成サポート会員組織「RAZUSO」
+          + [186]山雅後援会
+          + [187]TEAM VAMOS
+          + [188]サポートショップ
+
+     * [189]ユースアカデミー
+          + [190]ユースアカデミー
+          + [191]サッカークリニック・イベント情報￼
+          + [192]U-18
+          + [193]U-15
+          + [194]レディース
+          + [195]U-15上伊那
+          + [196]U-12
+          + [197]過去の試合日程・結果
+          + [198]セレクション情報
+          + [199]スタッフ紹介
+          + [200]U-18卒業生進路先一覧
+          + [201]各種お手続き
+          + [202]ユースアカデミーお問い合わせ
+
+     * [203]スクール
+          + [204]サッカースクール
+          + [205]初めての方向けご案内ページ
+          + [206]参加者募集中のサッカークリニック・イベント情報
+          + [207]スペシャルクラス
+          + [208]試合コース
+          + [209]松本校　クラス案内
+          + [210]諏訪校　クラス案内
+          + [211]安曇野校　クラス案内
+          + [212]南信州校　クラス案内
+          + [213]上田校　クラス案内
+          + [214]東信校　クラス案内
+          + [215]塩尻校　クラス案内
+          + [216]上伊那校　クラス案内
+          + [217]松本西校　クラス案内
+          + [218]小坂田校　クラス案内
+          + [219]スクールスタッフ
+          + [220]ウェアについて
+          + [221]スクール費用のご案内
+          + [222]お申込み・各種手続きについて
+          + [223]よくあるご質問
+          + [224]無料体験スクールお問い合わせ
+
+     * [225]スポーツクラブ
+          + [226]スポーツクラブ
+          + [227]サッカークリニック・イベント情報
+          + [228]スポーツクラブ講師一覧
+          + [229]各種手続きについて
+          + [230]スポーツクラブお問い合わせ
+          + [231]松本山雅 B.F.C.｜ブラインドサッカー
+     * [232]ホームタウン活動
+          + [233]ホームタウン活動
+          + [234]SDGs特設ページ
+          + [235]One Soul, One Heart 特設サイト
+          + [236]「ママサポ」プロジェクト
+          + [237]山雅の気候アクション
+     * [238]パートナー
+          + [239]パートナー 一覧
+          + [240]オフィシャルパートナー募集
+          + [241]サポーティングカンパニー募集
+          + [242]松本山雅支援持株会
+          + [243]松本山雅FC 応援マット
+          + [244]松本山雅FC 支援自動販売機
+     * [245]喫茶山雅
+     * [246]ENGLISH
+
+     * [247]クラブ概要
+     * [248]よくあるご質問
+     * [249]お問い合わせ
+     * [250]プライバシーポリシー
+     * [251]免責事項
+     * [252]メディアの皆様へ
+
+   Matsumoto Yamaga FC
+
+   © 2011 YAMAGA FC All Rights Reserved.
+
+   [253]WEBパートナー 有限会社 イーオフィス
 
 Références
 
    Liens visibles :
-   1. https://note.com/login?redirectPath=
-   2. https://note.com/signup
-   3. https://note.com/ryo_short
-   4. https://note.com/ryo_short
-   5. https://note.com/contest/スキしてみて?f=hot
-   6. https://note.com/hashtag/毎日note
-   7. https://note.com/hashtag/スキしてみて
-   8. https://note.com/hashtag/人間関係
-   9. https://note.com/hashtag/社会
-  10. https://note.com/hashtag/マインド
-  11. https://note.com/hashtag/期待
-  12. https://note.com/ryo_short
-  13. https://note.com/ryo_short
-  14. https://premium.lp-note.com/
-  15. https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
-  16. https://help-note.com/hc/ja
-  17. https://terms.help-note.com/hc/ja/articles/44948981050649
-  18. https://note.com/ryo_short/message
-  19. https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
-  20. https://terms.help-note.com/hc/ja/articles/44943817565465
-  21. https://note.com/terms/paid_point
-  22. https://note.com/terms/seller_creators
-  23. https://note.com/terms/payment_service_act
-  24. https://note.com/ryo_short/terms/specified
-  25. https://note.com/terms/investment_disclaimer
+   1. https://www.yamaga-fc.com/wp-json/wp/v2/posts/519218
+   2. https://www.yamaga-fc.com/wp-json/oembed/1.0/embed?url=https://www.yamaga-fc.com/archives/519218
+   3. https://www.yamaga-fc.com/wp-json/oembed/1.0/embed?url=https://www.yamaga-fc.com/archives/519218&format=xml
+   4. https://www.googletagmanager.com/ns.html?id=GTM-N48HHBN
+   5. https://x.com/yamagafc
+   6. https://x.com/yamagafc_gans
+   7. https://www.facebook.com/matsumotoyamaga
+   8. https://www.instagram.com/matsumoto.yamagafc
+   9. https://www.instagram.com/kissayamaga/
+  10. https://www.tiktok.com/@pryamaga
+  11. https://www.youtube.com/user/yamagachannel
+  12. http://accountpage.line.me/yamaga-fc
+  13. https://note.com/matsumotoyamaga
+  14. http://www.yamaga-onlineshop.com/
+  15. https://www.jleague-ticket.jp/club/yg/top/
+  16. https://www.yamaga-fc.com/kissa-yamaga
+  17. https://www.yamaga-fc.com/en
+  18. https://www.yamaga-fc.com/archives
+  19. https://www.yamaga-fc.com/archives/519218
+  20. https://www.yamaga-fc.com/match/category/2025
+  21. https://www.yamaga-fc.com/schedule/top-team
+  22. https://www.yamaga-fc.com/training-rule
+  23. https://www.yamaga-fc.com/ranking
+  24. https://www.yamaga-fc.com/match/match-day-program
+  25. https://yamaga-premium.com/photogallery
+  26. https://www.yamaga-fc.com/epson-monthly-mvp
+  27. https://www.yamaga-fc.com/archives/519218
+  28. https://sp-yamaga-fc.com/seasonpass/
+  29. https://www.yamaga-fc.com/2025ticket
+  30. https://www.yamaga-fc.com/planning-ticket
+  31. https://www.yamaga-fc.com/seat-change
+  32. https://www.yamaga-fc.com/resale
+  33. https://www.yamaga-fc.com/guide
+  34. https://www.yamaga-fc.com/stadium/access
+  35. https://www.yamaga-fc.com/bus-supporter
+  36. https://www.yamaga-fc.com/gour-win
+  37. https://www.yamaga-fc.com/stadium/manners
+  38. https://www.yamaga-fc.com/stadium/entrance
+  39. https://www.yamaga-fc.com/disabled
+  40. https://www.yamaga-fc.com/stadium/away-supporter
+  41. https://dazn.yamaga-fc.com/
+  42. https://www.yamaga-fc.com/stadium/faq
+  43. https://www.yamaga-fc.com/away-tour
+  44. https://www.yamaga-fc.com/archives/519218
+  45. https://www.yamaga-fc.com/club-info/player
+  46. https://www.yamaga-fc.com/club-info/history
+  47. https://www.yamaga-fc.com/club-info/outline
+  48. https://www.yamaga-fc.com/club-info/attendance
+  49. https://www.yamaga-fc.com/club-info/company
+  50. https://www.yamaga-fc.com/club-info/dreamvision
+  51. https://www.yamaga-fc.com/archives/519218
+  52. https://www.yamaga-onlineshop.com/
+  53. https://www.yamaga-fc.com/shop
+  54. https://store.jleague.jp/club/matsumoto/
+  55. https://sp-yamaga-fc.com/kits2026/
+  56. https://www.yamaga-fc.com/archives/519218
+  57. https://www.yamaga-fc.com/clubgans
+  58. https://www.yamaga-fc.com/razuso
+  59. https://yamaga-kouenkai.com/
+  60. https://yamaga-kouenkai.com/team-vamos
+  61. https://yamaga.town/
+  62. https://www.yamaga-fc.com/academy
+  63. https://www.yamaga-fc.com/academy
+  64. https://www.yamaga-fc.com/event-info
+  65. https://www.yamaga-fc.com/academy/u-18
+  66. https://www.yamaga-fc.com/academy/u-15
+  67. https://www.yamaga-fc.com/academy/ladies
+  68. https://www.yamaga-fc.com/academy/u-15-kamiina
+  69. https://www.yamaga-fc.com/academy/u-12
+  70. https://www.yamaga-fc.com/academy/match
+  71. https://www.yamaga-fc.com/academy/selection
+  72. https://www.yamaga-fc.com/academy/staff
+  73. https://www.yamaga-fc.com/academy/course
+  74. https://www.yamaga-fc.com/academy/procedure
+  75. https://www.yamaga-fc.com/academy/contact-academy
+  76. https://www.yamaga-fc.com/archives/519218
+  77. https://yamaga-sportsclub.com/
+  78. https://yamaga-school.com/
+  79. https://www.yamaga-fc.com/event-info
+  80. https://yamaga-sportsclub.com/soccer-school/special-class
+  81. https://yamaga-sportsclub.com/soccer-school/game-class
+  82. https://yamaga-sportsclub.com/soccer-school/matsumoto
+  83. https://yamaga-sportsclub.com/soccer-school/suwa
+  84. https://yamaga-sportsclub.com/soccer-school/azumino
+  85. https://yamaga-sportsclub.com/soccer-school/minamishinshu
+  86. https://yamaga-sportsclub.com/soccer-school/ueda
+  87. https://yamaga-sportsclub.com/soccer-school/toushin
+  88. https://yamaga-sportsclub.com/soccer-school/shiojiri
+  89. https://yamaga-sportsclub.com/soccer-school/kamiina
+  90. https://yamaga-sportsclub.com/soccer-school/matsumoto-nishi
+  91. https://yamaga-sportsclub.com/soccer-school/osakada
+  92. https://yamaga-sportsclub.com/staff/category/school-staff
+  93. https://yamaga-sportsclub.com/soccer-school/wear
+  94. https://yamaga-sportsclub.com/soccer-school/fee
+  95. https://yamaga-sportsclub.com/procedure
+  96. https://yamaga-sportsclub.com/soccer-school/faq
+  97. https://yamaga-sportsclub.com/school-contact
+  98. https://yamaga-sportsclub.com/
+  99. https://yamaga-sportsclub.com/
+ 100. https://www.yamaga-fc.com/event-info
+ 101. https://yamaga-sportsclub.com/staff/category/club-staff
+ 102. https://yamaga-sportsclub.com/procedure#club
+ 103. https://yamaga-sportsclub.com/sportsclub-contact
+ 104. https://blindsoccer.yamaga-fc.com/
+ 105. https://www.yamaga-fc.com/archives/519218
+ 106. https://www.yamaga-fc.com/home-town
+ 107. https://www.yamaga-fc.com/home-town/sdgs
+ 108. https://oneheart.yamaga-fc.com/
+ 109. https://www.yamaga-fc.com/mamasapo-project
+ 110. https://sp-yamaga-fc.com/sdgs
+ 111. https://www.yamaga-fc.com/archives/519218
+ 112. https://www.yamaga-fc.com/partner
+ 113. https://www.yamaga-fc.com/partner/wanted
+ 114. https://www.yamaga-fc.com/partner/supporting-company
+ 115. https://www.yamaga-fc.com/partner/stock
+ 116. https://www.yamaga-fc.com/partner/mat
+ 117. https://www.yamaga-fc.com/partner/vending-machine
+ 118. https://www.yamaga-fc.com/kissa-yamaga
+ 119. https://www.yamaga-fc.com/kissa-yamaga
+ 120. https://www.yamaga-fc.com/kissa-yamaga/schedule
+ 121. https://www.yamaga-fc.com/kissa-yamaga/kissa-access
+ 122. https://www.yamaga-fc.com/kissa-yamaga/goods
+ 123. https://www.yamaga-fc.com/kissa-yamaga/iida
+ 124. https://www.yamaga-fc.com/kissa-yamaga/iida-schedule
+ 125. https://www.yamaga-fc.com/contact
+ 126. https://www.yamaga-fc.com/contact
+ 127. https://www.yamaga-fc.com/contact/fan-letter
+ 128. https://x.com/yamagafc
+ 129. https://x.com/yamagafc_gans
+ 130. https://www.facebook.com/matsumotoyamaga
+ 131. https://www.instagram.com/matsumoto.yamagafc
+ 132. https://www.instagram.com/kissayamaga/
+ 133. https://www.tiktok.com/@pryamaga
+ 134. https://www.youtube.com/user/yamagachannel
+ 135. http://accountpage.line.me/yamaga-fc
+ 136. https://note.com/matsumotoyamaga
+ 137. http://www.yamaga-onlineshop.com/
+ 138. https://www.jleague-ticket.jp/club/yg/top/
+ 139. https://www.yamaga-fc.com/en
+ 140. https://www.yamaga-fc.com/archives/518944
+ 141. https://lin.ee/cP7hv6D
+ 142. https://www.canaly-takeout.com/lp
+ 143. https://www.oblivion.jp/
+ 144. https://www.yamaga-fc.com/archives/519227
+ 145. https://www.yamaga-fc.com/archives/518944
+ 146. https://www.yamaga-fc.com/archives/519218
+ 147. https://www.yamaga-fc.com/match/category/2025
+ 148. https://www.yamaga-fc.com/schedule/top-team
+ 149. https://www.yamaga-fc.com/training-rule
+ 150. https://www.yamaga-fc.com/ranking
+ 151. https://www.yamaga-fc.com/match/match-day-program
+ 152. https://yamaga-premium.com/photogallery
+ 153. https://www.yamaga-fc.com/epson-monthly-mvp
+ 154. https://www.yamaga-fc.com/archives/519218
+ 155. https://sp-yamaga-fc.com/seasonpass/
+ 156. https://www.yamaga-fc.com/2025ticket
+ 157. https://www.yamaga-fc.com/planning-ticket
+ 158. https://www.yamaga-fc.com/seat-change
+ 159. https://www.yamaga-fc.com/resale
+ 160. https://www.yamaga-fc.com/guide
+ 161. https://www.yamaga-fc.com/stadium/access
+ 162. https://www.yamaga-fc.com/bus-supporter
+ 163. https://www.yamaga-fc.com/gour-win
+ 164. https://www.yamaga-fc.com/stadium/manners
+ 165. https://www.yamaga-fc.com/stadium/entrance
+ 166. https://www.yamaga-fc.com/disabled
+ 167. https://www.yamaga-fc.com/stadium/away-supporter
+ 168. https://dazn.yamaga-fc.com/
+ 169. https://www.yamaga-fc.com/stadium/faq
+ 170. https://www.yamaga-fc.com/away-tour
+ 171. https://www.yamaga-fc.com/archives/519218
+ 172. https://www.yamaga-fc.com/club-info/player
+ 173. https://www.yamaga-fc.com/club-info/history
+ 174. https://www.yamaga-fc.com/club-info/outline
+ 175. https://www.yamaga-fc.com/club-info/attendance
+ 176. https://www.yamaga-fc.com/club-info/company
+ 177. https://www.yamaga-fc.com/club-info/dreamvision
+ 178. https://www.yamaga-fc.com/archives/519218
+ 179. https://www.yamaga-onlineshop.com/
+ 180. https://www.yamaga-fc.com/shop
+ 181. https://store.jleague.jp/club/matsumoto/
+ 182. https://sp-yamaga-fc.com/kits2026/
+ 183. https://www.yamaga-fc.com/archives/519218
+ 184. https://www.yamaga-fc.com/clubgans
+ 185. https://www.yamaga-fc.com/razuso
+ 186. https://yamaga-kouenkai.com/
+ 187. https://yamaga-kouenkai.com/team-vamos
+ 188. https://yamaga.town/
+ 189. https://www.yamaga-fc.com/academy
+ 190. https://www.yamaga-fc.com/academy
+ 191. https://www.yamaga-fc.com/event-info
+ 192. https://www.yamaga-fc.com/academy/u-18
+ 193. https://www.yamaga-fc.com/academy/u-15
+ 194. https://www.yamaga-fc.com/academy/ladies
+ 195. https://www.yamaga-fc.com/academy/u-15-kamiina
+ 196. https://www.yamaga-fc.com/academy/u-12
+ 197. https://www.yamaga-fc.com/academy/match
+ 198. https://www.yamaga-fc.com/academy/selection
+ 199. https://www.yamaga-fc.com/academy/staff
+ 200. https://www.yamaga-fc.com/academy/course
+ 201. https://www.yamaga-fc.com/academy/procedure
+ 202. https://www.yamaga-fc.com/academy/contact-academy
+ 203. https://www.yamaga-fc.com/archives/519218
+ 204. https://yamaga-sportsclub.com/
+ 205. https://yamaga-school.com/
+ 206. https://www.yamaga-fc.com/event-info
+ 207. https://yamaga-sportsclub.com/soccer-school/special-class
+ 208. https://yamaga-sportsclub.com/soccer-school/game-class
+ 209. https://yamaga-sportsclub.com/soccer-school/matsumoto
+ 210. https://yamaga-sportsclub.com/soccer-school/suwa
+ 211. https://yamaga-sportsclub.com/soccer-school/azumino
+ 212. https://yamaga-sportsclub.com/soccer-school/minamishinshu
+ 213. https://yamaga-sportsclub.com/soccer-school/ueda
+ 214. https://yamaga-sportsclub.com/soccer-school/toushin
+ 215. https://yamaga-sportsclub.com/soccer-school/shiojiri
+ 216. https://yamaga-sportsclub.com/soccer-school/kamiina
+ 217. https://yamaga-sportsclub.com/soccer-school/matsumoto-nishi
+ 218. https://yamaga-sportsclub.com/soccer-school/osakada
+ 219. https://yamaga-sportsclub.com/staff/category/school-staff
+ 220. https://yamaga-sportsclub.com/soccer-school/wear
+ 221. https://yamaga-sportsclub.com/soccer-school/fee
+ 222. https://yamaga-sportsclub.com/procedure
+ 223. https://yamaga-sportsclub.com/soccer-school/faq
+ 224. https://yamaga-sportsclub.com/school-contact
+ 225. https://yamaga-sportsclub.com/
+ 226. https://yamaga-sportsclub.com/
+ 227. https://www.yamaga-fc.com/event-info
+ 228. https://yamaga-sportsclub.com/staff/category/club-staff
+ 229. https://yamaga-sportsclub.com/procedure#club
+ 230. https://yamaga-sportsclub.com/sportsclub-contact
+ 231. https://blindsoccer.yamaga-fc.com/
+ 232. https://www.yamaga-fc.com/archives/519218
+ 233. https://www.yamaga-fc.com/home-town
+ 234. https://www.yamaga-fc.com/home-town/sdgs
+ 235. https://oneheart.yamaga-fc.com/
+ 236. https://www.yamaga-fc.com/mamasapo-project
+ 237. https://sp-yamaga-fc.com/sdgs
+ 238. https://www.yamaga-fc.com/archives/519218
+ 239. https://www.yamaga-fc.com/partner
+ 240. https://www.yamaga-fc.com/partner/wanted
+ 241. https://www.yamaga-fc.com/partner/supporting-company
+ 242. https://www.yamaga-fc.com/partner/stock
+ 243. https://www.yamaga-fc.com/partner/mat
+ 244. https://www.yamaga-fc.com/partner/vending-machine
+ 245. https://www.yamaga-fc.com/kissa-yamaga
+ 246. https://www.yamaga-fc.com/en
+ 247. https://www.yamaga-fc.com/club-info/outline
+ 248. https://www.yamaga-fc.com/?page_id=185868
+ 249. https://www.yamaga-fc.com/contact
+ 250. https://www.yamaga-fc.com/privacy
+ 251. https://www.yamaga-fc.com/disclaimer
+ 252. https://www.yamaga-fc.com/archives/13886
+ 253. https://matsumoto-web.jp/
 
    Liens cachés :
-  27. https://note.com/
-  28. https://twitter.com/ryota_s006
-  29. https://www.instagram.com/ryota_s006/?hl=ja
-  30. https://note.com/ryo_short/rss
+ 255. https://www.yamaga-fc.com/club-info/outline#slogan
+ 256. https://www.yamaga-fc.com/
+ 257. https://www.yamaga-fc.com/archives
+ 258. https://www.yamaga-fc.com/archives/519218

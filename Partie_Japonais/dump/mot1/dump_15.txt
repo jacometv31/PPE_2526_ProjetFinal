@@ -1,475 +1,583 @@
-   #[1]株式会社chipper(チッパー) | AIパーソナライズコンテンツで、全ての企業のビジネスを加速させる。 »
-   「期待を超える」ということについて徹底解説 のコメントのフィード [2]alternate [3]alternate [4]alternate
-
-   IFRAME: [5]https://www.googletagmanager.com/ns.html?id=GTM-KCF5JR3
-
-   [6]chipperのロゴ
-     * [7]SERVICE
-     * [8]COMPANY
-     * [9]NEWS
-     * [10]MEDIA
-     * [11]PORTFOLIO
-     * [12]JOIN US
-     * [13]CONTACT
-
-   [14]SERVICE
-   [15]COMPANY
-   [16]NEWS
-   [17]MEDIA
-   [18]PORTFOLIO
-   [19]JOIN US
-   [20]CONTACT
-   ©︎ chipper, Inc.
-
-     * [21]HOME
-
-     [22]MEDIA
-
-「期待を超える」ということについて徹底解説
-
-   2022/05/16
-   この記事はこのような方向けに書いています
-     * 頑張ってるのに全然仕事が片付かない。なんかずっと忙しい…
-     * 「周りの期待を超えろ」と上司によく言われるが、どういうことかわからない…
-     * より高みを目指して仕事がしたい！
-
-
-   (BUTTON) 目次　- Contents -
-    1. [23]そもそも「期待」とは何？
-          + [24]「期待を超える」とはどういうこと？
-          + [25]Tips：「他視点思考」を身につけるにはどうすればいいのか？
-    2. [26]人は何に「期待」をしているのか？
-          + [27]人間の期待の６つのエリア
-    3. [28]「期待を超える」ことに対してのメリットとデメリット
-          + [29]「期待を超える」たった１つのメリット
-          + [30]「期待を超える」たった１つのデメリット
-          + [31]「期待値のインフレ」を避けるコツ
-    4. [32]最後に：２種類の期待値
-
-そもそも「期待」とは何？
-
-   「期待」という言葉を広辞苑で引くと、「将来その事が実現すればいいと、当てにして待ち設けること」このように出ます。
-
-   「期待」は、一般的にはこのような意味で使われることが多いですが、ビジネス上では、もう少し実現性を帯びた使われ方が多いです。
-
-   ビジネス上で使われる「期待」には、大きく2種類あることを覚えておいてください。
-     * 周囲（上司、部下、同僚）からの期待
-     * 自分自身（自分から自分）への期待
-
-   後ほど「自分自身への期待」についても触れますが、一般的な「期待を超える」には、前者の意味で使われることが多いです。
-
-
-「期待を超える」とはどういうこと？
-
-   「期待を超える」をもう少し丁寧に説明すると、
-   「周囲が自分に対して求めていること」に対して「それ以上の行動をし結果を出す」ということです。
-
-   これを実現するためのコアスキルが、一つだけ存在します。
-
-   「周囲が自分に対して求めていること」を的確かつ迅速に把握する能力です。
-
-   当たり前のことのようにも聞こえますが、しっかり理解できてる人はかなり少ないです。
-   ほとんどの人が、自分の視点でしか物事を捉えられていないから、自分が何を求められているのかを的確に把握できていません。
-
-   俗に言う「デキるビジネスパーソン」は、物事を必ず複合的に捉える「他視点思考」が癖ついています。
-   自らが置かれている状況を、あらゆる視点（＝自分、上司、部下、会社、顧客）から常に捉えているため、全体最適の中から自分がやるべきことを、的確に判
-   断することができます
-
-
-Tips：「他視点思考」を身につけるにはどうすればいいのか？
-
-   これを身につけるには常に複数の視点を意識をし続けて癖づけるしかありません。
-   私も何か良い方法がないかと色々と試行錯誤してみましたが、これしかありませんでした。
-
-   ビジネスフレームワークではありませんが、「[33]人狼ゲーム」は非常にうってつけな練習方法になります。
-   「他視点思考」が身に付く観点で人狼ゲームについて簡単に説明すると、
-     * この状況で自分がこういう発言をしたらどう思われるか
-     * 自分は人からどう思われているか
-     * 相手がもし人狼だったらどういう意図でこういう発言をしているか
-
-   を考え続けないといけないゲームになっています。
-   このような読み合い系ボードゲームは、他視点思考スキルを身につけるには非常に良い練習になります。
-
-
-人は何に「期待」をしているのか？
-
-   イメージが湧きやすいよう、二つのケースを例にして話をします。
-
-   まずは、吉野家です。
-   吉野家は「はやい」「うまい」「やすい」をコンセプトにしています。
-
-   はやい：期待以上の速さで料理を提供！
-   うまい：期待以上の旨さで料理を提供！
-   やすい：なのにこの価格！
-
-   という感じですね。
-   （※本記事はあくまでビジネスシーンに向けた記事になっているので、社内コミュニケーションなど必ずしも金額を伴わないこともあるため、今回は「やすい
-   」は省いて解説します。）
-   「はやい」「うまい」は、言い方を変えると「スピード」「クオリティ」です。
-
-   次に、上司から「3日後までに提案資料のたたきをざっくりまとめておいて」という頼みを受けたケースです。
-
-   この指示の時、上司はあなたに対して、「いつまでに」「どの程度のクオリティ」の期待をしているでしょうか？
-   それを考えるための参考として、人間の期待値を図にしてみました。
-
-   この図は、横軸が「スピード」、縦軸が「クオリティ」となっていて、6つのエリアに分かれています。
-   ここから先は、この図を軸に説明していくので、先に6つのエリアについて説明します。
-
-人間の期待の６つのエリア
-
-①感動エリア
-
-   期待以上のスピード・クオリティで資料が納品された時、その行動と結果に対して感動を覚えます。
-   社内の人に感動してもらうと、「上位の役割・仕事」が来ます。
-   社外の人に感動してもらうと、「顧客・案件の紹介」が来ます。
-   ※私が実際に体験したことなので間違いありません。
-
-②実は期待エリア
-
-   「言ってないけどこれぐらいやってくれたらいいなぁ」と思ってるエリアです。
-   依頼者の期待の枠からは超えていないため、感動は与えませんが、社会人としては充分なエリアでしょう。
-
-③速いけどエリア
-
-   スピードを重視したあまり、質がおざなりになっているパターンです。
-   「速いのは良いけど…質が粗いから直さなきゃいけない…」のエリアとなります。
-
-   ただ、多くの上司はこちらの方が良いと考えています
-   たとえミスが多くても、仕事が早いことから、修正する時間に余裕を持てるためです。
-   また、上司も見る時間が取れるかわからないので、ビジネスシーンでは、ケースバイケースではありますが、こちらの方が比較的良いとされることが多いです
-   。
-
-④この辺だよねエリア
-
-   最低限のスピード・クオリティを満たしている状況ですが、「早いけどエリア」より下となります。
-   期日ギリギリの納品では、ミスがあった場合に修正する時間が設けられないため、上司がミスを直すとになり、最悪の場合このまま提出するしかない状況にも
-   なり得るからです。
-
-⑤丁寧だけどエリア
-
-   「丁寧で質も高くて素晴らしいけど…仕事ちょっと遅いよね…」のエリアです。
-   このエリアも、まだ信頼を得られていない時期には、一般的にみて評価されにくい傾向にあります。なぜなら、上司の思考ロジックには「安心したい」という
-   感情があり、提出まではずっと「心が落ち着かない状態」のためです。
-   ヒヤヒヤしてる期間の方が圧倒的に長いため、「ヒヤヒヤした」という記憶が強く残った状態となります。
-   この提出の仕方は、「クオリティが高く、納期も守って仕事をしてくれる」というポジションが確立するまでは、避けた方が堅実でしょう。
-
-⑥超絶論外エリア
-
-   このエリアは社会人以前に、人として論外のエリアです。
-   質は基準値以下（期待以下の思考レベル）で、スピードは定めた期限以下（約束を守らない、守れない）な状態。
-   もし社外だったら、一発で取引停止をされてもおかしくないので、絶対にこのエリアにならないよう気をつけてください。
-
-
-「期待を超える」ことに対してのメリットとデメリット
-
-「期待を超える」たった１つのメリット
-
-   一段上の仕事が舞い込んで来る → 爆速で成長ができる
-
-   期待を超えるメリットはたくさんありますが、集約すると、この一言に尽きます。
-   人間は悪口や陰口が言いたい生き物ですが、同時にあまりに感動を覚えたことは誰かにシェアしたくなる生き物でもあります。
-
-   映画「鬼滅の刃」もそうでした。
-   もちろん原作からファンだった人も多かったと思いますが、煉獄杏寿郎の闘い・生き様に感動した人が周りへシェアをしながら、
-   何度も劇場へ足を運び「千と千尋の神隠し」の記録を大きく更新し、世の中にムーブメントを巻き起こしました。
-
-   同じような事例では、「君の名は。」もそうでした。
-   「新海誠？？」「なんで流行ってんの？？」という低い期待レベルで見に行った人は、映画の紡ぎ出す世界観・ストーリーが一気に収束するカタストロフィ・
-   RADWINPSの音楽との親和性に感動を覚え、友人に勧めたくなったのではないでしょうか？
-
-   人間は「感動」を覚えた時にシェアをしたくなる生き物です。
-
-   口コミなどでシェアをされた結果、その評判はじわじわと広まります。
-   「君の名は。」は事前宣伝がほぼない状態であそこまで話題になったのですから、シェアの重要性がよくわかります。
-
-   期待を超える仕事を続けることで、社内だけではなく果ては社外まで広がります。
-   そして「何かあった時に頼られる人」になります。
-
-「期待を超える」たった１つのデメリット
-
-   ここまで順番に読んでいただいてお気づきの方もいるかと思いますが、期待を超えることは、当然良いことばかりではなくデメリットも存在します。
-
-   メリットとほぼ変わりませんが、期待を超え続ける度にどんどん期待が高くなることです。
-
-   「天気の子」がとても良い例です。
-   内容だけをクローズアップすると「君の名は。」とほぼ同クオリティだったと思います。それでもあれだけのムーブメントに起こらなかったのは、ただただ「
-   期待が高すぎたから」に他なりません。
-
-   期待を超えると、人は更に上を期待するようになります。そうした結果「期待のインフレ」が起こり、いつかそのインフレに対応できなくなる日が来ます。
-
-   期待のインフレに対応できないと「最近なんか微妙だよね」となりかねません。
-   ドラゴンボールでいうところの孫悟飯みたいなもんです。セル編で活躍しすぎてそれ以降パッとしなくなりましたよね。
-   そういった意味で、「期待値のコントロール」は求められる一つのスキルで、コントロールについては別の軸のスキルのため、また別の機会に触れます。
-
-「期待値のインフレ」を避けるコツ
-
-   このデメリットへ対応するために常に、「ジャストゾーン」を狙い続けましょう。
-
-   ここを常に狙い続けると、良い感じで期待を超えられ、感動を与えられるので、上位の仕事も回ってくるようになります。
-
-   速いしクオリティも高く、期待以上でギリギリ感動を与えるラインです。ここを狙って行うのは以上に難しいです。
-   「周囲が自分に対して求めていること」を的確かつ迅速に把握する能力を非常に高い水準で持ち合わせている必要があります。
-
-   つまり、「期待を超え続ける人」とは「周囲が自分に何を求めているか的確に把握できる人」と言い換えることができるかもしれません。
-
-   最初であり最大の難関である他視点思考を行う癖が重要と言えます。
-
-
-最後に：２種類の期待値
-
-   序盤に、期待には２種類あるというお話をしたのを覚えていますでしょうか？
-
-   A.周囲（上司、部下、同僚）からの期待
-   B.自分自身（自分から自分）への期待
-
-   私は、A（周囲からの自分への期待）＜B（自分自身の自分への期待）になるように設定しています。
-   常に「周囲が理想とする自分」は「自分が課したハードル」の枠内に納めるように周囲の期待に合わせて自分の中のハードルを上げ続けるようにしています。
-
-   こうすることで、常に自分の努力は誰よりも高い理想を見据えた物となるので、周囲の期待を下回ることはありません。
-   ＝周囲に常に感動体験を与え続けることができます。
-
-   今回はCOOである私個人の仕事論（こだわり）のアウトプットでしたが、少しでもお役に立てましたら幸いです。
-   また、こういった成長をしたいと思っていただけた人材は、ぜひchipperへの応募をお待ちしております。
-
-   [34]採用ページをみる
-   [35]#MEDIA [36]#キャリア [37]#ビジネス基礎
-   [38]
-   著者
-   西田圭佑
-   新卒でベンチャー企業に入社し、二度の事業立ち上げを自ら計画・実行。その後、EC支援システムを開発する株式会社ネットショップ支援室にて事業部長を
-   務め、EC分野での専門性を磨く。通販エキスパート検定1級を取得。
-   株式会社chipperにCOOとして参画後、全体最適化や既存・新規事業の推進を担当。2024年10月より分社化して株式会社blendsを創業し
-   、代表取締役に就任。現在はblendsを株式会社トリドリグループに統合し、さらなる成長を目指している。   ▼お問い合わせはこちらから
-   [39]株式会社blands
-   関連性の高い記事
-   [40]
-
-   2024/09/13
-
-   CTVRとは？生成AI時代のコンテンツマーケティングにおける重要指標
-   [41]
-
-   2023/03/17
-
-   「EC事業立ち上げ時に考えるべき最強マインドマップ」ダウンロード
-   [42][noimage.jpg]
-
-   2023/02/01
-
-   【事業者向け】Amazonの在庫切れを防ぐ方法！管理から補充までの全てのノウハウ
-   SERVICE
-   CATEGORY
-   [43]
-   # CO:RE
-   [44]
-   # D2C
-   [45]
-   # E-book
-   [46]
-   # Python
-   [47]
-   # SEMINARS
-   [48]
-   # SEO
-   [49]
-   # Shopify
-   [50]
-   # SNS
-   [51]
-   # UXデザイン
-   [52]
-   # イノベーション
-   [53]
-   # キャリア
-   [54]
-   # コンテンツマーケティング
-   [55]
-   # デザイン
-   [56]
-   # ビジネス基礎
-   [57]
-   # ブランディング
-   [58]
-   # マーケティング
-   [59]
-   # 広告運用
-   [60]
-   # 新規事業立ち上げ
-   [61]
-   # 海外
-   [62]
-   # 社員インタビュー
-   [63]
-   # 組織論
-   [64]
-   # 経営
-   [65]
-   # 補助金・助成金
-   [66]
-   # 開発
-   TAG
-   [67]
-   # CTVR
-   [68]
-   # D2C
-   [69]
-   # EC
-   [70]
-   # Instagram
-   [71]
-   # IT導入補助金
-   [72]
-   # SEO
-   [73]
-   # shop pay
-   [74]
-   # shopify
-   [75]
-   # SNS
-   [76]
-   # イノベーション
-   [77]
-   # コンテンツマーケティング
-   [78]
-   # ビジネスモデル
-   [79]
-   # フォロワーシップ
-   [80]
-   # ブランディング
-   [81]
-   # プロジェクトチーム
-   [82]
-   # ものづくり補助金
-   [83]
-   # 事業再構築補助金
-   [84]
-   # 広告
-   [85]
-   # 新規事業立ち上げ
-   [86]
-   # 生成AI
-   [87]
-   # 自社EC
-   [88]
-   # 補助金
-   [89]
-   # 顧客体験
-
-   CTVRマーケティングで成果にコミット
-   [90]chipperのロゴ
-   [91]SERVICE
-   [92]COMPANY
-   [93]NEWS
-   [94]MEDIA
-   [95]PORTFOLIO
-   [96]JOIN US
-   [97]EPN
-   [98]CONTACT
-   Copyright (C) 2024 chipper, Inc. All Rights Reserved.
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-NHFFN59
+
+   [2]福島民友
+     * [3]X
+     * [4]facebook
+     * [5]line
+
+     * みんゆうプラス
+     * [6]ログイン
+       会員登録
+     * [7]line
+       マイページ
+
+   [8]
+
+   FAQ
+
+   検索
+
+   [9]ホーム
+     * [10]ニュース
+       [11]福島ニュース [12]地域ニュース [13]英語ニュース [14]ビジュアルニュース [15]県内選挙日程
+       [16]キーワード一覧
+     * [17]全国・海外
+       [18]主要 [19]政治 [20]経済 [21]国際 [22]スポーツ [23]社会 [24]文化・芸能 [25]科学・環境
+       [26]医療・健康 [27]暮らし・話題
+     * [28]福島スポーツ
+       [29]福島スポーツ
+     * [30]いわきFC
+       [31]トップ [32]試合結果 [33]情報 [34]コラム [35]新戦力 [36]観戦案内 [37]キャンペーン
+     * [38]民友のイベント
+       [39]民友のイベント
+     * [40]くらし・文化
+       [41]イベント・レジャー [42]グルメ [43]カルチャー
+     * [44]特集・連載
+       [45]映画日和 [46]道奥を読む [47]探検ふくしまカンパニー [48]特集・連載 [49]マイストーリー [50]発酵物語
+       [51]空飛ぶカメラ [52]新まち食堂物語 [53]ふくしまのおくりもの [54]歩いて発見！ [55]環境考察 [56]乗り物語
+       [57]ふくしまグルメ帳 [58]ココほれ！ [59]人生100年時代の新健康法 [60]ゆう特 [61]子育て応援隊
+       [62]おすすめレシピ [63]ふくしま日記 [64]音楽人・井上裕治 [65]放射線教室 [66]健康ジャーナル [67]ＴＲＹ
+       [68]物語のステージ [69]おくのほそ道まわり道 [70]朝ドラ・エール [71]エールのＢ面 [72]古関裕而「うた物語」
+       [73]野口英世　医聖を育んだ人々 [74]四字熟語
+     * [75]東日本大震災
+       [76]震災関連 [77]震災特集
+     * [78]社説・編集日記
+       [79]社説 [80]編集日記
+     * [81]おくやみ
+       [82]おくやみ
+     * [83]教育
+       [84]NIE関連記事 [85]NIEワークシート [86]共通テスト追・再試験 [87]福島県教職員人事異動
+     * [88]お知らせ
+       [89]会社概要 [90]創刊130周年 [91]支社支局 [92]採用情報 [93]お問い合わせ [94]サイトポリシー
+       [95]行動計画 [96]福島民友新聞社の本 [97]愛の事業団 [98]「窓」の投稿 [99]広告申し込み [100]後援申請
+       [101]携帯サイト [102]掲載写真サービス [103]公式SNSアカウント
+     * [104]県内の天気
+       [105]中通り [106]浜通り [107]会津
+     * [108]災害情報
+       [109]災害情報
+     * [110]Q&A
+       [111]FAQ（よくあるご質問）
+
+     *
+     * [112]ニュース
+          + [113]福島ニュース
+          + [114]地域ニュース
+          + [115]英語ニュース
+          + [116]ビジュアルニュース
+          + [117]県内選挙日程
+          + [118]キーワード一覧
+     * [119]福島スポーツ
+          + [120]福島スポーツ
+     * [121]いわきFC
+          + [122]試合結果
+          + [123]情報
+          + [124]コラム
+          + [125]新戦力
+          + [126]観戦案内
+          + [127]キャンペーン
+     * [128]民友のイベント
+          + [129]民友のイベント
+     * [130]くらし・文化
+          + [131]イベント・レジャー
+          + [132]グルメ
+          + [133]カルチャー
+     * [134]特集・連載
+          + [135]映画日和
+          + [136]道奥を読む
+          + [137]探検ふくしまカンパニー
+          + [138]マイストーリー
+          + [139]空飛ぶカメラ
+          + [140]新まち食堂物語
+          + [141]ふくしまのおくりもの
+          + [142]歩いて発見！
+          + [143]人生100年時代の新健康法
+          + [144]子育て応援隊
+          + [145]おすすめレシピ
+          + [146]ふくしま日記
+          + [147]音楽人・井上裕治
+          + [148]放射線教室
+     * [149]東日本大震災
+          + [150]震災関連
+          + [151]震災特集
+     * [152]社説・編集日記
+          + [153]社説
+          + [154]編集日記
+     * [155]教育
+          + [156]NIE関連記事
+          + [157]NIEワークシート
+          + [158]共通テスト追・再試験
+          + [159]福島県教職員人事異動
+     * [160]お知らせ
+          + [161]会社概要
+          + [162]創刊130周年
+          + [163]支社支局
+          + [164]採用情報
+          + [165]福島民友新聞社の本
+          + [166]愛の事業団
+          + [167]広告申し込み
+          + [168]後援申請
+          + [169]公式SNSアカウント
+
+   ____________________
+   検索
+     * [170]トップ
+     * [171]ニュース
+     * [172]地域ニュース
+
+巨大だるまに希望の一文字、玄侑宗久さんが書き入れ　１月18日、三春だるま市でお披露目
+
+   2025/12/25 09:15
+
+   希望の一文字を揮毫する玄侑さん
+
+   　三春町の福聚寺住職で芥川賞作家の玄侑宗久さんが考える「希望の一文字」の書き入れが２３日、福聚寺で行われた。来年１月１８日に開かれる三春だるま
+   市でお披露目する。
+
+   　玄侑さんが新しい年への希望や願いを込めた一文字を考え、毎年発表している。厳粛な雰囲気が漂う本堂で、高柴デコ屋敷（郡山市西田町）で制作された特
+   大だるまに一文字を揮毫（きごう）した。今回は、みそぎにより身心が清められ、心が落ち着いた状態を意味する一文字だという。
+
+   　予想１月１１日まで募集　
+
+   　三春まちづくり公社は「希望の一文字」を当てる企画を実施している。応募締め切りは来年１月１１日。ファクスやインターネットの応募フォームなどから
+   。正解者の中から抽選で８人に希望の一文字入りだるまをプレゼントする。問い合わせは同公社観光部（電話０２４７・６２・３６９０）へ。
+     * [173]＃話題
+
+   この記事をSNSで伝える：
+     * [174]X
+     * [175]facebook
+     * [176]line
+
+   [177]新聞購読のご案内 無料おためし申込み
+
+あわせて読みたい
+
+     * [178]激しくもみ合いながら大梵天を取り合う参拝客 ＝３日、本宮市・岩角山岩角寺
+       [179]幸福願い、奪い合う...本宮の岩角山岩角寺で大梵天祭
+       2026/01/04 09:51
+          + [180]＃話題
+     * [181]納豆の出来栄えを確かめる影山さん（左）と土井さん
+       [182]納豆臭さがしない...川俣産大豆にこだわり、生産中止を経て今春発売
+       2026/01/04 10:26
+          + [183]＃話題
+          + [184]＃東日本大震災
+     * [185]幸せを願い仲むつまじく舞う夫婦獅子＝田村市船引町
+       [186]夫婦獅子、仲むつまじく　田村・大鏑矢神社
+       2026/01/03 15:56
+          + [187]＃話題
+          + [188]＃写真ニュース
+     * [189]１年の幸福を願う参拝客＝１日、福島市・福島稲荷神社
+       [190]福島県内、初詣や初売りでにぎわう
+       2026/01/03 08:01
+          + [191]＃話題
+     * [192]請戸の海から昇る初日の出を眺める参加者＝１日、浪江町
+       [193]１年の幸せ願う初日の出　浪江・請戸海岸
+       2026/01/03 07:41
+          + [194]＃話題
+
+   ［PR］ [195]【3/2・3】いわき最大級！155社が集う合同企業説明会開催
+   ［PR］ [196]中小企業の知恵袋あります 税理士法人・三部会計事務所
+   [197]新聞購読案内
+
+アクセスランキング
+
+     * [198]30分
+     * [199]24時間
+     * [200]1週間
+
+     * [201]全国高校サッカー、尚志がベスト4進出
+       2026/01/04 14:00
+     * [202]餅詰まらせ搬送、郡山といわきの高齢男性
+       2026/01/04 07:30
+     * [203]桜井勝延氏、出馬意思固める　南相馬市長選
+       2026/01/03 08:15
+     * [204]商業施設駐車場で女性がはねられ重傷
+       2025/12/30 07:15
+     * [205]尚志、7大会ぶり8強　全国高校サッカー、後半追加タイム決勝弾
+       2026/01/03 07:00
+
+     * [206]東洋大、勢い乗れず15位　箱根駅伝往路、酒井俊幸監督「シード目指す」
+       2026/01/03 07:45
+       有料記事
+     * [207]桜井勝延氏、出馬意思固める　南相馬市長選
+       2026/01/03 08:15
+     * [208]尚志、7大会ぶり8強　全国高校サッカー、後半追加タイム決勝弾
+       2026/01/03 07:00
+     * [209]全国高校サッカー、尚志がベスト4進出
+       2026/01/04 14:00
+     * [210]尚志、きょう準々決勝　帝京長岡と対戦、全国高校サッカー
+       2026/01/04 07:50
+       有料記事
+
+     * [211]福島で住宅１棟全焼
+       2025/12/29 07:30
+     * [212]商業施設駐車場で女性がはねられ重傷
+       2025/12/30 07:15
+     * [213]酒気帯び疑いで47歳女逮捕、須賀川の市道をライトバン運転
+       2025/12/29 08:00
+     * [214]「MAXふくしま」３店舗が閉店　ダイユーエイト直営、メガドンキに
+       2026/01/01 08:35
+     * [215]白河でクマ1頭目撃
+       2025/12/30 07:30
+
+   [216]YouTubeみんゆうチャンネル
+   [217]動画ニュース一覧
+
+   IFRAME:
+   [218]https://www.youtube.com/embed/-wle6IZL7R8?si=Gw3H5Y7yy7VzXGe3
+
+   【空飛ぶカメラ】柳津橋・柳津町　赤いアーチ、冬景色彩る
+     * [219]「昭和100年ー福島タイムトリップ」
+     * [220]全国のクマ出没マップは随時更新
+     * [221]福島民友新聞創刊130周年特集
+       信頼～福島民友の現在地～
+       新聞の仕事や歴史 マンガで紹介
+     * [222]トヨタソーシャルフェス2025
+     * [223]全国学力テスト2025（外部特設サイト）
+     * [224]全国学力テスト2025
+     * [225]民友のワークシート～新聞コンクール
+     * [226]みんゆうデジタルアーカイブ
+       みんゆうみるもん
+     * [227]大学入学共通テスト
+       追・再試験問題
+     * [228]掲載写真とバックナンバー
+       注文はこちら
+     * [229]OPEN CAMPUS
+       オープンキャンパス2025【PR】
+     * [230]Smile＆Smile
+       ふくしま子育て応援隊【PR】
+     * [231]民友ゆうゆう倶楽部
+       －福島県のシニアライフをサポート－
+     * [232]それ、調べます
+       みんゆう特命係～ゆう特～
+     * [233]知る・備える・身を守る
+       #イイソナエ キャンペーン【PR】
+     * [234]PR TIMES
+       福島県内・隣県関係プレスリリース情報
+     * [235]マーケット速報
+     * [236]福島民友NEWSmart
+
+   [237]みんゆうプラス
+   [238]
+
+   共同通信PRワイヤー
+     * [239]学校法人立正大学学園
+       小笠原に回遊するアオウミガメのプラスチック汚染の実態を解明
+       2026/01/03 09:00
+     * [240]株式会社NTTドコモ 東北支社
+       【東北限定】ドコモの爆速初売り2026～ドコモ光・home5G・ドコモでんきdポイント還元キャンペーン～
+       2026/01/01 10:00
+     * [241]KDDI株式会社
+       鬼ちゃんが歌う、三太郎CM初のラブソングにのせて。au お正月新CM 「とどけ、ぜんぶ。」篇
+       2026/01/01 00:00
+
+   オリコンニュース
+
+   オリコンが提供するエンタメニュース
+   [242]一覧へ
+
+   [243]2026年洋画、夏までの注目作　「映画館で観るべき」作品が続々
+
+   　2026年の洋画シーンは、アクション、SF、ファンタジー、音楽伝記、ヒューマンドラマまで、ジャンルも世代も横断する話題作が、立て続けに劇場公
+   開を控えている。配信全盛の時代にあっても、「… [244][ 続きを読む ]
+
+   福島民友新聞社の関連サイト
+     * [245]読売新聞
+     * [246]福島中央テレビ
+     * [247]福島ドクターズ
+     * [248]スポーツ報知
+     * [249]読売ジャイアンツ
+     * [250]BAFジャイアンツアカデミー
+     * [251]読売旅行
+     * [252]47NEWS
+     * [253]共同通信社
+     * [254]日本新聞協会
+     * [255]新聞科学研究所
+
+     * [256]県・市町村・国出先機関、医師会、その他
+     * [257]とうほく未来Genkiプロジェクト
+
+     * [258]このサイトについて
+     * [259]個人情報の取り扱いについて
+     * [260]パーソナルデータの外部送信について
+     * [261]著作権について
+     * [262]新聞二次利用申込
+
+   〒960-8648　福島県福島市柳町4の29
+
+   国内外のニュースは共同通信社の配信を受けています。
+   このサイトに記載された記事及び画像の無断転載を禁じます。
+
+   Copyright© THE FUKUSHIMA MINYU SHIMBUN
 
 Références
 
    Liens visibles :
-   1. https://corp.chipper.co.jp/media/2476/feed/
-   2. https://corp.chipper.co.jp/wp-json/wp/v2/posts/2476
-   3. https://corp.chipper.co.jp/wp-json/oembed/1.0/embed?url=https://corp.chipper.co.jp/media/2476/
-   4. https://corp.chipper.co.jp/wp-json/oembed/1.0/embed?url=https://corp.chipper.co.jp/media/2476/&format=xml
-   5. https://www.googletagmanager.com/ns.html?id=GTM-KCF5JR3
-   6. https://corp.chipper.co.jp/
-   7. https://corp.chipper.co.jp/service
-   8. https://corp.chipper.co.jp/company
-   9. https://corp.chipper.co.jp/news/
-  10. https://corp.chipper.co.jp/media
-  11. https://corp.chipper.co.jp/portfolio/
-  12. https://corp.chipper.co.jp/join-us
-  13. https://corp.chipper.co.jp/contact
-  14. https://corp.chipper.co.jp/service
-  15. https://corp.chipper.co.jp/company
-  16. https://corp.chipper.co.jp/news/
-  17. https://corp.chipper.co.jp/media
-  18. https://corp.chipper.co.jp/portfolio/
-  19. https://corp.chipper.co.jp/join-us
-  20. https://corp.chipper.co.jp/contact
-  21. https://corp.chipper.co.jp/
-  22. https://corp.chipper.co.jp/media/
-  23. https://corp.chipper.co.jp/media/2476/#rtoc-1
-  24. https://corp.chipper.co.jp/media/2476/#rtoc-2
-  25. https://corp.chipper.co.jp/media/2476/#rtoc-3
-  26. https://corp.chipper.co.jp/media/2476/#rtoc-4
-  27. https://corp.chipper.co.jp/media/2476/#rtoc-5
-  28. https://corp.chipper.co.jp/media/2476/#rtoc-6
-  29. https://corp.chipper.co.jp/media/2476/#rtoc-7
-  30. https://corp.chipper.co.jp/media/2476/#rtoc-8
-  31. https://corp.chipper.co.jp/media/2476/#rtoc-9
-  32. https://corp.chipper.co.jp/media/2476/#rtoc-10
-  33. https://news.mynavi.jp/article/20201128-1533874/
-  34. https:///
-  35. https://corp.chipper.co.jp/media/
-  36. https://corp.chipper.co.jp/career/
-  37. https://corp.chipper.co.jp/media/foundation-business/
-  38. https://corp.chipper.co.jp/member_detail/nishida_keisuke/
-  39. https://blends-inc.co.jp/
-  40. https://corp.chipper.co.jp/media/3776/
-  41. https://corp.chipper.co.jp/media/3490/
-  42. https://corp.chipper.co.jp/media/3458/
-  43. https://corp.chipper.co.jp/media/core/
-  44. https://corp.chipper.co.jp/media/d2c/
-  45. https://corp.chipper.co.jp/media/ebook/
-  46. https://corp.chipper.co.jp/media/development/python/
-  47. https://corp.chipper.co.jp/seminars/
-  48. https://corp.chipper.co.jp/media/コンテンツマーケティング/seo/
-  49. https://corp.chipper.co.jp/media/development/shopify/
-  50. https://corp.chipper.co.jp/media/sns/
-  51. https://corp.chipper.co.jp/media/design/ux-design/
-  52. https://corp.chipper.co.jp/media/innovation/
-  53. https://corp.chipper.co.jp/career/
-  54. https://corp.chipper.co.jp/media/コンテンツマーケティング/
-  55. https://corp.chipper.co.jp/media/design/
-  56. https://corp.chipper.co.jp/media/foundation-business/
-  57. https://corp.chipper.co.jp/media/branding/
-  58. https://corp.chipper.co.jp/media/marketing/
-  59. https://corp.chipper.co.jp/media/marketing/advertising-operation/
-  60. https://corp.chipper.co.jp/media/new-business/
-  61. https://corp.chipper.co.jp/media/海外/
-  62. https://corp.chipper.co.jp/社員インタビュー/
-  63. https://corp.chipper.co.jp/media/team/
-  64. https://corp.chipper.co.jp/media/management/
-  65. https://corp.chipper.co.jp/media/subsidy/
-  66. https://corp.chipper.co.jp/media/development/
-  67. https://corp.chipper.co.jp/tag/ctvr/
-  68. https://corp.chipper.co.jp/tag/d2c/
-  69. https://corp.chipper.co.jp/tag/ec/
-  70. https://corp.chipper.co.jp/tag/instagram/
-  71. https://corp.chipper.co.jp/tag/it導入補助金/
-  72. https://corp.chipper.co.jp/tag/seo/
-  73. https://corp.chipper.co.jp/tag/shop-pay/
-  74. https://corp.chipper.co.jp/tag/shopify/
-  75. https://corp.chipper.co.jp/tag/sns/
-  76. https://corp.chipper.co.jp/tag/イノベーション/
-  77. https://corp.chipper.co.jp/tag/コンテンツマーケティング/
-  78. https://corp.chipper.co.jp/tag/business-model/
-  79. https://corp.chipper.co.jp/tag/フォロワーシップ/
-  80. https://corp.chipper.co.jp/tag/branding/
-  81. https://corp.chipper.co.jp/tag/プロジェクトチーム/
-  82. https://corp.chipper.co.jp/tag/ものづくり補助金/
-  83. https://corp.chipper.co.jp/tag/事業再構築補助金/
-  84. https://corp.chipper.co.jp/tag/広告/
-  85. https://corp.chipper.co.jp/tag/business-development/
-  86. https://corp.chipper.co.jp/tag/生成ai/
-  87. https://corp.chipper.co.jp/tag/inhouse-ec/
-  88. https://corp.chipper.co.jp/tag/subsidy/
-  89. https://corp.chipper.co.jp/tag/customer-experience/
-  90. https://corp.chipper.co.jp/
-  91. https://corp.chipper.co.jp/service
-  92. https://corp.chipper.co.jp/company
-  93. https://corp.chipper.co.jp/news/
-  94. https://corp.chipper.co.jp/media
-  95. https://corp.chipper.co.jp/portfolio/
-  96. https://corp.chipper.co.jp/join-us
-  97. https://corp.chipper.co.jp/epn
-  98. https://corp.chipper.co.jp/contact
+   1. https://www.googletagmanager.com/ns.html?id=GTM-NHFFN59
+   2. https://www.minyu-net.com/
+   3. https://twitter.com/fminyu
+   4. https://www.facebook.com/fukushimaminyu/
+   5. https://liff.line.me/1391620050-3rOkaMqp/channel/am/oa-minyunews?utm_source=oa-minyunews&utm_medium=banner&utm_campaign=none&oa_id=oa-minyunews
+   6. https://digital-news.minyu-net.com/minyu-memm/login/init?backurl=/news/detail/2025122509273344384
+   7. https://digital-news.minyu-net.com/minyu-memm/login/init
+   8. https://www.minyu-net.com/article/faq
+   9. https://www.minyu-net.com/
+  10. https://www.minyu-net.com/news
+  11. https://www.minyu-net.com/category/news/fnews
+  12. https://www.minyu-net.com/category/news/ftopic
+  13. https://www.minyu-net.com/category/news/english
+  14. https://www.minyu-net.com/article/visualnews2025?sjkd_page=vtop
+  15. https://www.minyu-net.com/article/senkyo/2026nittei
+  16. https://www.minyu-net.com/article/keyword
+  17. https://www.minyu-net.com/newspack
+  18. https://www.minyu-net.com/newspack/category/main
+  19. https://www.minyu-net.com/newspack/category/politics
+  20. https://www.minyu-net.com/newspack/category/economics
+  21. https://www.minyu-net.com/newspack/category/world
+  22. https://www.minyu-net.com/newspack/category/sports
+  23. https://www.minyu-net.com/newspack/category/national
+  24. https://www.minyu-net.com/newspack/category/culture.entertainment
+  25. https://www.minyu-net.com/newspack/category/science.environment
+  26. https://www.minyu-net.com/newspack/category/health
+  27. https://www.minyu-net.com/newspack/category/lifestyle.human_interest
+  28. https://www.minyu-net.com/fsports
+  29. https://www.minyu-net.com/category/fsports
+  30. https://www.minyu-net.com/iwakifc
+  31. https://www.minyu-net.com/iwakifc
+  32. https://www.minyu-net.com/category/iwakifc/game
+  33. https://www.minyu-net.com/category/iwakifc/information
+  34. https://www.minyu-net.com/category/iwakifc/column
+  35. https://www.minyu-net.com/category/iwakifc/player
+  36. https://www.minyu-net.com/category/iwakifc/watching
+  37. https://www.minyu-net.com/category/iwakifc/award
+  38. https://www.minyu-net.com/minyu-event
+  39. https://www.minyu-net.com/category/life/minyu-event
+  40. https://www.minyu-net.com/life
+  41. https://www.minyu-net.com/category/life/event
+  42. https://www.minyu-net.com/category/life/gurmet
+  43. https://www.minyu-net.com/category/life/culture
+  44. https://www.minyu-net.com/series
+  45. https://www.minyu-net.com/category/series/eigabiyori
+  46. https://www.minyu-net.com/category/series/michinoku
+  47. https://www.minyu-net.com/category/series/company
+  48. https://www.minyu-net.com/series
+  49. https://www.minyu-net.com/category/series/mystory
+  50. https://www.minyu-net.com/category/series/fermentation
+  51. https://www.minyu-net.com/category/series/fly-camera
+  52. https://www.minyu-net.com/category/series/machishokudo
+  53. https://www.minyu-net.com/category/series/okurimono
+  54. https://www.minyu-net.com/category/aruite
+  55. https://www.minyu-net.com/category/environment
+  56. https://www.minyu-net.com/category/series/norimonogatari
+  57. https://www.minyu-net.com/category/series/gourmetbook
+  58. https://www.minyu-net.com/category/series/kokohore
+  59. https://www.minyu-net.com/category/series/shinkenkohou
+  60. https://www.minyu-net.com/category/series/yutoku
+  61. https://www.minyu-net.com/category/series/kosodateouentai
+  62. https://www.minyu-net.com/category/series/recipe
+  63. https://www.minyu-net.com/category/series/f-diary
+  64. https://www.minyu-net.com/category/series/ongakujin
+  65. https://www.minyu-net.com/category/series/tubokura
+  66. https://www.minyu-net.com/category/life/journal
+  67. https://www.minyu-net.com/category/series/try
+  68. https://www.minyu-net.com/category/series/fstage
+  69. https://www.minyu-net.com/category/series/hosomichi
+  70. https://www.minyu-net.com/category/series/yell
+  71. https://www.minyu-net.com/category/series/b-men
+  72. https://www.minyu-net.com/category/series/uta
+  73. https://www.minyu-net.com/article/serial/archive/isei.php
+  74. https://www.minyu-net.com/article/serial/archive/yoji-jyukugo.php
+  75. https://www.minyu-net.com/shinsai
+  76. https://www.minyu-net.com/category/shinsai/shinsai-news
+  77. https://www.minyu-net.com/category/shinsai/shinsai-series
+  78. https://www.minyu-net.com/column
+  79. https://www.minyu-net.com/category/column/shasetu
+  80. https://www.minyu-net.com/category/column/editorial-diary
+  81. https://www.minyu-net.com/okuyami
+  82. https://www.minyu-net.com/category/okuyami
+  83. https://www.minyu-net.com/nie
+  84. https://www.minyu-net.com/category/nie
+  85. https://www.minyu-net.com/article/nie/nieworksheet.php
+  86. https://www.minyu-net.com/news/detail/2025010715541131702
+  87. https://www.minyu-net.com/reshuffle/15
+  88. https://www.minyu-net.com/information
+  89. https://www.minyu-net.com/article/honsha-annai/annai.php
+  90. https://www.minyu-net.com/category/information/minyu130
+  91. https://www.minyu-net.com/article/honsha-annai/sishasikyoku.php
+  92. https://www.minyu-net.com/article/saiyo
+  93. https://www.minyu-net.com/article/honsha-annai/mail.php
+  94. https://www.minyu-net.com/article/information/sitepolicy
+  95. https://www.minyu-net.com/article/honsha-annai/koudou-keikaku.php
+  96. https://www.minyu-net.com/category/information/book
+  97. https://www.minyu-net.com/category/information/organization
+  98. https://www.minyu-net.com/article/honsha-annai/mado/index.php
+  99. https://www.minyu-net.com/article/information/advertisement
+ 100. https://www.minyu-net.com/article/event/honsya/kouenshinsei.php
+ 101. https://www.minyu-net.com/article/honsha-annai/mobile/index.php
+ 102. https://www.minyu-net.com/article/mousikomi/photo/index.php
+ 103. https://www.minyu-net.com/article/honsha-annai/policy/post_15.php
+ 104. https://www.minyu-net.com/weather
+ 105. https://www.minyu-net.com/weather#nakadori
+ 106. https://www.minyu-net.com/weather#hamadori
+ 107. https://www.minyu-net.com/weather#aizu
+ 108. https://www.minyu-net.com/saigai
+ 109. https://www.minyu-net.com/saigai
+ 110. https://www.minyu-net.com/faq
+ 111. https://www.minyu-net.com/article/faq
+ 112. https://www.minyu-net.com/news
+ 113. https://www.minyu-net.com/category/news/fnews
+ 114. https://www.minyu-net.com/category/news/ftopic
+ 115. https://www.minyu-net.com/category/news/english
+ 116. https://www.minyu-net.com/article/visualnews2025?sjkd_page=vtop
+ 117. https://www.minyu-net.com/article/senkyo/2026nittei
+ 118. https://www.minyu-net.com/article/keyword
+ 119. https://www.minyu-net.com/fsports
+ 120. https://www.minyu-net.com/category/fsports
+ 121. https://www.minyu-net.com/iwakifc
+ 122. https://www.minyu-net.com/category/iwakifc/game
+ 123. https://www.minyu-net.com/category/iwakifc/information
+ 124. https://www.minyu-net.com/category/iwakifc/column
+ 125. https://www.minyu-net.com/category/iwakifc/player
+ 126. https://www.minyu-net.com/category/iwakifc/watching
+ 127. https://www.minyu-net.com/category/iwakifc/award
+ 128. https://www.minyu-net.com/minyu-event
+ 129. https://www.minyu-net.com/category/life/minyu-event
+ 130. https://www.minyu-net.com/life
+ 131. https://www.minyu-net.com/category/life/event
+ 132. https://www.minyu-net.com/category/life/gurmet
+ 133. https://www.minyu-net.com/category/life/culture
+ 134. https://www.minyu-net.com/series
+ 135. https://www.minyu-net.com/category/series/eigabiyori
+ 136. https://www.minyu-net.com/category/series/michinoku
+ 137. https://www.minyu-net.com/category/series/company
+ 138. https://www.minyu-net.com/category/series/mystory
+ 139. https://www.minyu-net.com/category/series/fly-camera
+ 140. https://www.minyu-net.com/category/series/machishokudo
+ 141. https://www.minyu-net.com/category/series/okurimono
+ 142. https://www.minyu-net.com/category/aruite
+ 143. https://www.minyu-net.com/category/series/shinkenkohou
+ 144. https://www.minyu-net.com/category/series/kosodateouentai
+ 145. https://www.minyu-net.com/category/series/recipe
+ 146. https://www.minyu-net.com/category/series/f-diary
+ 147. https://www.minyu-net.com/category/series/ongakujin
+ 148. https://www.minyu-net.com/category/series/tubokura
+ 149. https://www.minyu-net.com/shinsai
+ 150. https://www.minyu-net.com/category/shinsai/shinsai-news
+ 151. https://www.minyu-net.com/category/shinsai/shinsai-series
+ 152. https://www.minyu-net.com/column
+ 153. https://www.minyu-net.com/category/column/shasetu
+ 154. https://www.minyu-net.com/category/column/editorial-diary
+ 155. https://www.minyu-net.com/nie
+ 156. https://www.minyu-net.com/category/nie
+ 157. https://www.minyu-net.com/article/nie/nieworksheet.php
+ 158. https://www.minyu-net.com/news/detail/2025010715541131702
+ 159. https://www.minyu-net.com/reshuffle/15
+ 160. https://www.minyu-net.com/information
+ 161. https://www.minyu-net.com/article/honsha-annai/annai.php
+ 162. https://www.minyu-net.com/category/information/minyu130
+ 163. https://www.minyu-net.com/article/honsha-annai/sishasikyoku.php
+ 164. https://www.minyu-net.com/article/saiyo
+ 165. https://www.minyu-net.com/category/information/book
+ 166. https://www.minyu-net.com/category/information/organization
+ 167. https://www.minyu-net.com/article/information/advertisement
+ 168. https://www.minyu-net.com/article/event/honsya/kouenshinsei.php
+ 169. https://www.minyu-net.com/article/honsha-annai/policy/post_15.php
+ 170. https://www.minyu-net.com/
+ 171. https://www.minyu-net.com/news
+ 172. https://www.minyu-net.com/category/news/ftopic
+ 173. https://www.minyu-net.com/keyword/＃話題
+ 174. https://x.com/intent/tweet?url=https://www.minyu-net.com/news/detail/2025122509273344384&text=巨大だるまに希望の一文字、玄侑宗久さんが書き入れ　１月18日、三春だるま市でお披露目
+ 175. http://www.facebook.com/share.php?u=https://www.minyu-net.com/news/detail/2025122509273344384
+ 176. https://social-plugins.line.me/lineit/share?url=https://www.minyu-net.com/news/detail/2025122509273344384
+ 177. https://www.minyu-net.com/article/mousikomi/koudoku/index.php
+ 178. https://www.minyu-net.com/news/detail/2026010409511044662
+ 179. https://www.minyu-net.com/news/detail/2026010409511044662
+ 180. https://www.minyu-net.com/keyword/＃話題
+ 181. https://www.minyu-net.com/news/detail/2026010410261144663
+ 182. https://www.minyu-net.com/news/detail/2026010410261144663
+ 183. https://www.minyu-net.com/keyword/＃話題
+ 184. https://www.minyu-net.com/keyword/＃東日本大震災
+ 185. https://www.minyu-net.com/news/detail/2026010315561944646
+ 186. https://www.minyu-net.com/news/detail/2026010315561944646
+ 187. https://www.minyu-net.com/keyword/＃話題
+ 188. https://www.minyu-net.com/keyword/＃写真ニュース
+ 189. https://www.minyu-net.com/news/detail/2026010308010344631
+ 190. https://www.minyu-net.com/news/detail/2026010308010344631
+ 191. https://www.minyu-net.com/keyword/＃話題
+ 192. https://www.minyu-net.com/news/detail/2026010307411444629
+ 193. https://www.minyu-net.com/news/detail/2026010307411444629
+ 194. https://www.minyu-net.com/keyword/＃話題
+ 195. https://career-shienkikou.com/information/9862/
+ 196. https://www.sanbe.co.jp/
+ 197. https://www.minyu-net.com/article/mousikomi/koudoku/index.php
+ 198. https://www.minyu-net.com/news/detail/2025122509273344384#tab01
+ 199. https://www.minyu-net.com/news/detail/2025122509273344384#tab02
+ 200. https://www.minyu-net.com/news/detail/2025122509273344384#tab03
+ 201. https://www.minyu-net.com/news/detail/2026010413371044666
+ 202. https://www.minyu-net.com/news/detail/2026010407430144651
+ 203. https://www.minyu-net.com/news/detail/2026010308173344635
+ 204. https://www.minyu-net.com/news/detail/2025123007350144531
+ 205. https://www.minyu-net.com/news/detail/2026010214050544622
+ 206. https://www.minyu-net.com/news/detail/2026010308565444640
+ 207. https://www.minyu-net.com/news/detail/2026010308173344635
+ 208. https://www.minyu-net.com/news/detail/2026010214050544622
+ 209. https://www.minyu-net.com/news/detail/2026010413371044666
+ 210. https://www.minyu-net.com/news/detail/2026010407563744653
+ 211. https://www.minyu-net.com/news/detail/2025122907392744507
+ 212. https://www.minyu-net.com/news/detail/2025123007350144531
+ 213. https://www.minyu-net.com/news/detail/2025122908060444513
+ 214. https://www.minyu-net.com/news/detail/2025123116522544584
+ 215. https://www.minyu-net.com/news/detail/2025123007433644535
+ 216. https://www.youtube.com/channel/UCQYvVGvVv3eoEqJMlrKhkDg
+ 217. https://www.minyu-net.com/movie
+ 218. https://www.youtube.com/embed/-wle6IZL7R8?si=Gw3H5Y7yy7VzXGe3
+ 219. https://www.minyu-net.com/news/detail/2025121812002344148
+ 220. https://www.minyu-net.com/article/visualnews2025?sjkd_page=cont_KA6911377a95d5e_KA69113708d7602
+ 221. https://www.minyu-net.com/news/detail/2025051717021936431
+ 222. https://toyotafes.jp/projects/607/
+ 223. https://www.47news.jp/culture/education/gakuryoku_2025
+ 224. https://www.minyu-net.com/news/detail/2025080110161439201
+ 225. https://www.minyu-net.com/article/nie/nieworksheet.php
+ 226. https://www.minyu-net.com/information/mirumon
+ 227. https://www.minyu-net.com/news/detail/2025010715541131702
+ 228. https://www.minyu-net.com/article/mousikomi/photo/index.php
+ 229. https://minyu-net.com/article/opencampus2025
+ 230. https://www.fct.co.jp/kosodate/
+ 231. https://www.minyu-net.com/honsha-annai/youyou/index.php
+ 232. https://www.minyu-net.com/series/yutoku
+ 233. https://iisonae.net/
+ 234. https://www.minyu-net.com/release/prtimes
+ 235. https://www.minyu-net.com/keizai/market
+ 236. https://www.minyu-net.com/article/honsha-annai/mobile/index.php
+ 237. https://www.minyu-net.com/article/minyuplus
+ 238. https://www.minyu-net.com/release/prwire
+ 239. https://www.minyu-net.com/release/prwire/detail/202512231630
+ 240. https://www.minyu-net.com/release/prwire/detail/202512251762
+ 241. https://www.minyu-net.com/release/prwire/detail/202512261797
+ 242. https://www.minyu-net.com/release/oricon
+ 243. https://www.minyu-net.com/release/oricon/detail/2428810
+ 244. https://www.minyu-net.com/release/oricon/detail/2428810
+ 245. https://www.yomiuri.co.jp/
+ 246. https://www.fct.co.jp/
+ 247. http://www.fukushima-doctors.jp/
+ 248. https://www.hochi.co.jp/
+ 249. https://www.giants.jp/
+ 250. https://www.ba-fukushima.com/
+ 251. https://www.yomiuri-ryokou.co.jp/
+ 252. https://www.47news.jp/
+ 253. https://www.kyodonews.jp/
+ 254. https://www.pressnet.or.jp/
+ 255. https://np-labo.com/
+ 256. https://www.minyu-net.com/article/honsha-annai/link/index.php
+ 257. https://note.com/tohokugenki/
+ 258. https://www.minyu-net.com/article/honsha-annai/policy/sitepolicy.php
+ 259. https://www.minyu-net.com/article/honsha-annai/policy/privacy.php
+ 260. https://www.minyu-net.com/article/honsha-annai/policy/tba-personal.php
+ 261. https://www.minyu-net.com/article/honsha-annai/policy/copyright.php
+ 262. https://www.minyu-net.com/article/honsha-annai/policy/copyright-2.php
 
    Liens cachés :
- 100. https://news.mynavi.jp/article/20201128-1533874/
- 101. https://creative-drive.jp/
- 102. https://creative-drive.jp/
+ 264. https://www.minyu-net.com/
+ 265. https://www.minyu-net.com/common/news/2025122509273344384_0.jpg
+ 266. https://www.minyu-net.com/release/oricon/detail/2428810
+ 267. https://www.minyu-net.com/
+ 268. https://www.minyu-net.com/news/detail/2025122509273344384#pagetop

@@ -1,5 +1,5 @@
    [icon-pin-left.png] [icon-pin-right.png]
-   [5][btn-backnewspaper.png?20251231-0322]
+   [5][btn-backnewspaper.png?20260104-0910]
 
    イベントは「期待値」と「余白」の設計が全て
 

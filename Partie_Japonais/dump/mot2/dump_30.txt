@@ -7,7 +7,7 @@
 
 ギャンブルが不合理なのは期待値のせいではない ◆ 水曜日の湯葉211
 
-   (BUTTON) (BUTTON) 77
+   (BUTTON) (BUTTON) 84
    [3]柞刈湯葉
    [4]柞刈湯葉
    2025年12月24日 20:00
@@ -123,7 +123,7 @@
      * [9]#ギャンブル
      * [10]#動物
 
-   (BUTTON) (BUTTON) 77
+   (BUTTON) (BUTTON) 84
    (BUTTON)
    (BUTTON)
    (BUTTON)

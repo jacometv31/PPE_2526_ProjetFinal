@@ -138,16 +138,14 @@ UX心理学 単語集
 
    [103]
 
-希少性効果
+調査バイアス
 
-   希少性効果(Scarcity)とは、商品の入手可能な数が限られているか、あるいは入手が難しいと感じる状況において、消費者はその商品に対して高い
-   価値を見出し、購入意欲を向上させる効果を指します。
+   調査バイアス(Survey Bias)とは、調査結果が本来の母集団の特性を正確に反映していない状態で、誤差や偏りが生じていることを意味します。
    [104]
 
-デフォルト効果
+目標勾配効果
 
-   デフォルト効果(Default
-   Bias)とは、人は選択肢がある場合、変更するインセンティブが魅力的でない限り、提示されたデフォルトの値にとどまることが多い現象を指します。
+   目標勾配効果 (Goal Gradient Effect)とは、ユーザーが目標に近づくにつれ、行動や努力を加速させる心理的な現象です。
 
 UX心理学 単語集
 
@@ -347,8 +345,8 @@ Références
  100. https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html
  101. https://www.shokasonjuku.com/
  102. https://twitter.com/shoin_shoka
- 103. https://www.shokasonjuku.com/ux-psychology/scarcity
- 104. https://www.shokasonjuku.com/ux-psychology/default-bias
+ 103. https://www.shokasonjuku.com/ux-psychology/survey-bias
+ 104. https://www.shokasonjuku.com/ux-psychology/goal-gradient-effect
  105. https://www.shokasonjuku.com/ux-psychology/aesthetic-usability-effect
  106. https://www.shokasonjuku.com/ux-psychology/anchor-effect
  107. https://www.shokasonjuku.com/ux-psychology/banner-blindness
