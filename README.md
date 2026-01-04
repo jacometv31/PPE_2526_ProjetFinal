@@ -49,5 +49,19 @@ L'importation de mon corpus dans iTrameur a permis de valider une base de donné
 
 L'étude des cooccurrences et du réseau sémantique a ensuite démontré un lien statistique très fort entre l'espoir et l'optimisme (والتفاؤل), ainsi qu'une proximité avec les concepts de vie (الحياة) et de foi (بالله). Ces associations, validées par un retour direct au texte via le concordancier, montrent que l'espoir est systématiquement intégré à une dynamique positive. Enfin, l'analyse de la ventilation a révélé que, bien que la première section soit la plus fournie, c'est la section s6 qui présente l'indice de spécificité le plus élevé, désignant cette source comme la plus thématique pour mon étude.
 
+# Conformité Éthique et Respect du fichier Robots.txt
+
+L'étape finale de mon projet a consisté à intégrer une dimension éthique au moissonnage en veillant au respect des directives émises par les serveurs distants via leurs fichiers robots.txt respectifs. Pour automatiser ce contrôle, j'ai utilisé un premier script, generer_blacklist.sh, qui parcourt les serveurs de mon corpus pour identifier les zones interdites aux robots (directive Disallow sous le User-Agent: *). Les résultats de cette analyse sont consignés dans un fichier de référence locale nommé arabe.txt-blacklist.
+
+Pour mettre en évidence cette vérification, j'ai créé un second tableau de bord dédié grâce au script script_arabe_robots.sh. Ce dernier consulte systématiquement le fichier arabe.txt-blacklist pour chaque URL : les adresses autorisées apparaissent en vert, tandis que celles figurant dans la blacklist sont marquées en rouge avec le statut "Interdit" et un code HTTP 000. Afin de valider la fiabilité de mon système, j'ai inclus un test avec une URL sciemment choisie dans une zone interdite, confirmant ainsi que le script bloque correctement l'accès conformément aux règles du web.
+
+Cette double approche illustre la transition entre un moissonnage brut et un moissonnage responsable. Elle démontre ma capacité à adapter mes outils techniques aux contraintes éthiques et légales, garantissant que le corpus final est non seulement riche linguistiquement, mais aussi constitué dans le respect total des volontés des administrateurs des sites sources.
+
+# Finalisation et Design de l'Interface Web
+
+La présentation finale de nos résultats a été l'occasion pour moi de prendre en charge l'aspect visuel et l'ergonomie de notre site web. Mon objectif principal était de transformer la structure existante pour en faire une plateforme élégante, moderne et parfaitement lisible. Pour y parvenir, j'ai intégré le framework CSS Bulma, ce qui m'a permis de structurer les contenus avec des composants réactifs, des boutons stylisés et des cartes de présentation claires pour chaque langue.
+
+J'ai personnellement conçu et organisé les nouvelles sections du site afin d'y intégrer mes propres travaux de manière fluide. J'ai notamment créé des espaces dédiés pour l'affichage des nuages de mots ainsi que pour les tableaux de conformité éthique, assurant une navigation intuitive entre les données brutes et les visualisations. Ce travail sur l'interface permet de valoriser la rigueur de nos analyses textométriques à travers un design professionnel, offrant ainsi une expérience utilisateur soignée qui facilite la compréhension globale du projet.
+
 
 
