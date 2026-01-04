@@ -211,11 +211,120 @@
                     </div>
 
                     <div id="francais" class="box p-6 tab-content">
-                        <h2 class="title is-4">Méthodologie - Français</h2>
-                        <div class="content">
-                            <p>Contenu en cours de rédaction par l'équipe...</p>
-                        </div>
-                    </div>
+    <h2 class="title is-4">Méthodologie - Français</h2>
+    <div class="content">
+
+        <!-- Introduction générale -->
+        <div class="method-step">
+            <div class="step-title"><span class="step-number">0</span> Introduction</div>
+            <div class="sub-step">
+                <p>Ce projet s’inscrit dans le cadre du cours <strong>Programmation et Projet Encadré</strong> et a pour objectif de mettre en œuvre une chaîne complète de collecte, de traitement et d’analyse textométrique de données issues du Web. Le mot étudié est <strong>« espoir »</strong>, choisi comme pôle lexical central de l’analyse.</p>
+                <p>L’ensemble du travail repose sur une approche progressive, combinant des scripts bash pour le moissonnage et le prétraitement des données, puis des scripts Python pour l’analyse textométrique et la visualisation.</p>
+            </div>
+        </div>
+
+        <!-- Étape 1 -->
+        <div class="method-step">
+            <div class="step-title"><span class="step-number">1</span> Constitution du corpus et organisation des données</div>
+            <div class="sub-step">
+                <p> Comme c'était le cas dans le miniprojet vu en cours le point de départ du projet est un fichier d’URLS contenant les pages web à analyser tout en suivant une architecure bien précise qui a été mise en place :</p>
+                <ul>
+                    <li><strong>URLs/</strong> : fichiers d’URLs sources</li>
+                    <li><strong>aspirations/</strong> : pages HTML récupérées</li>
+                    <li><strong>dumps-text/</strong> : versions textuelles des pages</li>
+                    <li><strong>contextes/</strong> : contextes autour du mot étudié</li>
+                    <li><strong>concordances/</strong> : concordanciers HTML</li>
+                    <li><strong>tableaux/</strong> : tableaux récapitulatifs HTML</li>
+                    <li><strong>pals/</strong> : corpus formatés pour les scripts PALS</li>
+                </ul>
+                <p>Cette structuration permet une traçabilité claire des données et facilite les vérifications à chaque étape.</p>
+            </div>
+        </div>
+
+        <!-- Étape 2 -->
+        <div class="method-step">
+            <div class="step-title"><span class="step-number">2</span> Moissonnage des pages web</div>
+            <div class="sub-step">
+                <p>Pour chaque URL du fichier source, un script bash principal a été développé afin d’automatiser le traitement. Grace à l’utilisation de la commande <code>curl</code> on aréussi à :</p>
+                <ul>
+                    <li>récupérer la page HTML</li>
+                    <li>suivre les redirections éventuelles</li>
+                    <li>stocker localement le contenu</li>
+                    <li>récupérer le code HTTP afin de vérifier le succès de la requête</li>
+                </ul>
+                <p>Seules les pages ayant retourné un code HTTP 200 sont conservées pour la suite du traitement.</p>
+            </div>
+        </div>
+
+       
+
+        <!-- Étape 3 -->
+        <div class="method-step">
+            <div class="step-title"><span class="step-number">3</span> Normalisation de l’encodage et extraction du texte</div>
+            <div class="sub-step">
+                <p>Les pages HTML récupérées peuvent présenter des encodages variés, le script détecte automatiquement l’encodage avec la commande <code>file</code>. Si la page est déjà en UTF-8, le texte est directement extrait, sinon une conversion est effectuée avec <code>iconv</code>.</p>
+                <p>L’extraction du texte brut est réalisée avec <code>lynx -dump</code> qu'on a vu dans les cours précédents afin d’obtenir un contenu exploitable pour l’analyse linguistique.</p>
+            </div>
+        </div>
+
+        <!-- Étape 4 -->
+        <div class="method-step">
+            <div class="step-title"><span class="step-number">4</span> Extraction des contextes et création des concordances</div>
+            <div class="sub-step">
+                <p>À partir des fichiers textuels, les contextes du mot « espoir » sont extraits à l’aide de <code>egrep</code>. Un concordancier HTML est ensuite généré pour chaque document, présentant :</p>
+                <ul>
+                    <li>le contexte gauche</li>
+                    <li>le mot étudié </li>
+                    <li>le contexte droit</li>
+                </ul>
+                <p>Ce format facilite l’analyse qualitative et permet d’observer les usages discursifs du mot dans différents contextes.</p>
+            </div>
+        </div>
+
+        <!-- Étape 5 -->
+        <div class="method-step">
+            <div class="step-title"><span class="step-number">5</span> Construction du tableau récapitulatif HTML</div>
+            <div class="sub-step">
+                <p>Pour chaque URL traitée, une ligne est ajoutée à un tableau HTML global contenant :</p>
+                <ul>
+                    <li>l’URL source</li>
+                    <li>le statut robots.txt</li>
+                    <li>le code HTTP</li>
+                    <li>l’encodage</li>
+                    <li>le nombre d’occurrences du mot étudié</li>
+                    <li>des liens vers les fichiers générés (HTML, texte, contextes, concordances)</li>
+                </ul>
+                <p>Ce tableau constitue une vue générale du corpus et permet de naviguer facilement entre les différents niveaux de données.</p>
+            </div>
+        </div>
+
+        <!-- Étape 6 -->
+        <div class="method-step">
+            <div class="step-title"><span class="step-number">6</span> Préparation des données pour l’analyse textométrique (PALS)</div>
+            <div class="sub-step">
+                <p>Les fichiers de textes et de contextes ont ensuite été reformattés afin d’être compatibles avec les scripts PALS. Un script bash (<code>make_pals_corpus.sh</code>) a été fait pour :</p>
+                <ul>
+                    <li>itérer sur les fichiers textuels ou contextuels</li>
+                    <li>effectuer une tokenisation </li>
+                    <li>produire des fichiers au format attendu par PALS (un mot par ligne)</li>
+                </ul>
+                <p>Ces fichiers servent de base aux analyses quantitatives.</p>
+            </div>
+        </div>
+
+        <!-- Étape 7 -->
+        <div class="method-step">
+            <div class="step-title"><span class="step-number">7</span> Analyse lexicale et nuage de mots</div>
+            <div class="sub-step">
+                <p>À partir des contextes du mot « espoir », une analyse lexicale a été menée pour identifier les mots les plus fréquents autour du pôle. Un script Python a été récupéré depuis des cours pour générer un nuage de mots, en excluant les stopwords afin de faire ressortir les termes sémantiquement pertinents. Le second nuage de mot a été généré depuis les résultats du script cooccurents.py (Spécificités de Lafon </p>
+                <p>Le mot « espoir » est volontairement conservé et placé au centre de la visualisation, entouré de ses cooccurrents les plus fréquents.</p>
+            </div>
+        </div>
+        
+
+     </div>
+</div>
+
 
                     <div id="japonais" class="box p-6 tab-content">
                         <div class="content">

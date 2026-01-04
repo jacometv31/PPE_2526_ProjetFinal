@@ -1,0 +1,726 @@
+   #Jeunesse, J'écoute » Flux JSON oEmbed (JSON) oEmbed (XML) alternate
+   alternate
+
+     * passer à la navigation
+     * passer au contenu principal
+     * Sauter au pied de page
+
+   Toggle mobile navigation
+
+     * Besoin d'aide
+     * S'impliquer
+     * Obtenir des données
+     * Fondation JJE
+     * À propos de nous
+          + À propos de Jeunesse, J'écoute
+          + À propos de nos ressources en santé mentale
+          + Tenir notre promesse
+          + Équipe de direction
+          + Salle de presse
+          + Publications
+          + Carrières
+          + Contactez-nous
+
+   (BUTTON) Search Icon Faire un don J'ai besoin d'aide (BUTTON) Search
+   Icon
+   EN
+   ____________________ When autocomplete results are available use tab
+   key to review and enter to select. Touch device users, explore by touch
+   or with swipe gestures.
+   (BUTTON) Résultats de recherche
+     * Exemples de termes de recherche:
+     * coronavirus,
+     * Intimidation,
+     * suicide,
+     * racisme,
+     * 2SLGBTQ+,
+     * jeu
+
+   (BUTTON) Fermer
+
+     * (BUTTON)
+       Renseigne-toi sur la santé mentale Astuces et infos
+     * (BUTTON)
+       Développe tes compétences Activités
+     * (BUTTON)
+       Communique avec d'autres jeunes Forums et histoires vraies
+     * (BUTTON)
+       Obtiens immédiatement de l'aide Texto
+     * (BUTTON)
+       Consulte un·e intervenant·e Appelle ou clavarde
+     * (BUTTON)
+       Explorer les Ressources Autour de Moi Outil interactif de soutiens
+       au bien-être
+
+     * (BUTTON) Renseigne-toi sur la santé mentale Astuces et infos
+
+Cette option me convient-elle?
+       Obtiens des renseignements sur la façon dont tes pensées, tes
+       sentiments et tes comportements sont liés et sur ce que tu peux
+       faire pour prendre soin de ton bien-être. En apprendre plus sur la
+       santé mentale peut te donner les moyens de communiquer ce que tu
+       ressens.
+
+Trouver des ressources
+          + Jeunes Noirs
+          + Image corporelle
+          + Intimidation
+          + Actualités
+          + Fréquentations, relations sexuelles et consentement
+          + Troubles de l'alimentation
+          + Équité
+          + Amis
+          + Famille et tuteurs
+          + Sentiments
+          + Premières Nations, Inuits et Métis
+          + Croissance et guérison
+          + Emplois, argent et logement
+          + 2SLGBTQ+
+          + Nouveaux arrivants
+          + Santé physique
+          + Sécurité
+          + École
+          + Prendre soin de soi
+          + Automutilation et suicide
+          + Utilisation de substances
+          + Histoires vraies
+
+Trouver des ressources par groupe
+          + Ressources pour soutenir un jeune de ton entourage
+          + Outils pour soutenir les autres
+          + Activités pour les jeunes de 5 à 12 ans
+     * (BUTTON) Développe tes compétences Activités
+
+Cette option me convient-elle?
+       Pratique avec des outils, des conseils et des ressources pour
+       t'aider à développer tes aptitudes et à améliorer ton bien-être de
+       la manière qui te convient le mieux. Apprends à identifier tes
+       forces, à communiquer tes pensées et tes sentiments, à surmonter
+       les obstacles et à trouver du soutien.
+
+Réponds à un jeu-questionnaire
+       Découvre ce que tu sais sur des sujets particuliers et accède à des
+       ressources pour en apprendre plus.
+
+Joue à un jeu
+       Diminue ton niveau de stress et amuse-toi en même temps.
+
+Développe ton réseau de soutien
+       Identifie ta communauté pour obtenir de l'aide lorsque tu en as
+       besoin.
+
+Partage ce qui te préoccupe
+       Essaie différents outils pour exprimer ce que tu ressens.
+
+Crée un plan de sécurité
+       Accède à des outils de création de plan de sécurité et de
+       signalement.
+
+Pratique la pleine conscience
+       Retrouve ton calme et détends-toi avec ces activités.
+
+Essaye une autoévaluation
+       Identifie comment tu te sens et trouve des ressources pour t'offrir
+       un soutien immédiat.
+     * (BUTTON) Communique avec d'autres jeunes Forums et histoires vraies
+
+Cette option me convient-elle?
+       Explore les expériences vécues par d'autres jeunes de partout au
+       Canada pour apprendre, trouver de nouvelles idées, poser des
+       questions, créer des liens et t'inspirer au cours de ton propre
+       cheminement vers le bien-être.
+       Politique de vie privée
+
+Obtiens du soutien et découvre une communauté de pairs
+       La Communauté Jeunesse est un espace où tu peux te connecter avec
+       d'autres jeunes et raconter ton histoire, t'encourager ou obtenir
+       du soutien (ou tout cela à la fois!).
+       Aller sur les forums
+       Apprends-en davantage sur une façon de communiquer avec tes pairs
+       or
+
+Laisse-toi être inspiré
+       Apprends comment d'autres jeunes ont soutenu leur bien-être.
+
+Obtiens des données
+       Découvre les préoccupations des autres jeunes.
+     * (BUTTON) Obtiens immédiatement de l'aide Texto
+
+Cette option me convient-elle?
+       Si tu as besoin d'aide immédiatement, tu peux parler à un de nos
+       répondant·e aux crises, qui sont des bénévoles formé·e·s pour
+       offrir du soutien; quelles que soient la difficulté et l'heure.
+       Politique de vie privée
+
+Obtiens un soutien immédiat
+       Obtiens un soutien immédiat en textant le mot PARLER au 686868.
+       Appuie pour texter
+       Apprends-en plus sur les textos
+       Un aperçu de nos répondant·e·s aux crises bénévoles formé·e·s
+       Si tu t'identifies comme Autochtone, tu peux demander à être mis·e
+       en contact avec un·e répondant·e aux crises des Premières Nations,
+       Inuit ou Métis (sujet à la disponibilité) en textant PREMIÈRES
+       NATIONS, INUIT ou MÉTIS au 686868.
+       Apprends-en plus
+     * (BUTTON) Consulte un·e intervenant·e Appelle ou clavarde
+
+Cette option me convient-elle?
+       Communique avec un·e intervenant·e professionnel·le pour mieux
+       comprendre ce que tu vis et t'aider à faire un pas dans la
+       direction que tu souhaites emprunter.
+       Politique de vie privée
+
+Obtiens du soutien
+       Obtiens du soutien par téléphone en composant le 1 800 668-6868.
+       Appuie pour appeler
+       En savoir plus sur les services d'intervention par téléphone
+
+Clavarde en ligne
+       Clavarde en ligne avec un·e intervenant·e professionnel·le, de 19 h
+       à minuit (HE).
+       En savoir plus sur le clavardage en direct
+       Davantage de renseignements sur nos intervenant·e·s
+       professionnel·le·s
+     * (BUTTON) Explorer les Ressources Autour de Moi Outil interactif de
+       soutiens au bien-être
+   Une jeune personne assise dans une bibliothèque et regardant une
+       tablette
+
+À propos de Ressources Autour de Moi
+       Tu peux chercher les programmes de soutien en personne et virtuels,
+       les services, les applications et plus encore près de ta communauté
+       et partout au Canada en utilisant la base de données de ressources
+       vérifiées et la carte interactive de JJE.
+       COMMENCE TA RECHERCHE
+
+     *
+     *
+
+   [teen-pursed-lips-autumn-leaves-0202_WPbanner-updated.jpg]
+     * Home
+     * Apprendre
+     * Sante-emotionnelle
+
+     * Tagged with  santé émotionnelle
+     * Tagged with  espoir
+     * Tagged with  dépression
+     * Tagged with  stress
+
+8 façons de nourrir l'espoir dans ton quotidien
+
+   Published on 29 juin 2018
+   Mis à jour le 22 février 2023
+   Utilise un haut-parleur de lecture Imprime un document
+   (BUTTON)
+     *
+     *
+     *
+
+   Nourrir l'espoir et augmenter ta résilience sont des éléments clés
+   quand il s'agit de ta santé mentale et émotionnelle. Voici des idées
+   pour ajouter de l'espoir à ton quotidien.
+
+   As-tu déjà entendu l'expression « Le verre est toujours à moitié
+   plein » ? C'est une expression populaire que certains utilisent pour
+   exprimer l'espoir et l'optimisme. Voir une situation comme étant un
+   verre à moitié plein n'est peut-être pas toujours facile, mais avoir
+   des pensées positives à propos de l'avenir (optimisme) peut être
+   bénéfique pour ta santé mentale et physique. Voici certaines choses que
+   tu peux faire pour nourrir l'espoir dans ton quotidien :
+     * Demeure positif : te concentrer sur le positif et chercher les bons
+       points d'une situation peut t'aider à voir les choses du bon côté.
+     * Regarde les choses dans leur ensemble : prendre du recul par
+       rapport aux petits éléments pour regarder une situation dans son
+       ensemble pourrait te permettre de voir les choses d'un autre angle.
+       En mettant les choses en perspective, tu verras la vie d'une
+       manière différente.
+     * Concentre-toi sur l'avenir : en réfléchissant à la façon dont les
+       choses vont changer -- et à la façon dont tu aimerais qu'elles
+       changent --, tu peux te rappeler qu'elles ne resteront pas comme ça
+       pour toujours. Essaie de penser à ce que tu peux faire pour
+       façonner ton propre avenir, comme te fixer des objectifs, établir
+       des priorités, etc.
+     * Laisse-toi inspirer : écouter tes morceaux de musique préférés,
+       lire une histoire encourageante ou regarder un film inspirant
+       pourrait t'être utile. Découvrir les histoires d'autres personnes
+       te permettra de voir que même dans les situations les plus
+       difficiles, il peut y avoir des points positifs.
+     * Célèbre tes succès : essaie de reconnaître tes accomplissements et
+       le fait que tu as réussi à relever tous les défis qui ont parsemé
+       ta route jusqu'à maintenant. Essaie de ne pas t'attarder à ton
+       discours intérieur négatif et rappelle-toi que c'est OK si les
+       choses ne se passent pas toujours comme prévu. Ceci pourrait
+       t'aider à te rendre plus résilient et à affronter tout ce que
+       l'avenir te réserve.
+     * Sois patient : il y a toujours des bonnes journées et des mauvaises
+       journées. Essaie de te rappeler que les choses peuvent et vont
+       s'améliorer, mais aussi qu'il est possible qu'un peu de temps soit
+       nécessaire pour qu'elles rentrent dans l'ordre.
+     * Implique-toi : donner un coup de main (en faisant du bénévolat, par
+       exemple) peut t'aider à répandre l'espoir afin que les autres
+       personnes et toi, vous puissiez le nourrir.
+     * Parles-en : te confier à un parent/tuteur, à un ami ou à une autre
+       personne importante dans ta vie peut t'aider à trouver de nouvelles
+       sources d'espoir. Si tu as de la difficulté à trouver l'espoir dans
+       ton quotidien, tu peux toujours appeler un intervenant de Jeunesse,
+       J'écoute au 1 800 668-6868.
+
+   Nourrir l'espoir est essentiel pour ton bien-être mental et émotionnel.
+   Rappelle-toi que l'espoir est partout et que tu peux passer à travers
+   tout ce qui se produit dans ta vie. Essaie de penser de façon positive,
+   regarde les choses dans leur ensemble et assure-toi d'obtenir de l'aide
+   quand tu en as besoin.
+   Rétroaction sur la ressource
+   Cette page t'a-t-elle aidé?
+   (*) Oui
+   ( ) Non
+   Cette page t'a-t-elle permis d'apprendre quelque chose que tu pourrais
+   appliquer dans ta vie?
+   (*) Oui
+   ( ) Non
+   As-tu reçu le soutien que tu cherchais de Jeunesse, J'écoute
+   aujourd'hui?
+   (*) Oui
+   ( ) Non
+   (BUTTON) Soumets un commentaire
+   Voici d'autres ressources à consulter :
+     * Lis des articles au sujet d'autres thèmes
+     * Explore des outils qui traitent d'autres sujets
+     * Communique avec d'autres jeunes
+     * Appelle ou clavarde avec un intervenant
+     * Échange par texto ou Messenger avec un répondant aux crises
+
+   Si tu veux, tu peux consulter ces ressources supplémentaires.
+   Apprendre Category Apprendre
+
+Ressources pour les jeunes sourd·e·s
+
+     * Tagged with  anxiété
+     * Tagged with  cyberintimidation
+     * Tagged with  dépression
+     * Tagged with  jeunes sourd·e·s
+
+   Apprendre Category Apprendre
+
+Feux de forêt au Canada : comment obtenir du soutien en santé mentale
+
+     * Tagged with  anxiété
+     * Tagged with  changements climatiques
+     * Tagged with  faire face
+     * Tagged with  panique
+
+   Apprendre Category Apprendre
+
+Restrictions d'eau à Calgary : aide en santé mentale
+
+     * Tagged with  actualités
+     * Tagged with  anxiété
+     * Tagged with  communauté
+     * Tagged with  faire face
+
+   Voir plus d'articles
+
+Nouveau contenu
+
+     * Apprendre Category Apprendre
+
+Fondation Jeunesse, J'écoute | Aidez maintenant
+     * Apprendre Category Apprendre
+
+Explorer la salle d'attente virtuelle
+          + Tagged with  faire face
+          + Tagged with  outil
+          + Tagged with  pleine conscience
+          + Tagged with  prendre soin de soi-même
+     * Apprendre Category Apprendre
+
+L'IA et la santé mentale : Fiche d'info 2025
+          + Tagged with  adaptation
+          + Tagged with  médias sociaux
+          + Tagged with  sécurité
+          + Tagged with  sécurité en ligne
+     * Apprendre Category Apprendre
+
+Soutien aux jeunes des Premières Nations, Inuit et Métis
+          + Tagged with  Autochtones
+          + Tagged with  Jeunes Autochtones
+     * Apprendre Category Apprendre
+
+Libère tes émotions : rapport d'impact 2024-2025
+          + Tagged with  faire un don
+          + Tagged with  communauté
+          + Tagged with  Adultes bienveillants
+          + Tagged with  donner en retour
+     * Apprendre Category Apprendre
+
+Ressources pour les jeunes sourd·e·s
+          + Tagged with  anxiété
+          + Tagged with  cyberintimidation
+          + Tagged with  dépression
+          + Tagged with  jeunes sourd·e·s
+     * Apprendre Category Apprendre
+
+Bon de commande de matériel de sensibilisation les jeunes Noir·e·s
+          + Tagged with  matériel
+          + Tagged with  Trousse d'outils
+          + Tagged with  jeune Noir
+     * Apprendre Category Apprendre
+
+Feux de forêt au Canada : comment obtenir du soutien en santé mentale
+          + Tagged with  anxiété
+          + Tagged with  changements climatiques
+          + Tagged with  faire face
+          + Tagged with  panique
+     * Apprendre Category Apprendre
+
+Restrictions d'eau à Calgary : aide en santé mentale
+          + Tagged with  actualités
+          + Tagged with  anxiété
+          + Tagged with  communauté
+          + Tagged with  faire face
+     * Apprendre Category Apprendre
+
+Explorer notre rapport d'impact 2023-2024
+          + Tagged with  Adultes bienveillants
+          + Tagged with  communauté
+          + Tagged with  donner en retour
+          + Tagged with  faire un don
+     * Apprendre Category Apprendre
+
+Découvre les athlètes pour Libère tes émotions
+     * Apprendre Category Apprendre
+
+Même les champion·ne·s ont besoin de champion·ne·s.
+
+     * Masquer la page
+
+Nous sommes là pour toi!
+
+   Les services de santé mentale en ligne de Jeunesse, J'écoute sont
+   offerts 24 h/24, 7 jours/7, partout au Canada. Cela signifie que nous
+   sommes là pour les enfants, les adolescents et les jeunes adultes d'un
+   océan à l'autre. En savoir plus sur nous.
+
+
+   Kids Help Phone est.1989 logo
+
+Besoin d'aide maintenant?
+
+   Entame une conversation confidentielle avec une personne réelle en qui
+   tu peux avoir confiance.
+   1 800 668-6868 Texte au 686868
+
+Liens rapides
+
+     * Faire un don
+     * Carrière
+     * Salle de presse
+     * Contactez-nous
+
+Autres liens
+
+     * Politique de protection de la vie privée et de confidentialité de
+       Jeunesse, J'écoute
+     * Politique en matière de plaintes
+     * Conditions de service et d'utilisation des applications Web
+     * Plan du site
+
+   Icône représentant un endroit sûr
+
+Suivez-nous sur
+
+     * YouTube
+     * Instagram
+     * Facebook
+     * X
+     * LinkedIn
+
+   © 2026 Jeunesse, J'écoute
+   Jeunesse, J'écoute (Numéro d'enregistrement d'organisme de bienfaisance
+   130005846 RR0001)
+   Fondation Jeunesse, J'écoute (Numéro d'enregistrement d'organisme de
+   bienfaisance 72242756 RR0001)
+   Clavarder
+   (BUTTON) ×
+
+Bienvenue dans notre clavardage en direct
+
+   Notre service de chat en ligne est disponible de minuit à 7 h 00. Vous
+   pouvez toujours envoyer le mot PARLER au 686868 pour rejoindre un
+   Répondant aux crises bénévole par le biais de notre service
+   confidentiel par texto 24 heures par jour, 7 jours par semaine.
+
+   Clavarder
+
+   Pour une meilleure expérience de clavardage mobile, veuillez
+   télécharger notre application Toujours à l'écoute.
+   APPLE APP STOREGOOGLE PLAY STORE
+   (BUTTON)
+
+Peux-tu ouvrir ton application Messages pour pouvoir nous envoyer des textos?
+
+   Appuie sur « Continuer » pour accéder à l'application Messages.
+
+   Appuie sur « Annuler » pour revenir en arrière. Recharge la page pour
+   envoyer un texto plus tard.
+   Continuer Annuler
+
+   (BUTTON) I am french
+   Faire un don J'ai besoin d'aide
+     * Besoin d'aide
+          + Accueil
+          + (BUTTON)
+            Renseigne-toi sur la santé mentale Astuces et infos
+          + (BUTTON)
+            Développe tes compétences Activités
+          + (BUTTON)
+            Communique avec d'autres jeunes Forums et histoires vraies
+          + (BUTTON)
+            Obtiens immédiatement de l'aide Texto
+          + (BUTTON)
+            Consulte un·e intervenant·e Appelle ou clavarde
+          + (BUTTON)
+            Explorer les Ressources Autour de Moi Outil interactif de
+            soutiens au bien-être
+     * S'impliquer
+          + Accueil
+          + Faire un don
+               o Cas de soutien
+          + Programmes & Ressources
+               o Ressources pour adultes bienveillants
+               o Soutenir les jeunes des Premières Nations, Inuits et
+                 Métis
+               o Soutenir les jeunes nouveaux arrivants
+               o Soutenir les jeunes Noirs
+               o Pour enseignants : le programme Intervenant dans la
+                 classe
+               o Matériel promotionnel
+          + Participer
+               o Événements
+               o Bénévolat
+               o Partager son histoire
+          + Notre impact & Partenaires
+               o Partenariat
+               o Nos partenaires
+               o Nos partenaires fondateurs
+     * Obtenir des données
+          + (BUTTON)
+            Données de partout au Canada Des données d'un bout à l'autre
+            du pays
+          + (BUTTON)
+            Données par emplacement Données provinciales et territoriales
+          + (BUTTON)
+            Données par sujet Données sur des sujets courants
+          + (BUTTON)
+            Données : FAQ Foire aux questions - réponses
+
+     * Fondation JJE
+     * À propos de nous
+          + À propos de Jeunesse, J'écoute
+          + À propos de nos ressources en santé mentale
+          + Tenir notre promesse
+          + Équipe de direction
+          + Salle de presse
+          + Publications
+          + Carrières
+          + Contactez-nous
+
+   English
+   (BUTTON)
+   Faire un don J'ai besoin d'aide
+   Renseigne-toi sur la santé mentale Astuces et infos
+   (BUTTON)
+
+Cette option me convient-elle?
+
+   Obtiens des renseignements sur la façon dont tes pensées, tes
+   sentiments et tes comportements sont liés et sur ce que tu peux faire
+   pour prendre soin de ton bien-être. En apprendre plus sur la santé
+   mentale peut te donner les moyens de communiquer ce que tu ressens.
+
+Trouver des ressources
+
+     * Jeunes Noirs
+     * Image corporelle
+     * Intimidation
+     * Actualités
+     * Fréquentations, relations sexuelles et consentement
+     * Troubles de l'alimentation
+     * Équité
+     * Amis
+     * Famille et tuteurs
+     * Sentiments
+     * Premières Nations, Inuits et Métis
+     * Croissance et guérison
+     * Emplois, argent et logement
+     * 2SLGBTQ+
+     * Nouveaux arrivants
+     * Santé physique
+     * Sécurité
+     * École
+     * Prendre soin de soi
+     * Automutilation et suicide
+     * Utilisation de substances
+     * Histoires vraies
+
+Trouver des ressources par groupe
+
+     * Ressources pour soutenir un jeune de ton entourage
+     * Outils pour soutenir les autres
+     * Activités pour les jeunes de 5 à 12 ans
+
+   (BUTTON)
+   Faire un don J'ai besoin d'aide
+   Développe tes compétences Activités
+   (BUTTON)
+
+Cette option me convient-elle?
+
+   Pratique avec des outils, des conseils et des ressources pour t'aider à
+   développer tes aptitudes et à améliorer ton bien-être de la manière qui
+   te convient le mieux. Apprends à identifier tes forces, à communiquer
+   tes pensées et tes sentiments, à surmonter les obstacles et à trouver
+   du soutien.
+
+Réponds à un jeu-questionnaire
+
+   Découvre ce que tu sais sur des sujets particuliers et accède à des
+   ressources pour en apprendre plus.
+
+Joue à un jeu
+
+   Diminue ton niveau de stress et amuse-toi en même temps.
+
+Développe ton réseau de soutien
+
+   Identifie ta communauté pour obtenir de l'aide lorsque tu en as besoin.
+
+Partage ce qui te préoccupe
+
+   Essaie différents outils pour exprimer ce que tu ressens.
+
+Crée un plan de sécurité
+
+   Accède à des outils de création de plan de sécurité et de signalement.
+
+Pratique la pleine conscience
+
+   Retrouve ton calme et détends-toi avec ces activités.
+
+Essaye une autoévaluation
+
+   Identifie comment tu te sens et trouve des ressources pour t'offrir un
+   soutien immédiat.
+   (BUTTON)
+   Faire un don J'ai besoin d'aide
+   Communique avec d'autres jeunes Forums et histoires vraies
+   (BUTTON)
+
+Cette option me convient-elle?
+
+   Explore les expériences vécues par d'autres jeunes de partout au Canada
+   pour apprendre, trouver de nouvelles idées, poser des questions, créer
+   des liens et t'inspirer au cours de ton propre cheminement vers le
+   bien-être.
+
+Visite les forums de soutien
+
+   Un espace pour créer des liens avec d'autres jeunes, raconter ton
+   histoire, donner des encouragements ou obtenir du soutien (ou tout ce
+   qui précède!).
+
+Laisse-toi être inspiré
+
+   Apprends comment d'autres jeunes ont soutenu leur bien-être.
+
+Obtiens des données
+
+   Découvre les préoccupations des autres jeunes.
+   Politique de vie privée
+   (BUTTON)
+   Faire un don J'ai besoin d'aide
+   Obtiens immédiatement de l'aide Texto
+   (BUTTON)
+
+Cette option me convient-elle?
+
+   Si tu as besoin d'aide immédiatement, tu peux parler à un de nos
+   répondant·e aux crises, qui sont des bénévoles formé·e·s pour offrir du
+   soutien; quelles que soient la difficulté et l'heure.
+
+Appuie pour texter
+
+   Obtiens un soutien immédiat en textant le mot PARLER au 686868.
+   Apprends-en plus sur les textos
+
+   Si tu t'identifies comme Autochtone, tu peux demander à être mis·e en
+   contact avec un·e répondant·e aux crises des Premières Nations, Inuit
+   ou Métis (sujet à la disponibilité) en textant PREMIÈRES NATIONS, INUIT
+   ou MÉTIS au 686868.
+   Apprends-en plus
+   Un aperçu de nos répondant·e·s aux crises bénévoles formé·e·s
+   Politique de vie privée
+   (BUTTON)
+   Faire un don J'ai besoin d'aide
+   Consulte un·e intervenant·e Appelle ou clavarde
+   (BUTTON)
+
+Cette option me convient-elle?
+
+   Communique avec un·e intervenant·e professionnel·le pour mieux
+   comprendre ce que tu vis et t'aider à faire un pas dans la direction
+   que tu souhaites emprunter.
+
+Appuie pour appeler
+
+   Obtiens du soutien par téléphone en composant le 1 800 668-6868.
+   En savoir plus sur les services d'intervention par téléphone
+
+En savoir plus sur le clavardage en direct
+
+   Clavarde en ligne avec un·e intervenant·e professionnel·le, de 19 h à
+   minuit (HE).
+   Davantage de renseignements sur nos intervenant·e·s professionnel·le·s
+   Politique de vie privée
+   (BUTTON)
+   Faire un don J'ai besoin d'aide
+   Explorer les Ressources Autour de Moi Outil interactif de soutiens au
+   bien-être
+
+À propos de Ressources Autour de Moi
+
+   Tu peux chercher les programmes de soutien en personne et virtuels, les
+   services, les applications et plus encore près de ta communauté et
+   partout au Canada en utilisant la base de données de ressources
+   vérifiées et la carte interactive de JJE.
+   Politique de vie privée
+   (BUTTON)
+   Faire un don J'ai besoin d'aide
+   Données par sujet Données sur des sujets courants
+   (BUTTON)
+
+Prêt à en savoir plus sur un problème particulier?
+
+   Vous pouvez plonger dans les données concernant des sujets de
+   conversation communs pour mieux comprendre la santé mentale au Canada.
+
+Choisir un sujet
+
+     * Anxiété
+     * Intimidation
+     * COVID-19
+     * Dépression
+     * Discrimination
+     * Alimentation malsaine
+     * Violence émotionnelle
+     * Deuil
+     * Isolement
+     * Relations
+     * Automutilation
+     * Suicide
+
+   Vous voulez en savoir plus au sujet de la santé mentale, obtenir de
+   l'aide ou vous impliquer? Consultez nos outils et ressources.
+   Apprenez-en plus à propos de votre vie privée
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T626G3P

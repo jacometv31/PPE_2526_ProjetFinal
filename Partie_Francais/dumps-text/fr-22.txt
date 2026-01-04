@@ -1,0 +1,503 @@
+   #alternate alternate alternate Heilsarmee Schweiz » 7 conseils pour
+   accroître l'espoir Flux des commentaires JSON oEmbed (JSON) oEmbed
+   (XML)
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-ND2HPS
+
+   Pour une fonctionnalité complète de ce site web, il est nécessaire
+   d'activer JavaScript.
+
+     * Contenu principal
+     * Page d'acceuil
+     * Navigation
+
+   Heilsarmee Schweiz (BUTTON) Ouvrir champ de recherche mobile (BUTTON)
+   Ouvrir la navigation
+
+   (BUTTON) Icon close Fermer navigation
+
+Navigation principale
+
+     * THÈMES & OFFRES
+     * TROUVER DE L'AIDE
+     * PARTICIPER & DONNER
+     * À PROPOS DE NOUS
+
+   (BUTTON) Ouvrir recherche
+
+Navigation par bouton
+
+     * Faire un don
+
+Méta navigation
+
+     * Portail médiatique
+     * Blog
+     * Emploi
+     * Boutique
+
+Sélecteur de langue
+
+     * de
+     * fr
+
+     * THÈMES & OFFRES (BUTTON) Ouvrir menu 1
+          +
+               o Manque aigu de logements (BUTTON) Ouvrir sous-menu 1-1
+                    # Definition
+                    # Chiffres
+                    # Raisons
+                    # Consequences
+                    # Nos offres d'aide
+                    # Questions & réponses
+               o Sans-abrisme (BUTTON) Ouvrir sous-menu 1-2
+                    # Causes
+                    # Définition
+                    # Nombre de sans-abri
+                    # Offres d'aide
+                    # Trouver une offre
+                    # Groupes à risque
+                    # Situation juridique
+                    # Comment vous pouvez aider
+               o Housing first (BUTTON) Ouvrir sous-menu 1-3
+                    # Le concept
+                    # Notre projet
+                    # Exemples de Housing first
+                    # Articles de fond
+               o Logement assisté (BUTTON) Ouvrir sous-menu 1-4
+                    # Groupes cibles
+                    # Formes de logement
+                    # Notre offre d'aide
+                    # Trouver une offre
+                    # Témoignages
+                    # Faire un don
+               o Aide et consultation sociales (BUTTON) Ouvrir sous-menu
+                 1-5
+                    # Faits & chiffres
+                    # Notre offre
+                    # Trouver une offre d'aide
+                    # Aider
+               o Vieillissement et addictions (BUTTON) Ouvrir sous-menu
+                 1-6
+                    # Introduction
+                    # Public cible
+                    # Types d'addictions
+                    # Causes
+                    # Risques
+                    # Prévention
+                    # Services et traitement
+                    # Notre offre
+               o Solitude, participation et inclusion (BUTTON) Ouvrir
+                 sous-menu 1-7
+                    # Définition
+                    # Conséquences de la solitude
+                    # Offres d'aide
+                    # Groupes à risque
+                    # Qu'est-ce qui aide à lutter contre la solitude ?
+                    # Comment vous pouvez aider
+               o Foi chrétienne (BUTTON) Ouvrir sous-menu 1-8
+                    # Bonnes raisons
+                    # Encouragement
+                    # Aperçus de la foi
+                    # Récits de foi
+                    # Nos paroisses
+               o Développement international (BUTTON) Ouvrir sous-menu 1-9
+                    # À propos de nous
+                    # Votre soutien
+                    # Pays de projets
+                    # Histoires de réussite
+                    # DDC et ZEWO
+               o Activités de jeunesse (BUTTON) Ouvrir sous-menu 1-10
+                    # A propos de nous
+                    # Evènements
+                    # Out of Town
+                    # Jobs & more
+                    # Contact
+               o brocki.ch - Secondhand
+               o Hôtels et hébergements
+               o Documents de prévoyance (BUTTON) Ouvrir sous-menu 1-13
+                    # Modèles à remplir
+                    # Conseil
+                    # Evénements d'information
+                    # Commander documents
+               o Tous les thèmes
+          + « Finding Home » - La plate-forme pour toutes celles et ceux
+            cherchant un chez-soi.
+            Vous trouverez ici des conseils et des informations sur le
+            thème du logement.
+       (BUTTON) Fermer menu 1
+     * TROUVER DE L'AIDE (BUTTON) Ouvrir menu 2
+          +
+               o Guide: Trouver un logement (BUTTON) Ouvrir sous-menu 2-1
+                    # 1. Dossier de candidature
+                    # 2. Recherche de logement
+                    # 3. Contrat de bail
+                    # 4. Conserver son logement
+                    # Questions
+                    # Glossaire
+               o Hébergements d'urgence (BUTTON) Ouvrir sous-menu 2-2
+                    # Notre offre
+                    # Services complémentaires
+                    # Trouver un hébergement d'urgence
+                    # Aperçu de nos hébergements d'urgence
+               o Autres hébergements (BUTTON) Ouvrir sous-menu 2-3
+                    # Notre offre
+                    # Trouver une offre d'aide
+                    # Témoignages
+               o Assistance ambulatoire (BUTTON) Ouvrir sous-menu 2-4
+                    # Hébergement accompagné
+                    # Étendue des prestations
+                    # Trouver une offre
+                    # « Soins à domicile »
+               o Structure quotidienne et intégration professionnelle
+                 (BUTTON) Ouvrir sous-menu 2-5
+                    # Structure d'accueil de jour
+                    # Emplois adaptés
+                    # Trouver une offre
+                    # Articles sur le sujet
+               o Aide et consultation sociales (BUTTON) Ouvrir sous-menu
+                 2-6
+                    # Faits & chiffres
+                    # Notre offre
+                    # Trouver une offre d'aide
+                    # Aider
+               o Soutien aux familles (BUTTON) Ouvrir sous-menu 2-7
+                    # À propos de notre aide aux familles
+                    # Notre offre
+                    # Trouver une offre
+               o Aide par la prière
+               o Tous les offres d'aide
+          + Manque aigu de logements
+            Il manque des logements, surtout dans les villes. Cela touche
+            surtout des personnes vivant en marge de la societé.
+       (BUTTON) Fermer menu 2
+     * PARTICIPER & DONNER (BUTTON) Ouvrir menu 3
+          +
+               o #StandByMe (BUTTON) Ouvrir sous-menu 3-1
+                    # #StandByMe, c'est quoi ?
+                    # Quel est l'effet de ta contribution?
+                    # Pourquoi s'engager contre la misère?
+                    # FAQ
+                    # Témoignages
+               o Devenir parrain(e)
+               o Faire une grande différence
+               o Legs et héritage
+               o Dons de marchandises (BUTTON) Ouvrir sous-menu 3-5
+                    # En tant qu'entreprise
+                    # En tant que particulier
+                    # Termes
+               o Travail bénévole (BUTTON) Ouvrir sous-menu 3-6
+                    # Bénévoles recherchés
+                    # Exemples d'engagement
+                    # Prendre contact
+               o Service civil
+               o Prier pour quelqu'un
+               o Participer et Donner
+          + #StandByMe
+            Avec un versement régulier du montant de ton choix, tu
+            apporteras une aide durable et efficace.
+       (BUTTON) Fermer menu 3
+     * À PROPOS DE NOUS (BUTTON) Ouvrir menu 4
+          +
+               o Vision, mission et déclaration
+               o Contact et localisation
+               o Organisation
+               o Histoire
+               o A propos de nous
+          + Rapport annuel 2024
+            Transparents, ouverts et informatifs : consultez notre rapport
+            annuel 2024
+       (BUTTON) Fermer menu 4
+
+   (BUTTON) Ouvrir recherche
+     * Portail médiatique
+     * Blog
+     * Emploi
+     * Boutique
+
+     * de
+     * fr
+
+     * Faire un don
+
+Recherchez
+
+   Recherchez ____________________ (BUTTON) Recherchez
+   (BUTTON) Icon close Fermer champ de recherche
+
+7 conseils pour accroître l'espoir
+
+   L'espoir n'est pas simplement présent ou absent. C'est quelque chose
+   que l'on peut soi-même renforcer dans sa vie. Dans cet article,
+   apprenez comment vous pouvez amener plus d'espoir dans votre quotidien,
+   indépendamment des défis que vous devez relever actuellement.
+
+   Profilfoto von Judith Nünlist
+
+   Judith Nünlist 14. novembre 2024  ·  Durée de la lecture : 5 minutes
+   ·  0 Commentaires
+
+   partager l'article
+     * Partager sur Twitter
+     * Partager sur Facebook
+     * Partager sur LinkedIn
+
+   IMG_5325
+   IMG_5325
+
+   Nous connaissons tous ces moments lors desquels la vie nous pèse. Que
+   ce soit en raison de défis personnels, de grandes problématiques comme
+   le changement climatique ou les injustices sociales : cela peut vite
+   nous sembler insurmontable. C'est justement dans ces moments que
+   l'espoir montre sa force. L'espoir, ou l'espérance, c'est bien plus
+   qu'un sentiment positif. C'est quelque chose qui peut nous porter à
+   travers les périodes difficiles et nous aider à tourner les choses pour
+   le mieux. Et le meilleur dans tout ça ? Ce n'est pas simplement présent
+   ou absent. C'est quelque chose que vous pouvez renforcer vous-même
+   activement dans votre vie.
+
+L'espoir, c'est bien plus que des rêves illusoires
+
+   Contrairement à l'optimisme, qui est simplement l'aspiration à un
+   avenir meilleur, l'espoir est axé sur l'action et est une capacité que
+   l'on peut apprendre. « Nous utilisons souvent la notion d'espoir ou
+   d'espérance au lieu de souhaits, p. ex. que l'on aimerait qu'il pleuve
+   aujourd'hui ou que quelqu'un aille bien », explique Dr Chan Hellman,
+   professeur en psychologie et directeur fondateur du Hope Research
+   Center de l'Université d'Oklahoma. « Tandis que le fait de souhaiter
+   quelque chose est passif, l'espoir est actif, on passe à l'action. »
+
+   Un espoir véritable est pourtant bien plus que des rêves illusoires. Il
+   est actif et ciblé. Le psychologue C. Rick Snyder, pionnier en matière
+   de recherche sur l'espoir, décrit l'espoir comme la capacité non
+   seulement de fixer des objectifs mais aussi de croire que l'on peut les
+   atteindre, et d'être prêt(e) à faire quelque chose pour y parvenir.
+   Cela semble prometteur n'est-ce pas ? Mais comment mettre cela en
+   pratique au quotidien ?
+
+   Voici quelques conseils ci-après pour amener plus d'espoir dans votre
+   vie et le garder.
+
+7 conseils pour accroître l'espoir dans votre vie
+
+CONSEIL N° 1 : lisez des nouvelles positives et des histoires de réussites
+(BUTTON) Ouvrir/Fermer l'article 1
+
+   « Nous sommes ce que nous mangeons. » La même chose vaut pour nos
+   pensées ! Lisez des biographies et des récits de vie de personnes qui
+   pourraient avoir un impact positif sur votre vie, par exemple sur notre
+   blog. Certains portails de nouvelles en ligne ne publient que des
+   nouvelles positives.
+
+CONSEIL N° 2 : cherchez la compagnie de personnes positives (BUTTON)
+Ouvrir/Fermer l'article 2
+
+   L'espoir fleurit lorsque nous nous entourons de personnes qui nous
+   soutiennent et nous encouragent. Trouvez une communauté qui vous
+   inspire, par exemple dans une association, dans votre cercle d'amis ou
+   encore dans l'une de nos communautés salutistes.
+
+CONSEIL N° 3 : dites-vous des mots d'encouragement ou de consolation (BUTTON)
+Ouvrir/Fermer l'article 3
+
+   Que diriez-vous à un bon ami ou une bonne amie dans la même situation ?
+   Quels mots d'encouragement ou de consolation leur donneriez-vous pour
+   la route ? Dites-vous à vous-même : « Tu peux y arriver ! ».
+
+CONSEIL N° 4 : souvenez-vous de vos succès passés (BUTTON) Ouvrir/Fermer
+l'article 4
+
+   Souvent, nous oublions ce que nous avons déjà réussi dans notre vie. Il
+   peut être alors utile de se pencher sur les succès passés pour
+   renforcer notre confiance en nous et pour envisager les défis futurs de
+   manière plus positive. Prenez régulièrement le temps de repenser à vos
+   succès passés, si petits soient-ils. Comme aide-mémoire, vous pouvez
+   tenir un petit journal de vos succès.
+
+CONSEIL N° 5 : fixez-vous de petits objectifs (BUTTON) Ouvrir/Fermer
+l'article 5
+
+   De petits objectifs sont plus faciles à atteindre. Même de petits
+   progrès, comme terminer une journée de travail ou accomplir une tâche
+   peuvent nous montrer que nous maîtrisons notre vie. Et aussi de plus
+   grands objectifs, comme l'apprentissage d'une langue étrangère, peuvent
+   être subdivisés en de petites étapes faisables. Faites une liste de vos
+   petits objectifs et cochez-les lorsqu'ils sont atteints. C'est ainsi
+   que vous rendez vos progrès visibles.
+
+CONSEIL N° 6 : puisez de l'espoir grâce à la prière (BUTTON) Ouvrir/Fermer
+l'article 6
+
+   En tant que chrétiens, nous puisons de l'espoir dans la prière. Vous
+   n'êtes pas seul(e) avec vos soucis et vos préoccupations. Sur notre mur
+   de prières, nous portons vos préoccupations et prions pour vous.
+
+CONSEIL N° 7 : trouvez de l'espoir dans la Bible (BUTTON) Ouvrir/Fermer
+l'article 7
+
+   Dans la Bible aussi, il y a de nombreux passages qui donne de l'espoir.
+   Par exemple le verset de Jérémie 29:11 : « En effet, moi, je connais
+   les projets que je forme pour vous, déclare l'Eternel, projets de paix
+   et non de malheur, afin de vous donner un avenir et de l'espérance. »
+   Mais aussi dans Psaume 23:4 ou Ésaïe 40:31, l'espérance nous est
+   promise par Dieu.
+
+Que dit la Bible sur l'espoir ?
+
+   Hoffnung_pexels-gelgas-401213
+
+L'espoir incarné
+
+   Dans cet article, vous découvrirez ce que signifie l'espoir dans une
+   perspective biblique.
+
+   Profilfoto von Judith Nünlist
+
+   Judith Nünlist 14. novembre 2024
+
+   partager l'article
+     * Partager sur Twitter
+     * Partager sur Facebook
+     * Partager sur LinkedIn
+
+   Montrer 0 Commentaires
+
+Laisser un commentaire Annuler la réponse
+       Votre adresse e-mail ne sera pas publiée. Les champs obligatoires
+       sont indiqués avec *
+       Commentaire *
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       Nom * ______________________________
+       E-mail * ______________________________
+       Site web ______________________________
+       [ ] Enregistrer mon nom, mon e-mail et mon site dans le navigateur
+       pour mon prochain commentaire.
+       Laisser un commentaire
+       D
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       This site is protected by reCAPTCHA and the Google Privacy Policy
+       and Terms of Service apply.
+
+Autres articles interessants
+
+   Ces articles pourraient également vous intéresser.
+
+   Einsamkeit, Jugendliche und Sucht
+
+   Addiction, Solitude
+
+StandByMe: Coronavirus, solitude et addiction
+
+   Nous vivons dans une situation exceptionnelle. Cette période de
+   pandémie n'est facile pour personne. De nombreuses personnes étaient et
+   sont toujours exposées à des pressions et des traumas extrêmement
+   inhabituels et forts. La solitude augmente.
+   Oswald_Hope_829
+
+   Solitude
+
+Redonner espoir grâce à la communauté
+
+   Il est normal de ne pas toujours aller bien. On peut se sentir abattu,
+   mais en principe, ce sentiment ne dure pas. Cependant, quand on souffre
+   de dépression, tout n'est pas si simple : une profonde tristesse nous
+   envahit, les pensées négatives persistent et déterminent notre
+   quotidien. C'est ce qui est arrivé à Oswald Dänzer (63 ans)
+   petra_vlatka
+
+   Foi
+
+« Tu n'es pas seule »
+
+   Petra* a subi de graves traumatismes depuis son enfance. Elle a
+   régulièrement connu la violence et la maltraitance. Finalement, elle
+   est entrée en contact avec Vlatka Krippner de l'Armée du Salut à Bâle,
+   qui l'a accompagnée sur le chemin cahoteux vers une nouvelle vie.
+
+   retour au début
+
+Informations complémentaires
+
+Newsletter
+
+   Inscrivez-vous à notre newsletter!
+     * Instagram
+       ____________________
+       Ce champ n'est utilisé qu'à des fins de validation et devrait
+       rester inchangé.
+     * E-Mail*
+       ____________________
+
+   S'abonner
+
+   D
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   IFRAME: gform_ajax_frame_7
+
+Social Media
+
+   Suivez-nous et restez ainsi bien informés!
+     * Facebook
+     * YouTube
+     * Instagram
+     * LinkedIn
+
+Navigation du pied de page
+
+     * À propos de nous
+          + Nos lieux
+          + Armée du Salut Autriche
+          + Armée du Salut Hongrie
+     * Brocante
+          + Donner des marchandises
+     * Participer
+          + Aider bénévolement
+          + Service civil
+          + Découvrir la foi
+          + Devenir officier
+          + Prier pour quelqu'un
+     * Mentions légales
+          + Protection des données
+          + Impressum
+          + Points de contact
+
+Faire un don
+
+   IBAN: CH37 0900 0000 3044 4222 5
+   Numéro d'exonération fiscale: CHE-109.029.743
+   IBAN Développement international:
+   CH18 0900 0000 3000 6709 1
+   Faire un don Pas sûr(e)?
+
+Fondation Armée du Salut Suisse
+
+   Laupenstrasse 5
+   3008 Bern
+   Tél.: +41 (0)31 388 05 91
+   E-mail: info@armeedusalut.ch
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-ND2HPS
+
+   (BUTTON)

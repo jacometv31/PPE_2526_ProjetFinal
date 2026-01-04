@@ -71,3 +71,50 @@ J'ai personnellement conçu et organisé les nouvelles sections du site afin d'y
 
 
 
+
+#### Partie Français
+
+Mot étudié : espoir 
+
+1. Au début du projet, l’objectif principal était d’étudier un mot sur le Web à travers une approche combinant la récolte des pages web, extraction linguistique et visualisation des résultats. 
+
+2. Constitution du corpus d’URLs
+
+La première étape a consisté à constituer une liste d’URLs pertinentes contenant le mot espoir. J’ai sélectionné environ cinquante pages issues de sources variées (articles de presse, sites institutionnels, revues académiques, sites religieux et culturels). Cette diversité permettait d’obtenir un corpus représentatif de différents usages discursifs du mot. Les URLS ont été regroupées dans un fichier texte servant d’entrée au script principal. je tiens à signaler que la récolte a été basée sur le fait que chaque page doit contenir au moins 2 occurences du mot espoir 
+
+3. Aspiration des pages web 
+
+Une fois les URLS identifiées j’ai procédé au téléchargement des pages HTML à l’aide de la commande curl ou chaque page a été sauvegardée localement dans un dossier dédié aux aspirations. Pour chaque URL, le code HTTP retourné par le serveur a été enregistré afin de vérifier le succès du téléchargement et de documenter les éventuelles erreurs.
+Par contre je veux signaler que lors de la récolte et prés la première aspiration je suis tombé sur plus de 5 URLS qui que le scrit ne pouvait pas traiter puisq'il affiche "erreur" , j'ai du les changer pour pouvoir continuer le reste du travail.
+
+4. Gestion de l’encodage et extraction du texte
+
+Les pages HTML récupérées présentaient des encodages variés, jai donc intégré une détection automatique de l’encodage à l’aide de la commande file, suivie d’une conversion en UTF-8 lorsque cela était nécessaire grâce à iconv. Le texte brut a ensuite été extrait à partir du HTML avec lynx, en supprimant les liens inutiles. Cette étape était essentielle pour garantir l’homogénéité du corpus textuel et permettre les traitements linguistiques ultérieurs. Le fait de rajouter l'option de conversion a été utile comme le montre l'url  numéro 4 ou l'encodage de base était asci ensuite il a été converti grace à iconv en utf8.
+
+5. Comptage des occurrences du mot espoir
+
+À partir des fichiers texte nettoyés j’ai procédé au comptage des occurrences du mot espoir et de ses variantes morphologiques à l’aide d’expressions régulières ( pour pouvoir matcher les différentes variantes du mmot espoir) . Ce comptage a permis d’obtenir une première mesure quantitative de la présence du mot dans chaque document, puis les résultats ont été intégrés au tableau HTML final, offrant une vue synthétique du poids du mot dans chaque source.
+
+6. Extraction des contextes
+
+Pour analyser le mot étudié dans son environneemnt, j’ai extrait les contextes d’apparition de espoir en conservant plusieurs lignes avant et après chaque occurrence. Ces contextes ont été stockés dans des fichiers spécifiques (contextes). Cette étape m’a permis d’observer les usages discursifs du mot, les thèmes récurrents et les constructions syntaxiques associées.
+
+7. Création des concordances
+
+À partir des textes complets, j’ai construit des concordances. Chaque occurrence de espoir a été affichée dans un tableau avec un contexte gauche et un contexte droit de taille fixe. Les concordances ont été mises en forme dans des fichiers HTM facilitant leur lecture et leur exploitation. 
+
+8. Analyse des cooccurrences et spécificité de Lafon
+
+J’ai ensuite travaillé sur les cooccurrences du mot espoir en analysant les mots apparaissant fréquemment dans son voisinage, pour dépasser une simple liste de fréquences, j’ai utilisé la mesure de spécificité de Lafon, il s'agit du script python (cooccurents.py) qui nous a été recomandé, je l'ai récupéré pui je l'ai lancé sur mon corpus , le résultat était sous forme de tableau tsv ce qui a permis de mette en évidence les mots statistiquement sur-représentés autour du terme étudié. Cette analyse a permis d’identifier des associations lexicales fortes et de dégager le champ sémantique dominant lié à espoir.
+
+9. Génération du nuage de mots
+Concernant le nuage de mots je tiens à signaler que j'ai eu l'dée de faire deux nuages de mots, le premier à partir du tableau tsv 'spécificité de Lafon puisque il me parait plus plausible pour éviter les mots insensés autour du mot central "espoir" 
+Le second nuage de mot a été fait à partir des contextes, ce qui a donné un résultat moins précis, je trouve, par rapport au premier 
+
+10. Construction du tableau HTML récapitulatif
+
+L’ensemble des résultats (URL, autorisation robots.txt, code HTTP, encodage, nombre d’occurrences, liens vers les fichiers générés) a été regroupé dans un tableau HTML automatiquement généré par le script principal. Ce tableau sert de point d’entrée vers l’ensemble des données produites et garantit la traçabilité du traitement pour chaque URL.
+
+11. Mise en ligne et intégration au site du projet
+
+Enfin, les résultats (tableaux, nuages de mots, analyses) ont été intégrés au site web du projet commun avec mes collègues. Une section spécifique a été consacrée à mon travail sur le mot espoir en français, permettant de présenter de manière claire et structurée les différentes analyses réalisées.

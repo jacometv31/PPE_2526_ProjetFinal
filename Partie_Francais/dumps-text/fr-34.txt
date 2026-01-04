@@ -1,0 +1,1806 @@
+   #L'espoir dans l'analyse économique : de l'approche psychologique à une
+   conception transactionnelle et institutionnelle OEconomia, Numéros
+   OEconomia, Documents
+
+   Navigation - Plan du site
+
+OEconomia OEconomia
+
+   History, Methodology, Philosophy
+
+   AccueilNuméros14-2Recent Shifts in the Boundaries o...L'espoir dans
+   l'analyse économiqu...
+
+   Recherche___________ (BUTTON) Chercher
+   Sommaire - Document précédent - Document suivant
+   14-2 | 2024
+   Recent Shifts in the Boundaries of Economics: Philosophy and History
+   Recent Shifts in the Boundaries of Economics: Philosophy and History
+
+L'espoir dans l'analyse économique : de l'approche psychologique à une
+conception transactionnelle et institutionnelle
+
+   Hope in Economic Analysis: From the Psychological Approach to a
+   Transactional and Institutional Conception
+   Emmanuel Petit
+   p. 195-225
+   https://doi.org/10.4000/120ii
+   Résumé | Index | Plan | Texte | Bibliographie | Notes | Citation |
+   Auteur
+
+Résumés
+
+   Français English
+
+   Les émotions ont été progressivement intégrées dans l'analyse
+   économique depuis une trentaine d'années. L'espoir demeure cependant
+   une émotion peu mobilisée par les économistes. Aucun des concepts
+   proches couramment utilisés ne correspond à la définition consensuelle
+   que l'on trouve en psychologie. En s'appuyant sur des notions comme les
+   attentes, les aspirations, l'optimisme, les anticipations ou même la
+   confiance, l'économie comportementale fournit les premiers jalons
+   (certes insuffisants) d'une théorie économique de l'espoir. En nous
+   reposant sur la théorie psychologique de Richard Snyder, et en la
+   comparant à l'approche transactionnelle de John Dewey, nous montrons
+   que l'espoir peut être perçu comme un mode de conduite capable de
+   produire une transformation des comportements individuels. En
+   mobilisant la théorie institutionnelle de John Commons - et notamment
+   la notion de « futurité » - il apparaît que la conception
+   transactionnelle de l'espoir approfondit la nature des anticipations
+   dans la théorie institutionnelle.
+
+   Emotions have been gradually integrated into economic analysis over the
+   past thirty years. Hope, however, remains an emotion little mobilized
+   by economists. None of the closely related concepts of common use in
+   economics corresponds to the consensual definition found in psychology.
+   By relying on notions such as expectations, aspirations, optimism,
+   anticipations or even confidence, behavioral economics provides the
+   first (admittedly insufficient) milestones for an economic theory of
+   hope. By relying on the psychological theory of Richard Snyder, and
+   comparing it to the transactional approach of John Dewey, we show that
+   hope can be perceived as a mode of conduct capable of producing a
+   transformation in individual behavior. By mobilizing the institutional
+   theory of John Commons--and in particular the notion of "futurity"--it
+   appears that the transactional conception of hope deepens the nature of
+   anticipations in institutional theory.
+   Haut de page
+
+Entrées d'index
+
+Mots-clés :
+
+   espoir, théorie psychologique, comportement, anticipation, Snyder
+   (Richard), Commons (John R.), Dewey (John)
+
+Keywords:
+
+   hope, psychological theory, behavior, anticipation, Snyder (Richard),
+   Commons (John R.), Dewey (John)
+   Haut de page
+
+Plan
+
+   1. L'espoir, une dimension négligée par l'approche économique
+   1.1 Les fondements psychologiques de l'espoir
+   1.2 La dimension opérationnelle et motivationnelle propre à l'espoir
+   1.3 Résumé
+   2. L'apport de l'économie comportementale : anticipations, optimisme et
+   aspirations
+   2.1 Des concepts proches mais distincts : aspirations, confiance,
+   optimisme et anticipations
+   2.2 La dimension processuelle et comportementale de l'espoir
+   2.3 Les insuffisances de la théorie psychologique et comportementale de
+   l'espoir
+   3. L'espoir, un élément moteur de la transformation sociale
+   3.1 Les points de convergence
+   3.2 Les éléments de différenciation
+   3.3 L'espoir, un vecteur de transformation
+   4. L'inscription de l'espoir dans la futurité de John Commons
+   4.1 Temps, futurité et anticipation chez Commons
+   4.2 Anticipation, imagination et émotion chez John Dewey
+   Conclusion
+   Haut de page
+
+Texte intégral
+
+   PDF 500k Partager par e-mail
+
+   1Depuis la revue séminale d'Elster (1998), une abondante littérature a
+   révélé l'intérêt croissant des économistes autour de la question des
+   émotions (Rick et Loewenstein, 2008 ; Petit, 2015 ; Gomes, 2017). Comme
+   dans de nombreuses disciplines académiques, les économistes ont
+   accompagné (certes avec un peu de retard) ce que les historiens ont
+   appelé « le tournant émotionnel » (Plamper, 2010), un extraordinaire
+   engouement né au milieu des années 1990 pour l'étude des émotions.
+   L'introduction de l'émotion dans l'analyse économique a été effectuée
+   essentiellement à partir d'une conception psychologique et neurologique
+   de l'émotion. Comme le suggérait Elster (1998), cette conception a
+   permis (i) de ranger l'émotion dans des catégories facilement
+   mobilisables par les économistes, (ii) de lui donner une définition
+   fonctionnelle (multi-componentielle) particulièrement adaptée à
+   l'individualisme méthodologique pratiqué en économie expérimentale et
+   comportementale et surtout (iii) de fournir des instruments de mesure
+   et d'induction des émotions précis et efficaces.
+
+   2Les économistes ont extrait de la psychologie des émotions les
+   éléments les plus pertinents pour leur étude des phénomènes sociaux et
+   ils se sont évertués à utiliser les concepts de la psychologie les plus
+   susceptibles de prolonger le cadre théorique du paradigme dominant en
+   économie. En s'adossant à la psychologie, du point de vue de la méthode
+   (expérimentale) aussi bien qu'au niveau de la définition même de ce
+   qu'est l'émotion (l'humeur, les affects ou les sentiments), les
+   économistes ont adopté une démarche compatible avec l'individualisme
+   méthodologique caractéristique de la discipline. L'émotion est intégrée
+   dans le logiciel de l'économiste tout en préservant les hypothèses
+   centrales et les principes de l'analyse : on suppose que les individus
+   sont le plus souvent à la recherche de leur intérêt personnel et qu'ils
+   sont rationnels (même s'il est admis que cette rationalité peut être
+   « limitée »).
+     * 1 Voir, par exemple, Stets et Turner (2014) en sociologie,
+       Goldie (2009) en philosophie, Beatty (2019 (...)
+
+   3Cependant, la théorie des émotions ne peut être réduite à la seule
+   approche psychologique ou neurologique. La théorie des émotions qui
+   s'est constituée progressivement au cours du vingtième siècle recouvre
+   en effet un champ d'analyse beaucoup plus large. D'autres disciplines -
+   comme la sociologie, la philosophie, l'anthropologie, l'histoire, la
+   science politique ou encore la littérature - ont, elles aussi,
+   construit une théorie des émotions élaborée et féconde1. La conception
+   des émotions dans ces disciplines s'écarte de l'approche fonctionnelle
+   produite par la psychologie et dans laquelle l'émotion est
+   essentiellement ressentie par le sujet ou « intériorisée ». Elle met en
+   revanche l'accent sur les composantes sociales, historiques et
+   culturelles de l'émotion.
+
+   4L'analyse économique a ainsi vocation à se nourrir de ces nouvelles
+   approches pour appréhender, par exemple, le rôle de la peur, de la
+   colère, voire de la culpabilité sur le plan individuel mais aussi au
+   niveau des collectifs et des institutions (Petit, 2022). Il est donc
+   possible d'envisager, par l'intermédiaire de l'émotion, une ouverture
+   disciplinaire de l'économie plus forte que celle induite par
+   l'introduction des concepts et des méthodes de la psychologie ou de la
+   neurologie. Développer une économie des émotions plus riche et plus
+   complète rend en effet nécessaire de connaître et de puiser dans les
+   différentes approches de l'émotion, en ne se limitant pas à la seule
+   conception de la psychologie et/ou de la neurologie.
+
+   5L'objectif de notre article est de montrer qu'il est possible de
+   déplacer la focale d'une analyse individuelle de l'émotion centrée sur
+   la psychologie en élaborant une analyse transactionnelle et
+   institutionnelle véritablement pluridisciplinaire. Dans cet article,
+   nous nous concentrons sur l'étude d'une seule émotion, l'espoir. Comme
+   nous le verrons, l'espoir est une émotion complexe qui a été peu
+   mobilisée par les économistes, ceux-ci privilégiant des émotions
+   cognitives, comme le regret ou la déception, ou des émotions sociales,
+   comme l'envie, la culpabilité ou même la gratitude. L'espoir possède
+   cependant des spécificités qui sont en lien avec des concepts utilisés
+   fréquemment par les économistes, comme la confiance, les anticipations
+   ou même les aspirations. L'espoir est notamment une donnée essentielle
+   de compréhension des comportements individuels face aux enjeux
+   environnementaux (changement climatique), aux conflits géopolitiques ou
+   militaires, et plus généralement, en lien avec les réformes économiques
+   structurelles impulsées par l'État (retraites, travail, fiscalité,
+   santé, etc.). L'analyse économique a donc vocation à se nourrir d'une
+   conception de l'espoir étayée et féconde.
+
+   6Notre article est structuré de la façon suivante. Nous partons tout
+   d'abord (première section) du constat que l'espoir est une émotion
+   délaissée par l'analyse économique traditionnelle et qu'aucun concept
+   ne correspond à la définition classique de l'espoir que l'on trouve
+   dans la théorie psychologique de Snyder (2002). Nous montrons ensuite
+   que l'on doit aux travaux récents en économie expérimentale et
+   comportementale la construction des premiers jalons d'une analyse
+   économique de l'espoir. Adossés principalement à l'économie du
+   bonheur (Senik, 2014), ces premiers jalons reposent sur des concepts
+   connexes issus de la psychologie - comme la confiance, l'optimisme, les
+   attentes ou encore les aspirations des individus (deuxième section).
+   Dans un troisième temps, nous comparons la portée de l'analyse
+   psychologique (positive) de Snyder (2002) avec celle du philosophe
+   pragmatiste John Dewey. Nous montrons ainsi que l'espoir, dans une
+   visée pragmatiste transactionnelle, peut être perçu comme un mode de
+   conduite susceptible de produire une transformation des comportements
+   individuels (troisième section). Enfin, nous mobilisons la théorie
+   institutionnelle de John Commons - et notamment la notion de
+   « futurité » - de façon à montrer que la conception transactionnelle de
+   l'espoir de Dewey permet d'approfondir la nature des anticipations dans
+   la théorie institutionnelle (quatrième section).
+
+1. L'espoir, une dimension négligée par l'approche économique
+
+   7Dans la revue proposée par Elster (1998), l'espoir correspond à une
+   catégorie d'émotions particulière qui, au même titre que la peur,
+   décrit les émotions suscitées par la pensée de ce qui est susceptible
+   d'arriver. Elster (1998) n'en dit cependant pas davantage. Et, comme
+   l'ont souligné à juste titre Pecchenino (2011 ; 2015) et plus récemment
+   Pleeging et al. (2020), l'espoir, comme c'est le cas aussi de la peur
+   (Petit, 2022), a été de fait très peu mobilisé par les économistes.
+   Certes, il existe des travaux économiques qui y font explicitement
+   référence (Hirschman, 1971 ; 1982 ; Scitovsky, 1978 ; McCloskey, 2008 ;
+   Duflo, 2012). Hirschman (1971) a, par exemple, identifié un biais lié à
+   l'espoir qui correspond au fait que des anticipations (non fondées)
+   portant sur l'issue du processus de changement (induit par des
+   réformes) peuvent nuire au développement des pays du Sud. De même,
+   Duflo (2012) a évoqué la façon dont l'absence d'espoir peut empêcher
+   des individus de sortir de la trappe à pauvreté. Ces différents travaux
+   précurseurs indiquent un intérêt croissant pour cette émotion mais
+   n'intègrent pas toutefois la complexité qu'elle recouvre.
+
+   8Pour aller plus loin, l'analyse économique a vocation à bénéficier de
+   la théorie psychologique de l'espoir et, en particulier, de celle de
+   Snyder (2002). L'intérêt de cette approche pour les économistes est
+   qu'elle repose sur une conception individuelle de l'espoir, qu'elle
+   privilégie une orientation cognitive tout en préservant une logique bi
+   factorielle (cognitive et émotionnelle ; Delas et al., 2015). Par
+   ailleurs, la théorie de Snyder (2002) s'appuie sur une mesure
+   psychologique de l'espoir précise et quantifiable (Snyder et al.,
+   1991 ; Snyder, 1995). Nous présentons ci-dessous les principaux aspects
+   (simplifiés) de la théorie de Snyder (2002) en montrant qu'elle
+   constitue un outil potentiellement mobilisable par les économistes.
+
+1.1 Les fondements psychologiques de l'espoir
+
+     * 2 Nous reprenons la traduction du texte de Snyder effectuée par
+       Delas et al. (2015).
+
+   9Chez Snyder (2002), l'espoir se définit comme « un état motivationnel
+   positif qui se base sur une interaction entre l'énergie et la
+   motivation orientées vers les buts (composante motivationnelle), ainsi
+   que les différentes manières de les atteindre (composante
+   opératoire) »2. Le modèle intégratif de Snyder permet d'associer
+   cognitions et émotions au sein d'une même structure. Les émotions
+   découlent notamment de la perception de succès qui est mesurée par
+   l'écart entre le but fixé et le résultat obtenu. Les émotions jouent
+   ainsi à de multiples niveaux (sur la façon par exemple dont on apprécie
+   les buts que l'on se fixe) et aussi dans la réalisation de ce but.
+
+   10Le modèle est cependant en priorité cognitif et met au centre de
+   l'analyse les buts (généralement identifiés comme spécifiques et non
+   vagues) recherchés par l'individu. Pour les économistes, ces buts
+   peuvent se ramener simplement aux objectifs individuels définis pour
+   les consommateurs (la maximisation de l'utilité) ou les producteurs (la
+   maximisation du profit). L'important dans le modèle de Snyder (2002)
+   est de définir quelle est la probabilité de succès d'obtention de ces
+   buts, probabilité qui va mobiliser (ou non) le comportement de
+   l'individu. Dans le modèle, la probabilité de succès présente un niveau
+   optimal qui permet d'engager les ressources (cognitives, affectives ou
+   énergétiques) nécessaires à l'atteinte des buts définis selon les
+   standards de l'individu. Ainsi, un but qui offre une probabilité de
+   succès faible (proche de zéro) découragera les individus et les
+   orientera vers d'autres objectifs plus accessibles. Inversement, un but
+   pour lequel le succès est garanti (ou presque sûr) ne nécessite pas d'y
+   engager de l'espoir. Par conséquent, la probabilité de succès anticipée
+   doit être suffisante (mais pas trop élevée non plus) pour générer de
+   l'espoir.
+
+   11L'on voit ici que les économistes ont vocation à intégrer un modèle
+   qui repose sur une probabilité optimale de succès susceptible de
+   déclencher une action en vue de la réalisation d'un objectif. Cette
+   probabilité peut être anticipée, anticipation qui peut être rationnelle
+   (dépendant en particulier de facteurs objectifs) ou non rationnelle
+   (laissant notamment la place à une forme de subjectivité). Dans ce
+   modèle, la probabilité peut ainsi dépendre de l'environnement du sujet
+   mais aussi de facteurs individuels, ce qu'une approche économique peut
+   également introduire. En particulier, le développement initial de
+   l'espoir détermine le niveau « dispositionnel » propre à chaque
+   individu. Un individu peut ainsi présenter un niveau plus ou moins
+   élevé d'espoir (tel qu'il est mesuré par l'échelle de trait proposée
+   par Snyder et al., 1991) au regard de ses antécédents. Ce niveau
+   (considéré dans le modèle comme relativement stable) jouera sur le
+   choix des buts à atteindre et notamment sur leur valeur perçue. La
+   valeur perçue d'un objectif dépend ainsi de critères comme l'intérêt
+   personnel (ce but compte-t-il pour moi ?), du niveau de difficulté
+   perçu et de son évaluation (est-il accessible ou non au regard de mes
+   capacités ?) ou encore des bénéfices escomptés (quels sont les gains
+   attendus ?). La définition d'un but, évaluée au regard de la
+   probabilité d'obtention de ce but, montre de quelle façon l'espoir peut
+   être intégré dans le logiciel de l'économiste basé sur l'optimisation
+   et la probabilité d'occurrence des évènements.
+
+1.2 La dimension opérationnelle et motivationnelle propre à l'espoir
+
+   12Cette approche instrumentale de l'espoir est confortée également par
+   l'insistance de Snyder (2002) sur la dimension opérationnelle ou
+   opératoire de l'espoir. Si l'existence des buts est avérée, la question
+   se pose en effet de savoir comment les satisfaire au mieux. Snyder
+   (2002) suppose en particulier que les individus mettent en place des
+   stratégies qu'ils évaluent eux-mêmes. Chez des personnes poursuivant
+   des buts spécifiques ou ciblés, un haut niveau d'espoir suggère la
+   recherche active de moyens (comme, par exemple, la recherche
+   d'informations) permettant d'atteindre ces buts. Ces personnes, qui
+   possèdent un degré d'espoir élevé, sont aussi capables de développer
+   des pensées positives afin de trouver des solutions alternatives, en
+   particulier lorsqu'elles font face à des difficultés. Elles utilisent
+   par exemple des « mantras » - « je vais y arriver » - et voient les
+   difficultés comme autant d'opportunités à les dépasser.
+
+   13Comme l'indique la définition de l'espoir donnée par Snyder (2002),
+   le modèle comporte également une dimension motivationnelle (qu'il faut
+   dissocier de la dimension opératoire). Cette dimension renvoie à la
+   confiance et à la volonté qu'un individu déploie pour atteindre un
+   résultat espéré. L'importance de cette dimension provient du fait que,
+   dans le cas de l'espoir, ce qui compte le plus souvent, c'est de savoir
+   comment une personne se comporte lorsqu'elle est confrontée à des
+   obstacles difficiles à surmonter. Le modèle insiste ainsi sur la
+   présence de la volonté qui permet de canaliser l'énergie et la
+   motivation nécessaire vers l'alternative la plus appropriée (Snyder,
+   1995).
+
+1.3 Résumé
+
+   14Dans la théorie de Snyder (1995 ; 2002), l'espoir nécessite
+   conjointement d'avoir la capacité d'élaborer différentes manières
+   d'atteindre des objectifs (composante opérationnelle) et une motivation
+   suffisante pour mettre en oeuvre ces moyens. Tout l'intérêt du modèle
+   de Snyder pour les économistes repose donc sur son aptitude à faire
+   fonctionner simultanément une dimension cognitive et organisationnelle
+   (je planifie des buts et j'identifie des moyens) avec une dimension
+   affective et motivationnelle (je possède l'énergie pour atteindre ces
+   buts).
+
+   15La théorie de l'espoir de Snyder (2002) identifie bien les éléments
+   principaux qui caractérisent l'espoir dans la littérature scientifique
+   (intégrant une approche pluridisciplinaire) se focalisant sur l'espoir
+   dans une perspective individuelle (Pleeging et al., 2022). Ces éléments
+   de définition (qui font consensus dans la littérature) impliquent que
+   l'espoir comprend : (1) un désir, (2) une estimation probabiliste
+   (c'est-à-dire, une prévision ou une anticipation) de réalisation de ce
+   désir et (3) et une façon de gérer l'incertitude inhérente au fait que
+   l'individu verra ou non ses espoirs réalisés. On retrouve les
+   dimensions essentielles de la théorie de Snyder (2002) : la définition
+   d'un but (le désir), la probabilité de succès et la mise en oeuvre
+   d'une stratégie (cognitive et motivationnelle) visant à atteindre ce
+   but.
+
+   16Comme nous l'avons déjà souligné, il n'y a pas, à notre connaissance,
+   dans la littérature économique standard, de travaux reprenant cette
+   articulation de l'espoir. Dans la synthèse proposée par Delas et al.
+   (2015), les domaines d'applications privilégiés de la théorie
+   psychologique de l'espoir de Snyder concernent la santé, le sport,
+   l'éducation et, plus généralement, le lien entre l'espoir et la
+   performance. À l'exception de quelques travaux d'application sur le
+   travail (e.g., Santilli et al., 2014), rien n'est proposé en économie.
+   Il existe pourtant dans l'analyse économique des travaux émergents qui
+   tentent d'appréhender certains éléments qui touchent à l'espoir. C'est
+   notamment par le biais de l'économie expérimentale et comportementale
+   qu'il a été possible d'introduire des notions qui se rapprochent de
+   l'espoir (Pleeging et Burger, 2020). Ces notions - comme celles
+   d'aspiration, d'optimisme, d'attente et/ou de confiance - ont elles
+   aussi été forgées en relation étroite avec la psychologie cognitive.
+
+2. L'apport de l'économie comportementale : anticipations, optimisme et
+aspirations
+
+   17Comme nous l'avons vu, l'espoir comporte à la fois un désir (un but
+   ou un objectif), une probabilité d'obtention de cet objectif, qui
+   correspond à une anticipation, et la conscience que, le succès étant
+   incertain, il est nécessaire de guider l'espoir (en s'en donnant les
+   moyens) pour atteindre ce désir. Ces trois éléments de définition
+   traduisent le fait qu'exprimer de l'espoir implique que l'individu
+   souhaite la réalisation de ce sur quoi porte son espoir, qu'il pense
+   que cet objectif est réalisable, mais incertain, et qu'il a pleinement
+   conscience de cette incertitude. Ainsi caractérisé, l'espoir se
+   rapproche et se distingue des notions récemment introduites en économie
+   comportementale et notamment des aspirations, des anticipations ou des
+   attentes (expectations), de l'optimisme et de la confiance (Pleeging et
+   al., 2022).
+
+2.1 Des concepts proches mais distincts : aspirations, confiance, optimisme
+et anticipations
+
+   18Les aspirations ont été très tôt intégrées par l'économie du bonheur
+   (Senik, 2014). Elles permettent notamment de fournir une explication
+   convaincante au célèbre « paradoxe d'Easterlin » (Easterlin, 2001). Les
+   aspirations correspondent au désir de l'individu d'atteindre certains
+   objectifs, pour lesquels ce dernier est prêt à consentir un certain
+   effort ou à investir du temps ou de l'argent. Il semble que nos
+   aspirations ne soient pas fixes dans le temps et qu'elles évoluent à la
+   hausse au fur et à mesure que nos objectifs initiaux sont réalisés.
+   Ainsi, l'accumulation de la richesse s'accompagnerait d'une
+   augmentation simultanée des aspirations individuelles. Autrement dit,
+   plus je m'enrichis, plus je désire le faire. Couplé à un effet de
+   comparaison sociale (la richesse d'autrui augmente et c'est l'écart de
+   richesse, et non la richesse absolue, qui me procure une satisfaction),
+   cette augmentation des aspirations expliquerait que l'accroissement
+   durable des richesses dans une nation ne soit pas synonyme d'une hausse
+   du bonheur déclaré par ses habitants (le fameux paradoxe d'Easterlin,
+   2001).
+
+   19Pour utile qu'il soit, le concept d'aspirations mobilisé par les
+   économistes du bonheur n'est pas l'équivalent de l'espoir. Les
+   aspirations sont bien du côté du désir mais n'intègrent pas en
+   revanche, la dimension d'incertitude propre à l'espoir. Exprimer un
+   espoir suggère que nous sommes conscients que nous n'obtiendrons pas
+   nécessairement ce que nous désirons, alors qu'aspirer à quelque chose
+   ne dépend pas du fait de savoir si ce que nous convoitons est
+   accessible ou non.
+
+   20Les anticipations ou attentes (expectations), la confiance et
+   l'optimisme des individus ont également largement été utilisés par
+   l'économie comportementale. Les anticipations désignent notamment les
+   hypothèses (favorables ou défavorables) que nous formulons sur le futur
+   et qui peuvent concerner notre vie en général ou porter de façon plus
+   précise sur l'évolution de notre niveau de vie ou sur nos perspectives
+   de retraite. Certaines études montrent que l'optimisme - i.e., la
+   formulation d'hypothèses favorables - a un effet positif sur le
+   bien-être individuel et la santé des individus (Pleeging et Burger,
+   2020). Parce qu'il est apprécié en tant que tel (dans la fonction
+   d'utilité de l'agent), l'optimisme permet ainsi d'expliquer la conduite
+   d'agents qui investissent dans des loteries pour le simple plaisir de
+   formuler des anticipations (de gains) positives (Senik, 2008). Dit
+   simplement, on joue pour avoir le plaisir de formuler une attente
+   positive. À proximité des attentes, l'indice de confiance (des
+   producteurs ou consommateurs) désigne la croyance que les
+   développements économiques futurs seront profitables (et qu'en
+   conséquence il existe des opportunités à investir ou à consommer).
+
+   21Ces différentes notions - anticipations, optimisme et confiance -
+   sont proches du concept d'espoir. À nouveau, cependant, elles s'en
+   différencient notamment parce que les anticipations n'impliquent pas
+   nécessairement le désir de l'individu. On peut naturellement formuler
+   des anticipations qui correspondent à ce que l'on désire, mais le fait
+   de former des hypothèses sur l'avenir n'induit pas que l'on souhaite
+   que ces prédictions soient réalisées, même si on les considère comme
+   étant positives. L'espoir qu'un évènement survienne implique, au
+   contraire, le souhait que cette attente soit réalisée. Comme l'a
+   cependant souligné Swedberg (2017), la confiance recouvre dans une
+   certaine mesure l'espoir, la différence essentielle étant que la
+   confiance se focalise sur les attentes autour de ce qui va arriver,
+   alors que l'espoir est nourri d'aspirations et de désirs. Bien que ce
+   qui va arriver puisse coïncider avec ce que l'on veut qu'il arrive, ce
+   n'est pas systématiquement le cas. L'espoir ne se dissout donc pas dans
+   la confiance.
+
+2.2 La dimension processuelle et comportementale de l'espoir
+
+   22Les distinctions que nous avons mises en évidence entre l'espoir et
+   les concepts « connexes » que l'économie comportementale s'est
+   appropriée depuis plusieurs années sont importantes dans la mesure où
+   elles ont une incidence quant à la dimension expérientielle et
+   comportementale de l'espoir. Trois points sont à souligner :
+     * en mettant tout d'abord en évidence que l'espoir se nourrit d'un
+       désir, on valide le fait que cette émotion nous permet d'identifier
+       ce que les individus valorisent. Comme le suggère ainsi
+       Livet (2002), l'émotion est un révélateur de nos préférences ou de
+       nos valeurs fondamentales, en particulier lorsqu'elle persiste et
+       qu'aucune révision de nos attitudes et/ou de nos croyances n'est
+       susceptible de la mettre sous le boisseau. Continuer à espérer, en
+       dépit de tendances contraires ou d'un environnement hostile,
+       constitue bien une façon de révéler ce à quoi nous tenons vraiment.
+       Contrairement à de simples anticipations, les espoirs individuels
+       portent sur ce que les gens pensent qu'il peut arriver mais,
+       surtout, sur ce qu'ils veulent qu'il arrive ;
+     * ensuite, comme toute émotion, l'espoir constitue un moteur
+       essentiel de l'action. L'espoir possède donc une dimension
+       instrumentale. Il sert à quelque chose, il a une fonction. Un
+       individu sans emploi sera ainsi davantage incité à en trouver un
+       s'il a l'espoir que cela se réalisera. Sur le plan psychologique,
+       la « tendance à l'action » (Frijda, 1986) de l'espoir (qui est à
+       rapprocher de celle d'intérêt) est notamment la mobilisation,
+       l'engagement, l'attention, la disposition à l'effort, la motivation
+       ou encore l'implication. Davantage, et de façon presque paradoxale,
+       la dimension d'incertitude associée à l'espoir, et la connaissance
+       que nous en avons, renforce son pouvoir de motivation : tant que
+       nos espoirs demeurent non réalisés et incertains, nous avons besoin
+       de persister dans nos actions pour favoriser leurs réalisations (ce
+       qui n'est pas forcément le cas avec nos anticipations qui, de façon
+       générale, n'impliquent pas d'initier une action quelconque) ;
+     * enfin, dans le même ordre d'idées, mais de façon plus précise,
+       l'espoir implique également, en lien avec le caractère incertain
+       qui y est associé, que nous ayons conscience des obstacles qui sont
+       à surmonter si l'on désire réellement la réalisation de nos
+       objectifs espérés (Snyder, 2002). L'espoir nous renseigne ainsi sur
+       notre façon de « naviguer », donc de nous comporter, dans un régime
+       marqué par l'incertitude. Autrement dit, sur le plan
+       comportemental, l'espoir possède un caractère processuel, ou de
+       long terme, que ne comporte pas l'attente ou l'anticipation (qui
+       est plus inerte). Être en « attente » ou dans « l'expectative »
+       suggère en effet une forme de passivité.
+
+   23En résumé, l'espoir est lié au désir individuel, à la probabilité
+   d'occurrence d'un évènement, à son anticipation, et à la notion
+   d'incertitude qui y est associée. L'espoir est une émotion qui comporte
+   des dimensions spécifiques concernant le comportement individuel. Sur
+   ce plan, en particulier, elle se distingue de l'aspiration et de
+   l'anticipation. L'espoir nous renseigne en particulier sur ce que les
+   gens désirent tout autant que sur la façon dont ils sont prêts à se
+   comporter pour atteindre leurs objectifs désirés. Même si,
+   naturellement, il ne peut y avoir de parfaite corrélation entre espoir
+   et comportement, l'espoir constitue un bon prédicteur de nos attitudes.
+
+2.3 Les insuffisances de la théorie psychologique et comportementale de
+l'espoir
+
+   24Dans ce qui précède, nous avons insisté sur la dimension
+   « expérientielle » de l'espoir. Cette approche est privilégiée par
+   l'économie comportementale parce qu'elle repose sur la dimension
+   individuelle de l'expérience (désir, estimation/anticipation des
+   chances, attitude face à l'incertitude). Comme le montrent cependant
+   Pleeging et al. (2022), à partir d'une lecture extensive et
+   pluridisciplinaire (philosophie, sociologie, anthropologie, histoire,
+   etc.) de la littérature, une autre approche de l'espoir est
+   envisageable. Il s'agit notamment de prendre en compte le contexte
+   social ou environnemental dans lequel naît l'espoir. L'absence de ce
+   contexte et la focalisation sur l'individu constituent en effet deux
+   limites bien identifiées de la théorie de l'espoir de Snyder (Delas et
+   al., 2015).
+
+   25De façon schématique, prendre en compte la dimension sociale de
+   l'espoir suppose que la façon dont nous l'éprouvons, la façon dont
+   celui-ci guide (ou non) nos comportements, dépendent, en grande partie,
+   de la culture dans laquelle nous sommes insérés ou encore de la façon
+   dont les buts sur lesquels portent nos espoirs peuvent être partagés
+   par autrui. La dimension « partagée » de l'espoir apparaît notamment
+   centrale au niveau du désir, de l'estimation des chances et de
+   l'attitude qu'elle induit chez l'individu. La plupart du temps, il est
+   vain en effet d'être le seul à espérer. Cela a du sens au contraire de
+   nourrir une aspiration commune visant, par exemple, à ce que le
+   problème posé par la crise climatique trouve une solution acceptable et
+   pérenne. De même, l'estimation des chances (que ce problème soit
+   résolu) dépend de la confiance (objet de partage) dans les progrès
+   scientifiques et techniques permettant d'atténuer la hausse des
+   températures. Enfin, dans la mesure où l'espoir dépend en grande partie
+   de la solidarité et du comportement d'autrui, l'incertitude et la
+   confiance jouent un rôle social fondamental. L'incertitude peut ainsi
+   constituer un moteur de l'action en renforçant la résolution à
+   continuer à espérer face à une adversité croissante, comme c'est le cas
+   pour le changement climatique (Ojala, 2012).
+
+   26La prise en compte de la dimension sociale et culturelle de l'espoir
+   est un enjeu qui interroge aussi les économistes. Sur le plan
+   méthodologique, cependant, l'approche des économistes du comportement -
+   basée sur l'individualisme méthodologique - explique leur proximité
+   avec la théorie psychologique de l'espoir, et notamment potentiellement
+   avec celle de Snyder (2002). Si l'on souhaite dépasser cette logique
+   purement individuelle en intégrant la dimension sociale, culturelle et
+   collective de l'espoir, il est nécessaire de ne plus se focaliser sur
+   une analyse psychologique individuelle mais de tenter d'élaborer une
+   approche transactionnelle et institutionnelle véritablement
+   pluridisciplinaire. En nous appuyant en particulier sur la comparaison
+   effectuée par Fishman et McCarthy (2005), entre la théorie de l'espoir
+   de Snyder et la conception de l'auteur pragmatiste John Dewey, nous
+   montrons que l'espoir peut se définir, avant tout, par une capacité de
+   transformation des habitudes individuelles (élément que la théorie
+   psychologique ne prend pas vraiment en compte). Cette perspective
+   transactionnelle et processuelle de l'espoir ouvre, comme le verrons
+   plus loin, à un approfondissement de la nature des anticipations dans
+   l'analyse économique institutionnaliste de John Commons.
+
+3. L'espoir, un élément moteur de la transformation sociale
+
+     * 3 Il peut apparaître surprenant de mobiliser la notion d'espoir
+       chez un auteur dont l'oeuvre est consi (...)
+
+   27Dans ce qui précède, nous avons tenté d'identifier les éléments
+   moteurs d'une économie de l'espoir reposant sur des fondements
+   psychologiques. Nous avons également souligné ses limites. Nous
+   dessinons ci-dessous quelques jalons d'une économie de l'espoir
+   reposant sur une conception philosophique pragmatiste à partir de la
+   lecture de l'oeuvre de John Dewey (1925 ; 1930 ; 1934a ; 1934b ; 1938 ;
+   2019)3.
+
+   28Nous nous appuyons tout d'abord sur le « dialogue » entre Dewey et
+   Snyder imaginé par Fishman et McCarthy (2005) pour comparer les
+   perspectives données par ces deux auteurs concernant l'espoir. Il
+   s'agit de mettre en évidence leurs points de convergence ainsi que les
+   éléments de différenciation entre les deux approches. Nous utilisons
+   ensuite l'apport de la théorie des émotions de John Dewey dans
+   l'analyse économique des comportements et des habitudes (Petit et
+   Ballet, 2021 ; Petit, 2021 ; 2023) de façon à montrer que l'espoir peut
+   constituer un vecteur de transformation des habitudes individuelles.
+
+3.1 Les points de convergence
+
+   29John Dewey a, tout au long de sa carrière, largement insisté sur
+   l'existence d'un monde incertain, hasardeux, parfois hostile. Cela
+   s'applique par exemple à la peur qui comporte une part objective dans
+   la mesure où le monde est de fait « effrayant ». Dewey (1938) a surtout
+   fait de l'incertitude une composante centrale (et nécessaire) de la
+   démarche scientifique (contrairement à la quête de la certitude qui
+   caractérise selon lui la science de son époque). Dans ce monde
+   changeant et mobile, l'individu n'a pas le contrôle de son
+   environnement. Il doit au contraire en permanence s'y adapter. Du fait
+   de ce régime permanent d'incertitude, la définition des buts que se
+   donne l'individu est fondamentalement sujette à l'espoir ou, a
+   contrario, au désespoir.
+     * 4 La séquence représentée ici est simplifiée car elle ne tient pas
+       compte des nombreux feedbacks émot (...)
+
+   30L'approche de Dewey est également, comme celle de tous les auteurs
+   pragmatistes, profondément non duale. Elle n'oppose pas en particulier
+   la raison à l'émotion, l'individu à la société, les faits aux valeurs.
+   Dans cette approche, l'organisme est en permanence et de façon continue
+   dans une relation de transaction avec son environnement. On peut certes
+   tenter de décomposer, pour des raisons d'analyse, une conduite - comme
+   le fait la théorie psychologique de Snyder (définition des buts,
+   composante opératoire, composante motivationnelle) - mais celle-ci
+   demeure toujours, de façon inextricable, le produit des tous les
+   éléments qui la composent. C'est en partie cette forme de non dualité
+   que l'on trouve dans la théorie de Snyder, représentée et simplifiée
+   ci-dessous (Figure 1)4 :
+
+   Figure 1. Schéma (simplifié) du processus temporel de structuration de
+   l'espoir
+   Figure 1. Schéma (simplifié) du processus temporel de structuration de
+   l'espoir
+   Agrandir Original (png, 45k)
+
+   D'après Snyder (2002)
+
+   31Chez Snyder (2002), les composantes motivationnelle et opérationnelle
+   sont imbriquées et en lien elles-mêmes avec la valeur perçue de
+   l'objectif recherché. L'interaction entre ces différentes phases de
+   formation de l'espoir est donc permanente. On voit clairement en
+   particulier dans la figure ci-dessus que la valeur perçue du but dépend
+   des interactions continues avec les composantes opérationnelle et
+   motivationnelle. De même, l'obtention (ou non) du but redéfinit (via
+   les émotions) cette valeur perçue. Un but demeure ainsi flexible. Il
+   est susceptible de se modifier au fur et à mesure que l'individu
+   effectue des actions visant à l'atteindre. Certes, selon Snyder (2002),
+   les individus qui possèdent un haut niveau (dispositionnel) d'espoir,
+   et qui se fixent des buts précis, disposent en règle générale d'une
+   forte propension (par rapport à ceux qui ont un faible niveau d'espoir)
+   au contrôle de leur conduite. Malgré tout, le schéma de la psychologie
+   positive proposé par l'auteur autorise cette flexibilité des buts qui
+   est centrale dans une conception pragmatiste.
+
+   32En effet, l'arbitrage chez Dewey entre le fait de s'engager fermement
+   dans un but ou de rester au contraire flexible est lié à une recherche
+   constante d'harmonie et d'équilibre présente chez l'individu. Il en
+   résulte que ce n'est que lorsque les buts ont été définis
+   intelligemment qu'ils nous permettent, au moment présent, de réguler
+   notre conduite. Dewey nous fait ainsi remarquer que nous ne saisissons
+   réellement le problème auquel nous sommes confrontés qu'une fois que ce
+   problème a été résolu. Ou même, dit autrement, qu'il est parfois
+   nécessaire de nous perdre pour nous retrouver et identifier plus
+   clairement les objectifs recherchés. Dewey parle en ce sens de
+   « fins-en-vue » pour signifier que les fins (les buts chez Snyder) sont
+   autant de moyens pour accomplir d'autres fins. Chez Dewey, la
+   flexibilité des buts et de la conduite sont donc des prérequis au
+   processus lié à l'espoir.
+
+   33La Figure 1 révèle également une intrication étroite entre la
+   dimension cognitive (opérationnelle) et émotionnelle (motivationnelle
+   ou énergique). C'est ce que Snyder (2002) souligne en disant que
+   l'espoir est une façon intelligente (ou apprise) de penser. Ce qui
+   correspond précisément à la façon dont Dewey identifie la méthode de
+   l'enquête qui associe étroitement la raison et l'émotion. L'émotion est
+   définie comme étant « un mode de conduite ». Dans la psychologie de
+   Snyder, cependant, la partie cognitive ou opérationnelle est davantage
+   mise en avant, ce que le caractère mécanique de la « pensée positive »
+   souligne (les mantras en particulier).
+
+   34En résumé, la psychologie positive et l'approche de Dewey s'accordent
+   sur le fait (1) de donner une importance primordiale à l'incertitude,
+   (2) d'inclure la flexibilité des buts et (3) d'associer, dans la
+   conduite de l'espoir, une dimension opérationnelle et affective.
+
+3.2 Les éléments de différenciation
+
+   35Le premier élément de différenciation entre les deux auteurs porte
+   sur la place qui est accordée au désespoir dans l'analyse. Chez Dewey,
+   le point de départ d'une procédure d'enquête est donné par le biais
+   d'une émotion. L'émotion présente un caractère disruptif : elle
+   interrompt le cours naturel de notre activité en nous signalant que
+   quelque chose ne fonctionne pas dans notre rapport à l'environnement
+   qui nous entoure (Dewey parle d'une situation « problématique »). C'est
+   la raison pour laquelle, avant la naissance de l'espoir, il a y a,
+   selon Dewey, une situation qui fait naître de l'anxiété et un désespoir
+   potentiel. Une « fin-en-vue » est guidée initialement par un manque
+   (puis par un élan, une impulsion qui fait aller de l'avant). D'une
+   certaine façon, la position de Dewey retrace le comportement de ceux
+   qui, étant dotés d'un faible niveau d'espoir, considèrent que le monde
+   est rempli d'incertitude et de danger. L'espoir naît lorsque nous avons
+   perdu pied et que nous luttons pour garder notre cap. Contrairement à
+   l'approche de psychologie positive de Snyder (2002) - qui met l'accent
+   sur l'aptitude à l'espoir d'individus qui en possèdent un niveau a
+   priori élevé - Dewey part du désespoir (potentiel) et de la dynamique
+   que celui-ci peut apporter.
+
+   36Une autre différence de taille concerne la nature des objectifs et
+   des buts que l'on considère comme importants pour l'individu. Ciblés et
+   précis chez Snyder (ce qui procure selon lui un avantage du point de
+   vue motivationnel et opérationnel), les buts sont considérés comme
+   diffus, plus larges, mais surtout plus « fondamentaux » (au sens de
+   Blöser, 2019) dans la logique du pragmatiste américain. Chez Dewey, un
+   but essentiel porte, par exemple, sur la défense des enjeux
+   démocratiques dans nos sociétés. Dans l'Éthique, Dewey et Tufts (1932,
+   118) spécifient et illustrent ce qui peut correspondre à des
+   « finalités prospectives » (ou « fins-en-vue ») : assurer une
+   éducation, mener une campagne militaire, construire une maison. Chez
+   Snyder, les buts peuvent concerner le fait de réussir un examen proche
+   ou éventuellement, dans une perspective plus lointaine, de devenir
+   médecin ou chercheur. Dans la démarche de la psychologie positive, les
+   buts vagues (comme le fait par exemple de « réussir sa vie ») sont peu
+   susceptibles de soutenir des pensées pleines d'espoir.
+
+   37Sur ce point, on peut aller plus loin dans la différenciation entre
+   les deux perspectives. Chez Dewey, en effet, pour un individu, un
+   objectif spécifique surplombe (et conditionne) tous les autres : c'est
+   la recherche (permanente) de l'harmonie du sujet avec son
+   environnement. L'unité du sujet est donc un objectif qui en dépasse
+   d'autres, plus ciblés, qui ne sont en somme que des intermédiaires en
+   référence à cet objectif principal. Par ailleurs, Dewey oppose aux
+   espoirs plus resserrés et ordinaires de la psychologie positive des
+   espoirs altruistes et sociaux de plus grande ampleur (à nouveau la
+   dimension démocratique ou la recherche de l'égalité entre humains).
+   L'espoir ultime, chez Dewey, réside sans doute dans le fait de
+   réconcilier chez l'individu la portée de ses espoirs sur le plan
+   individuel et collectif. Dewey croyait en effet que le développement
+   personnel individuel passe par la reconnaissance que les talents de
+   chacun sont les mieux exploités lorsqu'ils sont destinés à conforter le
+   bien commun. En quelque sorte, alors que chez Snyder la portée de
+   l'espoir est localisée et possède une dimension individuelle, chez
+   Dewey, elle combine, tout en les distinguant, un espoir pour notre
+   collectif et un espoir pour notre vie individuelle.
+
+   38Il existe enfin une différenciation sur le plan moral. Il est
+   caractéristique en effet de la psychologie positive de Snyder (2002)
+   d'être à la fois proactive - en ce qui concerne les moyens de conforter
+   le niveau d'espoir des individus et l'obtention de leurs buts - et
+   neutre quant à la nature de ces buts. Snyder, autrement dit, ne se
+   positionne pas quant à la dimension morale des buts poursuivis. Ce
+   n'est pas le cas, bien entendu, de la philosophie et de l'engagement
+   des pragmatistes. On y trouve par exemple une justification dans les
+   vertus de la démocratie, conçue comme un mode de vie associé d'une
+   expérience commune partagée. De façon plus fondamentale encore, on
+   retrouve chez Dewey (1934a) une réflexion sur la portée de la science
+   et une foi dans la méthode de l'enquête qu'il préconise. Selon lui,
+   bien que, par nature, nos efforts pour construire un projet de réforme
+   sociale ne puissent pas (toujours) aboutir, il est légitime de croire
+   que - si nos espoirs ultimes ont été choisis avec soin et sans
+   retenue - ces efforts, aussi modestes soient-ils, seront soutenus par
+   de puissantes forces dans l'univers. Même s'il s'en différencie,
+   l'espoir chez Dewey n'est pas loin de recouvrir les aspects
+   aristotéliciens d'une vertu.
+
+   39En résumé, (1) le point de départ de l'analyse (espoir versus
+   désespoir), (2) la définition des buts (ciblés versus fondamentaux)
+   ainsi que (3) leur portée morale (ou non), sont les trois éléments
+   clefs de la différenciation que l'on peut établir entre la théorie
+   psychologique de l'espoir et la conception de John Dewey. Ci-dessous,
+   nous voyons cependant que la portée de l'analyse philosophique va plus
+   loin en montrant que l'espoir peut constituer un vecteur de
+   transformation des habitudes individuelles.
+
+3.3 L'espoir, un vecteur de transformation
+
+   40La théorie des émotions de Dewey a été utilisée récemment pour
+   montrer le rôle que l'émotion joue dans la modification des
+   comportements individuels (Petit et Ballet, 2021 ; Petit, 2021 ; 2023)
+   ou la réévaluation de nos désirs et de nos valeurs (Petit et Ballet,
+   2023). Lorsque nos habitudes (de penser ou d'agir) sont en décalage
+   (avec) ou inadaptées par rapport à notre environnement, ou lorsque deux
+   ou plusieurs habitudes antagonistes préexistent au sein d'un organisme,
+   l'émotion vient révéler cette dissonance. Elle joue le rôle de signal.
+   Elle indique que l'harmonie du sujet, son unité, est mise en péril et
+   qu'un réajustement est nécessaire.
+
+   41Dans l'Art comme expérience (1934b), Dewey a clarifié cette dimension
+   de signal et, surtout, a conféré à l'émotion une part active dans la
+   conduite de l'enquête visant à réajuster nos habitudes. Le philosophe
+   prend appui sur l'opposition entre le fait pour un musicien de répéter
+   ses gammes de façon mécanique (auquel cas l'habitude est rigide) et la
+   façon d'utiliser un « savoir-faire » de façon créative lorsque
+   l'artiste est à l'écoute de façon dynamique de ses propres émotions
+   (flexibilité qui témoigne de la labilité de l'habitude). Dans un cadre
+   plus ordinaire (i.e., non artistique), la résolution d'un problème -
+   surmonter la difficulté d'un entretien d'embauche, dépasser une colère,
+   etc. - suggère que l'émotion brute qui a permis le lancement de
+   l'enquête est retravaillée au cours de celle-ci (Quéré, 2021). Celle-ci
+   associe donc de concert une méthode réflexive et une part affective que
+   l'on ne peut dissocier.
+     * 5 À l'exception notable cependant d'un court texte intitulé « The
+       Basis for Hope » écrit par Dewey en (...)
+
+   42Ce scénario de reconstruction d'habitudes défaillantes ou, plus
+   simplement, d'habitudes devenues inadaptées, s'applique également, à
+   notre sens, à la conception de l'espoir chez Dewey. Comme nous l'avons
+   souligné, il n'y a pas dans l'oeuvre de Dewey de mention particulière
+   de l'espoir (au-delà de la foi)5. L'analyse et la comparaison qui
+   précèdent (entre la psychologie cognitive et la conception de l'espoir
+   chez Dewey) nous donne cependant des éléments permettant d'aller plus
+   loin.
+     * 6 Confronté, par exemple, à un problème de santé (un cancer), une
+       personne considérera (possiblement) (...)
+
+   43Revenons tout d'abord à la lecture de Snyder (2002). L'un des apports
+   de l'analyse de la psychologique positive - qui fait également son
+   succès - est de suggérer aux individus d'éviter les pensées négatives
+   tournées vers les échecs passés. Snyder pense possible de contourner
+   certaines pensées angoissantes qui minent l'espoir (la présence de
+   l'incertitude, l'existence d'un monde parfois absurde, les injustices
+   ou plus concrètement des problèmes personnels liés à la santé, au
+   travail ou à l'espace familial). L'individu peut en particulier mettre
+   en place des stratégies cognitives d'évitement destinées à détourner
+   son attention du problème en cours, ou des obstacles qui y sont
+   associés, en exagérant par exemple l'aspect positif de la situation
+   présente ou bien en minimisant l'aspect négatif6. Il peut également
+   envisager des comportements de substitution visant à faire oublier le
+   problème en générant des émotions positives (via la relaxation, le
+   sport ou le divertissement). De cette façon, l'individu est guidé par
+   sa raison. Le chemin qui mène du désespoir - ou, du moins, d'un faible
+   niveau d'espoir - à l'espoir semble praticable, accessible, peu
+   difficile, voire peu coûteux (psychologiquement). Il repose, en partie,
+   sur la définition d'habitudes de penser routinières (des mantras) assez
+   peu évolutives. On retrouve ici la forte dimension cognitive du modèle
+   de Snyder.
+
+   44Selon Dewey, ces stratégies (cognitives) de contrôle sont improbables
+   et surtout, elles peuvent être contreproductives et délétères pour
+   l'individu. Face à un problème, la résolution d'une procédure d'enquête
+   réside en effet dans un juste équilibre entre le fait d'agir et le fait
+   de ressentir. En adoptant des stratégies cognitives ou en détournant
+   l'émotion originelle vers une émotion de « divertissement », le
+   processus dynamique lié au désespoir ne peut s'opérer. Si l'émotion
+   initiale (de désespoir ou d'anxiété) a vocation à jouer un rôle dans la
+   conduite de l'individu, tout processus qui vient artificiellement la
+   contrecarrer la détourne de sa visée initiale, à savoir
+   l'accomplissement d'une unité retrouvée de l'individu avec son
+   environnement.
+
+   45Il y a, autrement dit, dans la conception transactionnelle de
+   l'espoir, l'idée que l'individu ne peut, à lui tout seul, par le biais
+   de sa propre volonté, ou le recours à certains artifices, nourrir de
+   l'espoir indépendamment de l'environnement qui s'offre à lui. Selon
+   Dewey, ce n'est pas parce que nos buts sont pensés de façon réflexive
+   et harmonieuse, que notre énergie est mobilisée, et que nous utilisons
+   une méthode (opérationnelle) adaptée, que le monde nous permettra
+   d'accomplir nos desseins. Ce qui ne signifie pas pour autant que nous
+   devons, comme nous l'avons souligné, renoncer à ces desseins. Bien au
+   contraire, l'espoir authentique - celui qui a été retravaillé au cours
+   d'un long processus - est celui qui vient lorsque nous sommes capables
+   de reconnaître que la vie est menaçante, que nos actions sont
+   chancelantes et que nos vies sont limitées.
+
+   46La logique pragmatiste répond ici à une limite importante du modèle
+   de Snyder qui ne permet pas d'expliquer pourquoi certaines personnes
+   développent de l'espoir bien qu'elles sentent qu'elles ne sont pas en
+   mesure de faire quoi que ce soit pour atteindre les buts qu'elles se
+   sont fixées (Delas et al., 2015). Chez Dewey, au contraire, être dans
+   l'espoir, c'est, tout en étant confronté à un environnement changeant
+   et parfois hostile, continuer à avoir confiance dans la méthode de
+   l'enquête et conserver nos fins ultimes en dépit de l'adversité. Dans
+   cette citation extraite d'Experience and Nature, Dewey le dit
+   explicitement :
+
+     Même si nous n'en sommes qu'une misérable partie, la fidélité à la
+     nature dont nous dépendons nous impose d'entretenir nos désirs et
+     nos idéaux jusqu'à ce que nous les ayons convertis en intelligence
+     et révisés en fonction des modes et des voies que la nature rend
+     possible. Une fois que nous avons mobilisé au plus haut point notre
+     pensée et avons propulsé nos faibles forces dans le cours à la fois
+     équilibré et changeant des évènements, nous savons que, même si
+     l'univers nous écrase, nous pouvons lui faire confiance, car notre
+     lot est celui qui s'accompagne de ce qu'il y a de bon dans
+     l'existence, quoi que ce soit. Nous savons que notre pensée et nos
+     efforts sont l'une des conditions de l'avènement du meilleur (Dewey,
+     1925, 379).
+
+     * 7 Dans notre analyse, nous avons insisté sur cette possibilité de
+       transformation et sur le fait qu'el (...)
+
+   47Dewey envisage donc un parcours de construction de l'espoir beaucoup
+   plus ardu et complexe que celui suggéré par la psychologie positive.
+   L'espoir est ce qui transforme notre parcours individuel tout en étant
+   lui-même transformé au cours de ce processus7.
+
+   48Une façon de saisir la portée de la conception dynamique de l'espoir
+   chez Dewey est de rappeler la différence que l'on peut faire, dans la
+   langue française, entre l'espoir et l'espérance (Webb, 2007). Le
+   premier, l'espoir, est plus limité, circonscrit, porte sur un objet
+   bien défini et possède un horizon de court terme. C'est ce qui
+   correspond, schématiquement, à la définition de Snyder, ou plus
+   généralement, à celle de la psychologie. Le second terme, l'espérance,
+   fait davantage référence à un sentiment plus puissant, plus global, qui
+   offre une perspective sur l'avenir de plus long terme. Cela pourrait
+   être la définition de Dewey.
+
+4. L'inscription de l'espoir dans la futurité de John Commons
+
+   49Dans ce qui précède, nous avons souvent insisté sur le fait que
+   l'espoir reposait en grande partie sur une faculté d'anticipation par
+   rapport à un futur que l'on espère mais qui est incertain. L'économie
+   comportementale intègre, nous l'avons vu, la question des anticipations
+   et des attentes, mais celles-ci diffèrent cependant de l'espoir. Dans
+   la théorie psychologique de Snyder (2002), l'espoir n'a pas de sens
+   lorsque l'individu est assuré du résultat de son action. Il ne naît pas
+   non plus lorsqu'un individu anticipe que ses chances de succès sont
+   très faibles ou inexistantes. L'espoir est en effet porté dans
+   l'approche psychologique par des individus à haut niveau d'espoir. Dans
+   cette approche, contrairement à ce que propose Dewey, le désespoir ne
+   peut déboucher sur une espérance. Pour saisir la question des
+   anticipations et la mettre en rapport avec l'économie de l'espoir, il
+   faut s'écarter de l'approche comportementale, ancrer l'espoir dans une
+   logique transactionnelle et institutionnelle, et s'appuyer, comme nous
+   le proposons, sur la lecture de l'un des précurseurs majeurs de
+   l'économiste institutionnaliste, John Commons, en revenant sur la
+   notion de futurité qui est au coeur de son analyse.
+     * 8 Je remercie Jean-Sébastien Lenfant de m'avoir suggéré ce lien
+       lors d'une communication personnelle (...)
+
+   50Comme son contemporain Thorstein Veblen, John Commons a été largement
+   influencé par la pensée pragmatiste et, en particulier, par celle de
+   Dewey (voir Chavance, 2018 ; Ballet et Petit, 2022). Avec son principe
+   de futurité, inspiré largement de sa lecture pragmatiste - à tel point
+   que, selon Commons, le « Pragmatisme est la Futurité » (1934, 152) -
+   Commons repense la question du temps dans l'analyse économique
+   (question qui va bien au-delà de l'objet de cet article) et fournit une
+   réflexion (qui nous intéresse ici) sur la façon dont s'opère une
+   anticipation8.
+
+4.1 Temps, futurité et anticipation chez Commons
+
+   51En faisant le constat que la science économique traditionnelle (les
+   classiques tout autant, ou presque, que les marginalistes) a évacué la
+   dimension temporelle de son analyse - en s'appuyant sur la science
+   physique, qui pousse « l'homme du passé dans le présent » (Commons,
+   1925, 337) - Commons renverse le sens du lien avec le temps, nécessaire
+   selon lui en sciences sociales :
+
+     [L]orsque nous regardons la volonté humaine, ou plutôt la volonté en
+     acte, comme la force avec laquelle la science économique a à faire,
+     en contraste avec les forces physiques de la gravitation ... alors
+     nous trouvons que ce sont les espoirs et les craintes, les attentes
+     et les précautions, la prévoyance, et l'impatience inscrites dans le
+     futur qui déterminent ce qui sera fait dans le présent (Commons,
+     1925, 337, nous soulignons).
+
+     * 9 Gislain (2017a, 243, note 5) rappelle que le mot est peu utilisé
+       dans la langue française mais qu'a (...)
+
+   52Le principe de la futurité pose ainsi que « les hommes vivent dans le
+   futur et agissent dans le présent » (Commons, 1934, 84). La futurité9
+   correspond à la capacité que possède un individu de se projeter dans le
+   futur à un moment donné. Commons le clarifie :
+
+     [c']est simplement un cas spécial du principe d'anticipation, ou de
+     prévision, que nous nommons le principe de Futurité, une
+     caractéristique de tout comportement humain (Commons, 1934, 84).
+
+   53Cette capacité d'anticipation, présente et observable, est la clef de
+   compréhension de nos actions présentes. C'est précisément notre
+   capacité à anticiper le futur et à cerner nos attentes qui
+   conditionnent ce que nous faisons dans le présent. Commons le dit
+   autrement en mettant en lumière les éléments propres à la notion
+   d'espoir :
+
+     [L]a futurité est le champ mental des idées d'un but à réaliser dans
+     le futur immédiat ou éloigné, par les moyens d'activités présentes
+     s'empressant d'aller de l'avant vers ce dessein (Commons, 1950,
+     193).
+
+   54On retrouve dans cette citation le but recherché dans l'espoir ainsi
+   que sa dimension motivationnelle et opérationnelle que vous avons
+   évoquée précédemment chez Snyder (voir la section 3.1). Ayant en tête
+   cette capacité d'anticipation, il faut, à partir de là, comme le
+   rappelle Gislain (2002, 63), distinguer deux possibilités.
+     * 10 Notons que l'on retrouve dans les mots de Commons le même
+       principe que celui mentionné par John Dew (...)
+
+   55Dans la première possibilité, la futurité est totalement contrainte
+   par le cadre institutionnel car elle rentre dans le cadre d'une
+   habitude, c'est-à-dire d'une routine. L'individu n'a pas lieu de se
+   projeter dans le temps de façon extensive car les institutions limitent
+   les options possibles et restreignent de fait la futurité. Il en
+   résulte, dans ce cas, que l'action présente elle-même est limitée.
+   Commons (1950, 104) voit dans ce processus un « principe de sécurité »
+   au sens où les institutions, en structurant la futurité, sécurisent
+   « les attentes présentes de profits, investissements, emplois et
+   contrats futurs »10.
+
+   56Lorsque le principe de sécurité prévaut, l'anticipation est réduite
+   ou inexistante (car l'institution pourvoit à tout ce qui est
+   nécessaire), ce qui rend caduque l'espoir qui y est associé. C'est ce
+   que Gislain (2002, 63) pose dans son interprétation de Commons en
+   disant que, dans le cas d'une action routinière totalement contrainte,
+   « il y autant dans l'attente (qui est ici une prescription, un
+   commandement, etc.) que dans l'action (performance, réfrènement ou
+   éviction), il y a "équation" entre l'attente et l'action ». Or, cette
+   possibilité n'est pas, selon Commons, la plus fréquente. La futurité
+   n'est en effet jamais complètement sécurisée, elle possède toujours un
+   certain degré d'incertitude.
+
+   57Dans la seconde possibilité (plus fréquente), cependant, on peut
+   envisager que l'action n'est pas totalement contrainte par le cadre
+   institutionnel. Deux cas peuvent ici à nouveau être distingués. Le
+   premier cas est celui d'une action habituelle qui n'est cependant pas
+   totalement contrainte. Il existe dans ce cas de figure un ensemble
+   important d'opportunités plus ou moins sûres que l'individu peut
+   envisager, et celui-ci a la possibilité de former de nombreuses
+   hypothèses alternatives ou des anticipations plus ou moins sécurisées.
+   Dans ce premier cas, « l'ensemble des "futuribles" est plus "large" que
+   l'action qui sera choisie » (Gislain, 2002, 63). L'action n'est pas
+   totalement contrainte mais le champ des possibles est conditionné
+   essentiellement par l'institution. Il en résulte que ce sont bien les
+   anticipations - qui sont riches, diverses et fécondes - qui
+   conditionnent l'action présente. L'espoir, dans ce cas, repose sur ces
+   anticipations et est un moteur permettant la réalisation de l'objectif
+   visé (composante motivationnelle).
+
+   58Il peut également arriver - c'est le second cas qui nous intéresse
+   ici tout particulièrement - que le cadre institutionnel soit réellement
+   peu contraignant et que la futurité soit « pauvre » et même, « plus
+   "pauvre" que le présent » (ibid.). La futurité est incomplète, le champ
+   des possibles est étroit. L'acteur se trouve dans une situation où il
+   est obligé de déployer sa volonté au-delà de ce que lui offre les
+   possibilités d'action identifiées dans le présent. Cela arrive, par
+   exemple, lorsqu'aucune hypothèse habituelle n'est disponible face à une
+   situation envisagée. L'action n'est plus routinière mais devient
+   stratégique au sens où elle implique de déployer « l'intelligence de
+   l'acteur » (Gislain, 2017a, 251, c'est l'auteur qui souligne).
+
+   59Autrement dit, l'acteur doit innover, et « transgresser la futurité
+   qui se présente actuellement à lui » (Gislain, 2002, 63), transgression
+   qui impose de dépasser la futurité structurée et proposée par les
+   institutions. « [C]e faisant, il réactualise sans cesse la futurité et
+   transforme ses institutions [formellement avec plus ou moins de retard
+   selon la rigidité des protocoles - juridiques, "autorisés", etc. - de
+   leur sélection artificielle] » (ibid.). Le lien est renversé : ce n'est
+   plus l'institution qui gouverne les actions de hommes, c'est la
+   futurité - et son espace de créativité développé par l'agentivité
+   individuelle - qui définit la nature de l'action.
+
+   60Dans ce processus sans cesse réactualisé des anticipations -
+   c'est-à-dire d'une futurité qui est « toujours plus ou moins
+   incomplète, provisoire et ambulatoire » (Gislain, 2017a, 251) - nous
+   voyons le jeu d'une émotion (comme l'espoir) « retravaillée » qui, de
+   ce fait, a un potentiel de transformation des actions et des habitudes
+   individuelles.
+
+4.2 Anticipation, imagination et émotion chez John Dewey
+
+   61Chez Commons, l'action humaine est conditionnée par l'institution
+   dans la mesure où celle-ci structure le type d'anticipations (et leur
+   nature) qui est à l'origine de l'action présente. C'est en ce sens que
+   l'auteur institutionnaliste précise que l'action (ou l'activité)
+   collective - ou encore le « going concern » (synonyme d'institution)
+   selon ses mots - « contrôle » l'action individuelle. Mais, comme la
+   discussion précédente le montre, l'institution ne fait pas que
+   contraindre l'action individuelle, elle la « libère et [l']étend »
+   (Commons, 1931, 648, nous soulignons) également.
+
+   62Ainsi, d'après Bazzoli, « l'institutionnalisme [de Commons] permet de
+   penser l'individu comme acteur dont les préférences ne sont ni
+   immanentes ni invariables, et dont la liberté de volonté s'exprime dans
+   la capacité spécifiquement humaine à expérimenter et à innover face à
+   des situations problématiques, par intérêt ou par imagination et
+   impulsion vitale » (Bazzoli, 1999, 115, nous soulignons). Il y aurait
+   donc la place, dans l'approche de Commons, pour une émotion
+   (l'impulsion vitale) et pour une imagination créatrice.
+
+   63L'impulsion vitale peut être à l'origine de l'innovation individuelle
+   lorsque l'agent fait face à des situations problématiques. Les
+   individus réagissent ainsi en changeant leurs comportements de manière
+   cohérente avec les impératifs sociaux enchâssés dans leurs esprits. Les
+   individus sont mus en particulier par une « impulsion liée au désir de
+   sécurité [notamment des anticipations], d'égalité (contre les pratiques
+   discriminantes) et de liberté (contre les pouvoirs coercitifs) »
+   (Bazzoli, 1999, 117, nous soulignons). C'est donc « avec cette image de
+   l'individu qu'une articulation entre comportement habituel et innovatif
+   est possible, pour appréhender le changement institutionnel comme étant
+   initié par la créativité individuelle dans le contexte de règles
+   existantes » (ibid.).
+
+   64L'approche de Commons nous invite donc à entre-ouvrir la porte des
+   émotions dans sa lecture institutionnelle mais, comme nous l'ont montré
+   Ballet et Petit (2022), Commons ne dit rien de précis sur la nature du
+   processus émotionnel. Dans le second cas examiné ci-dessus - lorsque la
+   futurité est à la fois non totalement contrainte et incomplète - la
+   phase d'anticipation (liée à la possibilité d'une espérance) implique
+   que l'acteur intelligent innove en faisant appel à son imagination et à
+   ses émotions. L'acteur doit dépasser la futurité qui lui est suggérée
+   par le going concern. Pour aller plus loin, et identifier le rôle de
+   l'émotion, il faut revenir au pragmatisme de John Dewey et à la notion
+   d'intuition qu'il développe.
+     * 11 Ce qui vaut aussi pour l'émotion qui n'est pas qu'intime (ou
+       psychique) mais toujours associée à un (...)
+
+   65Comme le note Dewey dans son texte Qualitative Thought publié en
+   1930, « [l]'esprit consiste en une transformation idéationnelle et
+   conceptuelle de ce qui commence comme une intuition » (Dewey, 1930,
+   249, notre traduction). L'intuition mentionnée par Dewey ne se cantonne
+   cependant pas à de simples instincts car nos intuitions sont très
+   souvent le résultat d'habitudes qui ont été développées au cours de nos
+   expériences et de nos enquêtes antérieures. Il faut donc insister ici
+   sur le fait que lorsque Dewey parle d'intuition ou d'imagination, il ne
+   fait pas référence à un processus purement psychique11.
+     * 12 Il ne faut ainsi pas oublier la proximité qui existe entre John
+       Dewey et Herbert Mead.
+
+   66L'imagination s'inscrit notamment dans un processus narratif lié à ce
+   que Dewey nomme une refonte ou une reconstruction profonde ou
+   « dramatique » (« dramatic rehearsal » ; voir Fesmire, 1995). Cette
+   conception, que l'on saisit bien lorsque Dewey (1934b) évoque le
+   rapport que l'artiste entretient avec la créativité, permet également
+   de saisir que l'enquête comporte, dans un cadre beaucoup plus général,
+   une forte dimension sociale12. Cela suggère que l'individu, tenant
+   compte des multiples transactions qui s'opèrent (entre lui-même et son
+   environnement), peut, via l'imagination, reconsidérer ses désirs et ses
+   anticipations et les mettre en rapport avec les objectifs visés.
+     * 13 Il s'agit ici d'une modulation et non d'un contrôle étroit comme
+       ce serait le cas d'un mantra. Dans (...)
+
+   67Ceci est possible car les émotions sont capables d'être anticipées
+   (plus ou moins) consciemment (et souvent correctement) par les
+   individus. Le cas du regret en est l'exemple le plus évident mais cela
+   vaut aussi pour la culpabilité ou l'espoir. Dans ce cadre, ces
+   anticipations peuvent conduire les individus à reconsidérer une
+   décision sur la base de ces émotions anticipées. Et, dans ce mouvement
+   même, les émotions peuvent elles-mêmes se transformer et transformer.
+   Un individu capable d'imaginer, tout au long du processus d'enquête,
+   les conséquences positives ou négatives associées à un évènement futur
+   probable peut moduler son niveau d'espoir et ajuster en conséquence les
+   différents moyens à sa disposition pour atteindre un objectif visé13.
+   C'est en ce sens que, en reprenant et en précisant la proposition déjà
+   citée de Commons, « ce sont les espoirs ... [inscrits] dans le futur »
+   (1925, 337), parce qu'ils ont été anticipés, « qui déterminent ce qui
+   sera fait dans le présent » (ibid.).
+
+   68En intégrant une circularité entre l'espoir et le contexte dans
+   lequel il naît, et en s'appuyant sur une aptitude individuelle à
+   l'imagination, on saisit mieux comment l'espoir peut se recomposer de
+   façon dynamique et continue tout au long de nos vies. C'est, à titre
+   d'illustration, toute la portée du récit De Grandes Espérances élaboré
+   par Dickens en 1861 dans lequel le personnage principal (Pip) passe
+   d'un espoir illusoire dont la composante opérationnelle (les moyens)
+   est essentiellement économique à un espoir plus tangible et mieux fondé
+   dont la portée est davantage philosophique (voir Petit et Vanfasse,
+   2023).
+
+Conclusion
+
+   69Il existe dans la littérature récente une analyse construite et
+   élaborée du rôle des émotions dans les changements des comportements
+   individuels. Les économistes ont mis l'accent jusqu'à présent sur des
+   émotions - comme le regret ou l'envie - qui s'intègrent bien à
+   l'individualisme méthodologique caractéristique de la discipline. Pour
+   cette même raison, l'approche de l'émotion privilégiée a été le plus
+   souvent celle de la psychologie, voire de la neurologie.
+
+   70L'analyse économique a eu tendance à négliger ou à sous-estimer le
+   rôle, pourtant fondamental, d'une émotion complexe qui sous-tend des
+   notions souvent mobilisées comme l'anticipation, l'attente, l'optimisme
+   ou l'aspiration. L'espoir est le résultat d'un désir et de la recherche
+   implicite d'un objectif tangible, objectif qui demeure cependant
+   malléable. Il repose sur un calcul de probabilité d'occurrence (non
+   nul) d'un évènement et d'une anticipation. Il induit également une
+   façon, pour l'individu, de se confronter à l'incertitude.
+
+   71Comme nous l'avons montré, cette approche psychologique de l'espoir a
+   des limites importantes car elle ne tient pas suffisamment compte de la
+   nature processuelle de l'émotion ni de sa dimension transactionnelle en
+   lien avec l'environnement du sujet. Dans une perspective de moyen ou
+   long terme, l'espoir révèle une valeur que nous soutenons (il traduit
+   une résistance à l'adversité), une action que nous sommes prêts à mener
+   et une façon d'être vis-à-vis des aléas qui viennent contredire (ou au
+   contraire encourager) nos objectifs. Davantage, l'espoir constitue un
+   vecteur de transformation de l'individu dans un environnement où les
+   « fins-en-vue » et les moyens mobilisés pour les atteindre sont
+   constamment et de façon continue reconsidérés au cours de l'enquête.
+
+   72Cette autre conception, qui s'éloigne de l'approche purement
+   comportementale basée sur la psychologie, et qui intègre une véritable
+   perspective pluridisciplinaire, s'appuie d'une part sur une analyse
+   plus institutionnelle relayée par John Commons autour de la notion de
+   « futurité » et d'autre part sur la notion d'imagination dans la
+   perspective pragmatiste de John Dewey. Elle est dans ce cadre plus en
+   lien avec une vision philosophique (voire spirituelle) de l'espoir
+   (Bouckaert, 2018) susceptible elle aussi de mobiliser une mesure
+   opérationnelle de cette émotion (Burger et al., 2018), mesure sans
+   aucun doute nécessaire à une compréhension plus étendue du rôle de
+   l'espoir en économie.
+
+   Une première version de ce texte a été présentée lors du colloque
+   Recents Shifts in the Boundaries of Economics: Philosophy and History
+   (Université Paris 1 Panthéon-Sorbonne, Maison des sciences économiques,
+   30 et 31 mai 2022). Je remercie vivement les participants à ce
+   colloque, les rapporteurs anonymes ainsi que les éditeurs pour leurs
+   nombreuses remarques et suggestions qui ont permis d'améliorer
+   substantiellement cet article. Ce travail a bénéficié d'une aide de
+   l'État au titre du Programme d'investissements d'avenir (PIA) IdEx
+   Université de Bordeaux/GPR HOPE.
+   Haut de page
+
+Bibliographie
+
+   Ballet, Jérôme et Emmanuel Petit. 2022. John R. Commons et John Dewey :
+   deux voies complémentaires pour l'institutionnalisme. Revue d'histoire
+   de la pensée économique, 14(2): 55-83.
+
+   Bazzoli, Laure. 1999. L'économie politique de John R. Commons. Essai
+   sur l'institutionnalisme en sciences sociales. Paris : L'Harmattan.
+
+   Beatty, Andrew. 2019. Emotional Worlds. Cambridge : Cambridge
+   University Press.
+
+   Biess, Frank et Daniel M. Gross (dir.). 2014. Science and Emotions
+   after 1945: A Transatlantic Perspective. Chicago : University of
+   Chicago Press.
+
+   Blöser, Claudia. 2019. Hope as an Irreducible Concept. Ratio, 32(3):
+   205-214.
+
+   Chavance, Bernard. 2018. L'économie institutionnelle. Paris : La
+   Découverte.
+
+   Commons, John R. 1925. Law and Economics. Yale Law Journal, 34:
+   371-382.
+
+   Commons, John R. 1931. Institutional Economics. The American Economic
+   Review, 26(1): 648-657.
+
+   Commons, John R. [1934] 1990. Institutionnal Economics. Its Place in
+   Political Economy. New Brunswick : Transactions.
+
+   Commons, John R. [1950] 1970. The Economics of Collective Action.
+   Madison : University of Wisconsin Press.
+
+   Delas, Yann, Charles Martin-Krumm et Fabien Fenouillet. 2015. La
+   théorie de l'espoir : une revue de questions. Psychologie française,
+   60(3): 237-262.
+
+   Deneen, Patrick J. 1999. The Politics of Hope and Optimism: Rorty,
+   Havel, and the Democratic Faith of John Dewey. Social Research, 66(2):
+   577-609.
+
+   Dewey, John. [1925] 2012. Expérience et nature. Paris: Gallimard.
+
+   Dewey, John. [1930] 1972. Qualitative Thought. In Jo Ann Boydston
+   (dir.), The Collected Works of John Dewey. Volume 5. Carbondale :
+   Southern Illinois University Press, 245-252.
+
+   Dewey, John. [1931] 1972. Is There Hope for Politics? In Jo Ann
+   Boydston (dir.), The Collected Works of John Dewey. Volume 6.
+   Carbondale : Southern Illinois University Press, 182-189.
+
+   Dewey, John. [1934a] 2011. Une foi commune. Paris : La Découverte.
+
+   Dewey, John. [1934b] 2005. L'art comme expérience. Paris : Gallimard.
+
+   Dewey, John. [1938] 2014. La quête de la certitude. Paris : Gallimard.
+
+   Dewey, John. [1939] 1988. The Basis for Hope. In Jo Ann Boydston
+   (dir.), The Collected Works of John Dewey. Volume 14. Carbondale :
+   Southern Illinois University Press, 239-241.
+
+   Dewey, John. 2019. Écrits sur les religions et le naturalisme. Genève :
+   Éditions ies.
+
+   Dewey, John et James H. Tufts. [1932] 2021. Éthique. Paris : Gallimard.
+
+   Duflo, Esther. 2012. Human Values and the Design of the Fight Against
+   Poverty. Tanner Lectures. Cambridge : Harvard.
+
+   Easterlin, Richard A. 2001. Income and Happiness: Towards a Unified
+   Theory. The Economic Journal, 111(473): 465-484.
+
+   Elster, Jon. 1998. Emotions and Economic Theory. Journal of Economic
+   Literature, 36(1): 47-74.
+
+   Fesmire, Steven A. 1995. Dramatic Rehearsal and the Moral Artist: A
+   Deweyan Theory of Moral Understanding. Transactions of the Charles S.
+   Peirce Society, 31(3): 568-597.
+
+   Fishman, Stephen M. et Lucille McCarthy. 2005. The Morality and
+   Politics of Hope: John Dewey and Positive Psychology in Dialogue.
+   Transactions of the Charles S. Peirce Society, 41(3): 675-701.
+
+   Frijda, Nico H. 1986. The Emotions. Cambridge : Cambridge University
+   Press.
+
+   Gefen, Alexandre, Mathilde Bernard et Carole Talon-Hugon. 2016. Arts et
+   émotions. Un dictionnaire. Paris : Armand Colin.
+
+   Gislain, Jean-Jacques. 2002. Causalité institutionnelle : la futurité
+   chez J. R. Commons. Économie et institutions, 1: 47-66.
+
+   Gislain, Jean-Jacques. 2017a. Futurité, la temporalité économique chez
+   J. R. Commons. OEconomia. History, Methodology, Philosophy, 7(2):
+   239-270.
+
+   Gislain, Jean-Jacques. 2017b. Futurité, origine des institutions
+   économiques. Économie et institutions, 25: 1-28.
+
+   Goldie, Peter (dir.). 2009. The Oxford Handbook of Philosophy of
+   Emotion. Oxford : Oxford University Press.
+
+   Gomes, Orlando. 2017. Plutchik and Economics: Disgust, Fear, and, Oh
+   Yes, Love. Economic Issues, 22(1): 37-63.
+
+   Hirschman, Albert O. 1971. A Bias for Hope: Essays on Development and
+   Latin America. New York : Yale University Press.
+
+   Hirschman, Albert O. [1982] 2014. Bonheur privé, action publique.
+   Paris : Fayard.
+
+   Hoggett, Paul et Simon Thompson (dir.). 2012. Politics and the
+   Emotions: The Affective Turn in Contemporary Political Studies. New
+   York : Bloomsbury Publishing.
+
+   Lewis, Michael, Jeannette M. Haviland-Jones et Lisa Feldman Barrett
+   (dir.). 2010. Handbook of Emotions. New York : Guilford Press.
+
+   Livet, Pierre. 2002. Émotions et rationalité morale. Paris : Presses
+   universitaires de France.
+
+   Loomes, Graham et Robert Sugden. 1982. Regret Theory: An Alternative
+   Theory of Rational Choice under Uncertainty. The Economic Journal,
+   92(368): 805-824.
+
+   McCloskey, Deirdre N. 2008. Not by P Alone: A Virtuous Economy. Review
+   of Political Economy, 20(2): 181-197.
+
+   Nussbaum, Martha. C. 2013. Political Emotions. Why Love Matters for
+   Justice. Cambridge : Harvard University Press.
+
+   Ojala, Maria. 2012. Hope and Climate Change: The Importance of Hope for
+   Environmental Engagement Among Young People. Environmental Education
+   Research, 18(5): 625-642.
+
+   Pecchenino, Rowena A. 2011. Abandon Hope All Ye Who Enter Here? Revue
+   de philosophie économique, 12(2): 3-28.
+
+   Pecchenino, Rowena A. 2015. Have We Cause for Despair? Journal of
+   Behavioral and Experimental Economics, 58: 56-62.
+
+   Petit, Emmanuel. 2015. Économie des émotions. Paris : La Découverte.
+
+   Petit, Emmanuel. 2021. Les émotions au coeur de la transformation
+   sociale : une lecture à partir de John Dewey. Lien social et
+   Politiques, 86: 191-205.
+
+   Petit, Emmanuel. 2022. Théorie des émotions et analyse économique : une
+   revue. Revue d'économie politique, 132(2): 181-215.
+
+   Petit, Emmanuel. 2023. La théorie des émotions de John Dewey : un atout
+   en vue du dépassement de l'analyse économique standard. Pragmata, 6:
+   208-252.
+
+   Petit, Emmanuel et Jérôme Ballet. 2021. Habit and Emotion: John Dewey's
+   Contribution to the Theory of Change. Cambridge Journal of Economics,
+   45(4): 655-674.
+
+   Petit, Emmanuel et Jérôme Ballet. 2023. Valuation and Emotion According
+   to John Dewey. Cambridge Journal of Economics, 47(6): 1019-1036.
+
+   Petit, Emmanuel et Nathalie Vanfasse. 2023. L'économie de l'espoir à la
+   lecture du roman de Charles Dickens De grandes espérances. Cahiers
+   d'économie politique, 83: 223-251.
+
+   Plamper, Jan. 2010. The History of Emotions: An Interview with William
+   Reddy, Barbara Rosenwein, and Peter Stearns. History and Theory, 49(2):
+   237-265.
+
+   Plantin, Christian. 2011. Les bonnes raisons des émotions : principes
+   et méthodes pour l'analyse de la parole émotionnée. Berne : Peter Lang.
+
+   Pleeging, Emma et Martijn Burger. 2020. Hope in Economics. In Steven C.
+   van den Heuvel (dir.), Historical and Multidisciplinary Perspectives on
+   Hope. Berlin : Springer Nature, 165-178.
+
+   Pleeging, Emma, Job van Exel et Martijn Burger. 2022. Characterizing
+   Hope: An Interdisciplinary Overview of the Characteristics of Hope.
+   Applied Research in Quality of Life, 17: 1681-1723.
+
+   Quéré, Louis. 2021. La fabrique des émotions. Paris : Presses
+   universitaires de France.
+
+   Rick, Scott et George Loewenstein. 2008. The Role of Emotion in
+   Economic Behavior. In Lisa Feldman Barrett, Michael Lewis et Jeannette
+   M. Haviland-Jones (dir.), Handbook of Emotions. New York : Guilford,
+   138-156.
+
+   Rorty, Richard. 1999. Philosophy and Social Hope. New York : Penguin.
+
+   Santilli, Sara, Laura Nota et Maria Cristina Ginevra. 2014. Career
+   Adaptability, Hope and Life Satisfaction in Workers with Intellectual
+   Disability. Journal of Vocational Behavior, 85(1): 67-74.
+
+   Scitovsky, Tibor. 1978. L'économie sans joie. Paris : Calmann-Lévy.
+
+   Senik, Claudia. 2008. Is Man Doomed to Progress? Journal of Economic
+   Behavior & Organization, 68(1): 140-152.
+
+   Senik, Claudia. 2014. L'économie du bonheur. Paris : Seuil.
+
+   Snyder, Charles Richard. 1995. Conceptualizing, Measuring, and
+   Nurturing Hope. Journal of Counseling & Development, 73(3): 355-360.
+
+   Snyder, Charles Richard. 2002. Hope Theory: Rainbows in the Mind.
+   Psychological Inquiry, 13(4): 249-275.
+
+   Snyder, Charles Richard, Cheri Harris, John R. Anderson, Sharon A.
+   Holleran, Lori M. Irving, Sandra T. Sigmon, Lauren Yoshinobu, June
+   Gibb, Charyle Langelle et Pat Harney. 1991. The Will and the Ways:
+   Development and Validation of an Individual-Differences Measure of
+   Hope. Journal of Personality and Social Psychology, 60(4): 570-585.
+
+   Stets, Jan E. et Jonathan H. Turner (dir.). 2014. Handbook of the
+   Sociology of Emotions. Berlin : Springer.
+
+   Swedberg, Richard. 2017. A Sociological Approach to Hope in the
+   Economy. In Hirokazu Miyazaki and Richard Swedberg (dir.), The Economy
+   of Hope. Philadelphia : University of Pennsylvania Press, 37-50.
+
+   Webb, Darren. 2007. Modes of Hoping. History of the Human Sciences,
+   20(3): 65-83.
+   Haut de page
+
+Notes
+
+   1 Voir, par exemple, Stets et Turner (2014) en sociologie,
+   Goldie (2009) en philosophie, Beatty (2019) en anthropologie, Biess et
+   Gross (2014) en philosophie des sciences, Hoggett et Thompson (2012) et
+   Nussbaum (2013) en sciences politiques, Plantin (2011) en sciences de
+   la communication, Gefen, Bernard et Talon-Hugon (2016) en littérature
+   et dans le champ de l'art.
+
+   2 Nous reprenons la traduction du texte de Snyder effectuée par Delas
+   et al. (2015).
+
+   3 Il peut apparaître surprenant de mobiliser la notion d'espoir chez un
+   auteur dont l'oeuvre est considérable, le philosophe pragmatiste John
+   Dewey, qui n'en propose pas a priori une lecture spécifique (à
+   l'exception de deux courts textes ; Dewey, 1931 ; 1939). On peut
+   cependant argumenter, comme le fait Deneen (1999), que l'espoir et la
+   foi sont deux vertus théologiques chrétiennes (distinctes de la
+   charité) que de nombreux commentateurs ont tendance à confondre. Il
+   vient alors naturellement, compte tenu des nombreux écrits de Dewey sur
+   la foi (Ce que je crois, 1930 ; Une foi commune, 1934) ainsi que, de
+   façon plus générale, sur la religion (Dewey, 2019), que Dewey propose
+   bien une lecture de l'espoir dont on peut se saisir. On peut aussi
+   ajouter que l'un des pragmatistes les plus influents de notre époque,
+   Richard Rorty, a, dans la lignée des travaux de Dewey, proposé une
+   analyse très féconde de l'espoir (Rorty, 1999). Nous nous limiterons
+   dans ce texte à l'approche de John Dewey.
+
+   4 La séquence représentée ici est simplifiée car elle ne tient pas
+   compte des nombreux feedbacks émotionnels (allant par exemple du but
+   vers la composante aléatoire ou le niveau d'espoir dispositionnel).
+
+   5 À l'exception notable cependant d'un court texte intitulé « The Basis
+   for Hope » écrit par Dewey en décembre 1939. Ce texte de Dewey est une
+   bonne illustration de sa conception de l'espoir, celui-ci mettant en
+   évidence que les évènements alarmants de l'époque (invasion de la
+   Pologne par l'Allemagne, Traité de non-agression entre le Reich
+   allemand et l'Union Soviétique) intègrent la possibilité (pleine
+   d'espoir) d'un sursaut démocratique en Europe dans les années futures.
+   Un texte qui a aussi des allures prophétiques dans le contexte européen
+   récent à la suite de l'agression de la Russie contre l'Ukraine en
+   février 2022.
+
+   6 Confronté, par exemple, à un problème de santé (un cancer), une
+   personne considérera (possiblement) qu'il s'agit d'une tumeur bénigne
+   et qu'il n'y a pas de raisons de s'inquiéter outre mesure.
+
+   7 Dans notre analyse, nous avons insisté sur cette possibilité de
+   transformation et sur le fait qu'elle est susceptible de restaurer
+   l'équilibre entre l'individu et son environnement. Tel n'est cependant
+   pas toujours le cas. Le processus émotionnel chez Dewey peut ainsi être
+   défaillant. On peut par exemple espérer que le sort de nos descendants
+   lointains sera meilleur (sans agir pour autant) et atténuer de cette
+   façon nos émotions négatives présentes. A contrario, une situation
+   marquée de désespoir peut mettre à distance et miner cet
+   accomplissement d'une unité retrouvée avec l'environnement. Des
+   anticipations négatives peuvent aussi potentiellement être créatrices
+   d'anxiété et d'inhibition (comme cela peut être le cas par exemple pour
+   le changement climatique). Dans l'un et l'autre cas - apathie ou
+   anxiété excessive - c'est, dans l'approche de Dewey, la qualité de
+   l'émotion qui est en cause et non le processus en tant que tel (sur ce
+   point, voir Petit et Ballet, 2021).
+
+   8 Je remercie Jean-Sébastien Lenfant de m'avoir suggéré ce lien lors
+   d'une communication personnelle au cours du colloque Recents Shifts in
+   the Boundaries of Economics : Philosophy and History (Université Paris
+   1 Panthéon-Sorbonne, Maison des sciences économiques, 30 et 31 mai
+   2022). Le principe de futurité chez Commons a été abondamment mis en
+   valeur par Jean-Jacques Gislain. Nous nous appuyons sur ses nombreux
+   articles pour éclairer ce principe (en particulier Gislain, 2002 ;
+   2017a ; 2017b). Sauf mention contraire, toutes les citations en
+   français issues des travaux de Commons (1925 ; 1931 ; 1934 ; 1950) sont
+   extraites des articles de Gislain.
+
+   9 Gislain (2017a, 243, note 5) rappelle que le mot est peu utilisé dans
+   la langue française mais qu'au Québec, il nomme, dans les concours, les
+   « espoirs », terme qui désigne en particulier les jeunes chevaux qui
+   promettent pour l'avenir. Ceux, en somme, en qui l'on peut espérer.
+
+   10 Notons que l'on retrouve dans les mots de Commons le même principe
+   que celui mentionné par John Dewey dans La Quête de la certitude, que
+   celui-ci nomme le désir de sûreté : « L'homme naturel », nous dit Dewey
+   (1938, 244), « n'aime pas l'in-confort qui accompagne l'expérience du
+   doute et se tient prêt à saisir tout ce qui lui permettra d'y mettre
+   fin. On entend se défaire de l'incertitude par tous les moyens, loyaux
+   ou non. Une longue exposition au danger nourrit un amour tout puissant
+   de la sûreté ».
+
+   11 Ce qui vaut aussi pour l'émotion qui n'est pas qu'intime (ou
+   psychique) mais toujours associée à un processus de transaction entre
+   l'organisme et son environnement.
+
+   12 Il ne faut ainsi pas oublier la proximité qui existe entre John
+   Dewey et Herbert Mead.
+
+   13 Il s'agit ici d'une modulation et non d'un contrôle étroit comme ce
+   serait le cas d'un mantra. Dans tout processus d'enquête abouti, Dewey
+   fait en effet le pari de l'intelligence qui mêle de façon dynamique
+   émotion, action et cognition.
+   Haut de page
+
+Table des illustrations
+
+   Titre Figure 1. Schéma (simplifié) du processus temporel de
+   structuration de l'espoir
+   Légende D'après Snyder (2002)
+   URL
+   http://journals.openedition.org/oeconomia/docannexe/image/16726/img-1.p
+   ng
+   Fichier image/png, 45k
+   Haut de page
+
+Pour citer cet article
+
+Référence papier
+
+   Emmanuel Petit, « L'espoir dans l'analyse économique : de l'approche
+   psychologique à une conception transactionnelle et
+   institutionnelle », OEconomia, 14-2 | 2024, 195-225.
+
+Référence électronique
+
+   Emmanuel Petit, « L'espoir dans l'analyse économique : de l'approche
+   psychologique à une conception transactionnelle et
+   institutionnelle », OEconomia [En ligne], 14-2 | 2024, mis en ligne le
+   01 juin 2024, consulté le 02 janvier 2026. URL :
+   http://journals.openedition.org/oeconomia/16726 ; DOI :
+   https://doi.org/10.4000/120ii
+   Haut de page
+
+Auteur
+
+Emmanuel Petit
+
+   Université de Bordeaux, CNRS, INRAE, BSE, UMR 6060, UMR 1441, F-33600
+   Pessac, France. emmanuel.petit@u-bordeaux.fr
+
+Articles du même auteur
+
+     * Changement climatique, colère et rationalité. Réflexions à la
+       lumière de l'économie comportementale et du pragmatisme de John
+       Dewey [Texte intégral]
+       Anger about Global Warming: How To Use Emotions for Action?
+       Paru dans OEconomia, 13-4 | 2023
+     * Deux grands esprits se rencontrent : John Stuart Mill et Charles
+       Dickens autour de l'éducation utilitariste [Texte intégral]
+       A Meeting of Minds: John Stuart Mill and Charles Dickens's Views on
+       Utilitarian Education
+       Paru dans OEconomia, 12-1 | 2022
+     * What Mainstream Economics Should Learn From the Ethics of Care
+       [Texte intégral]
+       Ce que la science économique standard devrait apprendre de
+       l'éthique du care
+       Paru dans OEconomia, 8-2 | 2018
+     * L'économie du comportement à la lumière des Maximes du Duc de La
+       Rochefoucauld [Texte intégral]
+       Behavioural Economics in Light of La Rochefoucauld's Maxims
+       Paru dans OEconomia, 5-4 | 2015
+
+   Haut de page
+
+Droits d'auteur
+
+   CC-BY-NC-ND-4.0
+
+   Le texte seul est utilisable sous licence CC BY-NC-ND 4.0. Les autres
+   éléments (illustrations, fichiers annexes importés) sont susceptibles
+   d'être soumis à des autorisations d'usage spécifiques.
+   Haut de page
+   Sommaire - Document précédent - Document suivant
+
+Navigation
+
+Index
+
+     * Auteurs
+     * Mots-clés
+     * Langues
+
+Numéros en texte intégral
+
+     * 15-4 | 2025
+     * 15-3 | 2025
+       Accounting for Quality in Economics
+     * 15-2 | 2025
+       Marchés et démocratie : complémentarités et conflits
+     * 15-1 | 2025
+     * 14-4 | 2024
+     * 14-3 | 2024
+       Rawls et l'économie politique
+     * 14-2 | 2024
+       Les frontières de l'économie : déplacements récents
+     * 14-1 | 2024
+     * 13-4 | 2023
+       Varia / Philosophie et économie des émotions
+     * 13-3 | 2023
+       The Computerization of Economics. Computers, Programming, and the
+       Internet in the History of Economics
+     * 13-2 | 2023
+       Quantitative and Computational Approaches in the Social Studies of
+       Economics
+     * 13-1 | 2023
+     * 12-4 | 2022
+     * 12-3 | 2022
+       Women, Economics and History
+     * 12-2 | 2022
+       Economics and Literature
+     * 12-1 | 2022
+     * 11-4 | 2021
+     * 11-3 | 2021
+       Factoring "Impact" in the History of Economics
+     * 11-2 | 2021
+     * 11-1 | 2021
+       Alternative Traditions in Public Choice
+     * 10-4 | 2020
+       Varia / Economics as a Public Science, Part III
+     * 10-3 | 2020
+       Facts in Energy and Environmental Economics
+     * 10-2 | 2020
+       Simulations in Economics: Methodological and Historical
+       Perspectives
+     * 10-1 | 2020
+       Les économistes français (1970-1985)
+     * 9-4 | 2019
+       Varia / Public Debt
+     * 9-3 | 2019
+       Economics as a Public Science, Part II: Institutional Settings
+     * 9-2 | 2019
+       Economics as a Public Science, Part I: The Economist's Ethos and
+       Modes of Persuasion
+     * 9-1 | 2019
+     * 8-4 | 2018
+     * 8-3 | 2018
+       Contributions to the History of Health Economics
+     * 8-2 | 2018
+       The Concept of Care from an Economic Philosophy Perspective / Varia
+     * 8-1 | 2018
+     * 7-4 | 2017
+     * 7-3 | 2017
+       The Behavioural Turn in Law and Economics
+     * 7-2 | 2017
+       Time in Economics, part II
+     * 7-1 | 2017
+       Time in Economics, part I
+     * 6-4 | 2016
+       Economics in the Shadow of the First World War
+     * 6-3 | 2016
+     * 6-2 | 2016
+       Psychologie et économie en perspective historique
+     * 6-1 | 2016
+       Psychologie et économie en perspective historique
+     * 5-4 | 2015
+       Varia / Économie et littérature
+     * 5-3 | 2015
+       Externalities in Economic Thought
+     * 5-2 | 2015
+     * 5-1 | 2015
+       The Economics of Attention
+     * 4-4 | 2014
+       Économie et littérature
+     * 4-3 | 2014
+       History of Econometrics
+     * 4-2 | 2014
+       Russian political economy from utopia to social engineering, part
+       II
+     * 4-1 | 2014
+       Russian political economy from utopia to social engineering, part I
+     * 3-4 | 2013
+       Economics and literature
+     * 3-3 | 2013
+     * 3-2 | 2013
+       Business cycles, money and economic policy
+     * 3-1 | 2013
+       Economic Imperialism
+     * 2-4 | 2012
+       Varia / Individualisme institutionnel
+     * 2-3 | 2012
+     * 2-2 | 2012
+     * 2-1 | 2012
+     * 1-4 | 2011
+     * 1-3 | 2011
+       Walras et l'intervention publique
+     * 1-2 | 2011
+       Utilitarisme / Choix rationnel, préférences et contrat social /
+       Varia
+     * 1-1 | 2011
+       Women in Economics Discipline: A Tribute to Anne P. Carter / Varia
+
+Tous les numéros
+
+La revue
+
+     * Présentation de la revue
+     * Équipe de la revue
+     * Informations aux auteurs
+     * Historique de la revue OEconomia
+     * Liste des rapporteurs
+     * Partenariats, référencements, liens utiles
+     * Code de déontologie et de bonnes pratiques
+
+Informations
+
+     * Crédits
+     * Contact
+     * Informations légales
+     * Politiques de publication
+
+Appels à contribution
+
+     * Appels en cours
+     * Appels permanents
+     * Appels passés
+
+Suivez-nous
+
+     * Flux RSS Flux RSS
+
+Lettres d'information
+
+     * La lettre d'OEconomia
+     * La Lettre d'OpenEdition
+
+Affiliations/partenaires
+
+     * Logo Association OEconomia
+     * DOAJ - Directory of Open Access Journals
+     * OpenEdition Journals
+
+   ISSN électronique 2269-8450
+
+   Voir la notice dans le catalogue OpenEdition
+
+   Plan du site - Crédits - Contact - Informations légales - Flux de
+   syndication
+
+   CGU d'OpenEdition Journals - Politique de confidentialité - Gestion des
+   cookies - Signaler un problème
+
+   Nous adhérons à OpenEdition Journals - Édité avec Lodel - Accès réservé
+
+   (BUTTON)
+
+   Rechercher dans OpenEdition Search
+
+   Vous allez être redirigé vers OpenEdition Search
+   ____________________
+   ( ) Dans tout OpenEdition
+   (*) Dans OEconomia
+   (BUTTON) Rechercher
+
+     * Français
+          + English
+
+     * Partager
+          + Facebook
+          + Twitter
+
+   ">
+   (BUTTON)
+
+     * Accueil
+     * Catalogue des 668 revues
+
+   OpenEdition Search
+   (BUTTON) Tout OpenEdition
+
+   (BUTTON) Français
+     * English
+
+   Portail de ressources électroniques en sciences humaines et sociales
+   OpenEdition
+   Nos plateformes
+   OpenEdition Books OpenEdition Journals Hypotheses Calenda
+   Bibliothèques et institutions
+   OpenEdition Freemium
+   Nos services
+   OpenEdition Search La lettre d'OpenEdition
+   Suivez-nous

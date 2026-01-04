@@ -1,0 +1,1874 @@
+   #L'espoir dans Les Contemplations de Victor Hugo : « Ce que dit la
+   bouche d'ombre » Signata, Issues Signata, Documents
+
+   Skip to navigation - Site map
+
+Signata Signata
+
+   Annales des sémiotiques / Annals of Semiotics
+
+   HomeNuméros5Dossier5. ApplicationsL'espoir dans Les Contemplations ...
+
+   Search______________ (BUTTON) Search
+   Contents - Previous document - Next document
+   5 | 2014
+   Littérature et sémiotique
+   Dossier
+   5. Applications
+
+L'espoir dans Les Contemplations de Victor Hugo : « Ce que dit la bouche
+d'ombre »
+
+   Amir Biglari
+   p. 217-243
+   https://doi.org/10.4000/signata.497
+   Abstract | Index | Outline | Text | Bibliography | Notes | References |
+   About the author
+
+Abstracts
+
+   Français English
+
+   Cet article se propose d'examiner les propriétés de l'espoir telles
+   qu'elles apparaissent dans le célèbre poème de Victor Hugo, « Ce que
+   dit la bouche d'ombre ». Il tente d'une part d'analyser le
+   fonctionnement et les particularités de ce texte littéraire, et d'autre
+   part, d'éprouver la valeur heuristique de la sémiotique des passions et
+   de la sémiotique tensive, notamment celle du concept de la
+   « concession » qui est selon Claude Zilberberg « l'un des chapitres
+   majeurs de la sémiotique de l'événement » (2012, p. 146).
+
+   This article examines the properties of hope as they appear in the
+   famous poem by Victor Hugo, "What says the shadow's mouth". It attempts
+   to analyze the functioning and particularities of the literary text,
+   while putting to test the heuristic value of the semiotics of passions
+   and tensive semiotics, particularly the concept of "concession", which
+   is, according to Claude Zilberberg "one of the major chapters of event
+   semiotics" (2012, p. 46).
+   Top of page
+
+Index terms
+
+Mots-clés :
+
+   tensivité, passions, théorie littéraire
+
+Keywords:
+
+   tensivity, passions, literary theory
+   Top of page
+
+Outline
+
+   1. De la cognition à la thymie
+   1.1. La dimension cognitive au centre
+   1.2. L'émergence de l'espoir
+   2. La transformation de l'ordre des choses
+   2.1. L'inversion des valeurs axiologiques
+   2.2. La syntaxe extensive et la syntaxe intensive
+   2.3. La temporalité
+   3. La transformation thymique
+   3.1. L'inversion du contenu sémantique et l'effet de textualisation
+   3.2. Les valeurs et les modalités
+   3.3. L'espoir et l'amour
+   Pour conclure
+   Top of page
+
+Full text
+
+   PDF 552k Share by e-mail
+
+   1Cet article s'attache à analyser l'espoir tel qu'il apparaît dans « Ce
+   que dit la bouche d'ombre », en faisant appel aux théories de la
+   sémiotique des passions et de la sémiotique tensive. En effet, il
+   envisage à la fois d'éclairer ce texte littéraire et d'éprouver la
+   valeur heuristique des théories convoquées.
+     * 1 La textualisation désigne la « [d]isposition des données
+       discursives selon les contraintes dues à l (...)
+
+   2Du point de vue de la textualisation1, la place de ce poème dans Les
+   Contemplations est particulièrement importante : il s'agit du dernier
+   poème du sixième et dernier livre du recueil, il est précédé de
+   plusieurs poèmes désespérés, et suivi d'un autre poème désespéré qui se
+   trouve en dehors des livres, comme une apostille. L'effet de sens de
+   cette textualisation sera l'une de nos lignes directrices dans ce
+   travail, ce qui se rattachera par ailleurs à des comparaisons entre les
+   moments d'espoir et les moments de désespoir.
+
+   3Dans ce poème, l'espoir n'apparaît que dans la séquence finale,
+   précédée d'une longue séquence qui met en scène la dimension cognitive.
+   Compte tenu du rôle incontestable de cette séquence cognitive dans le
+   basculement de l'univers thymique (du désespoir qui précède ce poème à
+   l'espoir qui s'y manifeste), nous proposons d'y apporter quelques
+   éclaircissements avant d'aborder la séquence de l'espoir.
+
+1. De la cognition à la thymie
+
+1.1. La dimension cognitive au centre
+
+   4« Ce que dit la bouche d'ombre » est le titre d'un long poème
+   visionnaire, où le locuteur rapporte les propos d'un « spectre » qu'il
+   a rencontré :
+
+     * 2 Nous nous référons à l'édition de Pierre Laforgue, publiée en
+       2008.
+
+   Le spectre m'attendait ; l'être sombre et tranquille
+   Me prit par les cheveux dans sa main qui grandit,
+   M'emporta sur le haut du rocher, et me dit : [...] (p. 361)2
+
+   5Rappelons que les êtres venus de l'au-delà, interpellant le locuteur,
+   ont déjà existé dans le recueil : dans le poème liminaire, dans
+   « Pont » (qui inaugure le livre VI), et dans « Un spectre m'attendait
+   dans un grand angle d'ombre » (le troisième poème du même livre). Dans
+   le premier poème, c'est « une voix » (p. 29) invisible, dans le
+   deuxième, c'est un « fantôme » (p. 277), dans le troisième, comme le
+   titre l'indique, c'est « [u]n spectre » (p. 282), et ici, « [l]e
+   spectre » (p. 361) sur qui passe le « vent d'en haut » (p. 364), qui
+   prennent la parole. Il s'agit donc d'une entité surnaturelle de plus en
+   plus définie, perceptible et révélatrice.
+
+   6Selon Seebacher, « Ce que dit la bouche d'ombre répond à l'appel aux
+   mages : c'est une réponse du mage à Hugo, de Hugo-mage à Hugo-poète »
+   (Seebacher 1993, p. 124). De fait, le spectre fait des révélations,
+   c'est-à-dire qu'il s'agit, en termes de véridiction sémiotique, du
+   passage du secret, de l'illusion ou du faux au vrai. Ici, un nouveau
+   locuteur, le spectre, doté du « savoir maximum possible », du « savoir
+   référent », fait savoir des "vérités" au locuteur précédent (le « je »
+   habituel du recueil), ainsi qu'aux lecteurs, qui ne possèdent qu'un
+   « savoir particulier », un « savoir référé » ; acte qui permet de
+   réduire, sinon d'éliminer, les « écarts introduits par le débrayage
+   cognitif » (Fontanille 1986, p. 253) entre les deux niveaux de savoir.
+   Le locuteur et les lecteurs savent désormais plus qu'avant, même si
+   leur savoir reste inférieur à celui du spectre.
+
+   7Sur le plan énonciatif, la présence d'un nouveau locuteur est
+   importante, d'autant plus qu'il s'agit d'un discours générique,
+   universel et prophétique. Ce changement énonciatif souligne d'une part
+   une caractéristique du romantisme : le culte du particulier, du
+   singulier et du local implique une position énonciative embrayée, et
+   une grande difficulté à revenir à une position débrayée, par laquelle
+   on aurait accès aux vérités générales, aux configurations génériques, à
+   l'universel, à l'humain. Cette focalisation sur la vie individuelle et
+   sur ses accidents de parcours, confrontée avec le besoin d'accéder au
+   général pour en comprendre le sens, au moins par comparaison, peut se
+   rapporter à l'inquiétude et au vague de l'âme romantique, qui souffre
+   de la tension insoluble qu'elle s'est imposée à elle-même. Dans ce
+   poème, l'accès à l'universel ne devient possible qu'avec un changement
+   de régime énonciatif : un être tout à fait apte à exprimer le général
+   remplace le locuteur strictement embrayé.
+
+   8D'autre part, c'est la question de la crédibilité qui se pose : il
+   faudra que le locuteur soit légitime pour prendre cette parole, et pour
+   faire croire aux lecteurs ; c'est pourquoi un locuteur humain comme les
+   autres ne serait pas efficace, et que la présence d'un locuteur
+   surhumain, capable de révéler l'autre monde avec certitude, est
+   indispensable. Nous essaierons de résumer le contenu des révélations en
+   trois items :
+
+   9(i) Le spectre procède à des dévoilements sur le sens de la création.
+   Selon lui, tout a dans ce monde un but précis, rien ne va au hasard, et
+   il existe une providence divine omniprésente, qui dirige tout :
+
+     Sache que tout connaît sa loi, son but, sa route ; (p. 361)
+
+     [...] Et d'abord sache
+     Que le monde où tu vis est un monde effrayant
+     [...]
+     Mais vous n'êtes pas hors de Dieu complètement ;
+     Dieu, soleil dans l'azur, dans la cendre étincelle,
+     N'est hors de rien, étant la fin universelle ; (p. 364)
+
+   10Il souligne également l'idée d'une vision animiste de la création,
+   selon laquelle tout est profondément vivant, notamment tout est doté de
+   la faculté de la parole :
+
+     Tout parle ; l'air qui passe et l'alcyon qui vogue,
+     [...]
+     Crois-tu que l'eau du fleuve et les arbres des bois,
+     S'ils n'avaient rien à dire, élèveraient la voix ?
+     [...]
+     Non, tout est une voix et tout est un parfum ;
+     [...]
+     Dieu n'a pas fait un bruit sans y mêler le Verbe.
+     [...]
+     Arbres, roseaux, rochers, tout vit !
+     Tout est plein d'âmes. (pp. 362-363)
+
+   11(ii) Ce poème se manifeste « comme un essai d'explication de
+   l'existence du mal sous ses diverses formes : la faute, l'ignorance, la
+   souffrance » (Journet & Robert 1958, p. 218). Les principales idées
+   exposées sont les suivantes :
+
+   12a) pour être, toutes les créatures doivent être imparfaites ; sinon
+   elles ne peuvent pas être distinctes de leur créateur parfait, Dieu.
+   Cet argument est traditionnel, car il se trouve chez Saint Augustin,
+   Saint Thomas et Leibniz :
+
+     [...] Dieu n'a créé que l'être impondérable.
+     Il le fit radieux, beau, candide, adorable,
+     Mais imparfait ; sans quoi, sur la même hauteur,
+     La créature étant égale au créateur,
+     Cette perfection, dans l'infini perdue,
+     Se serait avec Dieu mêlée et confondue,
+     Et la création, à force de clarté,
+     En lui serait rentrée et n'aurait pas été.
+     La création sainte où rêve le prophète,
+     Pour être, ô profondeur ! devait être imparfaite.
+
+     Donc, Dieu fit l'univers, l'univers fit le mal. (p. 363)
+
+   13b) C'est cette imperfection première qui en génère d'autres, et qui
+   produit le mal. Celui-ci est concrétisé dans la matière, dont le poids
+   entraîne la créature dans la chute :
+
+     [...] Or, la première faute
+     Fut le premier poids.
+
+     Dieu sentit une douleur.
+     Le poids prit une forme, et, comme l'oiseleur
+     Fuit emportant l'oiseau qui frissonne et qui lutte,
+     Il tomba, traînant l'ange éperdu dans sa chute.
+     Le mal était fait. Puis, tout alla s'aggravant ;
+     [...]
+     Le mal, c'est la matière. Arbre noir, fatal fruit. (pp. 363-364)
+
+   14c) La présence du mal a également une autre justification : la
+   « métempsychose » (p. 371), terme « de théologie païenne » qui
+   consiste, explique Le Littré, dans le « [p]assage d'une âme d'un corps
+   dans un autre ». D'une part, elle suggère qu'une créature peut être
+   punie car elle a commis des crimes dans une vie antérieure, et donc,
+   toute souffrance est une expiation juste ; d'autre part, et surtout,
+   elle laisse un espoir aux mauvais et aux méchants, dans la mesure où
+   ils peuvent se réincarner sous une meilleure forme dans une vie
+   postérieure. La métempsychose se traduit dans le poème par la fameuse
+   image de l'échelle des êtres : au cours des vies successives, chaque
+   être, en fonction de ses qualités, se déplace sur une échelle dont le
+   bas correspond au mal et le haut au bien, qui part de la matière brute
+   et monte au-dessus de l'homme vers Dieu.
+
+   15d) Sur cette échelle, l'homme occupe une place spécifique : pour
+   mériter, il doit être libre (idée traditionnelle elle aussi), pour
+   « demeurer libre », il doit oublier « sa vie antérieure » (p. 373), et
+   pour « se racheter », il « doit ignorer » (p. 375) ; d'où la
+   réhabilitation du doute au détriment de la certitude :
+
+     Douter est sa puissance et sa punition.
+     Il voit la rose, et nie ; il voit l'aurore, et doute ;
+     Où serait le mérite à retrouver sa route,
+     Si l'homme, voyant clair, roi de sa volonté,
+     Avait la certitude, ayant la liberté ?
+     Non. Il faut qu'il hésite en la vaste nature,
+     [...]
+     Il faut qu'il doute ! Hier croyant, demain impie ;
+     [...]
+     Le doute le fait libre, et la liberté, grand. (p. 375)
+
+   16Ayant oublié sa vie antérieure, l'homme est libre, par contre le
+   monstre est souffrance puisqu'il a gardé la pleine conscience de son
+   crime commis dans sa vie antérieure. La mémoire de celle-ci dans la
+   bête et dans la pierre est expiation et remords :
+
+     Tout est douleur. (p. 378)
+
+   17(iii) Après des révélations sur les origines du monde, et sur
+   « l'immense système pénal que serait l'univers » (Vadé 1996, p. 86), le
+   poème prend l'allure d'un texte eschatologique, et donne des
+   explications sur la fin du monde. Il annonce une prodigieuse
+   renaissance, une vision de la réconciliation et de la rédemption
+   universelles : Dieu est miséricordieux, et le bien et la paix
+   triompheront. Cette dernière partie du poème célèbre effectivement
+   l'espoir, à savoir notre principal objet d'étude dans ce travail.
+
+1.2. L'émergence de l'espoir
+
+     * 3 Jacques Fontanille explique : « Sur le principe de base selon
+       lequel les schémas assurent la solida (...)
+
+   18L'espoir apparaît vers la fin de « Ce que dit la bouche d'ombre »,
+   avec la séquence qui commence par le vers « Espérez ! espérez !
+   espérez, misérables ». La substitution d'une passion à une autre (le
+   désespoir, qui domine dans de nombreux poèmes qui précèdent), et ceci
+   par l'intermédiaire des moments de cognition, signale la présence de
+   deux schémas tensifs qui résument les trois moments décisifs du
+   recueil : un schéma tensif descendant suivi d'un schéma tensif
+   ascendant3. Dans un premier mouvement, la dimension affective cède la
+   place à la dimension cognitive, et, partant, l'« abaissement de
+   l'intensité [est] conjugué au déploiement de l'étendue » (Fontanille
+   2003, p. 111) ; dans un deuxième mouvement, la dimension cognitive est
+   de nouveau remplacée par la dimension affective, et, ainsi,
+   l'« augmentation de l'intensité [est] conjuguée à la réduction de
+   l'étendue » (idem). Mais cette fois la première passion s'est
+   métamorphosée en son contraire ou contradictoire ; c'est l'espoir qui
+   efface le désespoir et qui règne grâce à la dimension cognitive mise en
+   oeuvre par la bouche d'ombre : voir schémas ci-après.
+
+   19Cela montre que le tempo de la fin des Contemplations est accéléré,
+   car plusieurs poèmes du recueil sont consacrés au désespoir, ils ont
+   donc un style tensif stable ; alors que dans « Ce que dit la bouche
+   d'ombre », deux mouvements opposés se réalisent.
+   Zoom Original (jpeg, 216k)
+
+   20Par ailleurs, la séquence d'espoir au sein de ce poème implique non
+   seulement un changement thématique, mais aussi un changement formel :
+   les longs blocs d'alexandrins à rimes plates, qui constituent la plus
+   grande partie du poème, sont remplacés par des sizains hétérométriques.
+   Il semble que cette double transformation, thématique et formelle, se
+   rattache à une troisième transformation, celle de l'énonciation : si le
+   discours de la première partie du poème, « d'allure doctrinale et dont
+   l'aspect didactique est même fortement marqué » (Vadé 1996, p. 86), est
+   confié à un spectre qui s'adresse au « je », l'instance qui énonce la
+   dernière partie, ce chant d'espoir, est ambiguë. Comme l'affirme Yves
+   Vadé, d'un côté, le « changement de système prosodique semble bien
+   marquer la fin du discours du spectre », et de l'autre, « aucune marque
+   textuelle ne permet d'attribuer ces strophes » au « je » habituel du
+   recueil : « Tout se passe comme si les strophes finales devaient être
+   attribuées à une "voix lyrique" débordant toute personnalité, unifiant
+   les deux instances d'énonciation jusque-là distinctes, le "spectre" et
+   le "je" » (ibid., p. 87).
+     * 4 Sur les régimes énonciatifs et temporels du désespoir, voir
+       Biglari (2011, p. 128 et pp. 177-181).
+
+   21En réalité, dans Les Contemplations, la manifestation de l'espoir et
+   celle du désespoir obéissent à des régimes énonciatifs différents : le
+   désespoir, étant directement assumé par un « je » humain, est du côté
+   du régime énonciatif de l'individuel et du local, alors que l'espoir
+   est du côté du régime énonciatif du général et du global. On peut
+   également en déduire que dans ce recueil, le régime temporel de
+   l'espoir est différent de celui du désespoir. Chez le sujet désespéré,
+   c'est le temps de l'expérience, le temps visiblement subjectivé qui
+   domine, alors que pour le sujet de l'espoir, c'est le temps de
+   l'existence qui régit : le régime temporel de l'espoir est au-delà du
+   temps subjectivé du prime actant, du temps du corps sensible ; il est
+   en quelque sorte objectivé, car versé dans le temps du monde commun4.
+
+   22Nous citons par la suite les strophes concernées, au nombre de seize,
+   et nous tenterons de les analyser afin d'en dégager les enjeux :
+
+     Espérez ! espérez ! espérez, misérables !
+     Pas de deuil infini, pas de maux incurables,
+     Pas d'enfer éternel !
+     Les douleurs vont à Dieu, comme la flèche aux cibles ;
+     Les bonnes actions sont les gonds invisibles
+     De la porte du ciel.
+
+     Le deuil est la vertu, le remords est le pôle
+     Des monstres garrottés dont le gouffre est la geôle ;
+     Quand, devant Jéhovah,
+     Un vivant reste pur dans les ombres charnelles,
+     La mort, ange attendri, rapporte ses deux ailes
+     À l'homme qui s'en va.
+
+     Les enfers se refont édens ; c'est là leur tâche.
+     Tout globe est un oiseau que le mal tient et lâche.
+     Vivants, je vous le dis,
+     Les vertus, parmi vous, font ce labeur auguste
+     D'augmenter sur vos fronts le ciel ; quiconque est juste
+     Travaille au paradis.
+
+     L'heure approche. Espérez. Rallumez l'âme éteinte !
+     Aimez-vous ! aimez-vous ! car c'est la chaleur sainte,
+     C'est le feu du vrai jour.
+     Le sombre univers, froid, glacé, pesant, réclame
+     La sublimation de l'être par la flamme,
+     De l'homme par l'amour !
+
+     Déjà, dans l'océan d'ombre que Dieu domine,
+     L'archipel ténébreux des bagnes s'illumine ;
+     Dieu, c'est le grand aimant ;
+     Et les globes, ouvrant leur sinistre prunelle,
+     Vers les immensités de l'aurore éternelle
+     Se tournent lentement.
+
+     Oh ! comme vont chanter toutes les harmonies,
+     Comme rayonneront dans les sphères bénies
+     Les faces de clarté,
+     Comme les firmaments se fondront en délires,
+     Comme tressailliront toutes les grandes lyres
+     De la sérénité,
+
+     Quand, du monstre matière ouvrant toutes les serres,
+     Faisant évanouir en splendeurs les misères,
+     Changeant l'absinthe en miel,
+     Inondant de beauté la nuit diminuée,
+     Ainsi que le soleil tire à lui la nuée
+     Et l'emplit d'arcs-en-ciel,
+
+     Dieu, de son regard fixe attirant les ténèbres,
+     Voyant vers lui, du fond des cloaques funèbres
+     Où le mal le pria,
+     Monter l'énormité, bégayant des louanges,
+     Fera rentrer, parmi les univers archanges,
+     L'univers paria !
+
+     On verra palpiter les fanges éclairées,
+     Et briller les laideurs les plus désespérées
+     Au faîte le plus haut,
+     L'araignée éclatante au seuil des bleus pilastres
+     Luire, et se redresser, portant des épis d'astres,
+     La paille du cachot !
+
+     La clarté montera dans tout comme une sève ;
+     On verra rayonner au front du boeuf qui rêve
+     Le céleste croissant ;
+     Le charnier chantera dans l'horreur qui l'encombre,
+     Et sur tous les fumiers apparaîtra dans l'ombre
+     Un Job resplendissant !
+
+     Ô disparition de l'antique anathème !
+     La profondeur disant à la hauteur : Je t'aime !
+     Ô retour du banni !
+     Quel éblouissement au fond des cieux sublimes !
+     Quel surcroît de clarté que l'ombre des abîmes
+     S'écriant : Sois béni !
+
+     On verra le troupeau des hydres formidables
+     Sortir, monter du fond des brumes insondables
+     Et se transfigurer ;
+     Des étoiles éclore aux trous noirs de leurs crânes,
+     Dieu juste ! et par degrés devenant diaphanes,
+     Les monstres s'azurer !
+
+     Ils viendront, sans pouvoir ni parler ni répondre,
+     Éperdus ! on verra des auréoles fondre
+     Les cornes de leur front ;
+     Ils tiendront dans leur griffe, au milieu des cieux calmes,
+     Des rayons frissonnants semblables à des palmes ;
+     Les gueules baiseront !
+
+     Ils viendront ! ils viendront, tremblants, brisés d'extase,
+     Chacun d'eux débordant de sanglots comme un vase,
+     Mais pourtant sans effroi ;
+     On leur tendra les bras de la haute demeure,
+     Et Jésus, se penchant sur Bélial qui pleure,
+     Lui dira : C'est donc toi !
+
+     Et vers Dieu par la main il conduira ce frère !
+     Et, quand ils seront près des degrés de lumière
+     Par nous seuls aperçus,
+     Tous deux seront si beaux, que Dieu dont l'oeil flamboie
+     Ne pourra distinguer, père ébloui de joie,
+     Bélial de Jésus !
+
+     Tout sera dit. Le mal expirera ; les larmes
+     Tariront ; plus de fers, plus de deuils, plus d'alarmes ;
+     L'affreux gouffre inclément
+     Cessera d'être sourd, et bégaiera : Qu'entends-je ?
+     Les douleurs finiront dans toute l'ombre ; un ange
+     Criera : Commencement ! (pp. 380-383)
+
+     * 5 S'il est vrai que l'espoir est une passion caractérisée par la
+       confiance dans le destinateur, cette (...)
+
+   23Comme on le constate, les vicissitudes qui pourraient caractériser un
+   sujet d'espoir (relevant de l'instabilité de son état due au
+   tiraillement entre la certitude et l'incertitude, le possible et
+   l'impossible, le probable et l'improbable, et traversant parfois des
+   moments d'inquiétude, d'appréhension, d'angoisse, voire de
+   crainte, etc.5) sont ici absentes : le chant d'espoir se manifeste de
+   façon imprévue, et met fin au désespoir. La lexicalisation de la
+   passion, en l'occurrence sous forme de verbe impératif, signale la
+   présence d'une structure passionnelle masquée.
+     * 6 Voir Zilberberg (2012, p. 146, p. 150 et p. 159).
+
+   24Cette séquence débute avec une invitation à l'espoir, adressée aux
+   « misérables ». Le mot « misérable » est ainsi défini par Le Littré :
+   « Qui est dans la misère, ou dans le malheur » ; les termes « misère »
+   et « malheur » sont respectivement définis comme : « État malheureux »
+   et « Mauvaise destinée ». Le message est donc adressé à tous ceux qui
+   sont dans un état thymique dysphorique, à tous ceux qui risquent
+   d'avoir perdu leur espoir. Cette invitation est exprimée avec une
+   répétition triple du verbe « espérez » comme prélude de la séquence ;
+   il est aussi réitéré à la quatrième strophe citée. Au milieu de tous
+   les malheurs et désespoirs, l'espoir apparaît donc de façon brusque et
+   inattendue, avec un éclat tonique et une intensité puissante6.
+
+   25Ce message est d'autant plus important que par exemple dans le poème
+   « Trois ans après », le locuteur disait explicitement qu'il ne pourrait
+   pas chanter l'espoir, même sur la demande ou l'invitation des autres :
+   « Vous voulez que j'aspire encore / Aux triomphes doux et dorés ! / Que
+   j'annonce aux dormeurs l'aurore ! / Que je crie : "Allez ! espérez". »
+   En réalité, le sujet du désespoir assume son état d'âme comme une
+   identité passionnelle irréductible, il vit renfermé et solipsiste, il
+   refuse toute proposition de communication ; en revanche, le sujet de
+   l'espoir se voit dans une collectivité, il va vers les autres et les
+   invite à rejoindre cette sphère passionnelle.
+
+   26Une transformation essentielle a donc eu lieu : l'identité du sujet
+   s'est déconstruite et reconstruite. Ce changement thymique est dû aux
+   modifications annoncées par la bouche d'ombre. Nous allons dans un
+   premier temps aborder la transformation annoncée de l'ordre des choses,
+   et dans un deuxième temps, les enjeux sémiotiques de la transformation
+   thymique.
+
+2. La transformation de l'ordre des choses
+
+     * 7 Fontanille définit ainsi ce concept : « La "catalyse" est
+       l'opération par laquelle, à partir de pos (...)
+
+   27Dans la séquence citée, plusieurs transformations de l'ordre des
+   choses sont annoncées : les grandeurs négatives se transformeront en
+   grandeurs positives ; par exemple, « les misères » en « splendeurs »,
+   « les alarmes » en « sérénité », « le mal » en "bien", « les deuils »
+   en "bonheur", « les douleurs » en "joie", « l'absinthe en miel »,
+   « [l]es enfers » en « édens », etc. Cette dernière transformation est
+   considérée comme une « tâche » ; ce qui signifie qu'elle, et par
+   « catalyse »7 les autres transformations, sont caractérisées par le
+   devoir être. En outre, tous les énoncés sont formulés comme si le
+   locuteur n'avait aucun doute, qu'il était certain ; surtout avec les
+   nombreux futurs utilisés : « comme vont chanter... », « On verra
+   palpiter... », « La clarté montera... », « Ils viendront... », « Tout
+   sera dit... », etc. C'est-à-dire que l'existence de l'autre monde et
+   les transformations indiquées sont modalisées comme /vraies/,
+   /certaines/ et /inéluctables/. Le rôle de Dieu, qualifié de « juste »,
+   est comparé dans ces transformations à un « grand aimant », qui tire
+   vers lui les « douleurs », « les globes », « les ténèbres ».
+
+2.1. L'inversion des valeurs axiologiques
+
+     * 8 Vs le régime implicatif : X donc Y.
+     * 9 Voir Zilberberg (2012, p. 146).
+
+   28L'annonce des événements de la fin du monde, qui assure le passage de
+   la dysphorie à l'euphorie, est rattachée à une conception particulière
+   de la mort. Les investissements axiologiques traditionnels sont
+   inversés : la vie est considérée comme une entité négative, alors que
+   la mort est dotée d'une valeur positive. Mais la mort n'est qu'une
+   valeur-moyen et non pas une valeur-but : celle-ci correspond à la vie
+   après la mort, et le seul moyen pour l'atteindre c'est de mourir. Aussi
+   la mort devient-elle une valeur positive, le seul espoir pour le sujet.
+   C'est-à-dire qu'il s'agit du régime concessif, à savoir celui qui relie
+   deux contenus avec pourtant (X pourtant Y)8, et qui correspond, de
+   fait, à la surprise et à l'éclat9. En l'occurrence : vie pourtant
+   négative ; mort pourtant positive.
+     * 10 Quelques poèmes avant, cette inversion était juste une
+       interrogation : « Ô mort, est-ce toi le viva (...)
+     * 11 Par exemple : « Ceux qui restent à ceux qui passent / Disent :
+       -- Infortunés ! déjà vos fronts s'eff (...)
+
+   29Il est à noter que l'inversion de valeurs dans le couple vie / mort
+   ne se limite pas à ce poème. Le locuteur disait explicitement : « Ne
+   dites pas : mourir ; dites : naître. Croyez » (« Ce que c'est que la
+   mort », p. 338)10. Cette valorisation de la mort est très fréquente
+   dans le recueil entier : la mort est par exemple considérée comme « le
+   passage suprême » (« Joies du soir », p. 160), comme l'« heure
+   splendide » (« Cadaver », p. 319), comme le moment où on saura tout :
+   « Quand le vrai tout à coup paraît » (« Joies du soir », p. 161) ;
+   « Mourir, c'est connaître » (« Magnitudo Parvi », p. 179) ; « le secret
+   s'ouvre et [...] l'être est dehors » (« Cadaver », p. 320) ;
+   « L'explication sainte et calme est dans la tombe » (« Dolor »,
+   p. 331). Les déclarations de la bouche d'ombre, tantôt dans la première
+   séquence, tantôt dans la deuxième séquence du poème, confirment les
+   affirmations antérieures du locuteur : « Tu le sauras ; la tombe est
+   faite pour savoir ; / Tu verras ; aujourd'hui, tu ne peux
+   qu'entrouvrir » (« Ce que dit la bouche d'ombre », p. 367) ; la mort
+   est comparée à un « ange attendri ». En outre, plusieurs poèmes du
+   recueil présentent un point de vue négatif sur la vie, et un point de
+   vue positif sur la vie après la mort11.
+     * 12 Le couple ombre / lumière est aussi d'une importance majeure
+       dans d'autres ouvrages poétiques de Hu (...)
+
+   30Il est également intéressant de constater que dans les nombreuses
+   comparaisons entre ce monde dysphorique et l'au-delà euphorique, et les
+   oppositions qui en résultent, deux sèmes sont activés de façon
+   éclatante : l'obscurité pour la première et la lumière pour la
+   deuxième. Voici les termes utilisés, dans la séquence citée, pour le
+   premier univers : « brumes », « éteinte », « noirs », « nuit »,
+   « ombre » (cinq fois), « ombres », « ténèbres », « ténébreux » ; et
+   pour le deuxième univers : « astres », « briller », « clarté » (quatre
+   fois), « croissant », « ébloui », « éblouissement », « éclairées »,
+   « éclatante », « étoiles », « flamboie », « Luire », « lumière »,
+   « rayons », « rayonner », « rayonneront », « resplendissant »,
+   « splendeurs ». En effet, comme l'illustre Philippe Lejeune dans son
+   analyse, l'ombre et la lumière constituent un couple isotopique
+   important dans Les Contemplations12. Il résume à travers ce couple
+   figuratif l'« itinéraire dessiné par les Livres IV à VI » : « Première
+   étape : La vie, c'est la lumière, la mort, c'est l'ombre. [...]
+   Deuxième étape : La vie, c'est l'ombre, la mort, c'est l'ombre. [...]
+   Troisième étape : La vie, c'est l'ombre, la mort, c'est la lumière »
+   (Lejeune 1968, p. 61). Cela montre que l'inversion des valeurs
+   investies dans la vie et la mort se manifeste, au niveau figuratif, par
+   l'ombre et la lumière, dans la mesure où celles-ci maintiennent leur
+   contenu sémantique doxique : dans le recueil, la lumière est toujours
+   positive, et l'ombre est toujours négative.
+
+   31D'ailleurs, cette inversion axiologique de la doxa dans le recueil
+   n'est pas restreinte au couple vie / mort. Par exemple, dans la
+   séquence citée, on lit : « Le deuil est la vertu ». La « vertu » est
+   définie par Le Littré comme « Force morale, courage », ou « Ferme
+   disposition de l'âme à fuir le mal et à faire le bien ». Le deuil est
+   en quelque sorte considéré comme l'équivalent de son contraire. Il en
+   existe d'autres exemples dans d'autres poèmes, qui mettent en scène ce
+   procédé, et il semble qu'ils jouent un rôle assez important dans la
+   préparation du terrain pour l'apparition de la bouche d'ombre :
+
+     Oh ! le martyre est joie et transport, le supplice
+     Est volupté, les feux du bûcher sont délice,
+     La souffrance est plaisir, la torture est bonheur ; (« Les
+     Malheureux », p. 274)
+
+     Ô douleur ! clef des cieux !
+     [...]
+     L'expiation rouvre une porte fermée ;
+     Les souffrances sont des faveurs (« Dolor », p. 333)
+
+     Le Mal peut être joie, et le poison parfum (« Voyage de nuit »,
+     p. 336)
+
+   32Ce genre d'énoncés concessifs, qui mettent en oeuvre des inversions
+   axiologiques patentes, semblent fournir les conditions nécessaires pour
+   la manifestation de la concession finale, qui a pour enjeu la
+   transformation du désespoir en espoir.
+
+2.2. La syntaxe extensive et la syntaxe intensive
+
+   33Dans cette transformation annoncée de l'ordre des choses, se font
+   jour des propriétés importantes que l'on peut décrire en termes de
+   syntaxe extensive et de syntaxe intensive. Rappelons que « la syntaxe
+   extensive a pour objet les opérations de tri et les opérations de
+   mélange » (Zilberberg 2012, p. 158), et que « la syntaxe intensive a
+   pour objet les opérations d'augmentation et de diminution » (idem).
+     * 13 Un poème des Contemplations est consacré à l'araignée et à
+       l'ortie, une bête et une herbe sur lesqu (...)
+     * 14 Nom d'un patriarche de l'histoire sainte.
+
+   34Ici, la syntaxe extensive vise abondamment et explicitement
+   l'opération de mélange au détriment de l'opération de tri : des univers
+   opposés seront mélangés, par exemple, « l'énormité » montera « du fond
+   des cloaques funèbres » ; « On verra palpiter les fanges éclairées / Et
+   briller les laideurs les plus désespérées » ; « L'araignée éclatante au
+   seuil des bleus pilastres / Luire, et se redresser, portant des épis
+   d'astres »13 ; « Le charnier chantera dans l'horreur qui l'encombre, /
+   Et sur tous les fumiers apparaîtra dans l'ombre / Un Job14
+   resplendissant ! » ; « La profondeur disant à la hauteur : Je
+   t'aime ! » ; les « hydres » "se transfigureront" : ils auront des
+   « étoiles » à la place des « trous noirs de leur crânes » ; les
+   « auréoles » fonderont les « cornes » du « front » des « monstres » ;
+   mieux encore, Dieu « Fera rentrer, parmi les univers archanges, /
+   L'univers paria ! » ; ou bien : « Et Jésus, se penchant sur Bélial qui
+   pleure, / Lui dira : C'est donc toi ! » ; « Et vers Dieu par la main il
+   conduira ce frère ! [...] Tous deux seront si beaux, que Dieu dont
+   l'oeil flamboie / Ne pourra distinguer, père ébloui de joie, Bélial de
+   Jésus ». Bélial, qui désigne en « style biblique, le malin esprit, le
+   démon » (Le Littré), est donc tout à fait l'opposé de Jésus ; pourtant,
+   ils seront si mélangés que Dieu même ne pourra pas les distinguer. Tout
+   cela est bien évidemment d'ordre concessif, et a pour effet l'éclat et
+   le paroxysme, qui sont fréquents chez Hugo.
+     * 15 Claude Zilberberg, « en référence à notre doxa », distingue deux
+       syntagmes implicatifs et deux synt (...)
+
+   35Ce mélange rejoint également le motif du pardon : « l'antique
+   anathème » aura disparu, « Bélial », « l'univers paria », les
+   « monstres », le « banni » seront pardonnés. À la différence de la
+   condamnation qui appelle le tri, la mise à l'écart et l'exclusion, le
+   pardon suppose une opération de mélange qui défait le tri antérieur.
+   Ici, il s'agit en réalité de « pardonner l'impardonnable », ce qui nous
+   rappelle encore une fois que c'est le régime concessif qui est activé,
+   de façon éclatante et grandiose15.
+     * 16 Dans la préface de Cromwell, Hugo préconise le principe
+       d'augmentation dans la syntaxe intensive de (...)
+
+   36En outre, la syntaxe intensive de la séquence va dans le sens de la
+   syntaxe extensive : comme le montrent certains exemples que nous avons
+   présentés pour la syntaxe extensive, il s'agit du mélange des
+   contraires les plus éloignés, donc des mouvements d'augmentations
+   maximales, procédé récurrent chez Hugo16. Il y a aussi d'autres
+   expressions qui signalent cet effet hyperbolique : « immensités de
+   l'aurore éternelle » ; « toutes les grandes lyres », « inondant de
+   beauté » ; « Au faîte le plus haut » ; « Quel éblouissement au fond des
+   cieux sublimes ! / Quel surcroît de clarté que l'ombre des abîmes /
+   S'écriant : Sois béni ! » ; « Tout sera dit », etc.
+
+   37Les transformations sont souverainement concessives.
+
+2.3. La temporalité
+
+   38Commençons la question de la temporalité par l'aspectualité, qui est
+   d'une importance majeure dans cette séquence ; la preuve en est que la
+   première et la dernière strophes la mettent en évidence : « Pas de
+   deuil infini, pas de maux incurables, / Pas d'enfer éternel ! » ;
+   « [...] Le mal expirera : les larmes / Tariront ; plus de fer, plus de
+   deuils, plus d'alarmes ; [...] Les douleurs finiront dans toute
+   l'ombre ; un ange / Criera : Commencement ! ». Cela montre que, selon
+   ce recueil de poèmes, si le désespoir est duratif et d'un tempo lent,
+   il n'est pas sans fin ; et que le deuil ne reste pas pour toujours
+   non-accompli.
+
+   39Concernant le dernier terme de la séquence, « Commencement », Ludmila
+   Charles-Wurtz affirme qu'il « fait l'objet d'une triple énonciation :
+   il sera proféré par un "ange" lorsque la loi divine entrera en
+   vigueur ; il est cité, dans le cadre d'un discours rapporté, par la
+   "bouche d'ombre" qui prophétise la fin des temps ; il est enfin énoncé
+   par le poète des Contemplations, qui rapporte le discours prophétique
+   de la "bouche d'ombre". Ces trois instances se superposent : la fin des
+   temps, moment où "tout sera dit", se confond avec la fin du recueil ;
+   tout est "dit" au terme du dernier poème du livre VI » (Charles-Wurtz
+   2001, p. 123-124).
+
+   40Comme nous l'avons vu, ce qui assure cette transformation, qui mettra
+   fin à un univers dysphorique, et qui inaugurera un univers euphorique,
+   c'est la mort, qui est, de fait, un moment à la fois inchoatif et
+   terminatif, moment particulier que nous appelons avec Per Aage Brandt
+   « résultatif » ; selon lui : « À la différence du terminatif, le
+   résultatif est corrélatif, désignant l'"entrée" d'un événement comme
+   lié à la "sortie" d'un autre ; il est donc à la fois inchoatif et
+   terminatif » (Brandt 1986, p. 21). Ce moment ponctuel qui permet le
+   basculement d'un univers thymique à un autre, est nécessairement d'une
+   intensité maximale : il implique un réaménagement total de l'univers
+   sémiotique, à la fois anéantissement et création.
+     * 17 Voir aussi l'analyse de Heidi Toëlle (1995, pp. 171-181) sur la
+       fin du monde dans le Coran.
+
+   41Par ailleurs, le moment de la mort est, de façon paradoxale, à la
+   fois attendu et surprenant, un horizon visé et un "coup"17 ; ce qui
+   pourrait en partie s'expliquer par une analyse mobilisant le concept de
+   la perspective : « d'une part, la perspective est tournée vers la
+   cible, avec une grande profondeur, mais l'observateur n'est pas repéré
+   par rapport à cette cible : il est quelque part, mais n'importe où, de
+   sorte qu'il lui est impossible de mesurer la profondeur qui le sépare
+   de l'événement » (Fontanille 1995, p. 14). Pour reprendre les termes de
+   Claude Zilberberg, on peut dire qu'il s'agit d'un phénomène qui est à
+   la fois « mort-possibilité » et « mort-événement », la première
+   s'appliquant au « prévenir » et à la « visée », la deuxième au
+   « survenir » et à la « saisie » (Zilberberg 2010, p. 81). L'expérience
+   de la mort renvoie ainsi à l'actualisation de la mort, et en
+   l'occurrence à sa survenue imminente : l'expression « [l]'heure
+   approche » signale l'accélération du tempo, et donc le raccourcissement
+   du temps de l'attente.
+
+   42Quant au régime temporel de la vie après la mort, il est caractérisé
+   par l'éternité : « immensités de l'aurore éternelle ». Que signifie au
+   juste l'éternité ? Herman Parret distingue deux conceptions de cette
+   notion, « souvent formulées dans l'histoire de la philosophie » :
+   « l'éternité contrastante (ex negativo) et l'éternité transcendante.
+   L'éternité du premier type est conçue comme le contraire du temps, ou
+   comme un "temps", si l'on veut, qui ne passe point, qui ne commencerait
+   ni ne finirait, un temps infiniment prolongé. L'éternité transcendante
+   serait alors plutôt conçue comme l'au-delà du temps, comme ce qui n'a
+   plus aucun rapport possible avec le temps, qui lui est incommensurable.
+   Ce supra-temporel, cette éternité transcendante, ne serait plus
+   caractérisable par une durée infinie (comme l'éternité contrastante)
+   mais bien plutôt projeté comme un hors-temps » (Parret 2006, p. 157).
+   Quelle que soit notre conception de l'éternité, on a affaire à un
+   univers sémiotique stable et immuable. Il semble par ailleurs pertinent
+   de dire que l'éternité est une propriété nécessaire pour le passage au
+   summum de la liberté. Dans un cadre fermé, quelles qu'en soient les
+   caractéristiques et les dimensions, la liberté est limitée. Pour la
+   liberté totale, il faut être dans un univers ouvert, et infini, de tous
+   les points de vue.
+     * 18 Madame de Staël note : « C'est au sentiment de l'infini que la
+       plupart des écrivains allemands rapp (...)
+
+   43N'oublions pas d'ailleurs que l'énonciateur des Contemplations,
+   d'après les titres des livres cinq et six, est « en marche » vers
+   « l'infini ». L'espoir hugolien rejoint, en effet, le « sentiment de
+   l'infini », l'un des motifs romantiques majeurs, conceptualisé par
+   Madame de Staël18.
+
+3. La transformation thymique
+
+   44Le savoir apporté par la bouche d'ombre, surtout les transformations
+   annoncées, modifie l'état thymique du sujet : il bascule du désespoir à
+   l'espoir. Nous allons étudier cet événement de plus près.
+
+3.1. L'inversion du contenu sémantique et l'effet de textualisation
+
+   45Dans le mouvement de changement de l'univers thymique dans Les
+   Contemplations, au moins deux procédés complémentaires, et entremêlés,
+   sont mis en oeuvre, qui participent de l'efficience persuasive :
+   l'inversion du contenu sémantique, et l'effet de textualisation, qui,
+   en orientant le calcul interprétatif, nourrissent l'adhésion des
+   lecteurs.
+
+   46En ce qui concerne l'inversion du contenu sémantique, il s'agit, en
+   réalité, de la dénégation d'une posture initiale pour l'affirmation
+   d'une posture finale : l'espoir remplace le désespoir. De plus, le
+   désespoir présupposant un espoir antérieur annulé, on peut dire que le
+   sujet du recueil a parcouru toutes les positions du carré sémiotique
+   classique et qu'il est retourné à la position initiale : espoir ->
+   non-espoir -> désespoir -> non-désespoir -> espoir ; parcours qui
+   permet au discours d'assurer une clôture sémantique. Mais, l'espoir de
+   la fin n'est pas de même nature que l'espoir initial présupposé, dans
+   la mesure où les régimes énonciatif, temporel et axiologique changent :
+   le régime énonciatif de l'individuel et du local cède la place à celui
+   du général et du global, le régime temporel de l'expérience à celui de
+   l'existence, le régime axiologique centré sur la vie à celui centré sur
+   la mort. C'est-à-dire que le retour à la position d'origine a
+   transformé la position d'origine : c'est la preuve que le sujet n'a pas
+   effectué un parcours logique, mais un parcours sémiotique.
+     * 19 Il semble que cette antithèse macrostructurale commande et
+       contrôle toutes les innombrables antithè (...)
+
+   47Dans une optique argumentative, « la logique de l'inversion [...]
+   constitue une forme intense de la différenciation, puisqu'elle
+   représente un écart différentiel maximal » (Bertin 2007, p. 15) : par
+   un jeu de polarisations, le discours « renforce l'effet de valorisation
+   de l'objet nouvellement investi » (idem). Plus l'écart différentiel est
+   important, plus les polarisations sont intensives, et plus les deux
+   contenus se font remarquer. Par exemple : « Grâce à l'antithèse,
+   concentrée dans l'espace d'un vers ou d'une expression, le poète
+   atteint souvent le paroxysme de l'émotion et du pathétique » (Debailly,
+   Carlier & Lemeunier 1998, p. 51). Cette affirmation est aussi valable
+   pour l'antithèse étendue à hauteur du discours entier, en l'occurrence
+   entre le désespoir et l'espoir : cela favorise la production de l'effet
+   passionnel19.
+
+   48De plus, Gisèle Mathieu-Castellani, en reprenant Cicéron, souligne
+   « l'importance des passions contraires » : « le critère décisif de la
+   technè n'est pas seulement de savoir éveiller telle ou telle passion à
+   tel moment du discours, mais de pouvoir faire passer l'auditeur d'une
+   passion forte à la passion forte [...] contraire, de manière à le
+   "déstabiliser", à lui faire perdre le contrôle de lui-même, à le livrer
+   entièrement à l'orateur » (Mathieu-Castellani 2000, p. 71).
+     * 20 Jacques Fontanille souligne : « L'activité perceptive de
+       l'observateur que nous postulons n'est pas (...)
+     * 21 La remarque de René Journet et Guy Robert rejoint la nôtre :
+       « Nulle part autant que dans Les Conte (...)
+
+   49Cette inversion du contenu -- d'un "contenu inversé" à un "contenu
+   posé" ou d'un "contenu posé" à un "contenu inversé" (les deux peuvent
+   être pertinents en fonction du point de vue que l'on adopte20) --,
+   rejoint la structure élémentaire du récit mythique, explicitée par
+   Lévi-Strauss, et met en évidence le caractère mythique du recueil de
+   Hugo21. Au-delà d'un schéma de quête ou de restauration, le sujet
+   arrive à « la sagesse » dans le sens où Proust l'utilise dans À l'ombre
+   des jeunes filles en fleurs : « On ne reçoit pas la sagesse, il faut la
+   découvrir soi-même après un trajet que personne ne peut faire pour
+   nous, ne peut nous épargner, car elle est un point de vue sur les
+   choses » (Proust 1988 [1919], p. 219).
+     * 22 Voir Zilberberg (2012, p. 157).
+
+   50Il faudra aussi insister sur l'effet de textualisation de l'inversion
+   sémantique, qui joue un rôle essentiel dans la construction de l'effet
+   de sens. C'est dire que les deux contenus, en fonction de l'ordre dans
+   lequel ils se manifestent dans le discours, n'ont pas le même statut,
+   et c'est effectivement cet "effet d'asymétrie" qui est décisif. Michael
+   Riffaterre affirme : « L'effet maximal de la lecture rétroactive,
+   l'apogée de sa fonction de générateur de la signifiance, intervient
+   bien entendu à la fin du poème » (Riffaterre 1983 [1978], p. 17). Si
+   l'on prend comme corpus un recueil et non pas un poème, l'effet de sens
+   maximal apparaît à la fin du recueil. Dans la perspective de la
+   textualisation, dans Les Contemplations, le désespoir s'étend à une
+   bonne partie du recueil, mais, étant de l'ordre du parvenir, son
+   intensité est faible, alors que l'espoir qui ne se manifeste qu'à la
+   fin, est d'étendue restreinte, certes, mais d'intensité forte, il est
+   de l'ordre du survenir, d'autant plus que son arrivée est inattendue,
+   comme une surprise22 :
+   Zoom Original (jpeg, 134k)
+
+   51Ainsi l'espoir apparaît-il avec un tempo accéléré et un éclat
+   tonique : c'est en raison de la textualisation, mais aussi en vertu de
+   la concession impliquée que l'effet de sens produit atteint son point
+   culminant. Cela suggère qu'en dépit du désespoir, avec toute son
+   intensité passionnelle -- vs intensité faible du point de vue de la
+   textualisation --, et extensité temporelle, il faut avoir de l'espoir.
+   Cette recommandation est sans doute l'une des principales
+   caractéristiques de la vision du monde hugolienne, présente dans la
+   plupart de ses ouvrages. L'une des affirmations les plus nettes à ce
+   sujet se trouve dans le dernier poème de son recueil Le Pape :
+
+     * 23 Hugo (1985 [1878]). Victor Hugo a aussi insisté sur l'importance
+       de l'espoir à d'autres occasions ; (...)
+
+   Si noir que soit le deuil, conservez l'espérance ;
+   Car rien n'est plein de nuit sans être plein de ciel.
+   (« Pensif devant la nuit », p. 908)23
+
+   52Il y a de l'espoir au fond du désespoir hugolien. Cela construit, en
+   effet, une forme de vie particulière, fondée sur l'espoir malgré tout.
+   Dans Les Contemplations, puisque l'espoir est investi en Dieu, on peut
+   appeler cette forme de vie, la forme de vie croyante, commune à toutes
+   les religions théistes : il ne faut jamais perdre son espoir en Dieu.
+
+3.2. Les valeurs et les modalités
+
+     * 24 Voir Fontanille (1991, p. 107) et Biglari (2011, pp. 60-65 et
+       pp. 76-84).
+
+   53En réalité, le désespoir est une passion caractérisée par l'absence
+   de toute perspective, l'absence de l'actant cible, par la fermeture du
+   champ de présence, par les mouvements centripètes des orientations de
+   celui-ci ; en revanche, l'espoir est caractérisé par la définition de
+   nouvelles perspectives, un nouvel actant cible, par l'ouverture du
+   champ de présence, par les mouvements centrifuges. Si le sujet de
+   désespoir est un sujet zéro, un sujet passif et virtualisé, le sujet
+   d'espoir est un sujet de quête, un sujet actif et actualisé24.
+
+   54Cette transformation de l'univers thymique, présupposant d'un côté,
+   un changement de niveau de pertinence, et de l'autre, l'écroulement
+   d'un type de contrat fiduciaire avec le destinateur et le
+   rétablissement d'un autre contrat fiduciaire avec le même destinateur,
+   a directement trait aux valeurs et aux modalités. Elle exige
+   nécessairement la présence d'un nouvel horizon de valeurs, en dehors de
+   l'horizon où se trouvait le sujet de désespoir : comme l'indique
+   Zilberberg, « l'euphorie [...] consiste [...], presque toujours, à
+   "s'en sortir" » (Zilberberg 1986, p. 210). Il ne s'agit pourtant pas de
+   « remplacer des valeurs par d'autres valeurs de même rang », mais de
+   les réviser, redéfinir, réactualiser, et « réinterpréter [...] à la
+   lumière d'une transformation modale » (Fontanille 1990, p. 5). La
+   "sagesse" du sujet consiste en somme à admettre que « le véritable
+   ressort d'un récit est modal ou, en d'autres termes, qu'un projet de
+   vie n'a de sens qu'en raison des isotopies modales qui le sous-tendent,
+   et non en raison des valeurs descriptives et concrètes qu'il vise »
+   (idem).
+
+   55Si le sujet désespéré est un sujet qui ne peut pas faire (changer sa
+   situation), et qui ne sait pas faire (vivre dans sa situation), le
+   sujet d'espoir est un sujet qui, grâce à la réactualisation des
+   valeurs, restaure partiellement son pouvoir faire, et accède à un
+   savoir faire, c'est-à-dire qu'il apprend à reconnaître ses limites et à
+   vivre autrement. Cette transformation du savoir faire entraîne aussi un
+   autre changement modal : ne pas vouloir faire (continuer son parcours)
+   se transforme en vouloir faire. Le savoir apporté par la bouche d'ombre
+   devient donc un savoir faire chez le sujet, qui régit l'ensemble de son
+   dispositif modal.
+
+   56En outre, avec le changement des valeurs modales, le système
+   actantiel et la distribution des rôles changent aussi :
+   l'anti-destinateur et l'anti-sujet disparaissent, les objets de valeurs
+   se transforment, et, selon le nouveau contrat, le sujet reconstitue un
+   nouveau destinateur. Mais, en réalité, ce nouveau destinateur n'est que
+   l'ancien anti-destinateur, à qui le sujet attribue de nouvelles
+   propriétés : le sujet fait, à nouveau, confiance à la même entité qui
+   n'avait pas respecté la dimension éthique en annulant unilatéralement
+   la promesse qu'il lui avait donnée. Ce retour au même destinateur, à
+   Dieu, est la définition même de la foi, qui, selon un régime concessif,
+   consiste à « croire l'incroyable » (Zilberberg 2010, p. 121).
+
+3.3. L'espoir et l'amour
+
+   57Dans la séquence d'espoir, une invitation à l'amour voit aussi le
+   jour : « Aimez-vous ! aimez-vous, car c'est la chaleur sainte, / C'est
+   le feu du vrai jour. / Le sombre univers, froid, glacé, pesant, réclame
+   / La sublimation de l'être par la flemme, / De l'homme par l'amour ! ».
+   S'aimer (répété, comme l'invitation à l'espoir au début de la séquence)
+   et l'amour sont ici dotés des sèmes de la chaleur, de la lumière et de
+   la sainteté. L'apparition de l'amour dans une séquence d'espoir est
+   significative. Deux passages de deux autres poèmes éclairent la
+   corrélation :
+
+     Aime, et ne désespère pas.
+     [...]
+     La haine, c'est l'hiver du coeur. (« Il fait froid », p. 102)
+
+     * 25 Il est à noter que le thème de l'amour est à maintes reprises
+       évoqué, loué et recommandé dans le re (...)
+
+   Aimons toujours ! aimons encore !
+   Quand l'amour s'en va, l'espoir fuit.
+   (« Aimons toujours ! aimons encore », p. 103)25.
+
+   58Deux relations paradigmatiques et deux relations de dépendance sont
+   mises en scène : d'une part l'amour s'oppose à la haine, et l'espoir
+   s'oppose au désespoir ; d'autre part, l'espoir présuppose l'amour, et
+   le désespoir présuppose la haine. Cette double solidarité nous mène
+   vers une hypothèse sur l'amour et la haine chez Hugo, et probablement,
+   de façon plus générale chez les romantiques : la haine, comme le
+   désespoir, concerne une position embrayée, de l'ordre du particulier et
+   du local, alors que l'amour, comme l'espoir, a affaire à une position
+   débrayée, du côté des valeurs générales.
+
+Pour conclure
+
+     * 26 Voir Biglari (2011, pp. 65-66).
+     * 27 Pour savoir ce qui est général (si l'on préfère universel) et ce
+       qui est spécifique (à un texte, à (...)
+
+   59Pour conclure, nous voudrions évoquer deux points. Premièrement, nous
+   essayons de récapituler les principales caractéristiques
+   différenciatrices de l'espoir et du désespoir dans un tableau, qui
+   reprend un autre que nous avons présenté ailleurs26. Certaines d'entre
+   elles sont plus susceptibles que d'autres de se trouver valables pour
+   l'espoir et le désespoir en général, mais il y en a, notamment à partir
+   des « modalités », qui n'en font certainement pas partie, et qui
+   dépendent donc des Contemplations, sans être nécessairement exclusives
+   de ce discours27 :
+     * 28 Nous empruntons cette terminologie en termes de « registre » à
+       Claude Zilberberg : registres « icon (...)
+
+   Espoir
+
+   Désespoir
+
+   Univers thymique
+
+   Euphorie
+
+   Dysphorie
+
+   Mode de jonction
+
+   Non-disjonction
+
+   Disjonction
+
+   Modes d'existence
+
+   Sujet : actualisé
+
+   Destinateur : actualisé
+
+   Objet de valeur : potentialisé
+
+   Sujet : virtualisé
+
+   Destinateur : réalisé
+
+   Objet de valeur : virtualisé
+
+   Aspect dominant
+
+   Inchoatif, imperfectif
+
+   Duratif, terminatif, perfectif
+
+   Fiducie
+
+   Confiance
+
+   Perte de confiance
+
+   Type de sujet
+
+   Sujet actif : sujet de quête
+
+   Sujet passif : sujet zéro, sujet de la séparation
+
+   Mode de présence
+
+   Attente de plénitude
+
+   Défaut
+
+   Champ de présence
+
+   Ouverture
+
+   Fermeture
+
+   Actant positionnel
+
+   Source
+
+   Cible
+
+   Visée et saisie
+
+   Visée intense
+
+   Saisie en suspension
+
+   Visée faible (nulle)
+
+   Saisie restreinte (nulle)
+
+   Relation avec le futur
+
+   Ouverture
+
+   Fermeture
+
+   Relation avec le passé
+
+   Fermeture
+
+   Ouverture
+
+   Tempo
+
+   Accélération
+
+   Ralentissement
+
+   Tonicité
+
+   Éclat
+
+   Médiocrité
+
+   Modalités
+
+   Savoir faire, pouvoir faire apparent, vouloir faire
+
+   ne pas savoir faire, ne pas pouvoir faire, ne pas vouloir faire
+
+   Registre syntaxique
+
+   Concession
+
+   Implication
+
+   Registre aspectuel
+
+   Sublimation
+
+   Normativité
+
+   Registre iconique28
+
+   Événement
+
+   État
+
+   Mode d'efficience
+
+   Survenir
+
+   Parvenir
+
+   Manifestation figurative
+
+   Lumière
+
+   Ombre
+
+   Régime énonciatif
+
+   Généralité, Globalité
+
+   Individualité, localité
+
+   Régime temporel
+
+   Temps de l'existence
+
+   Temps de l'expérience
+
+   Régime de communication
+
+   Ouverture
+
+   Fermeture
+     * 29 Selon Pierre Albouy : « L'oeuvre serait incomplète si elle ne
+       rejoignait, à travers la mort et la me (...)
+     * 30 On peut aussi évoquer un autre phénomène discursif qui
+       imposerait une restriction à l'espoir manife (...)
+
+   60Deuxièmement, il est important de signaler que Hugo n'arrête pas le
+   jeu concessif complexe qu'il met en oeuvre. Comme nous l'avons dit, si
+   la séquence d'espoir que nous avons citée, apparaît à la fin du poème
+   final du dernier livre des Contemplations, le recueil ne finit pourtant
+   pas avec elle, car un autre poème, « hors structure » (Le Feuvre 2002
+   [2001], p. 115), « nettement détaché », « signalé comme "à part" »
+   (Fournet 2001, p. 56), est placé après le dernier livre, comme un
+   « post-scriptum » (Jean Massin, cité par Charles-Wurtz 2001,
+   pp. 201-202) ; ce qui nous invite à une nouvelle réflexion sur la
+   structure du recueil entier29. La question qui nous intéresse ici, est
+   que ce long poème dédié à sa fille, « À celle qui est restée en
+   France », est un discours désespéré, où le locuteur-poète se plaint
+   d'avoir perdu sa fille et d'être en exil, loin de sa tombe. Ce poème
+   constitue donc « une seconde synthèse » (Fournet 2001, p. 56), qui
+   infléchit considérablement la première "synthèse" déclarée à la fin de
+   « Ce que dit la bouche d'ombre » : le syntagme "désespoir pourtant
+   espoir" est "coloré"/"entaché" du syntagme "espoir pourtant désespoir".
+   Il nous semble que l'un des effets de sens primordiaux de cette
+   réapparition du désespoir, même si elle s'effectue en dehors de la
+   structure normative du recueil, est que malgré l'espoir auquel est
+   parvenu le locuteur, le deuil reste toujours non-accompli30.
+
+   61Cela montre que le désespoir est de telle force que si l'espoir peut
+   l'affaiblir ou le faire provisoirement négliger, il ne peut pourtant
+   pas l'éliminer. Rappelons l'affirmation de Hugo dans
+   Quatre-vingt-treize : « l'espérance [...] serait la plus grande des
+   forces humaines si le désespoir n'existait pas » (Hugo 1985 [1874],
+   p. 1011). Outre l'insistance sur la force de ces deux passions parmi
+   toutes les autres, il souligne en effet l'intensité du désespoir par
+   rapport à l'espoir ; d'où sa réapparition, sous un mode spécifique,
+   après l'espoir apparemment final.
+
+   62Par ailleurs, la place où se situe « À celle qui est restée en
+   France », produit un effet de sens semblable à celui de l'apparition du
+   terme « Commencement » en clôture de « Ce que dit la bouche d'ombre »,
+   que nous avons déjà expliqué. Comme l'indique Jean Gaudon, ce poème qui
+   est à la fois « épilogue » et « dédicace », suggère que la « fin est un
+   commencement » : « un commencement de sens, un portique ouvert sur une
+   nouvelle lecture, une lecture perpétuelle peut-être » (Gaudon 1974,
+   p. 86). Cela rejoint la remarque de Michael Riffaterre sur la
+   « structure » générale de ce recueil qui « pourrait se résumer en une
+   équation fin = commencement » (Riffaterre 1967, p. 193).
+
+   63La dialectique entre l'espoir et le désespoir, entre la foi et le
+   doute, entre le début et la fin, parmi d'autres, caractérise Les
+   Contemplations. Pour terminer, nous dirions volontiers que Hugo a l'art
+   de mettre en route une sémiosis infinie, et surtout une sémiosis
+   concessive à l'infini : [(A pourtant B) pourtant C] pourtant D...
+   Top of page
+
+Bibliography
+
+   Albouy, Pierre (1976), Mythographies, Paris, Corti.
+
+   Berlet, Jean-Luc (2005), Au-delà du désespoir, Paris, L'Harmattan.
+
+   Bertin, Éric (2007), « Penser la stratégie dans le champ de la
+   communication. Une approche sémiotique », Nouveaux Actes Sémiotiques,
+   n^o 110, disponible sur : http://revue.unilim.fr/nas/document.phd?id=70
+   (consulté le 26/07/2010).
+
+   Bertrand, Denis (2000), Précis de sémiotique littéraire, Paris, Nathan.
+
+   Bertrand, Denis & Fontanille, Jacques (dirs, 2006), Régimes sémiotiques
+   de la temporalité, Paris, PUF.
+
+   Biglari, Amir (2011), Sémiotique et pragmatique des passions dans Les
+   Contemplations de Victor Hugo, thèse de doctorat, Limoges, Université
+   de Limoges.
+
+   Bordron, Jean-François (2014), « La négation et le jeu des raisons
+   contraires », Actes Sémiotiques, n^o 117, disponible sur :
+   http://epublications.unilim.fr/revues/as/5073 (consulté le 26/02/2014).
+
+   Brandt, Per Aage (1986), « Aspectualisation », in Greimas Algirdas
+   Julien & Courtés Joseph, Sémiotique : dictionnaire raisonné de la
+   théorie du langage, t. 2, Paris, Hachette, pp. 20-22.
+
+   Charles-Wurtz, Ludmila (1998), Poétique du sujet lyrique dans l'oeuvre
+   de Victor Hugo, Paris, Honoré Champion.
+
+   Charles-Wurtz, Ludmila (2001), Les Contemplations de Victor Hugo,
+   Paris, Gallimard.
+
+   Coquet, Jean-Claude (1989, première éd. 1984), Le Discours et son
+   sujet, Paris, Méridiens Klincksieck.
+
+   Debailly, Pascal, Carlier, Christophe & Lemeunier, Aude (1998), Profil
+   d'une oeuvre : Les Châtiments de Victor Hugo, Paris, Hatier.
+
+   Fontanille, Jacques (1986), « Thymique », « Véridiction », in Greimas
+   Algirdas Julien & Courtés Joseph, Sémiotique : dictionnaire raisonné de
+   la théorie du langage, t. 2, Paris, Hachette, pp. 238-239, p. 253.
+
+   Fontanille, Jacques (1990), « Les passions de l'asthme », Nouveaux
+   Actes Sémiotiques, n^o 6, Limoges, PULIM.
+
+   Fontanille, Jacques (1991), « Dérobade d'amour. Sémiotique des
+   passions : exercice pratique », in Constans Ellen (dir.), Le Roman
+   sentimental, t. II, Limoges, Presses Universitaires de Limoges et du
+   Limousin, pp. 97-115.
+
+   Fontanille, Jacques (1995), « Introduction », in Fontanille Jacques
+   (dir.), Le Devenir, Limoges, PULIM, pp. 5-15.
+
+   Fontanille, Jacques (1999), Sémiotique et littérature, Paris, PUF.
+
+   Fontanille, Jacques (2002), « Sémiotique des passions », in Hénault
+   Anne (dir.), Questions de sémiotique, Paris, PUF, pp. 601-637.
+
+   Fontanille, Jacques (2003), Sémiotique du discours, Limoges, PULIM.
+
+   Fournet, Didier (2001), Victor Hugo : Les Contemplations, Rosny, Bréal.
+
+   Gaudon, Jean (1974), « La mort du livre », L'Arc, n^o 57, Aix en
+   Provence, pp. 86-91.
+
+   Greimas, Algirdas Julien (1983), Du sens II, Paris, Seuil.
+
+   Greimas, Algirdas Julien & Fontanille, Jacques (1991), Sémiotique des
+   passions : des états de choses aux états d'âme, Paris, Seuil.
+
+   Greimas, Algirdas Julien & Fontanille, Jacques (1993), « Le beau
+   geste », Recherches sémiotiques, Semiotic Inquiry, vol. 13, n^o 1-2,
+   Toronto, Association Canadienne de Sémiotique, pp. 21-35.
+
+   Hugo, Victor (1950, première éd. 1891), Dieu, édition établie et
+   annotée par Jacques Truchet, Paris, Gallimard, pp. 943-1143.
+
+   Hugo, Victor (1963, première éd. 1827), « Préface » de Cromwell , dans
+   Théâtre complet, t. 1, Paris, Gallimard, pp. 409-454.
+
+   Hugo, Victor (1964, première éd. 1835), Les Chants du crépuscule, dans
+   OEuvres poétiques, t. 1, Avant l'exil 1802-1851, édition établie et
+   annotée par Pierre Albouy, Paris, Gallimard, pp. 809-913.
+
+   Hugo, Victor (1964, première éd. 1840), Les Rayons et les Ombres, dans
+   OEuvres poétiques, t. 1, Avant l'exil 1802-1851, édition établie et
+   annotée par Pierre Albouy, Paris, Gallimard, pp. 1015-1125.
+
+   Hugo, Victor (1967, première éd. 1853), Les Châtiments, dans OEuvres
+   poétiques, t. 2, édition établie et annotée par Pierre Albouy, Paris,
+   Gallimard, pp. 1-247.
+
+   Hugo, Victor (1984, première éd. 1886), La Fin de Satan, texte établi
+   par Evelyn Blewer et Jean Gaudon, Paris, Gallimard.
+
+   Hugo, Victor (1985, première éd. 1874), Quatre-vingt-treize, dans
+   OEuvres complètes. Roman, t. III, présentation de Yves Gohin, Paris,
+   Robert Laffont, pp. 785-1065.
+
+   Hugo, Victor (1985, première éd. 1878), Le Pape, dans OEuvres
+   complètes, Poésie, t. III, notice et notes de Jean-Claude Fizaine,
+   Paris, Robert Laffont, pp. 867-909.
+
+   Hugo, Victor (1998, première éd. 1862), Les Misérables, t. 2, préface
+   et annotation de Guy Rosa, commentaires par Nicole Savy, Paris,
+   Librairie Générale Française.
+
+   Hugo, Victor (2002, première éd. 1985), Proses philosophiques de
+   1860-1865 [15 textes posthumes publiés entre 1901 et 1937, rassemblés
+   par Yves Gohin], dans OEuvres complètes. Critique, sous la direction de
+   Jacques Seebacher et Guy Rosa, Paris, Robert Laffont, pp. 465-712.
+
+   Hugo, Victor (2008, première éd. 1995), Les Contemplations,
+   présentation par Pierre Laforgue, Paris, Flammarion.
+
+   Journet, René & Robert, Guy (1958), Notes sur « Les Contemplations »,
+   Annales littéraires de l'Université de Besançon, vol. 21, Paris, Les
+   Belles Lettres.
+
+   Le Feuvre, Anne (2002, première éd. 2001), Les Contemplations : Victor
+   Hugo, Paris, Nathan.
+
+   Le Goaziou, Thierry (2002, première éd. 1990), « Espérance », in Auroux
+   Sylvain (dir.), Encyclopédie philosophique universelle, vol. II, t. 1,
+   Les Notions philosophiques : dictionnaire, Paris, PUF, pp. 847-848.
+
+   Lejeune, Philippe (1968), « L'Ombre et la lumière dans Les
+   Contemplations », Archives des lettres modernes, n^o 96, Dives-sur-Mer,
+   Minard.
+
+   Littré, Émile (1873), Dictionnaire de la langue française, disponible
+   sur : http://littre.reverso.net/dictionnaire-francais/.
+
+   Mathieu-Castellani, Gisèle (2000), La Rhétorique des passions, Paris,
+   PUF.
+
+   Maurel, Jean (2006), Le Vocabulaire de Victor Hugo, Paris, Ellipses.
+
+   Panier, Louis (1991), La Naissance du fils de Dieu : sémiotique et
+   théologie discursive : lecture de Luc 1-2, Paris, Cerf.
+
+   Parret, Herman (2006), Épiphanie de la Présence, Limoges, PULIM.
+
+   Proust, Marcel (1988, première éd. 1919), À l'ombre des jeunes filles
+   en fleurs, deuxième partie, dans À la recherche du temps perdu, t. II,
+   Paris, Gallimard, pp. 1-306.
+
+   Rallo Ditche, Élisabeth, Fontanille, Jacques & Lombardo, Patrizia
+   (2005), Dictionnaire des passions littéraires, Paris, Belin.
+
+   Riffaterre, Michael (1967), « La poétisation du mot chez Victor Hugo »,
+   Cahiers de l'Association internationale des études françaises, n^o 19,
+   Paris, Les Belles Lettres, pp. 177-194.
+
+   Riffaterre, Michael (1983, éd. originale 1978), Sémiotique de la
+   poésie, traduit de l'anglais par Jean-Jacques Thomas, Paris, Seuil.
+
+   Seebacher, Jacques (1993), Victor Hugo ou le calcul des profondeurs,
+   Paris, PUF.
+
+   Sève, René (2002, première éd. 1990), « Espoir », in Auroux Sylvain
+   (dir.), Encyclopédie philosophique universelle, vol. II, t. 1, Les
+   Notions philosophiques : dictionnaire, Paris, PUF, p. 848.
+
+   Staël, Germaine de (1968, première éd. 1813), De l'Allemagne, t. II,
+   Paris, Garnier-Flammarion.
+
+   Toëlle, Heidi (1995), « La fin du monde dans le Coran », in Fontanille
+   Jacques (dir.), Le Devenir, Limoges, PULIM, pp. 171-181.
+
+   Vadé, Yves (1996), « Hugocentrisme et diffraction du sujet », in Rabaté
+   Dominique, de Sermet Joëlle & Vadé Yves (textes réunis et présentés
+   par), Le Sujet lyrique en question, Bordeaux, Presses Universitaires de
+   Bordeaux, pp. 85-99.
+
+   Vadé, Yves (2005, première éd. 1996), « L'émergence du sujet lyrique à
+   l'époque romantique », in Rabaté Dominique (dir.), Figures du sujet
+   lyrique, Paris, PUF, pp. 11-37.
+
+   Zilberberg, Claude (1986), « Aspectualisation », « Spatialisation »,
+   « Temporalisation », « Tensivité », in Greimas Algirdas Julien &
+   Courtés Joseph, Sémiotique : dictionnaire raisonné de la théorie du
+   langage, t. 2, Paris, Hachette, pp. 23-24, pp. 208-210, pp. 233-235,
+   pp. 236-237.
+
+   Zilberberg, Claude (2005), « Les contraintes temporelles du faire
+   éthique », texte inédit communiqué par l'auteur.
+
+   Zilberberg, Claude (2010), Cheminements du poème : Baudelaire, Rimbaud,
+   Valéry, Jouve, Limoges, Lambert-Lucas.
+
+   Zilberberg, Claude (2011), Des formes de vie aux valeurs, Paris, PUF.
+
+   Zilberberg, Claude (2012), La Structure tensive, suivi de Note sur la
+   structure des paradigmes et de Sur la dualité de la poétique, Liège,
+   Presses Universitaires de Liège.
+   Top of page
+
+Notes
+
+   1 La textualisation désigne la « [d]isposition des données discursives
+   selon les contraintes dues à la linéarité de la manifestation verbale.
+   Ainsi, deux actions parallèles ne peuvent être narrées simultanément »
+   (Bertrand 2000, p. 266).
+
+   2 Nous nous référons à l'édition de Pierre Laforgue, publiée en 2008.
+
+   3 Jacques Fontanille explique : « Sur le principe de base selon lequel
+   les schémas assurent la solidarité entre le sensible (l'intensité,
+   l'affect, etc.) et l'intelligible (le déploiement dans l'étendue, le
+   mesurable, la compréhension), on pourra définir l'ensemble des schémas
+   discursifs élémentaires comme des variations d'équilibre entre ces deux
+   dimensions, variations conduisant soit à une augmentation de la tension
+   affective, soit à une détente cognitive. » Il en résulte « quatre
+   grands types de mouvements », « quatre schémas élémentaires » : schéma
+   de décadence (schéma descendant), schéma d'ascendance (schéma
+   ascendant), schéma d'amplification, schéma d'atténuation (2003,
+   pp. 110-116).
+
+   4 Sur les régimes énonciatifs et temporels du désespoir, voir Biglari
+   (2011, p. 128 et pp. 177-181).
+
+   5 S'il est vrai que l'espoir est une passion caractérisée par la
+   confiance dans le destinateur, cette confiance n'est pas absolue : le
+   sujet d'espoir attend la conjonction à un objet de valeur ou la
+   disjonction d'un anti-objet de valeur, sans en être certain. En
+   revanche, un sujet d'inquiétude, d'appréhension, d'angoisse, de
+   crainte, a une confiance faible dans le destinateur, c'est-à-dire qu'il
+   attend la conjonction à un anti-objet de valeur ou la disjonction d'un
+   objet de valeur, sans en être certain non plus. C'est dire que
+   l'opposition entre l'espoir et les passions de défiance n'est pas
+   catégorielle : il y a une part d'inquiétude, d'appréhension, d'angoisse
+   et de crainte chez un sujet d'espoir ; et une part d'espoir chez un
+   sujet d'inquiétude, d'appréhension, d'angoisse et de crainte. Pour plus
+   de précision, voir Biglari (2011, pp. 52-71).
+
+   6 Voir Zilberberg (2012, p. 146, p. 150 et p. 159).
+
+   7 Fontanille définit ainsi ce concept : « La "catalyse" est l'opération
+   par laquelle, à partir de positions explicites dans le discours, et
+   grâce à la projection d'un modèle prédictif, on peut définir des
+   positions immanentes ou indirectement manifestées » (1991, p. 102).
+
+   8 Vs le régime implicatif : X donc Y.
+
+   9 Voir Zilberberg (2012, p. 146).
+
+   10 Quelques poèmes avant, cette inversion était juste une
+   interrogation : « Ô mort, est-ce toi le vivant ? » (« Horor »,
+   p. 328) ; par contre, dans le poème « Ce que c'est que la mort », le
+   locuteur le proclame avec certitude. On voit bien les avatars constants
+   de l'identité du sujet.
+
+   11 Par exemple : « Ceux qui restent à ceux qui passent / Disent : --
+   Infortunés ! déjà vos fronts s'effacent. / [...] / Ceux qui passent à
+   ceux qui restent / Disent : -- Vous n'avez rien à vous ! vos pleurs
+   l'attestent ! / Pour vous, gloire et bonheur sont des mots décevants. /
+   Dieu donne aux morts les biens réels, les vrais royaumes. / Vivants !
+   vous êtes des fantômes ; / C'est nous qui sommes les vivants ! -- »
+   (« Quia pulvi es », p. 131) ; « Je songe aux morts, ces délivrés ! »
+   (« La clarté du dehors ne distrait pas mon âme », p. 155) ; « Noirs
+   vivants ! Heureux ceux qui tout à coup s'éveillent / Et meurent en
+   sursaut ! » (« À qui donc sommes-nous ? », p. 204) ; « Fuyez, mes doux
+   oiseaux ! évadez-vous tous deux / Loin de notre nuit froide et loin du
+   mal hideux ! / Franchissez l'éther d'un coup d'aile ! / Volez loin de
+   ce monde, âpre hiver sans clarté, / Vers cette radieuse et bleue
+   éternité / Dont l'âme humaine est l'hirondelle ! » (« Charles
+   Vacquerie », p. 219) ; « En vous prenant la terre, il [ = Dieu] vous
+   prit les douleurs / [...] / Pendant que nous pleurons, de sanglots
+   abreuvés, / Vous [ = la fille et le gendre morts du locuteur], heureux,
+   enivrés de vous-même, vivez / Dans l'éblouissement céleste ! »
+   (« Charles Vacquerie », p. 220) ; « D'en haut, elle [ = Claire] sourit
+   à nous qui gémissons » (« Claire P. », p. 251) ; « Est-ce ton corps qui
+   fait ta joie et qui t'est cher ? / La véritable vie où n'est plus la
+   chair. / [...] / Qui meurt grandit. Le corps, époux impur de l'âme, /
+   Plein des vils appétits d'où naît le vice infâme, / Pesant, fétide,
+   abject, malade à tous moments, / Branlant sur sa charpente affreuse
+   d'ossements, / Gonflé d'humeurs, couvert d'une peau qui se ride, /
+   Souffrant le froid, le chaud, la faim, la soif aride, / Traîne un
+   ventre hideux, s'assouvit, mange et dort. / Mais il vieillit enfin, et
+   lorsque vient la mort, / L'âme, vers la lumière éclatante et dorée, /
+   S'envole, de ce monstre horrible délivré. -- » (« Les Malheureux »,
+   p. 269) ; « Te [ = Claire] voilà remontée au firmament sublime, / [...]
+   / Oh ! quand donc viendrez-vous ? Vous [ = êtres chers disparus]
+   retrouver, c'est naître » (« Claire », p. 308 et p. 312) ; « Cette
+   sérénité formidable des morts » (« Cadaver », p. 320).
+
+   12 Le couple ombre / lumière est aussi d'une importance majeure dans
+   d'autres ouvrages poétiques de Hugo. Par exemple, le titre de son
+   recueil Les Rayons et les Ombres l'évoque particulièrement ; de même,
+   le premier et le dernier poèmes des Châtiments le mettent en avant :
+   « Nox » signifie « La nuit », et « Lux » signifie « Lumière » ; ou
+   bien, on lit dans le poème « La Sibylle » de son recueil posthume, La
+   Fin de Satan : « Le sépulcre est le vase où Dieu garde la nuit, /
+   L'astre est le vase où Dieu conserve la lumière ; / Tous deux sont à
+   jamais ce que la loi première / Les créa ; l'un est l'ombre et l'autre
+   est le rayon » (1984 [1886], p. 118), etc.
+
+   13 Un poème des Contemplations est consacré à l'araignée et à l'ortie,
+   une bête et une herbe sur lesquelles le locuteur ne partage pas l'avis
+   des autres : « J'aime l'araignée et j'aime l'ortie, / Parce qu'on les
+   hait » (« J'aime l'araignée et j'aime l'ortie », p. 162).
+
+   14 Nom d'un patriarche de l'histoire sainte.
+
+   15 Claude Zilberberg, « en référence à notre doxa », distingue deux
+   syntagmes implicatifs et deux syntagmes concessifs. Les premiers
+   s'appliquent à « pardonner le pardonnable » et à « ne pas pardonner
+   l'impardonnable » ; les derniers à « pardonner l'impardonnable » et à
+   « ne pas pardonner le pardonnable ». À chacun correspond une
+   dénomination plausible, soit respectivement « indulgence »,
+   « sévérité », « charité » et « rigueur » (2005, p. 27).
+
+   16 Dans la préface de Cromwell, Hugo préconise le principe
+   d'augmentation dans la syntaxe intensive de l'art du drame. Il nous
+   semble que Hugo, bien au-delà du seul drame, dans la plupart de ses
+   divers ouvrages, y compris dans Les Contemplations, met en oeuvre ce
+   principe, ainsi formulé : « D'autres, ce nous semble, l'ont déjà dit :
+   le drame est un miroir où se réfléchit la nature. Mais si ce miroir est
+   un miroir ordinaire, une surface plane et unie, il ne renverra des
+   objets qu'une image terne et sans relief, fidèle, mais décolorée ; on
+   sait ce que la couleur et la lumière perdent à la réflexion simple. Il
+   faut donc que le drame soit un miroir de concentration qui, loin de les
+   affaiblir, ramasse et condense les rayons colorants, qui fasse d'une
+   lueur une lumière, d'une lumière, une flamme » (1963 [1827], p. 436).
+
+   17 Voir aussi l'analyse de Heidi Toëlle (1995, pp. 171-181) sur la fin
+   du monde dans le Coran.
+
+   18 Madame de Staël note : « C'est au sentiment de l'infini que la
+   plupart des écrivains allemands rapportent toutes les idées
+   religieuses. [...] L'enthousiasme que le beau idéal nous fait éprouver,
+   cette émotion pleine de trouble et de pureté tout ensemble, c'est le
+   sentiment de l'infini qui l'excite. Nous nous sentons comme dégagés,
+   par l'admiration, des entraves de la destinée humaine, et il nous
+   semble qu'on nous révèle des secrets merveilleux, pour affranchir l'âme
+   à jamais de la langueur et du déclin. [...] Le sentiment de l'infini
+   est le véritable attribut de l'âme : tout ce qui est beau dans tous les
+   genres excite en nous l'espoir et le désir d'un avenir éternel et d'une
+   existence sublime » (1968 [1813], pp. 238-239).
+
+   19 Il semble que cette antithèse macrostructurale commande et contrôle
+   toutes les innombrables antithèses utilisées dans différents vers du
+   recueil. Aussi celui-ci constitue-t-il un grand système d'oppositions
+   binaires.
+
+   20 Jacques Fontanille souligne : « L'activité perceptive de
+   l'observateur que nous postulons n'est pas sans effet sur la forme du
+   changement qu'il repère, en particulier grâce à ses changements de
+   portée et de perspective. Pour en revenir à la notion de
+   transformation, par exemple, on se rappellera que le parcours est
+   supposé conduire d'un "contenu inversé" à un "contenu posé", parcours
+   considéré comme linéaire et orienté, puisqu'il relie deux états
+   contraires. Mais le simple bon sens suggère que, si le parcours
+   commence par un "contenu inversé", c'est que l'observateur de ce
+   devenir-là a occulté la phase antérieure d'inversion, et focalisé la
+   phase de rétablissement. Si l'ensemble du parcours avait été retenu, on
+   n'aurait plus seulement affaire à un schéma de quête, mais à un schéma
+   de restauration [...] La perspective peut de ce fait mettre en évidence
+   soit la source (c'est sur elle que le verbe "provenir" met l'accent en
+   français), soit la cible (cf. "parvenir"), sans pour autant occulter
+   complètement l'autre pôle. Mais il se peut aussi que la focalisation
+   soit entière, de sorte que l'un des pôles est perdu de vue ; il en est
+   ainsi de la source dans le verbe français "advenir" » (1995, p. 14).
+
+   21 La remarque de René Journet et Guy Robert rejoint la nôtre : « Nulle
+   part autant que dans Les Contemplations cet élargissement de
+   l'inspiration voulu par les poètes romantiques, ne s'est aussi
+   souverainement manifesté. Nulle part le poète ne s'est aussi hardiment
+   affirmé dans son rôle d'interprète du mystère et de guide sacré. C'est
+   pourquoi, dans Les Contemplations, qui sont probablement notre plus
+   puissant et notre plus beau recueil lyrique, vivent également des
+   mythes qui leur confèrent une sorte de caractère épique, tandis que, de
+   leur côté, Les Châtiments, Dieu, La Fin de Satan, La Légende expriment
+   aussi les sentiments les plus intimes du poète. Dans cet ensemble rien
+   ne peut être séparé » (1958, p. 35).
+
+   22 Voir Zilberberg (2012, p. 157).
+
+   23 Hugo (1985 [1878]). Victor Hugo a aussi insisté sur l'importance de
+   l'espoir à d'autres occasions ; par exemple, dans la Préface des Chants
+   du crépuscule, il mentionne explicitement : « Le dernier mot que doit
+   ici l'auteur, c'est que dans cette époque livrée à l'attente et à la
+   transition, dans cette époque où la discussion est si acharnée, si
+   tranchée, si absolument arrivée à l'extrême, qu'il n'y a guère
+   aujourd'hui d'écoutés, de compris et d'applaudis que deux mots, le Oui
+   et le Non, il n'est pourtant, lui, ni de ceux qui nient, ni de ceux qui
+   affirment. Il est de ceux qui espèrent » (1964 [1835], p. 812).
+
+   24 Voir Fontanille (1991, p. 107) et Biglari (2011, pp. 60-65 et
+   pp. 76-84).
+
+   25 Il est à noter que le thème de l'amour est à maintes reprises
+   évoqué, loué et recommandé dans le recueil, dont l'analyse serait
+   intéressante : « Cette loi sainte, il faut s'y conformer, / Et la
+   voici, tout âme y peut atteindre : / Ne rien haïr, mon enfant ; tout
+   aimer, / Ou tout plaindre ! » (« À ma fille », p. 32) ; « Et puis
+   laisse ton coeur ouvert ! / Le coeur, c'est la sainte fenêtre. / Le
+   soleil de brume est ouvert ; / Mais Dieu va rayonner peut-être / Doute
+   du bonheur, fruit mortel ; / Doute de l'homme plein d'envie ; / Doute
+   du prêtre et de l'autel ; / Mais crois à l'amour, ô ma vie ! / Crois à
+   l'amour, toujours entier, / Toujours brillant sous tous les voiles ! /
+   À l'amour, tison du foyer ! / À l'amour, rayon des étoiles ! / Aime, et
+   ne désespère pas. / La haine, c'est l'hiver du coeur. / Plains-les !
+   mais garde ton courage » (« Il fait froid », pp. 101-102) ; « Aimons
+   toujours ! aimons encore ! / Quand l'amour s'en va, l'espoir fuit. /
+   L'amour c'est le cri de l'aurore, / L'amour, c'est l'hymne de la nuit.
+   / [...] / C'est le mot ineffable : Aimons ! / L'amour fait songer,
+   vivre et croire / [...] / L'amour seul reste » (« Aimons toujours !
+   aimons encore », p. 103 et p. 105) ; « Laissez entrer en vous, après
+   non deuils funèbres, / L'aube, fille des nuits, l'amour, fils des
+   douleurs, / Tout ce qui luit dans les ténèbres, / Tout ce qui sourit
+   dans les pleurs ! » (« Que le sort, quel qu'il soit, vous trouve
+   toujours grande », p. 108) ; « le divin miel amour » (« La nichée sous
+   le portail », p. 112) ; « Que de soleils ! vois-tu, quand nous aimons,
+   / Tout est en nous radieux spectacle. / [...] / Aimons ! c'est tout. Et
+   Dieu le veut ainsi. / [...] / Aimer, c'est voir, sentir, rêver,
+   comprendre » (« Un soir que je regardais le ciel », pp. 113-114) ;
+   « Rends-toi compte de Dieu. Comprendre, c'est aimer » (« Je lisais. Que
+   lisais-je ? Oh ! le vieux livre austère », p. 134) ; « La contemplation
+   m'emplit le coeur d'amour » (« Aux arbres », p. 159) ; « L'homme a
+   l'amour pour l'aile, et pour joug le besoin » (« Ce qui dit la bouche
+   d'ombre », p. 373). Le thème de l'amour est aussi présent de la même
+   manière dans plusieurs autres ouvrages de Hugo. Par exemple, on lit
+   dans l'ouvrage qui rassemble certains textes posthumes de Hugo, Proses
+   philosophiques de 1860-1865 : « Tout coeur a sa perle, qui, pour le
+   coeur égout et pour le coeur océan, est la même : l'amour » (2002
+   [1985], p. 542) ; ou bien, il note dans Les Misérables : « L'avenir
+   appartient encore bien plus aux coeurs qu'aux esprits. Aimer, voilà la
+   seule chose qui puisse occuper et remplir l'éternité. À l'infini, il
+   faut l'inépuisable. L'amour participe de l'âme même. Il est de même
+   nature qu'elle » (1998 [1862], p. 1262), etc.
+
+   26 Voir Biglari (2011, pp. 65-66).
+
+   27 Pour savoir ce qui est général (si l'on préfère universel) et ce qui
+   est spécifique (à un texte, à un genre, à une époque, à une culture,
+   etc.), il faut évidemment étudier un corpus vaste et varié...
+
+   28 Nous empruntons cette terminologie en termes de « registre » à
+   Claude Zilberberg : registres « iconique », « aspectuel »,
+   « syntaxique » (2005, p. 25).
+
+   29 Selon Pierre Albouy : « L'oeuvre serait incomplète si elle ne
+   rejoignait, à travers la mort et la mer, cette tombe » (1976, p. 80).
+   D'ailleurs, Ludmila Charles-Wurtz note : « Une structure sous-jacente,
+   en décalage par rapport à celle que manifeste la numérotation des
+   poèmes, se dégage alors. Le lecteur, d'abord enclin à associer le
+   premier poème du recueil au dernier, "À celle qui est restée en
+   France", en raison de leur commune absence de numérotation, voit une
+   seconde architecture, moins apparente, se superposer à la première : si
+   "Ce que dit la bouche d'ombre" répond au poème liminaire du recueil, "À
+   celle qui est restée en France" répond symétriquement à la préface. De
+   fait, ces deux textes sont les seuls à être datés de "Guernesey", et
+   les alexandrins à rimes plates dont se compose le poème font écho aux
+   alexandrins qui rythment la prose de la préface » (2001, p. 140). En
+   plus, ce dernier poème du recueil répond d'un autre point de vue à la
+   préface : il « réaffirme que le livre s'est fait tout seul » (Albouy
+   1976, p. 80).
+
+   30 On peut aussi évoquer un autre phénomène discursif qui imposerait
+   une restriction à l'espoir manifesté dans « Ce que dit la bouche
+   d'ombre ». Cela vient du titre du dernier livre, « Au bord de
+   l'infini ». Comme l'indique Didier Fournet, avec la locution "au bord",
+   « c'est toute la thématique du vertige et de la frayeur qui envahit ce
+   qui semblait d'abord être un message d'espoir. Fondamentalement, être
+   au bord de l'infini, c'est aussi éprouver l'angoisse de la chute, la
+   peur inexorable du gouffre, ce sentiment d'horreur sacrée inséparable
+   de la contemplation hugolienne. Tout l'intérêt de ce titre est donc
+   d'ouvrir sur deux interprétations diamétralement opposées : soit le
+   dernier livre marque le terme du voyage, soit il en constitue seulement
+   une étape, soit la contemplation désigne le but de l'activité poétique,
+   soit le mot désigne l'activité elle-même, en ce qu'elle est condamnée à
+   rest[er] inaccomplie : "au bord" » (2001, pp. 48-49).
+   Top of page
+
+List of illustrations
+
+   URL
+   http://journals.openedition.org/signata/docannexe/image/497/img-1.jpg
+   File image/jpeg, 216k
+   URL
+   http://journals.openedition.org/signata/docannexe/image/497/img-2.jpg
+   File image/jpeg, 134k
+   Top of page
+
+References
+
+Bibliographical reference
+
+   Amir Biglari, "L'espoir dans Les Contemplations de Victor Hugo : « Ce
+   que dit la bouche d'ombre »", Signata, 5 | 2014, 217-243.
+
+Electronic reference
+
+   Amir Biglari, "L'espoir dans Les Contemplations de Victor Hugo : « Ce
+   que dit la bouche d'ombre »", Signata [Online], 5 | 2014, Online since
+   30 October 2016, connection on 03 January 2026. URL:
+   http://journals.openedition.org/signata/497; DOI:
+   https://doi.org/10.4000/signata.497
+   Top of page
+
+About the author
+
+Amir Biglari
+
+     * [logo_idref.svg] IDREF : https://idref.fr/122671333
+     * [logo_viaf.svg] VIAF : http://viaf.org/viaf/161507761
+     * [logo_isni.svg] ISNI : https://isni.org/isni/0000000111173650
+     * [logo_bnf.svg] BNF : http://data.bnf.fr/ark:/12148/cb162602542
+
+   Amir Biglari est chercheur associé au Centre de Recherches Sémiotiques
+   de l'Université de Limoges. Il a publié des ouvrages collectifs et des
+   ouvrages d'entretiens comme Regards croisés sur la mémoire (Limoges,
+   Pulim, 2010), Regards croisés sur l'identité et l'altérité (avec Julien
+   Bellarbre et al., Limoges, Pulim, 2011), Les Risques du discours
+   (Limoges, Lambert-Lucas, 2013), Entretiens sémiotiques (Limoges,
+   Lambert-Lucas, 2014), Valeurs. Aux fondements de la sémiotique (Paris,
+   L'Harmattan, à paraître). Il est président de l'Association des jeunes
+   chercheurs en sémiotique et membre du conseil d'administration de
+   l'Association nationale des docteurs (en France).
+   Top of page
+
+Copyright
+
+   CC-BY-4.0
+
+   The text only may be used under licence CC BY 4.0. All other elements
+   (illustrations, imported files) may be subject to specific use terms.
+   Top of page
+   Contents - Previous document - Next document
+
+Browse
+
+Index
+
+     * Authors
+     * Keywords
+
+Full text issues
+
+     * 16 | 2025
+       Semiotics of Space in the Era of Computational Logic and Digital
+       Practices: A Contemporary Perspective
+     * 15 | 2024
+       Nurturing Meaning: Food, Myth and Signification
+     * 14 | 2023
+       For a New Hermeneutics of Symbolic Forms: Semiotics, Art History
+       and Digital Humanities
+     * 13 | 2022
+       Moods, modalities and modalizations
+     * 12 | 2021
+       Semiotics of the archive
+     * 11 | 2020
+       Le sens de la performance : à partir des arts vivants
+     * 10 | 2019
+       Image and Knowledge
+     * 9 | 2018
+       Signatures - (Studies in the) Semiotics of Writing
+     * 8 | 2017
+       The Paradigm Concept in the Sciences of Language
+     * 7 | 2016
+       Translating: Signs, Texts, Pratices
+     * 6 | 2015
+       Music and Meaning
+     * 5 | 2014
+       Littérature et sémiotique
+     * 4 | 2013
+       What can metalanguage do ?
+     * 3 | 2012
+       The Institution of Semiotics: Research, Teaching, Professions
+     * 2 | 2011
+       Semiotics, among others
+     * 1 | 2010
+       Mapping Current Semiotics
+
+All issues
+
+Presentation
+
+     * About the journal
+     * The Committees
+     * Guidelines for submitting articles
+     * Publication Ethics and Malpractice Statement
+
+Information
+
+     * Contacts and orders
+     * Website credits
+     * In collaboration with
+     * Publishing policies
+
+Call for papers
+
+     * Call for papers - open
+     * Call for papers - closed
+
+Electronic collection
+
+     * Chronicles
+
+Follow us
+
+     * RSS feed RSS feed
+
+Newsletters
+
+     * OpenEdition Newsletter
+
+   Member access
+
+   Login ____________________
+   Password ____________________
+   (BUTTON) Log in (BUTTON) Cancel
+
+In collaboration with
+
+     * Logo Presses universitaires de Liège
+     * Logo Université de Liège
+     * Logo Scopus
+     * Logo Italian national agency for the evaluation of universities and
+       research institutes
+     * DOAJ - Directory of Open Access Journals
+     * OpenEdition Journals
+
+   Electronic ISSN 2565-7097
+
+   Read detailed presentation
+
+   Site map - Contacts and orders - In collaboration with - Website
+   credits - Syndication
+
+   TCU of OpenEdition Journals - Privacy Policy - About Cookies - Report a
+   problem
+
+   OpenEdition Journals member - Published with Lodel - Administration
+   only
+
+   (BUTTON)
+
+   Search OpenEdition Search
+
+   You will be redirected to OpenEdition Search
+   ____________________
+   ( ) In All OpenEdition
+   (*) On Signata
+   (BUTTON) Search
+
+     * English
+          + Français
+
+     * Share
+          + Facebook
+          + Twitter
+
+   ">
+   (BUTTON)
+
+     * Home
+     * Catalogue of 668 journals
+
+   OpenEdition Search
+   (BUTTON) All OpenEdition
+
+   (BUTTON) English
+     * Français
+
+   A digital resources portal for the humanities and social sciences
+   OpenEdition
+   Our platforms
+   OpenEdition Books OpenEdition Journals Hypotheses Calenda
+   Libraries and institutions
+   OpenEdition Freemium
+   Our services
+   OpenEdition Search Newsletter
+   Follow us

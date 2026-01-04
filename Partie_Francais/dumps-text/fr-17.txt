@@ -1,0 +1,543 @@
+   #alternate alternate alternate Heilsarmee Schweiz » C'est quoi
+   l'espoir? Flux des commentaires JSON oEmbed (JSON) oEmbed (XML)
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-ND2HPS
+
+   Pour une fonctionnalité complète de ce site web, il est nécessaire
+   d'activer JavaScript.
+
+     * Contenu principal
+     * Page d'acceuil
+     * Navigation
+
+   Heilsarmee Schweiz (BUTTON) Ouvrir champ de recherche mobile (BUTTON)
+   Ouvrir la navigation
+
+   (BUTTON) Icon close Fermer navigation
+
+Navigation principale
+
+     * THÈMES & OFFRES
+     * TROUVER DE L'AIDE
+     * PARTICIPER & DONNER
+     * À PROPOS DE NOUS
+
+   (BUTTON) Ouvrir recherche
+
+Navigation par bouton
+
+     * Faire un don
+
+Méta navigation
+
+     * Portail médiatique
+     * Blog
+     * Emploi
+     * Boutique
+
+Sélecteur de langue
+
+     * de
+     * fr
+
+     * THÈMES & OFFRES (BUTTON) Ouvrir menu 1
+          +
+               o Manque aigu de logements (BUTTON) Ouvrir sous-menu 1-1
+                    # Definition
+                    # Chiffres
+                    # Raisons
+                    # Consequences
+                    # Nos offres d'aide
+                    # Questions & réponses
+               o Sans-abrisme (BUTTON) Ouvrir sous-menu 1-2
+                    # Causes
+                    # Définition
+                    # Nombre de sans-abri
+                    # Offres d'aide
+                    # Trouver une offre
+                    # Groupes à risque
+                    # Situation juridique
+                    # Comment vous pouvez aider
+               o Housing first (BUTTON) Ouvrir sous-menu 1-3
+                    # Le concept
+                    # Notre projet
+                    # Exemples de Housing first
+                    # Articles de fond
+               o Logement assisté (BUTTON) Ouvrir sous-menu 1-4
+                    # Groupes cibles
+                    # Formes de logement
+                    # Notre offre d'aide
+                    # Trouver une offre
+                    # Témoignages
+                    # Faire un don
+               o Aide et consultation sociales (BUTTON) Ouvrir sous-menu
+                 1-5
+                    # Faits & chiffres
+                    # Notre offre
+                    # Trouver une offre d'aide
+                    # Aider
+               o Vieillissement et addictions (BUTTON) Ouvrir sous-menu
+                 1-6
+                    # Introduction
+                    # Public cible
+                    # Types d'addictions
+                    # Causes
+                    # Risques
+                    # Prévention
+                    # Services et traitement
+                    # Notre offre
+               o Solitude, participation et inclusion (BUTTON) Ouvrir
+                 sous-menu 1-7
+                    # Définition
+                    # Conséquences de la solitude
+                    # Offres d'aide
+                    # Groupes à risque
+                    # Qu'est-ce qui aide à lutter contre la solitude ?
+                    # Comment vous pouvez aider
+               o Foi chrétienne (BUTTON) Ouvrir sous-menu 1-8
+                    # Bonnes raisons
+                    # Encouragement
+                    # Aperçus de la foi
+                    # Récits de foi
+                    # Nos paroisses
+               o Développement international (BUTTON) Ouvrir sous-menu 1-9
+                    # À propos de nous
+                    # Votre soutien
+                    # Pays de projets
+                    # Histoires de réussite
+                    # DDC et ZEWO
+               o Activités de jeunesse (BUTTON) Ouvrir sous-menu 1-10
+                    # A propos de nous
+                    # Evènements
+                    # Out of Town
+                    # Jobs & more
+                    # Contact
+               o brocki.ch - Secondhand
+               o Hôtels et hébergements
+               o Documents de prévoyance (BUTTON) Ouvrir sous-menu 1-13
+                    # Modèles à remplir
+                    # Conseil
+                    # Evénements d'information
+                    # Commander documents
+               o Tous les thèmes
+          + « Finding Home » - La plate-forme pour toutes celles et ceux
+            cherchant un chez-soi.
+            Vous trouverez ici des conseils et des informations sur le
+            thème du logement.
+       (BUTTON) Fermer menu 1
+     * TROUVER DE L'AIDE (BUTTON) Ouvrir menu 2
+          +
+               o Guide: Trouver un logement (BUTTON) Ouvrir sous-menu 2-1
+                    # 1. Dossier de candidature
+                    # 2. Recherche de logement
+                    # 3. Contrat de bail
+                    # 4. Conserver son logement
+                    # Questions
+                    # Glossaire
+               o Hébergements d'urgence (BUTTON) Ouvrir sous-menu 2-2
+                    # Notre offre
+                    # Services complémentaires
+                    # Trouver un hébergement d'urgence
+                    # Aperçu de nos hébergements d'urgence
+               o Autres hébergements (BUTTON) Ouvrir sous-menu 2-3
+                    # Notre offre
+                    # Trouver une offre d'aide
+                    # Témoignages
+               o Assistance ambulatoire (BUTTON) Ouvrir sous-menu 2-4
+                    # Hébergement accompagné
+                    # Étendue des prestations
+                    # Trouver une offre
+                    # « Soins à domicile »
+               o Structure quotidienne et intégration professionnelle
+                 (BUTTON) Ouvrir sous-menu 2-5
+                    # Structure d'accueil de jour
+                    # Emplois adaptés
+                    # Trouver une offre
+                    # Articles sur le sujet
+               o Aide et consultation sociales (BUTTON) Ouvrir sous-menu
+                 2-6
+                    # Faits & chiffres
+                    # Notre offre
+                    # Trouver une offre d'aide
+                    # Aider
+               o Soutien aux familles (BUTTON) Ouvrir sous-menu 2-7
+                    # À propos de notre aide aux familles
+                    # Notre offre
+                    # Trouver une offre
+               o Aide par la prière
+               o Tous les offres d'aide
+          + Manque aigu de logements
+            Il manque des logements, surtout dans les villes. Cela touche
+            surtout des personnes vivant en marge de la societé.
+       (BUTTON) Fermer menu 2
+     * PARTICIPER & DONNER (BUTTON) Ouvrir menu 3
+          +
+               o #StandByMe (BUTTON) Ouvrir sous-menu 3-1
+                    # #StandByMe, c'est quoi ?
+                    # Quel est l'effet de ta contribution?
+                    # Pourquoi s'engager contre la misère?
+                    # FAQ
+                    # Témoignages
+               o Devenir parrain(e)
+               o Faire une grande différence
+               o Legs et héritage
+               o Dons de marchandises (BUTTON) Ouvrir sous-menu 3-5
+                    # En tant qu'entreprise
+                    # En tant que particulier
+                    # Termes
+               o Travail bénévole (BUTTON) Ouvrir sous-menu 3-6
+                    # Bénévoles recherchés
+                    # Exemples d'engagement
+                    # Prendre contact
+               o Service civil
+               o Prier pour quelqu'un
+               o Participer et Donner
+          + #StandByMe
+            Avec un versement régulier du montant de ton choix, tu
+            apporteras une aide durable et efficace.
+       (BUTTON) Fermer menu 3
+     * À PROPOS DE NOUS (BUTTON) Ouvrir menu 4
+          +
+               o Vision, mission et déclaration
+               o Contact et localisation
+               o Organisation
+               o Histoire
+               o A propos de nous
+          + Rapport annuel 2024
+            Transparents, ouverts et informatifs : consultez notre rapport
+            annuel 2024
+       (BUTTON) Fermer menu 4
+
+   (BUTTON) Ouvrir recherche
+     * Portail médiatique
+     * Blog
+     * Emploi
+     * Boutique
+
+     * de
+     * fr
+
+     * Faire un don
+
+Recherchez
+
+   Recherchez ____________________ (BUTTON) Recherchez
+   (BUTTON) Icon close Fermer champ de recherche
+
+Espoir : motivation et sens de la vie
+
+   L'espoir nous porte à travers la vie et nous donne la force de ne pas
+   abandonner dans les situations difficiles. En lisant notre article,
+   vous apprendrez pourquoi l'espoir est si important pour nous êtres
+   humains et quelles peuvent être les conséquences du désespoir.
+
+   Profilfoto von Judith Nünlist
+
+   Judith Nünlist 24. octobre 2024  ·  Durée de la lecture : 6 minutes  ·
+   0 Commentaires
+
+   partager l'article
+     * Partager sur Twitter
+     * Partager sur Facebook
+     * Partager sur LinkedIn
+
+   pexels-pixabay-45848
+   pexels-pixabay-45848
+
+   Il n'est pas facile de garder espoir quand l'horizon s'assombrit et
+   devient menaçant. Mais c'est justement pour cela qu'il faut puiser
+   l'espoir activement, de toutes ses forces. Pourtant qu'est-ce que
+   l'espoir exactement et quel impact a-t-il ?
+
+   L'espoir est par définition (*^1) une disposition de l'esprit humain
+   reposant sur l'attente d'une situation meilleure à celle existante,
+   sans avoir vraiment la certitude que cela va se réaliser. Cela peut
+   être un événement déterminé, mais aussi un état fondamental comme par
+   exemple garder la santé ou avoir une sécurité financière. L'espoir est
+   l'orientation émotionnelle globale et, dans certaines circonstances, la
+   motivation à agir de l'être humain pour assurer son avenir.
+
+Pourquoi l'espoir est si important
+
+   Un état d'esprit positif favorise notre santé psychique et physique et
+   renforce la confiance dans ses propres capacités. L'espoir joue ici un
+   rôle central. Il nous donne l'assurance que nos actions seront
+   couronnées de succès et que nos attentes seront satisfaites. L'espoir
+   est ainsi une compétence personnelle importante et l'un des facteurs
+   déterminants de notre bien-être, de notre succès et de notre capacité
+   d'adaptation. Les personnes qui espèrent sont ainsi plus confiantes en
+   elles, plus concentrées et plus attentives que les personnes
+   désespérées et elles souffrent par ailleurs moins d'angoisses et
+   d'états dépressifs. (*^2)
+
+Plus sur l'espoir
+
+   (BUTTON) Jouer la vidéo
+
+   Si tu as besoin de positiver et de retrouver de l'espoir.
+
+Baromètre de l'espoir en Suisse
+
+   Le baromètre de l'espoir (*^3) a été créé en 2009 par Andreas M. Walker
+   (co-président de swissfuture) et fera l'objet d'une grande enquête en
+   ligne au cours de l'année prochaine. Les gens seront interrogés sur
+   leurs attentes par rapport à l'avenir dans différents domaines : sur
+   les scénarios d'avenir sociétaux à long terme, sur leur espoir
+   personnel, sur leurs sources d'espoir ainsi que sur leurs valeurs, leur
+   conception du monde et leur conception d'eux-mêmes.
+
+Conclusions pour l'année 2024
+
+   L'étude montre que la satisfaction et la confiance sont relativement
+   élevées chez les personnes vivant en Suisse, pour ce qui est de leur
+   vie personnelle. Ces tendances contrastent cependant avec
+   l'insatisfaction et le pessimisme concernant les évolutions de la
+   société.
+
+   Que le Dieu de l'espérance, vous comble de toute joie et de sa paix par
+   votre confiance en lui. Ainsi votre coeur débordera d'espérance par la
+   puissance du Saint-Esprit.
+
+   Romains 15:13
+   Les facteurs personnels essentiels d'espoir majoritairement mentionnés
+   sont : la bonne santé, une famille heureuse, un mariage ou un
+   partenariat heureux, l'harmonie dans la vie, l'autodétermination
+   personnelle, de bonnes relations avec ses semblables et une tâche
+   remplie de sens.
+   Ce qui fait qu'il y a un lien positif entre l'espoir, le sens de la
+   vie, le souhait de croissance personnelle, la communauté, la
+   durabilité, l'estime de soi ainsi que le fait de croire à la bonté et
+   au bonheur dans la vie. L'enquête révèle en outre que la croyance à la
+   serviabilité et à l'amabilité des êtres humains à fortement augmenté.
+   Simultanément, la croyance en un monde juste et bon a diminué. Par
+   ailleurs, les perspectives concernant la qualité de vie dans 20 ans se
+   sont assombries d'année en année.
+   La croyance à une menace par le biais d'un scénario de crises à long
+   terme a augmenté et l'espoir d'un scénario de bien-être durable a
+   diminué. L'espoir individuel et la confiance en soi sont malgré tout
+   restés constants sur un niveau moyen à élevé au cours des six dernières
+   années.
+
+   Que le Dieu de l'espérance, vous comble de toute joie et de sa paix par
+   votre confiance en lui. Ainsi votre coeur débordera d'espérance par la
+   puissance du Saint-Esprit.
+
+   Romains 15:13
+
+   pexels-nhatruong0801-11092207
+   pexels-nhatruong0801-11092207
+
+   L'espoir est bien davantage qu'un sentiment transitoire. Il est un état
+   d'esprit, nous donne de la force dans les moments difficiles et
+   influence nos actions. L'espoir est comme un parapluie invisible qui
+   nous protège en jetant une lumière positive sur les événements et sur
+   la vie. C'est ainsi que l'espoir nous aide à voir le côté positif des
+   choses et à viser le positif, aussi pendant les périodes de crises.
+   (*^4)
+
+Le désespoir et ses conséquences
+
+   Si les individus sont exposés sur une longue période au stress, à la
+   déception, à la tristesse, à l'insécurité et/ou à des angoisses, cela
+   peut mener au désespoir. Mais une manière négative de voir et de se
+   comporter peut aussi conduire au désespoir. (*^5)
+
+   Le désespoir est ainsi un état émotionnel qui se traduit par une
+   insatisfaction générale, un sentiment de découragement et un manque de
+   confiance. Si le doute profond et l'absence de perspectives s'emparent
+   d'une personne, des pensées et des sentiments négatifs peuvent
+   affaiblir l'estime de soi, la santé comme la qualité de vie en général
+   et mener à la disparition du réseau social.
+
+Libérer l'espoir
+
+   Espérer signifie avoir un objectif en tête et développer des stratégies
+   pour l'atteindre. Cela vaut tant pour notre propre avenir que pour
+   celui de notre société et de notre monde.
+
+   Entretenir l'espoir ou le déployer à nouveau est ainsi déterminant pour
+   parvenir à une vie comblée et autodéterminée. Pourtant, les personnes
+   dans le besoin sont souvent sujettes au désespoir. Car, comment les
+   personnes qui semblent être dans une situation sans issue, qui ont faim
+   ou qui survivent dans la rue peuvent-elles espérer des temps
+   meilleurs ?
+
+Comment l'Armée du Salut libère-t-elle l'espoir ?
+
+   Afin que l'espoir puisse naître, nous devrions soutenir et encourager
+   et non forcer et juger. Chaque être humain est unique et a ses propres
+   objectifs et parcours. En faisant preuve de patience et de doigté, nous
+   pouvons aider à reprendre espoir. À distinguer à nouveau ses objectifs
+   et à les poursuivre avec une assurance retrouvée. Pour que l'espoir
+   puisse voir le jour, la personne doit d'abord être prise en
+   considération, et cela en tant qu'être humain avec ses rêves, ses
+   passions et ses idées. C'est exactement ce qui distingue le travail de
+   l'Armée du Salut. Nous considérons les personnes que nous accueillons
+   de manière globale et pas seulement comme des personnes dans le besoin.
+   20240905-EJK Photos fu¨r Header-211
+
+   En partant de ce constat, aider une personne en détresse, ce n'est pas
+   seulement lui donner un repas chaud ou lui offrir un abri. Aider, c'est
+   aussi donner de l'espoir à des personnes, les aider à croire en elles
+   et à l'avenir, qu'une situation à priori sans issue peut changer. Avec
+   nos offres, c'est exactement cela que nous tentons de leur transmettre.
+   Nous les aidons à reconnaître leurs capacités et à trouver des
+   solutions à leur situation désespérée.
+
+Autres lectures intéressantes
+
+   L'article vous a-t-il plu ? Découvrez d'autres contributions sur le
+   thème de l'espoir et sur l'impact qu'il peut avoir.
+
+   cta_portraet_celine_2340x1200-Kopie
+
+« La maladie m'a isolée. »
+
+   Depuis l'école secondaire, Celine Fankhauser souffre de dépressions et
+   d'attaques de panique. Pour soulager ses angoisses et pour cacher ses
+   souffrances aux autres, elle s'est toujours plus isolée. Ce n'est
+   qu'avec l'aide de travailPLUS qu'elle a repris courage et qu'elle a
+   trouvé son premier emploi sur le marché du travail.
+   Stacy Vermot im Gespr SQRT §ch mit Luca Orlando
+
+Le retour à un quotidien autodétermine
+
+   Enfant déjà, Stacy Vermot (28 ans) a traversé beaucoup d'épreuves. Au
+   début de la puberté, elle a découvert l'alcool. Peu après, elle buvait
+   régulièrement.
+   Oswald_Hope_829
+
+Redonner espoir grâce à la communauté.
+
+   Il est normal de ne pas toujours aller bien. On peut se sentir abattu,
+   mais en principe, ce sentiment ne dure pas. Cependant, quand on souffre
+   de dépression, tout n'est pas si simple : une profonde tristesse nous
+   envahit, les pensées négatives persistent et déterminent notre
+   quotidien.
+
+Quellen
+
+   *1: Div., «Espoir» Wikipedia Français. 2024
+   *2: Dr. Andreas M. Walker, «Hoffnung - eine psychologische Einführung».
+   Weiterdenken.  2010 (site uniquement en allemand)
+   *3: Dr. Andreas M. Krafft, «Hoffnungsbarometer 2024. Zwischen Angst und
+   Vertrauen». Uni St. Gallen. 2023 (site uniquement en allemand)
+   *4: Dr. Doris Wolf, «Die Kraft von Hoffnung und Zuversicht».
+   Psychotipps.com. 2023 (site uniquement en allemand)
+   *5: André Moritz, «Hoffnungslosigkeit überwinden ». Soulapy.de. Letzter
+   Zugriff: 17.10.2024 (site uniquement en allemand)
+
+   Profilfoto von Judith Nünlist
+
+   Judith Nünlist 24. octobre 2024
+
+   partager l'article
+     * Partager sur Twitter
+     * Partager sur Facebook
+     * Partager sur LinkedIn
+
+   Montrer 0 Commentaires
+
+Laisser un commentaire Annuler la réponse
+       Votre adresse e-mail ne sera pas publiée. Les champs obligatoires
+       sont indiqués avec *
+       Commentaire *
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       Nom * ______________________________
+       E-mail * ______________________________
+       Site web ______________________________
+       [ ] Enregistrer mon nom, mon e-mail et mon site dans le navigateur
+       pour mon prochain commentaire.
+       Laisser un commentaire
+       D
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       This site is protected by reCAPTCHA and the Google Privacy Policy
+       and Terms of Service apply.
+
+   retour au début
+
+Informations complémentaires
+
+Newsletter
+
+   Inscrivez-vous à notre newsletter!
+     * LinkedIn
+       ____________________
+       Ce champ n'est utilisé qu'à des fins de validation et devrait
+       rester inchangé.
+     * E-Mail*
+       ____________________
+
+   S'abonner
+
+   D
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   IFRAME: gform_ajax_frame_7
+
+Social Media
+
+   Suivez-nous et restez ainsi bien informés!
+     * Facebook
+     * YouTube
+     * Instagram
+     * LinkedIn
+
+Navigation du pied de page
+
+     * À propos de nous
+          + Nos lieux
+          + Armée du Salut Autriche
+          + Armée du Salut Hongrie
+     * Brocante
+          + Donner des marchandises
+     * Participer
+          + Aider bénévolement
+          + Service civil
+          + Découvrir la foi
+          + Devenir officier
+          + Prier pour quelqu'un
+     * Mentions légales
+          + Protection des données
+          + Impressum
+          + Points de contact
+
+Faire un don
+
+   IBAN: CH37 0900 0000 3044 4222 5
+   Numéro d'exonération fiscale: CHE-109.029.743
+   IBAN Développement international:
+   CH18 0900 0000 3000 6709 1
+   Faire un don Pas sûr(e)?
+
+Fondation Armée du Salut Suisse
+
+   Laupenstrasse 5
+   3008 Bern
+   Tél.: +41 (0)31 388 05 91
+   E-mail: info@armeedusalut.ch
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-ND2HPS
+
+   (BUTTON)
