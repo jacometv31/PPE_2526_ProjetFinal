@@ -12,6 +12,12 @@ J'y ai intégré les tableaux pour la langue japonaise.
 
 #  Partie Arabe (ABDERRAHMANE Kaouther):
 
+#  Avant-propos : Méthode de travail et organisation
+
+  J'ai fait le choix de ne pas rédiger ce journal de bord au fur et à mesure de l'avancement du projet. En effet, j'ai préféré me concentrer pleinement sur le développement technique dans mon dossier local afin de m'assurer que l'intégralité du code et des analyses soit parfaitement fonctionnelle avant toute publication. Une fois le projet terminé et stabilisé, j'ai effectué un « push » global pour soumettre l'ensemble de mon travail. Ce journal a donc été rédigé a posteriori pour synthétiser avec recul les étapes clés de ma progression.
+
+J'espère que ce travail reflète avec précision l'investissement fourni et la rigueur apportée à chaque étape. Je vous souhaite une excellente lecture.
+
 #  Construction du Corpus Arabe (Mot : أمل - Espoir)
 
 Ma démarche a débuté par une phase de recherche intensive pour sélectionner des URLs arabes pertinentes (50) traitant du concept de l'espoir (أمل). En m'appuyant sur la méthodologie du projet, j'ai conçu un premier script Bash (script_arabe.sh)destiné à automatiser la génération d'un tableau HTML. Ce script devait initialement regrouper les métadonnées essentielles, comme le code HTTP et l'encodage, tout en effectuant les premiers traitements textuels tels que le comptage des occurrences et l'extraction de contextes.
